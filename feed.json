@@ -7,10 +7,171 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/02/15/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 108 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 108 🐶\n\n<img src=\"uploads/2022/2bec548949.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-02-15T20:01:07+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/15/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/15/the-early-riser.html",
+				"title": "The Early Riser Day 37 🎙🌅",
+				"content_html": "<p>It is “Arschkalt”. Loving the silence of the early morning.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It is “Arschkalt”. Loving the silence of the early morning. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/3720d735bb.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-02-15T06:48:25+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/15/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/14/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 107 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 107 🐶\n\n<img src=\"uploads/2022/2a00fb7fda.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-02-14T19:06:18+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/14/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/14/the-early-riser.html",
+				"title": "The Early Riser Day 36 🎙🌅",
+				"content_html": "<p>Power naps are magic.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Power naps are magic. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/899aac6969.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-02-14T06:43:00+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/14/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/13/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 106 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 106 🐶\n\n<img src=\"uploads/2022/0502a9b60b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-02-13T20:12:19+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/13/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/13/finished-reading-four.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473545557\">Four Thousand Weeks</a> by Oliver Burkeman 📚 -&gt; My thoughts: <a href=\"https://blog.martin-haehnel.de/2022/02/13/impermanence-and-improvement.html\">Impermanence And Improvement</a></p>\n",
+				"content_text": "Finished reading: [Four Thousand Weeks](https://micro.blog/books/9781473545557) by Oliver Burkeman 📚 -> My thoughts: [Impermanence And Improvement](https://blog.martin-haehnel.de/2022/02/13/impermanence-and-improvement.html)\n",
+				"date_published": "2022-02-13T12:29:12+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/13/finished-reading-four.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/13/impermanence-and-improvement.html",
+				"title": "Impermanence And Improvement",
+				"content_html": "<p>Four thousand weeks by Oliver Burkeman is a book about admitting and embracing the finitude of the human experience. It is a reminder that your life will end and that you can&rsquo;t do everything you want. It is a self-help book that tries to take a realistic look at the obstacles that productivity tries to overcome and admit: It&rsquo;s impossible.</p>\n<p>If this sounds negative, it only is negative, if you believe that life is somehow infinite. That with enough productivity tricks you will find a way to overcome the fact that there isn&rsquo;t enough time, energy or opportunity to do it all. If you truly embrace this hard limit - that you can&rsquo;t do it all and that you too will die and rather soon as well - it frees you to do the best you can in each moment and you won&rsquo;t perpetually live in a way that tries to make a fantastical future a reality that will never come.</p>\n<p>I thought it expressed succinctly one of my core beliefs: I have to play the hand that I was dealt and resources (and everything is a resource) are not available in endless supply. If you take these two things together, it makes sense to go for a <a href=\"https://en.wikipedia.org/wiki/Satisficing\">satisficist</a> way of life.</p>\n<p>The book also uncovered a very important puzzle piece for me, which is that my here and now is not merely a transitory state in between the lacking status quo and an amazing future. Instead of improving things in the present moment, I would endure certain things simply because I defined my present situation as something that didn&rsquo;t matter in the future.</p>\n<p>It&rsquo;s an interesting fallacy to fall into, because if you are interested in meditation (like I am), you probably have heard of the idea of impermanence, that everything is constantly changing and getting attached to impermanent things will create suffering. But living fully in the limited moments our lives have to offer also means to not simply ignore the potential the present moment holds. As long as we are open to things changing and we are not clinging to a state of affairs as if it would be permanent, then improving stuff, for now, for the joy of it, for as long as it lasts, is a good thing. In other words: There is no need to let it be.</p>\n",
+				"content_text": "Four thousand weeks by Oliver Burkeman is a book about admitting and embracing the finitude of the human experience. It is a reminder that your life will end and that you can't do everything you want. It is a self-help book that tries to take a realistic look at the obstacles that productivity tries to overcome and admit: It's impossible.\n\nIf this sounds negative, it only is negative, if you believe that life is somehow infinite. That with enough productivity tricks you will find a way to overcome the fact that there isn't enough time, energy or opportunity to do it all. If you truly embrace this hard limit - that you can't do it all and that you too will die and rather soon as well - it frees you to do the best you can in each moment and you won't perpetually live in a way that tries to make a fantastical future a reality that will never come.\n\nI thought it expressed succinctly one of my core beliefs: I have to play the hand that I was dealt and resources (and everything is a resource) are not available in endless supply. If you take these two things together, it makes sense to go for a [satisficist](https://en.wikipedia.org/wiki/Satisficing) way of life.\n\nThe book also uncovered a very important puzzle piece for me, which is that my here and now is not merely a transitory state in between the lacking status quo and an amazing future. Instead of improving things in the present moment, I would endure certain things simply because I defined my present situation as something that didn't matter in the future.\n\nIt's an interesting fallacy to fall into, because if you are interested in meditation (like I am), you probably have heard of the idea of impermanence, that everything is constantly changing and getting attached to impermanent things will create suffering. But living fully in the limited moments our lives have to offer also means to not simply ignore the potential the present moment holds. As long as we are open to things changing and we are not clinging to a state of affairs as if it would be permanent, then improving stuff, for now, for the joy of it, for as long as it lasts, is a good thing. In other words: There is no need to let it be.\n",
+				"date_published": "2022-02-13T12:27:00+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/13/impermanence-and-improvement.html",
+				"tags": ["Reviews"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/13/my-current-highlighting.html",
+				"title": "My Current Highlighting And Annotation Setup",
+				"content_html": "<p>Currently my highlighting and annotation setup looks like this:</p>\n<p><img src=\"https://blog.martin-haehnel.de/uploads/2022/906ec19bd9.png\" alt=\"\"></p>\n<ul>\n<li>Ebooks: Kindle - Even though Amazon as a company is not without its problems, their ebook reader just works and highlighting and annotating for ebooks works with Readwise flawlessly and without friction.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></li>\n<li>RSS and misc. articles: <a href=\"Reeder\">Reeder</a> and <a href=\"https://www.instapaper.com/premium\">Instapaper Premium</a> - I recently tried out <a href=\"https://feedbin.com\">Feedbin</a> and <a href=\"https://www.inoreader.com\">Inoreader</a>, but the most versatile &ldquo;read an article on the web and annotate it&rdquo; setup is this: Send articles from your feed reader (and anywhere else) to Instapaper and annotate them there.<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup></li>\n<li>Podcasts: <a href=\"https://www.airr.io\">Airr</a> - I don&rsquo;t think, that I will ever switch my main podcatcher from Overcast to Airr, but if I have the need to capture a part of a podcast, I can open the episode I would like to annotate and create a note that is available in Readwise through this app.</li>\n<li>Paper books: Readwise iOS app - I&rsquo;ll have to wait and see how much of a hassle this will end up being, but in theory I could capture highlights from paper books through the iOS app. I would need to take a photo of a page and after text recognition I can highlight what I would like to keep. I have not read a paper book since I have started using Readwise, though.</li>\n<li>PDFs: Readwise Web App - This is one of those someday/maybe list items. It&rsquo;s possible in theory to import highlights from PDFs via uploading those files and it is something I would like to have done, but not something I want to do. Most of my studying time I annotated PDFs digitally and most of those PDFs are still living in my Zotero-library.</li>\n</ul>\n<p>Why even have a setup like this? Because Readwise is actually awesome. I was skeptical at first, but after reviewing highlights for about two weeks now, I can honestly say: The added engagement with my previously read stuff helps to keep me reading.<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup></p>\n<p>The real kicker is something else, though: Readwise offers an official <a href=\"https://obsidian.md\">Obsidian</a> - the note software - <a href=\"https://github.com/readwiseio/obsidian-readwise\">plugin</a> that syncs my highlights to my own markdown file based knowledge base. So even if I decide to stop using Readwise, the highlights and notes will still be there, in an open and somewhat future-proof format.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>And I own the 6th generation Kindle Paperwhite (from 2014) already. Throwing it away doesn&rsquo;t seem to be smart. As long as it works, this works. … While writing this I looked into e-reader alternatives, but it seems that the Kindle is  the most convenient choice for a consumer with my needs.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>Instapaper Premium is needed for the annotations (since you only get 5 per month on the free tier). Premium includes some other features like text-to-speech and speed reading, but I don&rsquo;t really use these features.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\" role=\"doc-endnote\">\n<p>And writing. Which is one of <a href=\"https://blog.martin-haehnel.de/2022/02/02/goalsandideas.html\">the goals</a> of this year. There is more to say about this, when framed more theoretically, but this is not the post for this.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "Currently my highlighting and annotation setup looks like this:\n\n![](https://blog.martin-haehnel.de/uploads/2022/906ec19bd9.png)\n\n- Ebooks: Kindle - Even though Amazon as a company is not without its problems, their ebook reader just works and highlighting and annotating for ebooks works with Readwise flawlessly and without friction.[^1]\n- RSS and misc. articles: [Reeder](Reeder) and [Instapaper Premium](https://www.instapaper.com/premium) - I recently tried out [Feedbin](https://feedbin.com) and [Inoreader](https://www.inoreader.com), but the most versatile \"read an article on the web and annotate it\" setup is this: Send articles from your feed reader (and anywhere else) to Instapaper and annotate them there.[^2]\n- Podcasts: [Airr](https://www.airr.io) - I don't think, that I will ever switch my main podcatcher from Overcast to Airr, but if I have the need to capture a part of a podcast, I can open the episode I would like to annotate and create a note that is available in Readwise through this app.\n- Paper books: Readwise iOS app - I'll have to wait and see how much of a hassle this will end up being, but in theory I could capture highlights from paper books through the iOS app. I would need to take a photo of a page and after text recognition I can highlight what I would like to keep. I have not read a paper book since I have started using Readwise, though.\n- PDFs: Readwise Web App - This is one of those someday/maybe list items. It's possible in theory to import highlights from PDFs via uploading those files and it is something I would like to have done, but not something I want to do. Most of my studying time I annotated PDFs digitally and most of those PDFs are still living in my Zotero-library.\n\nWhy even have a setup like this? Because Readwise is actually awesome. I was skeptical at first, but after reviewing highlights for about two weeks now, I can honestly say: The added engagement with my previously read stuff helps to keep me reading.[^3]\n\nThe real kicker is something else, though: Readwise offers an official [Obsidian](https://obsidian.md) - the note software - [plugin](https://github.com/readwiseio/obsidian-readwise) that syncs my highlights to my own markdown file based knowledge base. So even if I decide to stop using Readwise, the highlights and notes will still be there, in an open and somewhat future-proof format.\n\n[^1]: And I own the 6th generation Kindle Paperwhite (from 2014) already. Throwing it away doesn't seem to be smart. As long as it works, this works. … While writing this I looked into e-reader alternatives, but it seems that the Kindle is  the most convenient choice for a consumer with my needs.\n[^2]: Instapaper Premium is needed for the annotations (since you only get 5 per month on the free tier). Premium includes some other features like text-to-speech and speed reading, but I don't really use these features.\n[^3]: And writing. Which is one of [the goals](https://blog.martin-haehnel.de/2022/02/02/goalsandideas.html) of this year. There is more to say about this, when framed more theoretically, but this is not the post for this.\n",
+				"date_published": "2022-02-13T11:13:00+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/13/my-current-highlighting.html",
+				"tags": ["Setup22"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/13/the-early-riser.html",
+				"title": "The Early Riser Day 35 🎙🌅",
+				"content_html": "<p>No content really today. Sorry about that.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "No content really today. Sorry about that. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/85f6b017ff.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-02-13T05:58:23+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/13/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/12/puppycast.html",
+				"title": "PuppyCast 14 🐶🎙",
+				"content_html": "<p>Puppy school troubles.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Puppy school troubles.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/c2f2c3e424.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-02-12T22:07:36+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/12/puppycast.html",
+				"tags": ["Podcast","PuppyCast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/12/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 105 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 105 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/1765a39a5d.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-02-12T21:52:36+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/12/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/12/the-early-riser.html",
+				"title": "The Early Riser Day 34 🎙🌅",
+				"content_html": "<p>Waking up late.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Waking up late. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/2b5fe449a0.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-02-12T07:38:40+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/12/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/11/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 104 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 104 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/0994573e3e.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-02-11T19:21:00+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/11/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/11/the-early-riser.html",
+				"title": "The Early Riser Day 33 🎙🌅",
+				"content_html": "<p>Puppy school part 2.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Puppy school part 2. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/af43f93189.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-02-11T06:41:46+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/11/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/10/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 103 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 103 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/ee7278dfc2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-02-10T19:24:58+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/10/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/10/the-early-riser.html",
+				"title": "The Early Riser Day 32 🎙🌅",
+				"content_html": "<p>Describing the surroundings.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Describing the surroundings. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/a12de0ac2e.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-02-10T06:42:37+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/10/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/09/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 102 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 102 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/36f3e93998.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-02-09T19:04:53+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/09/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/02/09/the-early-riser.html",
+				"title": "The Early Riser Day 31 🎙🌅",
+				"content_html": "<p>Coming up with topics.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Coming up with topics. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/f6c8cbd637.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-02-09T06:42:23+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/02/09/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
 				"id": "http://matti.micro.blog/2022/02/08/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 101 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 101 🐶\n\n<img src=\"uploads/2022/09a0906d42.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 101 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/09a0906d42.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-08T19:27:15+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/08/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +189,7 @@
 				"id": "http://matti.micro.blog/2022/02/07/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 100(!) 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 100(!) 🐶\n\n<img src=\"uploads/2022/35708e5999.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 100(!) 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/35708e5999.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-07T20:43:21+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/07/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -46,7 +207,7 @@
 				"id": "http://matti.micro.blog/2022/02/06/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 99 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 99 🐶\n\n<img src=\"uploads/2022/60be4e1ccc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 99 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/60be4e1ccc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-06T19:15:50+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/06/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -136,7 +297,7 @@
 				"id": "http://matti.micro.blog/2022/02/02/goalsandideas.html",
 				"title": "Goals And Ideas For 2022",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<p>In January I did a yearly Review and planning session, a thing I always try to do every year.</p>\n\n<p>This year I have the following goals and ideas which I'd like to try out:</p>\n\n<ul>\n<li>Becoming an early riser - Status Quo: Big success! So much more time<sup><a href=\"#fn1-22434\" id=\"fnr1-22434\" title=\"see footnote\" class=\"footnote\">1</a></sup> to do my projects. Se also my unter two minutes podcast <a href=\"https://blog.martin-haehnel.de/categories/the-early-riser/\">\"The Early Riser\"</a> that I record every single morning right after I have woken up.</li>\n<li>\"I will start\" - Explanation: Be the one who initiates communication, anticipate things to do before anybody has to bring them up - Status: Eh. Could be better, but I am not so bothered by this.</li>\n<li>Evidence-based living - Explanation: <a href=\"https://blog.martin-haehnel.de/2022/01/19/080216.html\">Track things</a> and find metrics to make more informed decisions about different areas in my life.</li>\n<li>\"Commit\" - Explanation: Inspired by <a href=\"https://www.oliverburkeman.com/books\">4000 Weeks</a>, I'll try to commit to only three work-in-progress items at a time and if I'm committed try to bring those things to an end that is satisfactory while also resisting other demands - internally or externally - on me and my time and attention. Status: Okay, actually.</li>\n<li>\"Read and Write more\" - Status: Meh. I am trying, though. I found that playing around with <a href=\"https://readwise.io\">Readwise</a><sup><a href=\"#fn2-22434\" id=\"fnr2-22434\" title=\"see footnote\" class=\"footnote\">2</a></sup> has motivated me to do more in this regard.</li>\n</ul>\n\n<div class=\"footnotes\">\n<hr />\n<ol>\n\n<li id=\"fn1-22434\">\n<p>A day has only 24 Hours, so how is changing the start of the day making a difference? It's all about not snoozing and using time in bed effectively. If you need 10 hours in bed to get 6 hours of sleep that's not very effective. On the other hand: If you sleep 7 hours while laying in bed for 8 that's pretty good. Changing my sleep schedule made me a more effective sleeper. <a href=\"#fnr1-22434\" title=\"return to article\" class=\"reversefootnote\">↩︎</a></p>\n</li>\n\n<li id=\"fn2-22434\">\n<p>I can't decide if it's a great thing or overprices, yet. But I have noticed the little boost of interest of doing more reading (and re-reading) with every resurfaced highlight. So maybe it'll end up being worth it. <a href=\"#fnr2-22434\" title=\"return to article\" class=\"reversefootnote\">↩︎</a></p>\n</li>\n\n</ol>\n</div>\n",
+				"content_text": "<p>In January I did a yearly Review and planning session, a thing I always try to do every year.</p>\n\n<p>This year I have the following goals and ideas which I'd like to try out:</p>\n\n<ul>\n<li>Becoming an early riser - Status Quo: Big success! So much more time<sup><a href=\"#fn1-22434\" id=\"fnr1-22434\" title=\"see footnote\" class=\"footnote\">1</a></sup> to do my projects. Se also my unter two minutes podcast <a href=\"https://blog.martin-haehnel.de/categories/the-early-riser/\">\"The Early Riser\"</a> that I record every single morning right after I have woken up.</li>\n<li>\"I will start\" - Explanation: Be the one who initiates communication, anticipate things to do before anybody has to bring them up - Status: Eh. Could be better, but I am not so bothered by this.</li>\n<li>Evidence-based living - Explanation: <a href=\"https://blog.martin-haehnel.de/2022/01/19/080216.html\">Track things</a> and find metrics to make more informed decisions about different areas in my life.</li>\n<li>\"Commit\" - Explanation: Inspired by <a href=\"https://www.oliverburkeman.com/books\">4000 Weeks</a>, I'll try to commit to only three work-in-progress items at a time and if I'm committed try to bring those things to an end that is satisfactory while also resisting other demands - internally or externally - on me and my time and attention. Status: Okay, actually.</li>\n<li>\"Read and Write more\" - Status: Meh. I am trying, though. I found that playing around with <a href=\"https://readwise.io\">Readwise</a><sup><a href=\"#fn2-22434\" id=\"fnr2-22434\" title=\"see footnote\" class=\"footnote\">2</a></sup> has motivated me to do more in this regard.</li>\n</ul>\n\n<div class=\"footnotes\">\n<hr />\n<ol>\n\n<li id=\"fn1-22434\">\n<p>A day has only 24 Hours, so how is changing the start of the day making a difference? It's all about not snoozing and using time in bed effectively. If you need 10 hours in bed to get 6 hours of sleep that's not very effective. On the other hand: If you sleep 7 hours while laying in bed for 8 that's pretty good. Changing my sleep schedule made me a more effective sleeper. <a href=\"#fnr1-22434\" title=\"return to article\" class=\"reversefootnote\">↩︎</a></p>\n</li>\n\n<li id=\"fn2-22434\">\n<p>I can't decide if it's a great thing or overpriced, yet. [EDIT: <a href=\"https://blog.martin-haehnel.de/2022/02/13/my-current-highlighting.html\">I have decided that I like it. A lot.</a>] But I have noticed the little boost of interest of doing more reading (and re-reading) with every resurfaced highlight. So maybe it'll end up being worth it. <a href=\"#fnr2-22434\" title=\"return to article\" class=\"reversefootnote\">↩︎</a></p>\n</li>\n\n</ol>\n</div>\n",
 				"date_published": "2022-02-02T17:30:00+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/02/goalsandideas.html",
 				"tags": ["Setup22"]
