@@ -7,6 +7,150 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/04/22/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 174 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 174 🐶\n\n<img src=\"uploads/2022/ad4e639273.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-22T20:12:10+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/22/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/22/the-early-riser.html",
+				"title": "The Early Riser Day 103 🌅🎙",
+				"content_html": "<p>4.5 hours of sleep. And we are in Oulu.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "4.5 hours of sleep. And we are in Oulu.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/50857eca46.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-04-22T07:08:00+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/22/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/21/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 173 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 173 🐶\n\n<img src=\"uploads/2022/93977c8291.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-21T20:17:54+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/21/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/21/the-early-riser.html",
+				"title": "The Early Riser Day 102 🌅🎙",
+				"content_html": "<p>I might have not been up at 6:30 but I hit my sleep goal.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I might have not been up at 6:30 but I hit my sleep goal. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/6206652f2e.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-04-21T07:47:32+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/21/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/20/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 172 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 172 🐶\n\n<img src=\"uploads/2022/b2d50cb146.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-20T19:02:52+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/20/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/20/the-early-riser.html",
+				"title": "The Early Riser Day 101 🌅🎙",
+				"content_html": "<p>PuppyCast invasion. The dog has an eye infection.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "PuppyCast invasion. The dog has an eye infection.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/ab2067d213.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-04-20T06:55:54+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/20/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/19/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 171 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 171 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/139b7895a5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-19T19:07:50+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/19/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/19/the-early-riser.html",
+				"title": "The Early Riser Day 100(!) 🌅🎙",
+				"content_html": "<p>First day back on the horse.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "First day back on the horse.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/aab58327f2.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-04-19T06:52:28+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/19/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/18/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 170 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 170 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/267a8c5f19.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-18T20:02:56+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/18/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/18/puppycast.html",
+				"title": "PuppyCast 022 🐶🎙",
+				"content_html": "<p>The dogpark, first Nosework class, potty training and training recall.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The dogpark, first Nosework class, potty training and training recall.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/d700f4fd94.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-04-18T08:54:49+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/18/puppycast.html",
+				"tags": ["Podcast","PuppyCast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/18/the-early-riser.html",
+				"title": "The Early Riser Day 99 🌅🎙",
+				"content_html": "<p>Thoughts about the experiment within the experiment of waking up after I have slept the full 7,5 hours.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Thoughts about the experiment within the experiment of waking up after I have slept the full 7,5 hours.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/3f1f79749f.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-04-18T08:28:02+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/18/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/17/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 169 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 169 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/be0d32025a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-17T20:23:39+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/17/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/17/the-early-riser.html",
+				"title": "The Early Riser Day 98 🌅🎙",
+				"content_html": "<p>I woke up very late today. Not trying to feel bad about it. And I guess I haven’t yet made it to 100 days. Close enough.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I woke up very late today. Not trying to feel bad about it. And I guess I haven’t yet made it to 100 days. Close enough. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/b8fd7e746d.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-04-17T09:44:59+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/17/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/16/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 168 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 168 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/fbf0a6a36e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-16T19:11:38+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/16/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/16/the-early-riser.html",
+				"title": "The Early Riser Day 97 🌅🎙",
+				"content_html": "<p>Another longer episode. Taking it easy this easter weekend. Trying to get enough time in bed.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Another longer episode. Taking it easy this easter weekend. Trying to get enough time in bed.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/3973b2bd35.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-04-16T07:51:36+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/16/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/04/15/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 167 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 167 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/c535901ebd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-15T20:01:43+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/04/15/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2022/04/15/the-early-riser.html",
 				"title": "The Early Riser Day 96 🌅🎙",
 				"content_html": "<p>Rebalancing my efforts because of sleep deprivation. A longer reflective episode.</p>\n<!-- raw HTML omitted -->\n",
