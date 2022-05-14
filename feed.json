@@ -7,8 +7,184 @@
 	"items": [
 		
 			{
-				"id": "http://matti.micro.blog/2022/05/07/the-early-riser.html",
+				"id": "http://matti.micro.blog/2022/05/14/the-early-riser.html",
+				"title": "The Early Riser Day 125 🌅🎙",
+				"content_html": "<p>Looking forward to a long Saturday.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Looking forward to a long Saturday. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/c27a6a4202.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-14T07:29:01+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/14/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/13/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 191 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 191 🐶\n\n<img src=\"uploads/2022/7d1e859433.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-13T19:30:58+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/13/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/13/what-wouldnt-i.html",
+				
+				"content_html": "<p>What wouldn’t I give for a wavelength upload shortcut to automate my microcasting… 🙏 <a href=\"https://micro.blog/manton\">@manton</a></p>\n",
+				"content_text": "What wouldn’t I give for a wavelength upload shortcut to automate my microcasting… 🙏 [@manton](https://micro.blog/manton)\n",
+				"date_published": "2022-05-13T11:55:31+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/13/what-wouldnt-i.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/13/the-early-riser.html",
+				"title": "The Early Riser Day 124 🌅🎙",
+				"content_html": "<p>Not happy with my mornings.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not happy with my mornings.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/156ad0b14f.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-13T08:12:33+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/13/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/12/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 190 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 190 🐶\n\n<img src=\"uploads/2022/77559d0705.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-12T21:14:25+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/12/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/12/the-early-riser.html",
+				"title": "The Early Riser Day 123 🌅🎙",
+				"content_html": "<p>Meditation is on hiatus.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Meditation is on hiatus.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/e5e4a68862.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-12T09:08:37+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/12/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/11/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 189 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 189 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/5a51e8055c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-11T19:08:19+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/11/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/11/the-early-riser.html",
+				"title": "The Early Riser Day 122 🌅🎙 LeadDev 002 👨‍💻🎙",
+				"content_html": "<p>The mash up episode pf the year. Trying to sleep and not being able to. I didn’t press a button. Failure as opportunity.</p>\n<p>Why I need a task management app.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The mash up episode pf the year. Trying to sleep and not being able to. I didn’t press a button. Failure as opportunity.\n\nWhy I need a task management app.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/591a05fe65.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-11T09:18:49+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/11/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/10/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 188 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 188 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/44268b6b3f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-10T19:33:05+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/10/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/10/the-early-riser.html",
+				"title": "The Early Riser Day 121 🌅🎙",
+				"content_html": "<p>The decision problem: Should I stay awake or not? Meditation. How the dog’s changed rhythm changed my schedule.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The decision problem: Should I stay awake or not? Meditation. How the dog’s changed rhythm changed my schedule.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/340f4aef00.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-10T07:04:20+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/10/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/09/leaddev.html",
+				"title": "LeadDev 001 👨‍💻🎙",
+				"content_html": "<p>Notifications 1</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Notifications 1\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/64850b375b.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-09T20:27:48+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/09/leaddev.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/09/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 187 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 187 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/42aa19a51e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-09T19:28:30+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/09/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/09/have-not-meditated.html",
+				
+				"content_html": "<p>Have not meditated today so far as I discussed in the early riser. Having one less thing „to do“ has been good so far. I do feel some guilt though, which is crazy.</p>\n",
+				"content_text": "Have not meditated today so far as I discussed in the early riser. Having one less thing „to do“ has been good so far. I do feel some guilt though, which is crazy. \n",
+				"date_published": "2022-05-09T16:02:07+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/09/have-not-meditated.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/09/the-early-riser.html",
+				"title": "The Early Riser Day 120 🌅🎙",
+				"content_html": "<p>About my (ending?) meditation practice.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "About my (ending?) meditation practice.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/05d529d8b8.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-09T07:18:41+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/09/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/08/project-lead-developer.html",
+				"title": "Project Lead Developer 000",
+				"content_html": "<p>Just about the name, format and general direction.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Just about the name, format and general direction.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/5f34f80a7f.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-08T22:37:46+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/08/project-lead-developer.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/08/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 186 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 186 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/2e9017871d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-08T19:01:01+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/08/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/08/finished-the-focus.html",
+				
+				"content_html": "<p>Finished the focus challenge. When I switched focus mode off in gluon, I realized how much I would love an mb client that remembers my position in the timeline. Had a lot of scrolling to do. cc: <a href=\"https://micro.blog/vincent\">@vincent</a></p>\n",
+				"content_text": "Finished the focus challenge. When I switched focus mode off in gluon, I realized how much I would love an mb client that remembers my position in the timeline. Had a lot of scrolling to do. cc: [@vincent](https://micro.blog/vincent)\n",
+				"date_published": "2022-05-08T07:42:37+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/08/finished-the-focus.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/08/the-early-riser.html",
 				"title": "The Early Riser Day 119 🌅🎙",
+				"content_html": "<p>It’s sunny here. For some reason the dog peed inside the last two nights. Having a long day ahead, which is great.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s sunny here. For some reason the dog peed inside the last two nights. Having a long day ahead, which is great. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/886c97f0af.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-08T07:34:20+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/08/the-early-riser.html",
+				"tags": ["Podcast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/07/puppycast.html",
+				"title": "PuppyCast 025 🐶🎙",
+				"content_html": "<ol>\n<li>Nosework</li>\n<li>Pottytraining</li>\n<li>Watching Dog Training Youtube Videos (Zac George)</li>\n<li>My Partner is back in town</li>\n<li>Positive Reinforcement and still feeling like the bad cop sometimes</li>\n</ol>\n<!-- raw HTML omitted -->\n",
+				"content_text": "1. Nosework\n2. Pottytraining\n3. Watching Dog Training Youtube Videos (Zac George)\n4. My Partner is back in town\n5. Positive Reinforcement and still feeling like the bad cop sometimes \n\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/93a19f0674.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-07T20:12:38+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/07/puppycast.html",
+				"tags": ["Podcast","PuppyCast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/07/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 185 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 185 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/611612922e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-07T19:11:12+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/07/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/07/the-early-riser.html",
+				"title": "The Early Riser Day 118 🌅🎙",
 				"content_html": "<p>Back to normal. But with a different perspective (maybe).</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Back to normal. But with a different perspective (maybe).\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/ea01b446be.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-07T08:31:57+03:00",
@@ -19,7 +195,7 @@
 				"id": "http://matti.micro.blog/2022/05/06/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 184 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 184 🐶\n\n<img src=\"uploads/2022/32428bee96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 184 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/32428bee96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-06T19:08:50+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/06/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -37,7 +213,7 @@
 				"id": "http://matti.micro.blog/2022/05/05/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 184 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 184 🐶\n\n<img src=\"uploads/2022/3ee059c403.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 184 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/3ee059c403.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-05T19:40:13+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/05/dailydogo.html",
 				"tags": ["DailyDogo"]
