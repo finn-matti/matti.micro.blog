@@ -7,19 +7,188 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/05/21/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 199 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 199 🐶\n\n<img src=\"uploads/2022/6714bae76c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-21T21:31:36+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/21/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/21/the-early-riser.html",
+				"title": "The Early Riser Day 132 🌅🎙",
+				"content_html": "<p>I watched way too long TV last night. Uff.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I watched way too long TV last night. Uff.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/3e304e43c0.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-21T07:06:39+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/21/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/20/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 198 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 198 🐶\n\n<img src=\"uploads/2022/46bcf566b3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-20T19:31:00+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/20/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/20/the-early-riser.html",
+				"title": "The Early Riser Day 131 🌅🎙",
+				"content_html": "<p>A nice side effect of this experiment: Having a pretty solid evening routine.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A nice side effect of this experiment: Having a pretty solid evening routine. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/d0e0106c22.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-20T07:25:38+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/20/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/19/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 197 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 197 🐶\n\n<img src=\"uploads/2022/f31bedf862.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-19T19:56:49+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/19/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/19/the-early-riser.html",
+				"title": "The Early Riser Day 130 🌅🎙",
+				"content_html": "<p>Looking back, appreciating how my ideas around waking up early have changed throughout the experiment.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Looking back, appreciating how my ideas around waking up early have changed throughout the experiment. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/d72de233cb.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-19T08:18:49+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/19/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/18/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 196 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 196 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/ecb05110f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-18T21:38:27+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/18/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/18/the-early-riser.html",
+				"title": "The Early Riser Day 129 🌅🎙",
+				"content_html": "<p>Down with the rain pipes!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Down with the rain pipes!\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/bff27f3219.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-18T07:47:59+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/18/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/17/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 195 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 195 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/1648e617d6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-17T19:14:28+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/17/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/17/the-early-riser.html",
+				"title": "The Early Riser Day 128 🌅🎙",
+				"content_html": "<p>I got my wish: no pees inside. Now I’m <em>slightly</em> sleep deprived.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I got my wish: no pees inside. Now I’m _slightly_ sleep deprived.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/b069569b2e.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-17T08:45:49+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/17/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/16/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 194 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 194 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/c5b972fcdc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-16T20:28:17+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/16/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/16/puppycast.html",
+				"title": "PuppyCast 026 🐶🎙",
+				"content_html": "<p>Meeting badly handled dogs. Reactivity in dogs including our own. Nosework. Impulse training.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Meeting badly handled dogs. Reactivity in dogs including our own. Nosework. Impulse training. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/702a7d105c.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-16T20:24:31+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/16/puppycast.html",
+				"tags": ["Podcast","PuppyCast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/16/i-believe-i.html",
+				
+				"content_html": "<p>I believe I spotted another welsh corgi cardigan on mb: <a href=\"https://micro.blog/hollie\">@hollie</a></p>\n",
+				"content_text": "I believe I spotted another welsh corgi cardigan on mb: [@hollie](https://micro.blog/hollie) \n",
+				"date_published": "2022-05-16T17:23:16+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/16/i-believe-i.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/16/the-early-riser.html",
+				"title": "The Early Riser Day 127 🌅🎙",
+				"content_html": "<p>Sleeping through the night is great, however I‘d rather wake up  in the middle of the night and take the dog out then find a pee stain in the freshly cleaned carpet next morning.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sleeping through the night is great, however I‘d rather wake up  in the middle of the night and take the dog out then find a pee stain in the freshly cleaned carpet next morning.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/f2bcf2f178.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-16T07:34:52+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/16/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/15/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 193 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 193 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/300edd1aee.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-15T19:07:26+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/15/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/15/the-early-riser.html",
+				"title": "The Early Riser Day 126 🌅🎙",
+				"content_html": "<p>What is it about the weekend that makes me feel more rested?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "What is it about the weekend that makes me feel more rested?\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/86b65ce7a9.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-15T08:47:13+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/15/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/15/my-microcasts.html",
+				"title": "My Microcasts",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>At the moment I publish three different microcasts (short, no-frills, solo podcasts):</p>\n<ol>\n<li><a href=\"https://blog.martin-haehnel.de/categories/the-early-riser/\">The Early Riser</a> - daily, around 2 minutes about sleep, waking up early and related things - <a href=\"https://blog.martin-haehnel.de/categories/the-early-riser/feed.xml\">Feed URL</a></li>\n<li><a href=\"https://blog.martin-haehnel.de/categories/puppycast/\">The PuppyCast</a> - weekly on weekends, around 10 minutes about my dog napu, training her, how she is growing up, etc. - <a href=\"https://blog.martin-haehnel.de/categories/puppycast/feed.xml\">Feed URL</a></li>\n<li><a href=\"https://blog.martin-haehnel.de/categories/leaddev/\">LeadDev</a> - whenever, my newest project, maybe 5 minutes (or a lot more) about my work and how I approach journeying towards maybe becoming a lead developer at some point in the future. - <a href=\"https://blog.martin-haehnel.de/categories/leaddev/feed.xml\">Feed URL</a></li>\n</ol>\n<p>I love microcasts because I don't always have the time to write posts. But since I'm frequently walking the dog, I do have the time to record something. I love to reflect about my life, my goals and ideas and this is the perfect outlet for it.</p>\n",
+				"date_published": "2022-05-15T08:25:50+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/15/my-microcasts.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/14/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 192 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 192 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/6f134b4021.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-14T19:44:32+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/14/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/14/leaddev.html",
+				"title": "LeadDev 002 👨‍💻🎙",
+				"content_html": "<p>Framing. Experience, Expertise and Perception of Others. Thinking out loud.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Framing. Experience, Expertise and Perception of Others. Thinking out loud. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/68b2443279.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-14T19:23:20+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/14/leaddev.html",
+				"tags": ["Podcast","LeadDev"]
+			},
+			{
 				"id": "http://matti.micro.blog/2022/05/14/the-early-riser.html",
 				"title": "The Early Riser Day 125 🌅🎙",
 				"content_html": "<p>Looking forward to a long Saturday.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Looking forward to a long Saturday. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/c27a6a4202.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-14T07:29:01+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/14/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/13/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 191 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 191 🐶\n\n<img src=\"uploads/2022/7d1e859433.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 191 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/7d1e859433.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-13T19:30:58+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/13/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -39,13 +208,13 @@
 				"content_text": "Not happy with my mornings.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/156ad0b14f.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-13T08:12:33+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/13/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/12/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 190 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 190 🐶\n\n<img src=\"uploads/2022/77559d0705.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 190 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/77559d0705.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-12T21:14:25+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/12/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -57,7 +226,7 @@
 				"content_text": "Meditation is on hiatus.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/e5e4a68862.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-12T09:08:37+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/12/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/11/dailydogo.html",
@@ -75,7 +244,7 @@
 				"content_text": "The mash up episode pf the year. Trying to sleep and not being able to. I didn’t press a button. Failure as opportunity.\n\nWhy I need a task management app.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/591a05fe65.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-11T09:18:49+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/11/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser","LeadDev"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/10/dailydogo.html",
@@ -93,7 +262,7 @@
 				"content_text": "The decision problem: Should I stay awake or not? Meditation. How the dog’s changed rhythm changed my schedule.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/340f4aef00.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-10T07:04:20+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/10/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/09/leaddev.html",
@@ -102,7 +271,7 @@
 				"content_text": "Notifications 1\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/64850b375b.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-09T20:27:48+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/09/leaddev.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","LeadDev"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/09/dailydogo.html",
@@ -128,7 +297,7 @@
 				"content_text": "About my (ending?) meditation practice.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/05d529d8b8.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-09T07:18:41+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/09/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/08/project-lead-developer.html",
@@ -162,7 +331,7 @@
 				"content_text": "It’s sunny here. For some reason the dog peed inside the last two nights. Having a long day ahead, which is great. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/886c97f0af.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-08T07:34:20+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/08/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/07/puppycast.html",
@@ -189,7 +358,7 @@
 				"content_text": "Back to normal. But with a different perspective (maybe).\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/ea01b446be.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-07T08:31:57+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/07/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/06/dailydogo.html",
@@ -207,7 +376,7 @@
 				"content_text": "Last day before my partner is back. Ego depletion over longer periods of time.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/22ef26f5b2.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-06T07:48:42+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/06/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/05/dailydogo.html",
@@ -225,7 +394,7 @@
 				"content_text": "Woke up refreshed. Still feeling headache-y.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/8b9da98108.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-05T07:28:07+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/05/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/04/dailydogo.html",
@@ -243,7 +412,7 @@
 				"content_text": "Headache since yesterday evening. And lots of interruptions. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/45b5efb3f3.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-04T07:29:13+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/04/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/03/dailydogo.html",
@@ -261,7 +430,7 @@
 				"content_text": "Night 2 of being home alone. A changed environment means more willpower is needed to keep healthy evening, sleep, wake up routines going.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/30756becd6.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-03T08:12:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/03/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/02/puppycast.html",
@@ -288,7 +457,7 @@
 				"content_text": "Partner is on a business trip. I stayed up too long. Podcast continues for now.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/fadf88ff01.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-02T07:49:19+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/02/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/05/01/the-early-riser.html",
@@ -297,7 +466,7 @@
 				"content_text": "An instant gratification problem.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/6429817499.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-05-01T08:01:53+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/01/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/30/dailydogo.html",
@@ -315,7 +484,7 @@
 				"content_text": "I shouldn’t be this awake. But somehow I am.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/e898ea793c.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-30T07:16:39+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/30/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/29/dailydogo.html",
@@ -333,7 +502,7 @@
 				"content_text": "Trying a hard „getting up at the latest then“ limit: 7:30 am.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/d9ce3b8ff0.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-29T08:18:59+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/29/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/28/dailydogo.html",
@@ -351,7 +520,7 @@
 				"content_text": "Had to get up too often and didn’t find sleep immediately. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/6d21603b8c.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-28T08:15:43+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/28/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/27/dailydogo.html",
@@ -369,7 +538,7 @@
 				"content_text": "Solo nights and exhausting days. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/c392d42abc.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-27T08:22:06+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/27/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/26/dailydogo.html",
@@ -387,7 +556,7 @@
 				"content_text": "The paradox. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/ecb1c9e33d.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-26T08:34:24+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/26/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/25/the-early-riser.html",
@@ -396,7 +565,7 @@
 				"content_text": "Maybe I should be ending the experiment?\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/ee622b3a1a.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-25T08:10:24+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/25/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/24/dailydogo.html",
@@ -414,7 +583,7 @@
 				"content_text": "Being more at ease with transitioning to prioritizing amount of sleep over waking up time, because you can’t deeply work more than four hours anyway.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/2cbb51223c.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-24T08:51:41+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/24/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/23/dailydogo.html",
@@ -441,7 +610,7 @@
 				"content_text": "Prioritizing sleep amount over fixed wake up time.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/ea316a2727.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-23T09:20:59+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/23/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/22/dailydogo.html",
@@ -459,7 +628,7 @@
 				"content_text": "4.5 hours of sleep. And we are in Oulu.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/50857eca46.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-22T07:08:00+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/22/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/21/dailydogo.html",
@@ -477,7 +646,7 @@
 				"content_text": "I might have not been up at 6:30 but I hit my sleep goal. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/6206652f2e.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-21T07:47:32+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/21/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/20/dailydogo.html",
@@ -495,7 +664,7 @@
 				"content_text": "PuppyCast invasion. The dog has an eye infection.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/ab2067d213.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-20T06:55:54+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/20/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/19/dailydogo.html",
@@ -513,7 +682,7 @@
 				"content_text": "First day back on the horse.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/aab58327f2.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-19T06:52:28+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/19/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/18/dailydogo.html",
@@ -540,7 +709,7 @@
 				"content_text": "Thoughts about the experiment within the experiment of waking up after I have slept the full 7,5 hours.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/3f1f79749f.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-18T08:28:02+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/18/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/17/dailydogo.html",
@@ -558,7 +727,7 @@
 				"content_text": "I woke up very late today. Not trying to feel bad about it. And I guess I haven’t yet made it to 100 days. Close enough. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/b8fd7e746d.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-17T09:44:59+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/17/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/16/dailydogo.html",
@@ -576,7 +745,7 @@
 				"content_text": "Another longer episode. Taking it easy this easter weekend. Trying to get enough time in bed.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/3973b2bd35.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-16T07:51:36+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/16/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/15/dailydogo.html",
@@ -594,7 +763,7 @@
 				"content_text": "Rebalancing my efforts because of sleep deprivation. A longer reflective episode. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/479a092fc0.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-15T08:28:13+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/15/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/14/dailydogo.html",
@@ -612,7 +781,7 @@
 				"content_text": "Fragmented sleep. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/ff67502589.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-14T05:58:49+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/14/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/13/dailydogo.html",
@@ -630,7 +799,7 @@
 				"content_text": "Plus three degrees. The snow thawed yesterday and the resulting slush froze overnight. Difficult walking conditions. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/d810a9968f.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-13T06:33:17+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/13/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/12/dailydogo.html",
@@ -648,7 +817,7 @@
 				"content_text": "A very fragmented and short night. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/84041fe7fa.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-12T06:03:08+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/12/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/11/dailydogo.html",
@@ -666,7 +835,7 @@
 				"content_text": "6:45 of _sleep_ (not time in bed) seems to be the magic duration, when looking at old sleep tracking data from about a year ago. Which means that the additional half hour I’m trying to get every day really makes the difference.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/99229a77e1.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-11T06:22:04+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/11/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/10/dailydogo.html",
@@ -693,7 +862,7 @@
 				"content_text": "That half hour makes a difference. Didn’t need to get up in the night because of the dog.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/b43e789b75.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-10T06:19:09+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/10/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/09/dailydogo.html",
@@ -711,7 +880,7 @@
 				"content_text": "Feeling good thanks to more sleep. It’s foggy here.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/5a2eb804bb.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-09T06:21:37+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/09/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/08/dailydogo.html",
@@ -729,7 +898,7 @@
 				"content_text": "The first sleep cycle data is in. I slept about six and a quarter hours. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/07cb7c9c47.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-08T06:23:56+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/08/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/07/dailydogo.html",
@@ -747,7 +916,7 @@
 				"content_text": "Trying sleep tracking to figure out if I get enough sleep. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/c3fb856944.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-07T06:16:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/07/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/06/dailydogo.html",
@@ -765,7 +934,7 @@
 				"content_text": "Waking up on hard mode.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/34dfe0cddb.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-06T05:53:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/06/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/05/dailydogo.html",
@@ -783,7 +952,7 @@
 				"content_text": "Indeed: Slight changes in the environment makes habits harder to perform. But I did it. Also: Lots of new snow.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/a0732a39a9.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-05T06:24:52+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/05/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/04/dailydogo.html",
@@ -801,7 +970,7 @@
 				"content_text": "Even slight changes are disruptive. My Partner leaves town for a night. Wondering how tomorrow morning will be.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/d9275acc55.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-04T06:30:03+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/04/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/03/dailydogo.html",
@@ -828,7 +997,7 @@
 				"content_text": "Being an early riser is an introvert‘s game.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/6fff86f8d4.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-03T06:09:34+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/03/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/02/dailydogo.html",
@@ -846,7 +1015,7 @@
 				"content_text": "The siren song of talking to yourself and not getting up immediately almost got me today. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/8f2df0cf41.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-02T06:19:32+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/02/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/04/01/dailydogo.html",
@@ -864,7 +1033,7 @@
 				"content_text": "It’s really cold. But hey, there are geese honking.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/fad57df609.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-04-01T05:53:38+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/01/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/03/31/dailydogo.html",
@@ -882,7 +1051,7 @@
 				"content_text": "Going to bed earlier works. It’s the end of end of March and they are driving snow out of the town. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/5f8692d741.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-03-31T06:13:59+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/31/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/03/30/dailydogo.html",
@@ -900,7 +1069,7 @@
 				"content_text": "Super sized early riser today. I’m struggling to go to bed in such a way that I get enough sleep. I have to redesign my environment or go back to waking up at 6:30. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/c1d0d10567.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-03-30T06:32:26+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/30/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/03/29/dailydogo.html",
@@ -918,7 +1087,7 @@
 				"content_text": "If you wake up earlier, mornings are darker again.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/918d45aa44.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-03-29T06:10:23+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/29/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/03/28/192342.html",
@@ -945,7 +1114,7 @@
 				"content_text": "Starting to wake up half an hour earlier on the day the clocks get adjusted for summer time was ambitious.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/bb8b3fd420.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-03-28T06:18:33+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/28/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/03/27/puppycast.html",
@@ -963,7 +1132,7 @@
 				"content_text": "Trying to wake up half an hour earlier.\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/6161ddbf83.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2022-03-27T06:24:40+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/27/the-early-riser.html",
-				"tags": ["Podcast"]
+				"tags": ["Podcast","The Early Riser"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/03/26/puppycast-has-been.html",
@@ -986,8 +1155,8 @@
 			{
 				"id": "http://matti.micro.blog/2022/03/26/my-new-thing.html",
 				"title": "My New Thing Is A Newsletter: Notes On Notes",
-				"content_html": "<p>I had toyed with the idea for a while now: I have joined the ranks of the people who have their own newsletter!</p>\n<p>Mine is called <a href=\"https://buttondown.email/notes-on-notes\">Notes On Notes</a> and it collects and comments on a handful of links about notes and note taking that I found interesting in the last two weeks.</p>\n<p>The thing is free and the first issue will go out tomorrow. I would be super thrilled if you‘d <a href=\"https://buttondown.email/notes-on-notes\">sign up</a>.</p>\n",
-				"content_text": "I had toyed with the idea for a while now: I have joined the ranks of the people who have their own newsletter!\n\nMine is called [Notes On Notes](https://buttondown.email/notes-on-notes) and it collects and comments on a handful of links about notes and note taking that I found interesting in the last two weeks.\n\nThe thing is free and the first issue will go out tomorrow. I would be super thrilled if you‘d [sign up](https://buttondown.email/notes-on-notes).\n",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>I had toyed with the idea for a while now: I have joined the ranks of the people who have their own newsletter!</p>\n<p>Mine is called <a href=\"https://buttondown.email/notes-on-notes\">Notes On Notes</a> and it collects and comments on a handful of links about notes and note taking that I found interesting in the last little while.</p>\n<p>The thing is free and the first issue will go out tomorrow. I would be super thrilled if you‘d <a href=\"https://buttondown.email/notes-on-notes\">sign up</a>.</p>\n",
 				"date_published": "2022-03-26T14:24:54+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/26/my-new-thing.html",
 				"tags": ["Notes on Notes"]
@@ -1475,9 +1644,9 @@
 			},
 			{
 				"id": "http://matti.micro.blog/2022/02/27/good-apps-obsidian.html",
-				"title": "Good Apps: Obsidian",
-				"content_html": "<p><a href=\"https://obsidian.md\">Obsidian</a> is a personal knowledge base and note taking app with a lot of flexibility and extensions that make it very powerful. If you like to <a href=\"https://blog.martin-haehnel.de/2022/01/23/notes-on-notes.html\">take notes</a> and be in control of your data, then Obsidian might be the right fit.</p>\n<p>What makes Obsidian so valuable for me is that it allows me to consolidate a lot of things into one app. Like information about a project and its tasks. Reference materials about sociology and solutions to programming problems. Everything can be made to fit into Obsidian and thanks to its extensibility and configurability, the app can be adapted to my evolving needs over time.</p>\n<p>Most people point out that Obsidian is an app for people who like to <a href=\"https://blog.martin-haehnel.de/2022/01/23/103518.html\">link their notes together</a>. If you rename a note in Obsidian, all the links to it will be renamed, too. Linking notes, so that they become chains and/or trees of notes unlocks emergent qualities that you wouldn&rsquo;t be able to access without linking them.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> It is also available as an iPhone app, that can do almost all the things that the Mac app can do. So you can take all your stuff with you as well.</p>\n<p>Obsidian might not be for you, because it might just be a little bit too much. But it might also just be the tool you were looking for. If you happen to have a tendency to react skeptically to overly hyped apps like this one: Ignore the knowledge graph visualization stuff<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup> and also the personal knowledge base singularity talk and just try it out. Obsidian is great. Don&rsquo;t let the sometimes overly boastful rhetoric in this space keep you from at least trying it.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>For example: You will find notes that, taken together, inspire a new creative thought. You might also rediscover an old solution to a problem you currently have. Or you might notice a pattern in otherwise disparate information.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>I think that visualizing one&rsquo;s notes <em>could</em> at some point be helpful for maintaining and refactoring, but we are not there, yet.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
-				"content_text": "[Obsidian](https://obsidian.md) is a personal knowledge base and note taking app with a lot of flexibility and extensions that make it very powerful. If you like to [take notes](https://blog.martin-haehnel.de/2022/01/23/notes-on-notes.html) and be in control of your data, then Obsidian might be the right fit.\n\nWhat makes Obsidian so valuable for me is that it allows me to consolidate a lot of things into one app. Like information about a project and its tasks. Reference materials about sociology and solutions to programming problems. Everything can be made to fit into Obsidian and thanks to its extensibility and configurability, the app can be adapted to my evolving needs over time.\n\nMost people point out that Obsidian is an app for people who like to [link their notes together](https://blog.martin-haehnel.de/2022/01/23/103518.html). If you rename a note in Obsidian, all the links to it will be renamed, too. Linking notes, so that they become chains and/or trees of notes unlocks emergent qualities that you wouldn't be able to access without linking them.[^1] It is also available as an iPhone app, that can do almost all the things that the Mac app can do. So you can take all your stuff with you as well.\n\nObsidian might not be for you, because it might just be a little bit too much. But it might also just be the tool you were looking for. If you happen to have a tendency to react skeptically to overly hyped apps like this one: Ignore the knowledge graph visualization stuff[^2] and also the personal knowledge base singularity talk and just try it out. Obsidian is great. Don't let the sometimes overly boastful rhetoric in this space keep you from at least trying it.\n\n[^1]: For example: You will find notes that, taken together, inspire a new creative thought. You might also rediscover an old solution to a problem you currently have. Or you might notice a pattern in otherwise disparate information.\n[^2]: I think that visualizing one's notes *could* at some point be helpful for maintaining and refactoring, but we are not there, yet.\n",
+				"title": "Good Apps - Obsidian",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://obsidian.md\">Obsidian</a> is a personal knowledge base and note taking app with a lot of flexibility and extensions that make it very powerful. If you like to <a href=\"https://blog.martin-haehnel.de/2022/01/23/notes-on-notes.html\">take notes</a> and be in control of your data, then Obsidian might be the right fit.</p>\n<p>What makes Obsidian so valuable for me is that it allows me to consolidate a lot of things into one app. Like information about a project and its tasks. Reference materials about sociology and solutions to programming problems. Everything can be made to fit into Obsidian and thanks to its extensibility and configurability, the app can be adapted to my evolving needs over time.</p>\n<p>Most people point out that Obsidian is an app for people who like to <a href=\"https://blog.martin-haehnel.de/2022/01/23/103518.html\">link their notes together</a>. If you rename a note in Obsidian, all the links to it will be renamed, too. Linking notes, so that they become chains and/or trees of notes unlocks emergent qualities that you wouldn’t be able to access without linking them.<a id=\"fnref:1\" class=\"footnote\" title=\"see footnote\" href=\"#fn:1\">[1]</a> It is also available as an iPhone app, that can do almost all the things that the Mac app can do. So you can take all your stuff with you as well.</p>\n<p>Obsidian might not be for you, because it might just be a little bit too much. But it might also just be the tool you were looking for. If you happen to have a tendency to react skeptically to overly hyped apps like this one: Ignore the knowledge graph visualization stuff<a id=\"fnref:2\" class=\"footnote\" title=\"see footnote\" href=\"#fn:2\">[2]</a> and also the personal knowledge base singularity talk and just try it out. Obsidian is great. Don’t let the sometimes overly boastful rhetoric in this space keep you from at least trying it.</p>\n<div class=\"footnotes\"><hr />\n<ol>\n<li id=\"fn:1\">\n<p>For example: You will find notes that, taken together, inspire a new creative thought. You might also rediscover an old solution to a problem you currently have. Or you might notice a pattern in otherwise disparate information. <a class=\"reversefootnote\" title=\"return to article\" href=\"#fnref:1\"> ↩</a></p>\n</li>\n<li id=\"fn:2\">\n<p>I think that visualizing one’s notes <em>could</em> at some point be helpful for maintaining and refactoring, but we are not there, yet. <a class=\"reversefootnote\" title=\"return to article\" href=\"#fnref:2\"> ↩</a></p>\n</li>\n</ol>\n</div>\n",
 				"date_published": "2022-02-27T19:11:30+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/27/good-apps-obsidian.html",
 				"tags": ["Good Apps"]
