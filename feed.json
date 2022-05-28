@@ -7,10 +7,163 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/05/29/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 206 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 206 🐶\n\n<img src=\"uploads/2022/fb930cb616.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-29T00:02:57+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/29/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/28/the-early-riser.html",
+				"title": "The Early Riser 139 🌅🎙",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Going too late to sleep in absolute time. </p>\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/5bd6063371.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-28T07:42:09+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/28/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/27/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 205 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 205 🐶\n\n<img src=\"uploads/2022/0ecf7070bd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-27T22:15:27+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/27/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/27/the-early-riser.html",
+				"title": "The Early Riser 138 🌅🎙",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Rhythms and exceptions. </p>\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/5e51dd7d91.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-27T07:40:31+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/27/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/26/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 204 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 204 🐶\n\n<img src=\"uploads/2022/78617cb090.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-26T21:16:10+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/26/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/26/the-early-riser.html",
+				"title": "The Early Riser 137 🌅🎙",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Late to bed, but an exciting thing waiting for me on my free day means: Less sleep, because I can’t wait to play around with my new iPad. 😅</p>\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/84bc3dacae.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-26T07:25:13+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/26/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/25/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 203 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "DailyDogo 203 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/274e48879d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2022/72d39a7149.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-25T19:04:57+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/25/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/25/the-early-riser.html",
+				"title": "The Early Riser 136 🌅🎙",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>About being mindful and not doing meditation.</p>\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/e359e06fc7.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-25T07:29:36+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/25/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/24/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 202 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 202 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/b0226a8f85.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-24T19:28:29+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/24/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/24/the-early-riser.html",
+				"title": "The Early Riser 135 🌅🎙",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Waking up by alarm clock. </p>\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/fa595d92b7.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-24T07:45:34+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/24/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/23/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 201 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 201 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/8ada5e945c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-23T19:02:07+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/23/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/23/leaddev.html",
+				"title": "LeadDev 003 👨‍💻🎙",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Managing distractions. Solving your own problems.</p>\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/648039d7e1.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-23T12:44:58+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/23/leaddev.html",
+				"tags": ["Podcast","LeadDev"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/23/the-early-riser.html",
+				"title": "The Early Riser 134 🌅🎙",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Trying out my new shortcuts based posting workflow, while the dog flips out.</p>\n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/fb0930a0c4.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-23T08:09:57+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/23/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/22/good-apps-paletro.html",
+				"title": "Good Apps - Paletro",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>My current editor for coding is <a href=\"https://code.visualstudio.com\">VS Code</a>. Before that it was <a href=\"https://www.sublimetext.com\">Sublime Text</a>. Both of them have a lovely feature: The Command Palette.</p>\n<p>By pressing a shortcut (<code>cmd + shift + p</code> by default), you get a search bar to search for any command the app offers. Sounds simple - and it is, but it is also very powerful. The most recently used commands bubble up to the top, it shows the location of the command in the menu and also the command's shortcut which helps to learn the actual way of triggering it via the keyboard.</p>\n<p><a href=\"https://appmakes.io/paletro\">Paletro</a> brings all this power to any app on your Mac. </p>\n<p>You could have a downgraded version of Paletro for free by using the built-in search found in the help menu (<code>cmd + shift + /</code>), but this doesn't work in many apps anymore and it isn't as convenient or quick to use, in my experience.</p>\n",
+				"date_published": "2022-05-22T20:24:05+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/22/good-apps-paletro.html",
+				"tags": ["Good Apps"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/22/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 200 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 200 🐶\n\n<img src=\"https://matti-test.micro.blog/uploads/2022/37cbc2f08c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-22T19:31:21+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/22/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/22/puppycast.html",
+				"title": "PuppyCast 026 🐶🎙",
+				"content_html": "<p>Not a lot of training this week. Continuing to watch Zac George videos. Training is not a linear process. Walking a small day trail. Potty training has been going great lately.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not a lot of training this week. Continuing to watch Zac George videos. Training is not a linear process. Walking a small day trail. Potty training has been going great lately. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/2bbc659730.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-22T19:12:47+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/22/puppycast.html",
+				"tags": ["Podcast","PuppyCast"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/05/22/the-early-riser.html",
+				"title": "The Early Riser Day 133 🌅🎙",
+				"content_html": "<p>We survived the sleep deprivation and went earlier to bed to make up for it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We survived the sleep deprivation and went earlier to bed to make up for it. \n\n<audio controls=\"controls\" src=\"https://blog.martin-haehnel.de/uploads/2022/990ebfe52e.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2022-05-22T09:40:26+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/05/22/the-early-riser.html",
+				"tags": ["Podcast","The Early Riser"]
+			},
+			{
 				"id": "http://matti.micro.blog/2022/05/21/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 199 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 199 🐶\n\n<img src=\"uploads/2022/6714bae76c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 199 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/6714bae76c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-21T21:31:36+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/21/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +181,7 @@
 				"id": "http://matti.micro.blog/2022/05/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 198 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 198 🐶\n\n<img src=\"uploads/2022/46bcf566b3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 198 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/46bcf566b3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-20T19:31:00+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -46,7 +199,7 @@
 				"id": "http://matti.micro.blog/2022/05/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 197 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 197 🐶\n\n<img src=\"uploads/2022/f31bedf862.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 197 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/f31bedf862.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-19T19:56:49+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/19/dailydogo.html",
 				"tags": ["DailyDogo"]
