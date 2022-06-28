@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/06/28/it-feels-very.html",
+				
+				"content_html": "<p>(It feels very weird to not post DailyDogo pics this week.)</p>\n",
+				"content_text": "(It feels very weird to not post DailyDogo pics this week.)\n",
+				"date_published": "2022-06-28T20:49:44+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/06/28/it-feels-very.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/06/24/since-im-traveling.html",
+				
+				"content_html": "<p>(Since I’m traveling and Napu is not with me there may not be any DailyDogo pics for a week…)</p>\n",
+				"content_text": "(Since I’m traveling and Napu is not with me there may not be any DailyDogo pics for a week…)\n",
+				"date_published": "2022-06-24T14:00:44+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/06/24/since-im-traveling.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/06/23/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 232 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 232 🐶\n\n<img src=\"uploads/2022/4db512f2fe.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-06-23T21:33:54+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/06/23/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/06/22/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 231 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 231 🐶\n\n<img src=\"uploads/2022/80e3f69bf1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-06-22T23:53:05+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/06/22/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/06/21/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 230 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 230 🐶\n\n<img src=\"uploads/2022/48712f72e3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-06-21T20:00:56+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/06/21/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/06/20/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 229 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 229 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/54e3b698d7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-06-20T19:11:00+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/06/20/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2022/06/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 228 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 228 🐶\n\n<img src=\"uploads/2022/8b589be062.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 228 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/8b589be062.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-19T20:32:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/19/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +73,7 @@
 				"id": "http://matti.micro.blog/2022/06/18/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 227 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 227 🐶\n\n<img src=\"uploads/2022/7c205df222.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 227 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/7c205df222.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-18T19:30:09+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/18/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +82,7 @@
 				"id": "http://matti.micro.blog/2022/06/17/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 226 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 226 🐶\n\n<img src=\"uploads/2022/e256403f58.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 226 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/e256403f58.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-17T19:24:23+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/17/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -37,7 +91,7 @@
 				"id": "http://matti.micro.blog/2022/06/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 225 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 225 🐶\n\n<img src=\"uploads/2022/1e0f7c4f66.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 225 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/1e0f7c4f66.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-16T20:06:51+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/16/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -55,7 +109,7 @@
 				"id": "http://matti.micro.blog/2022/06/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 224 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 224 🐶\n\n<img src=\"uploads/2022/29a47a7efb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 224 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/29a47a7efb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-15T23:22:09+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/15/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -64,7 +118,7 @@
 				"id": "http://matti.micro.blog/2022/06/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 223 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 223 🐶\n\n<img src=\"uploads/2022/332d8d33ef.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 223 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/332d8d33ef.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-14T19:50:07+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -73,7 +127,7 @@
 				"id": "http://matti.micro.blog/2022/06/13/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 222 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 222 🐶\n\n<img src=\"uploads/2022/d67bf3d008.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 222 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/d67bf3d008.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-13T21:21:17+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/13/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -82,7 +136,7 @@
 				"id": "http://matti.micro.blog/2022/06/12/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 221 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 221 🐶\n\n<img src=\"uploads/2022/33d978e67e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 221 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/33d978e67e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-12T19:28:19+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/12/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -99,7 +153,7 @@
 				"id": "http://matti.micro.blog/2022/06/11/200935.html",
 				
 				"content_html": "<p>DailyDogo 220 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 220 🐶\n\n<img src=\"uploads/2022/337c9f4d2f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 220 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/337c9f4d2f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-11T20:09:35+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/11/200935.html",
 				"tags": ["DailyDogo"]
@@ -108,7 +162,7 @@
 				"id": "http://matti.micro.blog/2022/06/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 219 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 219 🐶\n\n<img src=\"uploads/2022/ee5b84554d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 219 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/ee5b84554d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-11T00:26:57+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -117,7 +171,7 @@
 				"id": "http://matti.micro.blog/2022/06/09/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 218 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 218 🐶\n\n<img src=\"uploads/2022/f446c8efba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 218 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/f446c8efba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-09T22:47:08+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/09/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -126,7 +180,7 @@
 				"id": "http://matti.micro.blog/2022/06/08/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 217 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 217 🐶\n\n<img src=\"uploads/2022/f9b4706d3e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 217 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/f9b4706d3e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-08T19:21:06+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/08/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -135,7 +189,7 @@
 				"id": "http://matti.micro.blog/2022/06/07/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 216 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 216 🐶\n\n<img src=\"uploads/2022/acbbf32be9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 216 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/acbbf32be9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-07T22:23:56+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/07/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -153,7 +207,7 @@
 				"id": "http://matti.micro.blog/2022/06/06/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 215 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 215 🐶\n\n<img src=\"uploads/2022/c8283e3c78.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 215 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/c8283e3c78.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-06T20:25:53+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/06/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -162,7 +216,7 @@
 				"id": "http://matti.micro.blog/2022/06/05/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 214 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 214 🐶\n\n<img src=\"uploads/2022/57f5e00a40.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 214 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/57f5e00a40.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-05T19:28:36+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/05/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -171,7 +225,7 @@
 				"id": "http://matti.micro.blog/2022/06/04/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 213 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 213 🐶\n\n<img src=\"uploads/2022/083df75539.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 213 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/083df75539.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-04T20:11:37+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/04/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -189,7 +243,7 @@
 				"id": "http://matti.micro.blog/2022/06/03/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 212 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 212 🐶\n\n<img src=\"uploads/2022/3893ecff30.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 212 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/3893ecff30.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-03T19:36:02+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/03/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -207,7 +261,7 @@
 				"id": "http://matti.micro.blog/2022/06/02/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 211 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 211 🐶\n\n<img src=\"uploads/2022/b7d3dc4ae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 211 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/b7d3dc4ae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-02T22:05:55+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/02/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -216,7 +270,7 @@
 				"id": "http://matti.micro.blog/2022/06/01/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 210 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 210 🐶\n\n<img src=\"uploads/2022/96ec17fbc0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 210 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/96ec17fbc0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-01T22:29:12+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/06/01/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -225,7 +279,7 @@
 				"id": "http://matti.micro.blog/2022/05/31/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 209 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 209 🐶\n\n<img src=\"uploads/2022/c9fa576983.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 209 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/c9fa576983.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-31T19:04:38+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/31/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -234,7 +288,7 @@
 				"id": "http://matti.micro.blog/2022/05/30/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 208 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 208 🐶\n\n<img src=\"uploads/2022/cd2c52e35d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 208 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/cd2c52e35d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-30T19:09:08+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/30/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -243,7 +297,7 @@
 				"id": "http://matti.micro.blog/2022/05/29/191340.html",
 				
 				"content_html": "<p>DailyDogo 207 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 207 🐶\n\n<img src=\"uploads/2022/8a81cb3f48.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 207 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/8a81cb3f48.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-29T19:13:40+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/29/191340.html",
 				"tags": ["DailyDogo"]
@@ -261,7 +315,7 @@
 				"id": "http://matti.micro.blog/2022/05/29/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 206 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 206 🐶\n\n<img src=\"uploads/2022/fb930cb616.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 206 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/fb930cb616.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-29T00:02:57+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/29/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -279,7 +333,7 @@
 				"id": "http://matti.micro.blog/2022/05/27/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 205 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 205 🐶\n\n<img src=\"uploads/2022/0ecf7070bd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 205 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/0ecf7070bd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-27T22:15:27+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/27/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -297,7 +351,7 @@
 				"id": "http://matti.micro.blog/2022/05/26/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 204 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 204 🐶\n\n<img src=\"uploads/2022/78617cb090.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 204 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/78617cb090.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-26T21:16:10+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/26/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -315,7 +369,7 @@
 				"id": "http://matti.micro.blog/2022/05/25/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 203 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "DailyDogo 203 🐶\n\n<img src=\"uploads/2022/274e48879d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/72d39a7149.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 203 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/274e48879d.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2022/72d39a7149.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-25T19:04:57+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/25/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -333,7 +387,7 @@
 				"id": "http://matti.micro.blog/2022/05/24/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 202 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 202 🐶\n\n<img src=\"uploads/2022/b0226a8f85.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 202 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/b0226a8f85.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-24T19:28:29+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/24/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -351,7 +405,7 @@
 				"id": "http://matti.micro.blog/2022/05/23/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 201 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 201 🐶\n\n<img src=\"uploads/2022/8ada5e945c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 201 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/8ada5e945c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-23T19:02:07+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/23/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -414,7 +468,7 @@
 				"id": "http://matti.micro.blog/2022/05/21/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 199 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 199 🐶\n\n<img src=\"uploads/2022/6714bae76c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 199 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/6714bae76c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-21T21:31:36+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/21/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -432,7 +486,7 @@
 				"id": "http://matti.micro.blog/2022/05/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 198 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 198 🐶\n\n<img src=\"uploads/2022/46bcf566b3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 198 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/46bcf566b3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-20T19:31:00+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -450,7 +504,7 @@
 				"id": "http://matti.micro.blog/2022/05/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 197 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 197 🐶\n\n<img src=\"uploads/2022/f31bedf862.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 197 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/f31bedf862.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-19T19:56:49+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/19/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -468,7 +522,7 @@
 				"id": "http://matti.micro.blog/2022/05/18/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 196 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 196 🐶\n\n<img src=\"uploads/2022/ecb05110f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 196 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/ecb05110f1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-18T21:38:27+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/18/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -486,7 +540,7 @@
 				"id": "http://matti.micro.blog/2022/05/17/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 195 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 195 🐶\n\n<img src=\"uploads/2022/1648e617d6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 195 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/1648e617d6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-17T19:14:28+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/17/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -504,7 +558,7 @@
 				"id": "http://matti.micro.blog/2022/05/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 194 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 194 🐶\n\n<img src=\"uploads/2022/c5b972fcdc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 194 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/c5b972fcdc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-16T20:28:17+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/16/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -539,7 +593,7 @@
 				"id": "http://matti.micro.blog/2022/05/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 193 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 193 🐶\n\n<img src=\"uploads/2022/300edd1aee.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 193 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/300edd1aee.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-15T19:07:26+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/15/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -565,7 +619,7 @@
 				"id": "http://matti.micro.blog/2022/05/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 192 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 192 🐶\n\n<img src=\"uploads/2022/6f134b4021.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 192 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/6f134b4021.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-14T19:44:32+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -592,7 +646,7 @@
 				"id": "http://matti.micro.blog/2022/05/13/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 191 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 191 🐶\n\n<img src=\"uploads/2022/7d1e859433.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 191 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/7d1e859433.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-13T19:30:58+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/13/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -618,7 +672,7 @@
 				"id": "http://matti.micro.blog/2022/05/12/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 190 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 190 🐶\n\n<img src=\"uploads/2022/77559d0705.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 190 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/77559d0705.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-12T21:14:25+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/12/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -636,7 +690,7 @@
 				"id": "http://matti.micro.blog/2022/05/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 189 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 189 🐶\n\n<img src=\"uploads/2022/5a51e8055c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 189 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/5a51e8055c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-11T19:08:19+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -654,7 +708,7 @@
 				"id": "http://matti.micro.blog/2022/05/10/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 188 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 188 🐶\n\n<img src=\"uploads/2022/44268b6b3f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 188 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/44268b6b3f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-10T19:33:05+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/10/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -681,7 +735,7 @@
 				"id": "http://matti.micro.blog/2022/05/09/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 187 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 187 🐶\n\n<img src=\"uploads/2022/42aa19a51e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 187 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/42aa19a51e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-09T19:28:30+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/09/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -715,7 +769,7 @@
 				"id": "http://matti.micro.blog/2022/05/08/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 186 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 186 🐶\n\n<img src=\"uploads/2022/2e9017871d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 186 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/2e9017871d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-08T19:01:01+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/08/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -750,7 +804,7 @@
 				"id": "http://matti.micro.blog/2022/05/07/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 185 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 185 🐶\n\n<img src=\"uploads/2022/611612922e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 185 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/611612922e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-07T19:11:12+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/07/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -768,7 +822,7 @@
 				"id": "http://matti.micro.blog/2022/05/06/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 184 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 184 🐶\n\n<img src=\"uploads/2022/32428bee96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 184 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/32428bee96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-06T19:08:50+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/06/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -786,7 +840,7 @@
 				"id": "http://matti.micro.blog/2022/05/05/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 184 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 184 🐶\n\n<img src=\"uploads/2022/3ee059c403.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 184 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/3ee059c403.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-05T19:40:13+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/05/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -804,7 +858,7 @@
 				"id": "http://matti.micro.blog/2022/05/04/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 183 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 183 🐶\n\n<img src=\"uploads/2022/0b1ea2f65a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 183 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/0b1ea2f65a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-04T21:13:08+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/04/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -822,7 +876,7 @@
 				"id": "http://matti.micro.blog/2022/05/03/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 183 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 183 🐶\n\n<img src=\"uploads/2022/5b359d3d04.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 183 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/5b359d3d04.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-03T19:14:46+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/03/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -849,7 +903,7 @@
 				"id": "http://matti.micro.blog/2022/05/02/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 182 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 182 🐶\n\n<img src=\"uploads/2022/583b7e2b36.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 182 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/583b7e2b36.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-02T19:11:17+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/05/02/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -876,7 +930,7 @@
 				"id": "http://matti.micro.blog/2022/04/30/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 181 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 181 🐶\n\n<img src=\"uploads/2022/5fcde6dc0a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 181 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/5fcde6dc0a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-30T20:07:01+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/30/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -894,7 +948,7 @@
 				"id": "http://matti.micro.blog/2022/04/29/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 180 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 180 🐶\n\n<img src=\"uploads/2022/811644d2bf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 180 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/811644d2bf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-29T20:07:54+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/29/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -912,7 +966,7 @@
 				"id": "http://matti.micro.blog/2022/04/28/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 179 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 179 🐶\n\n<img src=\"uploads/2022/d44d7c70a0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 179 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/d44d7c70a0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-28T19:21:10+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/28/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -930,7 +984,7 @@
 				"id": "http://matti.micro.blog/2022/04/27/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 178 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 178 🐶\n\n<img src=\"uploads/2022/b5d57531fd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 178 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/b5d57531fd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-27T21:10:55+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/27/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -948,7 +1002,7 @@
 				"id": "http://matti.micro.blog/2022/04/26/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 177 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 177 🐶\n\n<img src=\"uploads/2022/83fcf6dd5f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 177 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/83fcf6dd5f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-26T19:01:21+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/26/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -975,7 +1029,7 @@
 				"id": "http://matti.micro.blog/2022/04/24/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 176 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 176 🐶\n\n<img src=\"uploads/2022/6dbb078497.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 176 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/6dbb078497.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-24T19:32:44+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/24/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -993,7 +1047,7 @@
 				"id": "http://matti.micro.blog/2022/04/23/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 175 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 175 🐶\n\n<img src=\"uploads/2022/2edfb5e3cb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 175 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/2edfb5e3cb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-23T19:09:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/23/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1020,7 +1074,7 @@
 				"id": "http://matti.micro.blog/2022/04/22/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 174 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 174 🐶\n\n<img src=\"uploads/2022/ad4e639273.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 174 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/ad4e639273.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-22T20:12:10+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/22/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1038,7 +1092,7 @@
 				"id": "http://matti.micro.blog/2022/04/21/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 173 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 173 🐶\n\n<img src=\"uploads/2022/93977c8291.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 173 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/93977c8291.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-21T20:17:54+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/21/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1056,7 +1110,7 @@
 				"id": "http://matti.micro.blog/2022/04/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 172 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 172 🐶\n\n<img src=\"uploads/2022/b2d50cb146.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 172 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/b2d50cb146.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-20T19:02:52+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1074,7 +1128,7 @@
 				"id": "http://matti.micro.blog/2022/04/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 171 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 171 🐶\n\n<img src=\"uploads/2022/139b7895a5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 171 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/139b7895a5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-19T19:07:50+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/19/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1092,7 +1146,7 @@
 				"id": "http://matti.micro.blog/2022/04/18/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 170 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 170 🐶\n\n<img src=\"uploads/2022/267a8c5f19.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 170 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/267a8c5f19.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-18T20:02:56+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/18/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1119,7 +1173,7 @@
 				"id": "http://matti.micro.blog/2022/04/17/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 169 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 169 🐶\n\n<img src=\"uploads/2022/be0d32025a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 169 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/be0d32025a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-17T20:23:39+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/17/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1137,7 +1191,7 @@
 				"id": "http://matti.micro.blog/2022/04/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 168 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 168 🐶\n\n<img src=\"uploads/2022/fbf0a6a36e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 168 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/fbf0a6a36e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-16T19:11:38+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/16/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1155,7 +1209,7 @@
 				"id": "http://matti.micro.blog/2022/04/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 167 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 167 🐶\n\n<img src=\"uploads/2022/c535901ebd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 167 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/c535901ebd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-15T20:01:43+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/15/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1173,7 +1227,7 @@
 				"id": "http://matti.micro.blog/2022/04/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 166 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 166 🐶\n\n<img src=\"uploads/2022/3d502d5321.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 166 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/3d502d5321.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-14T19:00:59+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1191,7 +1245,7 @@
 				"id": "http://matti.micro.blog/2022/04/13/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 165 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 165 🐶\n\n<img src=\"uploads/2022/240b5fed6d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 165 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/240b5fed6d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-13T22:44:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/13/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1209,7 +1263,7 @@
 				"id": "http://matti.micro.blog/2022/04/12/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 164 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 164 🐶\n\n<img src=\"uploads/2022/012f0dd365.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 164 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/012f0dd365.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-12T22:55:52+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/12/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1227,7 +1281,7 @@
 				"id": "http://matti.micro.blog/2022/04/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 163 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 163 🐶\n\n<img src=\"uploads/2022/324c000e22.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 163 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/324c000e22.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-11T19:11:00+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1245,7 +1299,7 @@
 				"id": "http://matti.micro.blog/2022/04/10/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 162 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 162 🐶\n\n<img src=\"uploads/2022/226c86a114.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 162 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/226c86a114.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-10T19:08:40+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/10/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1272,7 +1326,7 @@
 				"id": "http://matti.micro.blog/2022/04/09/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 161 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 161 🐶\n\n<img src=\"uploads/2022/dc2660ad7b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 161 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/dc2660ad7b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-09T22:54:01+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/09/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1290,7 +1344,7 @@
 				"id": "http://matti.micro.blog/2022/04/08/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 160 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 160 🐶\n\n<img src=\"uploads/2022/e91c353138.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 160 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/e91c353138.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-08T19:32:56+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/08/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1308,7 +1362,7 @@
 				"id": "http://matti.micro.blog/2022/04/07/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 159 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 159 🐶\n\n<img src=\"uploads/2022/f01850850e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 159 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/f01850850e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-07T19:15:56+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/07/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1326,7 +1380,7 @@
 				"id": "http://matti.micro.blog/2022/04/06/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 158 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 158 🐶\n\n<img src=\"uploads/2022/72946658dd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 158 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/72946658dd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-06T19:42:02+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/06/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1344,7 +1398,7 @@
 				"id": "http://matti.micro.blog/2022/04/05/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 157 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 157 🐶\n\n<img src=\"uploads/2022/e4f3833cb4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 157 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/e4f3833cb4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-05T16:37:52+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/05/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1362,7 +1416,7 @@
 				"id": "http://matti.micro.blog/2022/04/04/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 156 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 156 🐶\n\n<img src=\"uploads/2022/7831bad577.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 156 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/7831bad577.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-04T19:21:43+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/04/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1380,7 +1434,7 @@
 				"id": "http://matti.micro.blog/2022/04/03/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 155 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 155 🐶\n\n<img src=\"uploads/2022/d4fc2232b7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 155 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/d4fc2232b7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-03T19:01:04+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/03/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1407,7 +1461,7 @@
 				"id": "http://matti.micro.blog/2022/04/02/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 154 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 154 🐶\n\n<img src=\"uploads/2022/4d95f4721a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 154 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/4d95f4721a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-02T20:25:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/02/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1425,7 +1479,7 @@
 				"id": "http://matti.micro.blog/2022/04/01/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 153 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 153 🐶\n\n<img src=\"uploads/2022/52d9827883.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 153 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/52d9827883.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-01T19:48:05+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/04/01/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1443,7 +1497,7 @@
 				"id": "http://matti.micro.blog/2022/03/31/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 152 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 152 🐶\n\n<img src=\"uploads/2022/2189d10b7a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 152 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/2189d10b7a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-31T19:04:53+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/31/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1461,7 +1515,7 @@
 				"id": "http://matti.micro.blog/2022/03/30/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 151 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 151 🐶\n\n<img src=\"uploads/2022/196c477b41.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 151 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/196c477b41.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-30T20:46:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/30/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1479,7 +1533,7 @@
 				"id": "http://matti.micro.blog/2022/03/29/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 150 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 150 🐶\n\n<img src=\"uploads/2022/12717f1d27.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 150 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/12717f1d27.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-29T19:12:44+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/29/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1497,7 +1551,7 @@
 				"id": "http://matti.micro.blog/2022/03/28/192342.html",
 				
 				"content_html": "<p>DailyDogo 149 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 149 🐶\n\n<img src=\"uploads/2022/02652d9301.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 149 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/02652d9301.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-28T19:23:42+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/28/192342.html",
 				"tags": ["DailyDogo"]
@@ -1506,7 +1560,7 @@
 				"id": "http://matti.micro.blog/2022/03/28/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 148 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 148 🐶\n\n<img src=\"uploads/2022/f8a1201d67.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 148 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/f8a1201d67.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-28T19:23:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/28/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1551,7 +1605,7 @@
 				"id": "http://matti.micro.blog/2022/03/26/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 147 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "DailyDogo 147 🐶\n\n<img src=\"uploads/2022/027a3a5593.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/07965f6f17.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 147 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/027a3a5593.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2022/07965f6f17.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-26T21:05:02+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/26/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1578,7 +1632,7 @@
 				"id": "http://matti.micro.blog/2022/03/25/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 146 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 146 🐶\n\n<img src=\"uploads/2022/e2e6861811.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 146 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/e2e6861811.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-25T20:01:26+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/25/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1596,7 +1650,7 @@
 				"id": "http://matti.micro.blog/2022/03/24/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 145 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 145 🐶\n\n<img src=\"uploads/2022/a45c2ced29.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 145 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/a45c2ced29.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-24T20:26:24+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/24/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1614,7 +1668,7 @@
 				"id": "http://matti.micro.blog/2022/03/23/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 144 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 144 🐶\n\n<img src=\"uploads/2022/b423be903b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 144 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/b423be903b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-23T20:00:43+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/23/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1632,7 +1686,7 @@
 				"id": "http://matti.micro.blog/2022/03/22/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 143 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 143 🐶\n\n<img src=\"uploads/2022/507d8deaba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 143 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/507d8deaba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-22T21:08:24+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/22/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1657,7 +1711,7 @@
 				"id": "http://matti.micro.blog/2022/03/21/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 142 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 142 🐶\n\n<img src=\"uploads/2022/24777f6c90.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 142 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/24777f6c90.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-21T20:11:53+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/21/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1675,7 +1729,7 @@
 				"id": "http://matti.micro.blog/2022/03/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 141 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 141 🐶\n\n<img src=\"uploads/2022/a6405a1b0d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 141 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/a6405a1b0d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-20T21:35:50+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1693,7 +1747,7 @@
 				"id": "http://matti.micro.blog/2022/03/19/191019.html",
 				
 				"content_html": "<p>DailyDogo 140 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 140 🐶\n\n<img src=\"uploads/2022/4067cc58bf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 140 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/4067cc58bf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-19T20:10:19+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/19/191019.html",
 				"tags": ["DailyDogo"]
@@ -1711,7 +1765,7 @@
 				"id": "http://matti.micro.blog/2022/03/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 139 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 139 🐶\n\n<img src=\"uploads/2022/ebe944842b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 139 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/ebe944842b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-19T10:06:39+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/19/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1738,7 +1792,7 @@
 				"id": "http://matti.micro.blog/2022/03/17/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 138 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 138 🐶\n\n<img src=\"uploads/2022/78b05acfdf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 138 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/78b05acfdf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-17T20:30:46+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/17/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1756,7 +1810,7 @@
 				"id": "http://matti.micro.blog/2022/03/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 137 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 137 🐶\n\n<img src=\"uploads/2022/81c2cd0ba2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 137 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/81c2cd0ba2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-16T20:11:56+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/16/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1774,7 +1828,7 @@
 				"id": "http://matti.micro.blog/2022/03/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 136 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 136 🐶\n\n<img src=\"uploads/2022/28bd3506aa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 136 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/28bd3506aa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-15T21:31:04+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/15/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1792,7 +1846,7 @@
 				"id": "http://matti.micro.blog/2022/03/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 135 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 135 🐶\n\n<img src=\"uploads/2022/e7b6ab4f70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 135 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/e7b6ab4f70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-14T20:08:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1809,7 +1863,7 @@
 				"id": "http://matti.micro.blog/2022/03/13/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 134 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 134 🐶\n\n<img src=\"uploads/2022/3ac9251879.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 134 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/3ac9251879.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-13T20:17:33+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/13/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1818,7 +1872,7 @@
 				"id": "http://matti.micro.blog/2022/03/12/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 133 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 133 🐶\n\n<img src=\"uploads/2022/db26ed3c44.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 133 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/db26ed3c44.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-12T22:22:13+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/12/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1827,7 +1881,7 @@
 				"id": "http://matti.micro.blog/2022/03/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 132 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 132 🐶\n\n<img src=\"uploads/2022/12203a1edb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 132 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/12203a1edb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-11T20:07:33+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1845,7 +1899,7 @@
 				"id": "http://matti.micro.blog/2022/03/09/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 130 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 130 🐶\n\n<img src=\"uploads/2022/a40e8341b4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 130 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/a40e8341b4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-09T22:32:06+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/09/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1854,7 +1908,7 @@
 				"id": "http://matti.micro.blog/2022/03/09/second-day-in.html",
 				
 				"content_html": "<p>Second day in a row where I can’t upload a new podcast episode through wavelength. <!-- raw HTML omitted --> <a href=\"https://micro.blog/manton\">@manton</a>: Could you maybe look into this?</p>\n",
-				"content_text": "Second day in a row where I can’t upload a new podcast episode through wavelength. <img src=\"uploads/2022/d72ac67161.png\" /> [@manton](https://micro.blog/manton): Could you maybe look into this?\n",
+				"content_text": "Second day in a row where I can’t upload a new podcast episode through wavelength. <img src=\"https://blog.martin-haehnel.de/uploads/2022/d72ac67161.png\" /> [@manton](https://micro.blog/manton): Could you maybe look into this?\n",
 				"date_published": "2022-03-09T07:58:03+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/09/second-day-in.html"
 			},
@@ -1862,7 +1916,7 @@
 				"id": "http://matti.micro.blog/2022/03/08/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 129 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 129 🐶\n\n<img src=\"uploads/2022/d268f383b6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 129 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/d268f383b6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-08T20:19:30+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/08/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1871,7 +1925,7 @@
 				"id": "http://matti.micro.blog/2022/03/08/help-i-cant.html",
 				
 				"content_html": "<p>.<a href=\"https://micro.blog/help\">@help</a> I can’t upload audio for some reason. The wavelength app won’t let me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": ".[@help](https://micro.blog/help) I can’t upload audio for some reason. The wavelength app won’t let me.\n\n<img src=\"uploads/2022/d72ac67161.png\" width=\"600\" height=\"204\" alt=\"\" />\n",
+				"content_text": ".[@help](https://micro.blog/help) I can’t upload audio for some reason. The wavelength app won’t let me.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/d72ac67161.png\" width=\"600\" height=\"204\" alt=\"\" />\n",
 				"date_published": "2022-03-08T08:02:28+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/08/help-i-cant.html"
 			},
@@ -1879,7 +1933,7 @@
 				"id": "http://matti.micro.blog/2022/03/07/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 128 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 128 🐶\n\n<img src=\"uploads/2022/b2fc43c9b2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 128 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/b2fc43c9b2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-07T21:10:43+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/07/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1897,7 +1951,7 @@
 				"id": "http://matti.micro.blog/2022/03/06/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 127 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 127 🐶\n\n<img src=\"uploads/2022/a7d4eec1d7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 127 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/a7d4eec1d7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-06T20:00:09+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/06/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1924,7 +1978,7 @@
 				"id": "http://matti.micro.blog/2022/03/05/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 126 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 126 🐶\n\n<img src=\"uploads/2022/81ddea3db0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 126 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/81ddea3db0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-05T20:01:51+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/05/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1942,7 +1996,7 @@
 				"id": "http://matti.micro.blog/2022/03/04/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 125 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 125 🐶\n\n<img src=\"uploads/2022/7775277de4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 125 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/7775277de4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-04T20:06:42+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/04/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1960,7 +2014,7 @@
 				"id": "http://matti.micro.blog/2022/03/03/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 124 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 124 🐶\n\n<img src=\"uploads/2022/22f8108579.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 124 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/22f8108579.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-03T20:07:58+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/03/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1996,7 +2050,7 @@
 				"id": "http://matti.micro.blog/2022/03/01/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 122 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 122 🐶\n\n<img src=\"uploads/2022/e6983d74ec.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 122 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/e6983d74ec.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-01T21:16:01+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/01/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2014,7 +2068,7 @@
 				"id": "http://matti.micro.blog/2022/02/28/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 121 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 121 🐶\n\n<img src=\"uploads/2022/efa96baf70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 121 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/efa96baf70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-28T20:06:37+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/28/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2041,7 +2095,7 @@
 				"id": "http://matti.micro.blog/2022/02/27/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 120 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 120 🐶\n\n<img src=\"uploads/2022/e98997dde0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 120 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/e98997dde0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-27T20:12:24+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/27/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2068,7 +2122,7 @@
 				"id": "http://matti.micro.blog/2022/02/26/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 119 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 119 🐶\n\n<img src=\"uploads/2022/4cd5e2ca34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 119 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/4cd5e2ca34.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-26T20:07:07+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/26/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2095,7 +2149,7 @@
 				"id": "http://matti.micro.blog/2022/02/25/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 118 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 118 🐶\n\n<img src=\"uploads/2022/cecdc6aac9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 118 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/cecdc6aac9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-25T22:00:43+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/25/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2113,7 +2167,7 @@
 				"id": "http://matti.micro.blog/2022/02/24/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 117 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 117 🐶\n\n<img src=\"uploads/2022/2de6a8ccb7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 117 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/2de6a8ccb7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-24T20:10:42+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/24/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2131,7 +2185,7 @@
 				"id": "http://matti.micro.blog/2022/02/23/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 116 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 116 🐶\n\n<img src=\"uploads/2022/5bf517c1c0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 116 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/5bf517c1c0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-23T23:01:16+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/23/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2149,7 +2203,7 @@
 				"id": "http://matti.micro.blog/2022/02/22/213347.html",
 				
 				"content_html": "<p>22.2.22 ❤️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "22.2.22 ❤️\n\n<img src=\"uploads/2022/35c6b53597.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "22.2.22 ❤️\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/35c6b53597.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-22T22:33:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/22/213347.html"
 			},
@@ -2166,7 +2220,7 @@
 				"id": "http://matti.micro.blog/2022/02/22/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 114 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 114 🐶\n\n<img src=\"uploads/2022/5a40d1fd4e.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "DailyDogo 114 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/5a40d1fd4e.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-02-22T22:22:10+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/22/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2193,7 +2247,7 @@
 				"id": "http://matti.micro.blog/2022/02/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 113 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 113 🐶\n\n<img src=\"uploads/2022/c25df23d09.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 113 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/c25df23d09.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-20T20:33:42+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2220,7 +2274,7 @@
 				"id": "http://matti.micro.blog/2022/02/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 112 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 112 🐶\n\n<img src=\"uploads/2022/42f0f04490.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 112 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/42f0f04490.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-19T23:19:05+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/19/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2238,7 +2292,7 @@
 				"id": "http://matti.micro.blog/2022/02/18/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 111 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 111 🐶\n\n<img src=\"uploads/2022/acc377efeb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 111 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/acc377efeb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-18T20:04:41+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/18/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2256,7 +2310,7 @@
 				"id": "http://matti.micro.blog/2022/02/17/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 110 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 110 🐶\n\n<img src=\"uploads/2022/85553cb12b.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 110 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/85553cb12b.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-17T20:18:51+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/17/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2274,7 +2328,7 @@
 				"id": "http://matti.micro.blog/2022/02/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 109 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 109 🐶\n\n<img src=\"uploads/2022/b7788abc46.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 109 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/b7788abc46.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-16T20:03:55+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/16/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2292,7 +2346,7 @@
 				"id": "http://matti.micro.blog/2022/02/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 108 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 108 🐶\n\n<img src=\"uploads/2022/2bec548949.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 108 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/2bec548949.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-15T21:01:07+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/15/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2310,7 +2364,7 @@
 				"id": "http://matti.micro.blog/2022/02/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 107 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 107 🐶\n\n<img src=\"uploads/2022/2a00fb7fda.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 107 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/2a00fb7fda.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-14T20:06:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2328,7 +2382,7 @@
 				"id": "http://matti.micro.blog/2022/02/13/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 106 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 106 🐶\n\n<img src=\"uploads/2022/0502a9b60b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 106 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/0502a9b60b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-13T21:12:19+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/13/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2381,7 +2435,7 @@
 				"id": "http://matti.micro.blog/2022/02/12/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 105 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 105 🐶\n\n<img src=\"uploads/2022/1765a39a5d.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 105 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/1765a39a5d.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-12T22:52:36+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/12/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2399,7 +2453,7 @@
 				"id": "http://matti.micro.blog/2022/02/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 104 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 104 🐶\n\n<img src=\"uploads/2022/0994573e3e.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 104 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/0994573e3e.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-11T20:21:00+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2417,7 +2471,7 @@
 				"id": "http://matti.micro.blog/2022/02/10/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 103 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 103 🐶\n\n<img src=\"uploads/2022/ee7278dfc2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 103 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/ee7278dfc2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-10T20:24:58+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/10/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2435,7 +2489,7 @@
 				"id": "http://matti.micro.blog/2022/02/09/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 102 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 102 🐶\n\n<img src=\"uploads/2022/36f3e93998.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 102 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/36f3e93998.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-09T20:04:53+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/09/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2453,7 +2507,7 @@
 				"id": "http://matti.micro.blog/2022/02/08/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 101 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 101 🐶\n\n<img src=\"uploads/2022/09a0906d42.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 101 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/09a0906d42.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-08T20:27:15+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/08/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2471,7 +2525,7 @@
 				"id": "http://matti.micro.blog/2022/02/07/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 100(!) 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 100(!) 🐶\n\n<img src=\"uploads/2022/35708e5999.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 100(!) 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/35708e5999.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-07T21:43:21+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/07/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2489,7 +2543,7 @@
 				"id": "http://matti.micro.blog/2022/02/06/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 99 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 99 🐶\n\n<img src=\"uploads/2022/60be4e1ccc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 99 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/60be4e1ccc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-06T20:15:50+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/06/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2516,7 +2570,7 @@
 				"id": "http://matti.micro.blog/2022/02/05/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 98 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 98 🐶\n\n<img src=\"uploads/2022/53b408e620.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 98 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/53b408e620.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-05T15:25:02+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/05/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2534,7 +2588,7 @@
 				"id": "http://matti.micro.blog/2022/02/04/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 97 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 97 🐶\n\n<img src=\"uploads/2022/9af940d282.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 97 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/9af940d282.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-04T20:02:21+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/04/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2588,7 +2642,7 @@
 				"id": "http://matti.micro.blog/2022/02/02/current-home-screen.html",
 				
 				"content_html": "<p>Current Home Screen: the upper widget is a stack. The lower is siri app suggestions.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Current Home Screen: the upper widget is a stack. The lower is siri app suggestions. \n\n<img src=\"uploads/2022/7f23a94fc1.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Current Home Screen: the upper widget is a stack. The lower is siri app suggestions. \n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/7f23a94fc1.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-02T11:29:46+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/02/current-home-screen.html"
 			},
@@ -2623,7 +2677,7 @@
 				"id": "http://matti.micro.blog/2022/01/31/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 94 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 94 🐶\n\n<img src=\"uploads/2022/3dfffc1434.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 94 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/3dfffc1434.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-31T20:30:48+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/31/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2649,7 +2703,7 @@
 				"id": "http://matti.micro.blog/2022/01/30/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 93 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 93 🐶\n\n<img src=\"uploads/2022/c0b00ddfef.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 93 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/c0b00ddfef.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-30T21:46:39+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/30/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2676,7 +2730,7 @@
 				"id": "http://matti.micro.blog/2022/01/29/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 92 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 92 🐶\n\n<img src=\"uploads/2022/73f128062b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 92 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/73f128062b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-29T20:08:50+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/29/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2694,7 +2748,7 @@
 				"id": "http://matti.micro.blog/2022/01/28/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 91 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 91 🐶\n\n<img src=\"uploads/2022/9e39bec867.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 91 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/9e39bec867.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-28T20:00:56+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/28/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2712,7 +2766,7 @@
 				"id": "http://matti.micro.blog/2022/01/27/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 90 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 90 🐶\n\n<img src=\"uploads/2022/e1774cfe60.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 90 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/e1774cfe60.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-27T20:06:00+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/27/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2730,7 +2784,7 @@
 				"id": "http://matti.micro.blog/2022/01/26/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 89 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 89 🐶\n\n<img src=\"uploads/2022/a70c9e86f4.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 89 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/a70c9e86f4.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-26T19:53:01+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/26/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2748,7 +2802,7 @@
 				"id": "http://matti.micro.blog/2022/01/25/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 88 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 88 🐶\n\n<img src=\"uploads/2022/150fd4aa46.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 88 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/150fd4aa46.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-25T20:10:55+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/25/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2766,7 +2820,7 @@
 				"id": "http://matti.micro.blog/2022/01/24/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 87 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 87 🐶\n\n<img src=\"uploads/2022/74cf8f4831.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 87 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/74cf8f4831.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-24T20:00:22+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/24/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2784,7 +2838,7 @@
 				"id": "http://matti.micro.blog/2022/01/23/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 86 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 86 🐶\n\n<img src=\"uploads/2022/7670d1b0e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 86 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/7670d1b0e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-23T20:34:36+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/23/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2847,7 +2901,7 @@
 				"id": "http://matti.micro.blog/2022/01/22/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 85 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 85 🐶\n\n<img src=\"uploads/2022/40b72156bc.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "DailyDogo 85 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/40b72156bc.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-01-22T19:51:52+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/22/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2883,7 +2937,7 @@
 				"id": "http://matti.micro.blog/2022/01/21/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 84 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 84 🐶\n\n<img src=\"uploads/2022/cbb26bc69b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 84 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/cbb26bc69b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-21T20:07:22+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/21/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2901,7 +2955,7 @@
 				"id": "http://matti.micro.blog/2022/01/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 83 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 83 🐶\n\n<img src=\"uploads/2022/2079fc290a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 83 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/2079fc290a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-20T20:05:49+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2919,7 +2973,7 @@
 				"id": "http://matti.micro.blog/2022/01/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 82 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 82 🐶\n\n<img src=\"uploads/2022/0a317e53ab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 82 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/0a317e53ab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-19T20:01:14+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/19/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2946,7 +3000,7 @@
 				"id": "http://matti.micro.blog/2022/01/18/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 81 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 81 🐶\n\n<img src=\"uploads/2022/0ab888f36f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 81 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/0ab888f36f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-18T20:05:53+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/18/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2972,7 +3026,7 @@
 				"id": "http://matti.micro.blog/2022/01/17/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 80 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 80 🐶\n\n<img src=\"uploads/2022/9f9dc6929a.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 80 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/9f9dc6929a.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-17T20:31:09+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/17/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -2990,7 +3044,7 @@
 				"id": "http://matti.micro.blog/2022/01/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 79 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 79 🐶\n\n<img src=\"uploads/2022/557470288b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 79 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/557470288b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-16T23:01:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/16/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3016,7 +3070,7 @@
 				"id": "http://matti.micro.blog/2022/01/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 78 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 78 🐶\n\n<img src=\"uploads/2022/5f49881d43.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 78 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/5f49881d43.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-15T20:20:36+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/15/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3034,7 +3088,7 @@
 				"id": "http://matti.micro.blog/2022/01/15/would-you-look.html",
 				
 				"content_html": "<p>Would you look at that super cute dog there in <a href=\"https://micro.blog/manton\">@manton</a>&rsquo;s <a href=\"https://www.manton.org/2022/01/14/123845.html\">announcement</a> of Micro.blog for Android!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Would you look at that super cute dog there in [@manton](https://micro.blog/manton)'s [announcement](https://www.manton.org/2022/01/14/123845.html) of Micro.blog for Android!\n\n<img src=\"uploads/2022/34e7c13e3d.jpg\" width=\"600\" height=\"557\" alt=\"\" />\n",
+				"content_text": "Would you look at that super cute dog there in [@manton](https://micro.blog/manton)'s [announcement](https://www.manton.org/2022/01/14/123845.html) of Micro.blog for Android!\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/34e7c13e3d.jpg\" width=\"600\" height=\"557\" alt=\"\" />\n",
 				"date_published": "2022-01-15T12:12:37+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/15/would-you-look.html"
 			},
@@ -3060,7 +3114,7 @@
 				"id": "http://matti.micro.blog/2022/01/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 77 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 77 🐶\n\n<img src=\"uploads/2022/f0f2f2795d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 77 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/f0f2f2795d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-14T20:08:56+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3078,7 +3132,7 @@
 				"id": "http://matti.micro.blog/2022/01/13/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 76 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 76 🐶\n\n<img src=\"uploads/2022/cd4ec65519.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 76 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/cd4ec65519.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-13T20:55:45+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/13/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3096,7 +3150,7 @@
 				"id": "http://matti.micro.blog/2022/01/12/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 75 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 75 🐶\n\n<img src=\"uploads/2022/d9129ba08f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 75 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/d9129ba08f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-12T20:26:20+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/12/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3114,7 +3168,7 @@
 				"id": "http://matti.micro.blog/2022/01/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 74 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 74 🐶\n\n<img src=\"uploads/2022/42b90c7a73.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 74 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/42b90c7a73.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-11T20:15:57+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3132,7 +3186,7 @@
 				"id": "http://matti.micro.blog/2022/01/10/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 73 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 73 🐶\n\n<img src=\"uploads/2022/6cce6c0840.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 73 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/6cce6c0840.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-10T20:06:05+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/10/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3150,7 +3204,7 @@
 				"id": "http://matti.micro.blog/2022/01/09/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 72🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 72🐶\n\n<img src=\"uploads/2022/227b79d345.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 72🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/227b79d345.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-09T20:28:48+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/09/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3194,7 +3248,7 @@
 				"id": "http://matti.micro.blog/2022/01/07/help-it-seems.html",
 				
 				"content_html": "<p>.<a href=\"https://micro.blog/help\">@help</a> It seems to me that the <a href=\"https://gohugo.io/getting-started/configuration-markup#highlight\">highlight</a> part of an otherwise working overriden config.json in a custom theme is completely ignored (hugo v. 0.91)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": ".[@help](https://micro.blog/help) It seems to me that the [highlight](https://gohugo.io/getting-started/configuration-markup#highlight) part of an otherwise working overriden config.json in a custom theme is completely ignored (hugo v. 0.91)\n\n<img src=\"uploads/2022/39a36c4f7d.jpg\" width=\"600\" height=\"231\" alt=\"\" />\n",
+				"content_text": ".[@help](https://micro.blog/help) It seems to me that the [highlight](https://gohugo.io/getting-started/configuration-markup#highlight) part of an otherwise working overriden config.json in a custom theme is completely ignored (hugo v. 0.91)\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/39a36c4f7d.jpg\" width=\"600\" height=\"231\" alt=\"\" />\n",
 				"date_published": "2022-01-08T00:26:43+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/07/help-it-seems.html"
 			},
@@ -3202,7 +3256,7 @@
 				"id": "http://matti.micro.blog/2022/01/07/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 70 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 70 🐶\n\n<img src=\"uploads/2022/83120834b9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 70 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/83120834b9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-07T22:16:08+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/07/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3227,7 +3281,7 @@
 				"id": "http://matti.micro.blog/2022/01/06/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 69 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 69 🐶\n\n<img src=\"uploads/2022/3695f913c1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 69 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/3695f913c1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-06T20:17:10+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/06/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3236,7 +3290,7 @@
 				"id": "http://matti.micro.blog/2022/01/05/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 68 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 68 🐶\n\n<img src=\"uploads/2022/f84bfe3c24.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 68 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/f84bfe3c24.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-05T23:15:38+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/05/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3245,7 +3299,7 @@
 				"id": "http://matti.micro.blog/2022/01/04/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 67</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 67\n\n<img src=\"uploads/2022/47a52603fa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 67\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/47a52603fa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-04T20:09:13+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/04/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3263,7 +3317,7 @@
 				"id": "http://matti.micro.blog/2022/01/03/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 66 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 66 🐶\n\n<img src=\"uploads/2022/e444508f14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 66 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/e444508f14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-03T20:05:12+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/03/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3306,7 +3360,7 @@
 				"id": "http://matti.micro.blog/2022/01/01/manton-also-why.html",
 				
 				"content_html": "<p>.<a href=\"https://micro.blog/manton\">@manton</a> Also: Why are theme errors not shown in the log? But here?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": ".[@manton](https://micro.blog/manton) Also: Why are theme errors not shown in the log? But here?\n\n<img src=\"uploads/2022/681fd9c18c.jpg\" width=\"600\" height=\"276\" alt=\"\" />\n",
+				"content_text": ".[@manton](https://micro.blog/manton) Also: Why are theme errors not shown in the log? But here?\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/681fd9c18c.jpg\" width=\"600\" height=\"276\" alt=\"\" />\n",
 				"date_published": "2022-01-01T21:38:00+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/01/manton-also-why.html"
 			},
@@ -3331,7 +3385,7 @@
 				"id": "http://matti.micro.blog/2022/01/01/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 64 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 64 🐶\n\n<img src=\"uploads/2022/b63778ae94.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 64 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/b63778ae94.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-01T20:04:30+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/01/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3349,7 +3403,7 @@
 				"id": "http://matti.micro.blog/2021/12/31/help-somehow-while.html",
 				
 				"content_html": "<p>.<a href=\"https://micro.blog/help\">@help</a> Somehow while playing with my testblog I ended up with a weird situation: Note that 1.) The content of the titles page is test and 2.) The content is red and an h1 even though the layout for that page has been deleted.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": ".[@help](https://micro.blog/help) Somehow while playing with my testblog I ended up with a weird situation: Note that 1.) The content of the titles page is test and 2.) The content is red and an h1 even though the layout for that page has been deleted.\n\n<img src=\"uploads/2021/cce7fbda8e.jpg\" width=\"600\" height=\"307\" alt=\"\" /><img src=\"uploads/2021/bc717bb6e7.jpg\" width=\"600\" height=\"283\" alt=\"\" />\n",
+				"content_text": ".[@help](https://micro.blog/help) Somehow while playing with my testblog I ended up with a weird situation: Note that 1.) The content of the titles page is test and 2.) The content is red and an h1 even though the layout for that page has been deleted.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/cce7fbda8e.jpg\" width=\"600\" height=\"307\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/bc717bb6e7.jpg\" width=\"600\" height=\"283\" alt=\"\" />\n",
 				"date_published": "2021-12-31T20:44:50+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/31/help-somehow-while.html"
 			},
@@ -3357,7 +3411,7 @@
 				"id": "http://matti.micro.blog/2021/12/31/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 63 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 63 🐶\n\n<img src=\"uploads/2021/b83898a01b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 63 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/b83898a01b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-31T20:14:14+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/31/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3366,7 +3420,7 @@
 				"id": "http://matti.micro.blog/2021/12/30/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 62 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 62 🐶\n\n<img src=\"uploads/2021/ad07b10eaf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 62 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/ad07b10eaf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-30T20:20:55+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/30/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3383,7 +3437,7 @@
 				"id": "http://matti.micro.blog/2021/12/29/211547.html",
 				
 				"content_html": "<p>DailyDogo 61 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 61 🐶 \n\n<img src=\"uploads/2021/46c2e29efc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 61 🐶 \n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/46c2e29efc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-29T22:15:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/29/211547.html",
 				"tags": ["DailyDogo"]
@@ -3392,7 +3446,7 @@
 				"id": "http://matti.micro.blog/2021/12/29/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 60 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 60 🐶\n\n<img src=\"uploads/2021/9fe00c6855.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 60 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/9fe00c6855.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-29T22:11:21+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/29/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3401,7 +3455,7 @@
 				"id": "http://matti.micro.blog/2021/12/27/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 59 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 59 🐶\n\n<img src=\"uploads/2021/b0376eaa27.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 59 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/b0376eaa27.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-27T20:00:59+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/27/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3410,7 +3464,7 @@
 				"id": "http://matti.micro.blog/2021/12/26/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 58 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 58 🐶\n\n<img src=\"uploads/2021/e903cf584a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 58 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/e903cf584a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-26T20:02:54+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/26/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3419,7 +3473,7 @@
 				"id": "http://matti.micro.blog/2021/12/25/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 57 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 57 🐶\n\n<img src=\"uploads/2021/79a430ab14.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "DailyDogo 57 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/79a430ab14.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-12-25T22:09:00+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/25/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3437,7 +3491,7 @@
 				"id": "http://matti.micro.blog/2021/12/24/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 56 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 56 🐶\n\n<img src=\"uploads/2021/433fc40fdf.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 56 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/433fc40fdf.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-24T21:40:34+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/24/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3446,7 +3500,7 @@
 				"id": "http://matti.micro.blog/2021/12/23/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 55 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 55 🐶\n\n<img src=\"uploads/2021/967fe17580.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 55 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/967fe17580.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-23T23:30:27+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/23/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3455,7 +3509,7 @@
 				"id": "http://matti.micro.blog/2021/12/22/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 54 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 54 🐶\n\n<img src=\"uploads/2021/1ae27d774a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 54 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/1ae27d774a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-23T00:42:39+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/22/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3464,7 +3518,7 @@
 				"id": "http://matti.micro.blog/2021/12/21/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 53 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 53 🐶\n\n<img src=\"uploads/2021/0308e2c1e0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 53 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/0308e2c1e0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-21T23:41:16+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/21/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3473,7 +3527,7 @@
 				"id": "http://matti.micro.blog/2021/12/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 52 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 52 🐶\n\n<img src=\"uploads/2021/d7f5c3204e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 52 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/d7f5c3204e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-20T20:04:46+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3490,7 +3544,7 @@
 				"id": "http://matti.micro.blog/2021/12/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 51 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 51 🐶\n\n<img src=\"uploads/2021/357dc419df.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 51 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/357dc419df.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-19T20:51:25+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/19/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3507,7 +3561,7 @@
 				"id": "http://matti.micro.blog/2021/12/18/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 50 (!) 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 50 (!) 🐶\n\n<img src=\"uploads/2021/0e792751d9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 50 (!) 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/0e792751d9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-18T20:28:40+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/18/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3532,7 +3586,7 @@
 				"id": "http://matti.micro.blog/2021/12/17/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 49 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "DailyDogo 49 🐶\n\n<img src=\"uploads/2021/464b2b3fef.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/bef73a4dc2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 49 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/464b2b3fef.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/bef73a4dc2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-17T20:32:32+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/17/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3550,7 +3604,7 @@
 				"id": "http://matti.micro.blog/2021/12/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 47 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 47 🐶\n\n<img src=\"uploads/2021/d45b73c947.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 47 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/d45b73c947.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-15T22:51:28+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/15/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3559,7 +3613,7 @@
 				"id": "http://matti.micro.blog/2021/12/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 46 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "DailyDogo 46 🐶\n\n<img src=\"uploads/2021/8c4a02ac30.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/ecd4d5c4ab.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 46 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/8c4a02ac30.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/ecd4d5c4ab.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-14T22:25:49+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3568,7 +3622,7 @@
 				"id": "http://matti.micro.blog/2021/12/13/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 45 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 45 🐶\n\n<img src=\"uploads/2021/0a409d973e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 45 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/0a409d973e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-13T21:39:00+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/13/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3577,7 +3631,7 @@
 				"id": "http://matti.micro.blog/2021/12/13/cool.html",
 				
 				"content_html": "<p>Cool.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cool. \n\n<img src=\"uploads/2021/9934becae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Cool. \n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/9934becae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-13T16:25:04+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/13/cool.html"
 			},
@@ -3585,7 +3639,7 @@
 				"id": "http://matti.micro.blog/2021/12/12/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 44 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 44 🐶\n\n<img src=\"uploads/2021/4bf529d948.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 44 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/4bf529d948.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-12T22:20:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/12/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3602,7 +3656,7 @@
 				"id": "http://matti.micro.blog/2021/12/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 43 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 43 🐶\n\n<img src=\"uploads/2021/fccb634df6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 43 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/fccb634df6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-11T21:21:22+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3611,7 +3665,7 @@
 				"id": "http://matti.micro.blog/2021/12/10/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 42 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 42 🐶\n\n<img src=\"uploads/2021/f2da4319b2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 42 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/f2da4319b2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-10T21:42:26+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/10/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3620,7 +3674,7 @@
 				"id": "http://matti.micro.blog/2021/12/09/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 41 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 41 🐶\n\n<img src=\"uploads/2021/7929efef92.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 41 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/7929efef92.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-09T21:39:30+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/09/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3629,7 +3683,7 @@
 				"id": "http://matti.micro.blog/2021/12/08/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 40 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 40 🐶\n\n<img src=\"uploads/2021/6e2ad49ae0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 40 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/6e2ad49ae0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-08T22:06:01+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/08/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3638,7 +3692,7 @@
 				"id": "http://matti.micro.blog/2021/12/07/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 39 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 39 🐶\n\n<img src=\"uploads/2021/58827c371d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 39 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/58827c371d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-07T21:11:37+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/07/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3647,7 +3701,7 @@
 				"id": "http://matti.micro.blog/2021/12/07/dailydogo-little.html",
 				
 				"content_html": "<p>DailyDogo 38 🐶 (little 🦈)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 38 🐶 (little 🦈)\n\n<img src=\"uploads/2021/5b69c688e2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 38 🐶 (little 🦈)\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/5b69c688e2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-07T21:10:51+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/07/dailydogo-little.html",
 				"tags": ["DailyDogo"]
@@ -3656,7 +3710,7 @@
 				"id": "http://matti.micro.blog/2021/12/05/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 37 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 37 🐶\n\n<img src=\"uploads/2021/eafa66a988.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 37 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/eafa66a988.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-05T19:32:19+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/05/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3683,7 +3737,7 @@
 				"id": "http://matti.micro.blog/2021/12/04/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 36 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 36 🐶\n\n<img src=\"uploads/2021/cc083a33ac.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 36 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/cc083a33ac.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-04T21:15:31+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/04/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3692,7 +3746,7 @@
 				"id": "http://matti.micro.blog/2021/12/03/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 35 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 35 🐶\n\n<img src=\"uploads/2021/4f6141bc26.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 35 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/4f6141bc26.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-03T22:22:35+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/03/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3701,7 +3755,7 @@
 				"id": "http://matti.micro.blog/2021/12/02/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 34 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 34 🐶\n\n<img src=\"uploads/2021/52b0f77350.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 34 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/52b0f77350.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-02T21:11:38+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/02/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3710,7 +3764,7 @@
 				"id": "http://matti.micro.blog/2021/12/01/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 33 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 33 🐶\n\n<img src=\"uploads/2021/6c632b348b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 33 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/6c632b348b.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-01T23:49:01+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/01/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3719,7 +3773,7 @@
 				"id": "http://matti.micro.blog/2021/11/30/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 32 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 32 🐶\n\n<img src=\"uploads/2021/98314c8f3c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 32 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/98314c8f3c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-30T21:53:09+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/30/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3728,7 +3782,7 @@
 				"id": "http://matti.micro.blog/2021/11/29/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 31 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 31 🐶\n\n<img src=\"uploads/2021/a37327f577.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 31 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/a37327f577.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-29T22:46:30+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/29/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3745,7 +3799,7 @@
 				"id": "http://matti.micro.blog/2021/11/28/161549.html",
 				
 				"content_html": "<p>DailyDogo 30 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 30 🐶\n\n<img src=\"uploads/2021/f6ee3d6054.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 30 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/f6ee3d6054.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-28T17:15:49+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/28/161549.html",
 				"tags": ["DailyDogo"]
@@ -3754,7 +3808,7 @@
 				"id": "http://matti.micro.blog/2021/11/28/161452.html",
 				
 				"content_html": "<p>DailyDogo 29 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 29 🐶\n\n<img src=\"uploads/2021/649f429b98.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 29 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/649f429b98.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-28T17:14:52+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/28/161452.html",
 				"tags": ["DailyDogo"]
@@ -3763,7 +3817,7 @@
 				"id": "http://matti.micro.blog/2021/11/28/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 28 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 28 🐶\n\n<img src=\"uploads/2021/bbd65653c9.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 28 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/bbd65653c9.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-28T17:14:13+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/28/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3772,7 +3826,7 @@
 				"id": "http://matti.micro.blog/2021/11/25/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 27 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 27 🐶\n\n<img src=\"uploads/2021/39f20be4ed.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 27 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/39f20be4ed.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-25T17:07:57+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/25/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3781,7 +3835,7 @@
 				"id": "http://matti.micro.blog/2021/11/24/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 26 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 26 🐶\n\n<img src=\"uploads/2021/2e85bc107f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 26 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/2e85bc107f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-24T20:06:58+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/24/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3790,7 +3844,7 @@
 				"id": "http://matti.micro.blog/2021/11/23/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 25 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 25 🐶\n\n<img src=\"uploads/2021/82143a2cad.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 25 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/82143a2cad.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-23T21:08:06+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/23/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3808,7 +3862,7 @@
 				"id": "http://matti.micro.blog/2021/11/22/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 23 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 23 🐶\n\n<img src=\"uploads/2021/1abb6a827f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 23 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/1abb6a827f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-22T14:38:20+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/22/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3825,7 +3879,7 @@
 				"id": "http://matti.micro.blog/2021/11/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 22 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 22 🐶\n\n<img src=\"uploads/2021/0d796c466e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 22 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/0d796c466e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-20T12:01:14+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3834,7 +3888,7 @@
 				"id": "http://matti.micro.blog/2021/11/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 21 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 21 🐶\n\n<img src=\"uploads/2021/ca5f50dbd4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 21 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/ca5f50dbd4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-19T22:30:14+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/19/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3843,7 +3897,7 @@
 				"id": "http://matti.micro.blog/2021/11/18/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 20(!) 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 20(!) 🐶\n\n<img src=\"uploads/2021/2950cf9e19.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 20(!) 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/2950cf9e19.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-18T20:37:40+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/18/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3852,7 +3906,7 @@
 				"id": "http://matti.micro.blog/2021/11/17/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 19 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 19 🐶\n\n<img src=\"uploads/2021/9491eb18e7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 19 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/9491eb18e7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-17T19:12:26+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/17/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3861,7 +3915,7 @@
 				"id": "http://matti.micro.blog/2021/11/16/164533.html",
 				
 				"content_html": "<p>DailyDogo 18 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 18 🐶\n\n<img src=\"uploads/2021/f13474b529.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 18 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/f13474b529.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-16T17:45:33+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/16/164533.html",
 				"tags": ["DailyDogo"]
@@ -3870,7 +3924,7 @@
 				"id": "http://matti.micro.blog/2021/11/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 17 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 17 🐶\n\n<img src=\"uploads/2021/1bd053db30.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 17 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/1bd053db30.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-16T17:44:57+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/16/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3887,7 +3941,7 @@
 				"id": "http://matti.micro.blog/2021/11/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 16 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 16 🐶\n\n<img src=\"uploads/2021/b86d5a049a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 16 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/b86d5a049a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-14T15:36:12+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3904,7 +3958,7 @@
 				"id": "http://matti.micro.blog/2021/11/13/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 15 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 15 🐶\n\n<img src=\"uploads/2021/eaaed5c053.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 15 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/eaaed5c053.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-13T13:20:06+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/13/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3913,7 +3967,7 @@
 				"id": "http://matti.micro.blog/2021/11/13/dailydogo-yesterdays.html",
 				
 				"content_html": "<p>DailyDogo 14 🐶 (Yesterday’s)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 14 🐶 (Yesterday’s)\n\n<img src=\"uploads/2021/ff3e4613f7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 14 🐶 (Yesterday’s)\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/ff3e4613f7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-13T13:00:48+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/13/dailydogo-yesterdays.html",
 				"tags": ["DailyDogo"]
@@ -3922,7 +3976,7 @@
 				"id": "http://matti.micro.blog/2021/11/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 13 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "DailyDogo 13 🐶\n\n<img src=\"uploads/2021/e530964c71.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/aaaf978773.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 13 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/e530964c71.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/aaaf978773.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-11T23:15:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3931,7 +3985,7 @@
 				"id": "http://matti.micro.blog/2021/11/10/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 12 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 12 🐶\n\n<img src=\"uploads/2021/e5e1b158d0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 12 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/e5e1b158d0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-10T17:49:21+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/10/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3940,7 +3994,7 @@
 				"id": "http://matti.micro.blog/2021/11/09/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 11 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 11 🐶\n\n<img src=\"uploads/2021/35fdffe7f4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 11 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/35fdffe7f4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-10T00:45:01+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/09/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3949,7 +4003,7 @@
 				"id": "http://matti.micro.blog/2021/11/08/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 10 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 10 🐶\n\n<img src=\"uploads/2021/a390bec09c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 10 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/a390bec09c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-08T22:22:30+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/08/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3958,7 +4012,7 @@
 				"id": "http://matti.micro.blog/2021/11/07/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 9 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 9 🐶\n\n<img src=\"uploads/2021/57661f6c10.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 9 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/57661f6c10.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-07T13:40:25+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/07/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3967,7 +4021,7 @@
 				"id": "http://matti.micro.blog/2021/11/06/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 8 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 8 🐶\n\n<img src=\"uploads/2021/250b2a35c0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 8 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/250b2a35c0.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-06T19:56:53+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/06/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3984,7 +4038,7 @@
 				"id": "http://matti.micro.blog/2021/11/05/121528.html",
 				
 				"content_html": "<p>DailyDogo 7 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 7 🐶\n\n<img src=\"uploads/2021/87b9360bab.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 7 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/87b9360bab.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-05T13:15:28+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/05/121528.html",
 				"tags": ["DailyDogo"]
@@ -3993,7 +4047,7 @@
 				"id": "http://matti.micro.blog/2021/11/05/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 6 🐶 (Yesterday&rsquo;s)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 6 🐶 (Yesterday's)\n\n<img src=\"uploads/2021/cfaf8461cd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 6 🐶 (Yesterday's)\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/cfaf8461cd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-05T09:05:00+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/05/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -4002,7 +4056,7 @@
 				"id": "http://matti.micro.blog/2021/11/03/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 5 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 5 🐶\n\n<img src=\"uploads/2021/183b4dccbe.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 5 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/183b4dccbe.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-03T12:39:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/03/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -4011,7 +4065,7 @@
 				"id": "http://matti.micro.blog/2021/11/02/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 4 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 4 🐶\n\n<img src=\"uploads/2021/ce373c3146.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 4 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/ce373c3146.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-02T16:46:55+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/02/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -4020,7 +4074,7 @@
 				"id": "http://matti.micro.blog/2021/11/01/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 3 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 3 🐶\n\n<img src=\"uploads/2021/9736093820.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 3 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/9736093820.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-01T13:35:03+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/11/01/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -4029,7 +4083,7 @@
 				"id": "http://matti.micro.blog/2021/10/31/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 2 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 2 🐶\n\n<img src=\"uploads/2021/e4d043a14e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "DailyDogo 2 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/e4d043a14e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-31T15:42:37+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/10/31/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -4038,7 +4092,7 @@
 				"id": "http://matti.micro.blog/2021/10/30/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1 🐶\n\n<img src=\"uploads/2021/dd7fdf28cb.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/dd7fdf28cb.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-30T21:06:33+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/10/30/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -4055,7 +4109,7 @@
 				"id": "http://matti.micro.blog/2021/10/18/first-flight-to.html",
 				
 				"content_html": "<p>First flight to Germany in almost two years. Mostly to visit (some of) the family. First from Kuusamo to Helsinki and after some hours of waiting I’ll continue to Berlin.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First flight to Germany in almost two years. Mostly to visit (some of) the family. First from Kuusamo to Helsinki and after some hours of waiting I’ll continue to Berlin.\n\n<img src=\"uploads/2021/27166156af.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "First flight to Germany in almost two years. Mostly to visit (some of) the family. First from Kuusamo to Helsinki and after some hours of waiting I’ll continue to Berlin.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/27166156af.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-18T10:26:53+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/10/18/first-flight-to.html"
 			},
@@ -4087,7 +4141,7 @@
 				"id": "http://matti.micro.blog/2021/10/10/my-first-americano.html",
 				
 				"content_html": "<p>My first Americano ever. I like it a lot.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My first Americano ever. I like it a lot.\n\n<img src=\"uploads/2021/3a86099195.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My first Americano ever. I like it a lot.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/3a86099195.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-10T14:05:15+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/10/10/my-first-americano.html"
 			},
@@ -4155,7 +4209,7 @@
 				"id": "http://matti.micro.blog/2021/09/22/a-little-boat.html",
 				
 				"content_html": "<p>A little boat trip on the upper part of the Oulankajoki - About 15 km. Our bodies were so sore the next day. We weathered two small rapids and also almost keeled over! We laughed a lot last Sunday.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A little boat trip on the upper part of the Oulankajoki - About 15 km. Our bodies were so sore the next day. We weathered two small rapids and also almost keeled over! We laughed a lot last Sunday.\n\n<img src=\"uploads/2021/1b2f7432bc.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/c68cf79906.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/6b5655976b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/bc49a0c7a1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/419b14604c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "A little boat trip on the upper part of the Oulankajoki - About 15 km. Our bodies were so sore the next day. We weathered two small rapids and also almost keeled over! We laughed a lot last Sunday.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/1b2f7432bc.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/c68cf79906.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/6b5655976b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/bc49a0c7a1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/419b14604c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-09-22T22:22:06+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/09/22/a-little-boat.html"
 			},
@@ -4203,7 +4257,7 @@
 				"id": "http://matti.micro.blog/2021/09/13/and-done.html",
 				
 				"content_html": "<p>… and done!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "… and done!\n\n<img src=\"uploads/2021/14b7843d2e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "… and done!\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/14b7843d2e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-13T20:38:53+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/09/13/and-done.html"
 			},
@@ -4211,7 +4265,7 @@
 				"id": "http://matti.micro.blog/2021/09/13/vegetable-pasta.html",
 				
 				"content_html": "<p>Vegetable pasta. 🧑‍🍳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Vegetable pasta. 🧑‍🍳\n\n<img src=\"uploads/2021/ea1fef89c9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Vegetable pasta. 🧑‍🍳\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/ea1fef89c9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-09-13T20:23:17+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/09/13/vegetable-pasta.html"
 			},
@@ -4219,7 +4273,7 @@
 				"id": "http://matti.micro.blog/2021/09/13/colors-of-the.html",
 				
 				"content_html": "<p>Colors of the ruska season in the Riisitunturi Nationalpark</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Colors of the ruska season in the Riisitunturi Nationalpark\n\n<img src=\"uploads/2021/abad51b9d6.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/fa1eccd81e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/6f85d64668.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/568fe86599.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/8ea1466ce1.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/52a128d40c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/54911e7a9e.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/107d5de257.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/76dc0c1f22.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Colors of the ruska season in the Riisitunturi Nationalpark\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/abad51b9d6.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/fa1eccd81e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/6f85d64668.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/568fe86599.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/8ea1466ce1.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/52a128d40c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/54911e7a9e.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/107d5de257.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/76dc0c1f22.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-13T00:42:31+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/09/13/colors-of-the.html"
 			},
@@ -4331,7 +4385,7 @@
 				"id": "http://matti.micro.blog/2021/08/16/first-little-balcony.html",
 				
 				"content_html": "<p>First little balcony harvest. 🌱 It wasn’t easy or sure with all the scaffolding from the roof reno that lasts the whole summer. But grateful for the results nonetheless. 🍅 ☺️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "First little balcony harvest. 🌱 It wasn’t easy or sure with all the scaffolding from the roof reno that lasts the whole summer. But grateful for the results nonetheless. 🍅 ☺️\n\n<img src=\"uploads/2021/e860e98946.jpg\" width=\"600\" height=\"600\" alt=\"a handful of tomatoes spread out on a table and in a hand with a handwritten note next to them denoting their variety.\" /><img src=\"uploads/2021/50523fcf99.jpg\" width=\"600\" height=\"600\" alt=\"Tomato fruits still on the bush on our balcony with the scaffolding in the background.\" />\n",
+				"content_text": "First little balcony harvest. 🌱 It wasn’t easy or sure with all the scaffolding from the roof reno that lasts the whole summer. But grateful for the results nonetheless. 🍅 ☺️\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/e860e98946.jpg\" width=\"600\" height=\"600\" alt=\"a handful of tomatoes spread out on a table and in a hand with a handwritten note next to them denoting their variety.\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/50523fcf99.jpg\" width=\"600\" height=\"600\" alt=\"Tomato fruits still on the bush on our balcony with the scaffolding in the background.\" />\n",
 				"date_published": "2021-08-16T13:21:24+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/08/16/first-little-balcony.html"
 			},
@@ -4520,7 +4574,7 @@
 				"id": "http://matti.micro.blog/2021/07/02/construction-work-throughout.html",
 				
 				"content_html": "<p>Construction work throughout the whole pretty short summer sucks. But we make the best of it regardless. My GF rearranged the balcony, our oasis at home so that the plants would get more light and we can sit more comfortably there. 🌱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Construction work throughout the whole pretty short summer sucks. But we make the best of it regardless. My GF rearranged the balcony, our oasis at home so that the plants would get more light and we can sit more comfortably there. 🌱\n\n<img src=\"uploads/2021/b05ae4d546.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Construction work throughout the whole pretty short summer sucks. But we make the best of it regardless. My GF rearranged the balcony, our oasis at home so that the plants would get more light and we can sit more comfortably there. 🌱\n\n<img src=\"https://matti.micro.blog/uploads/2021/b05ae4d546.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-02T16:55:54+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/07/02/construction-work-throughout.html"
 			},
@@ -4536,7 +4590,7 @@
 				"id": "http://matti.micro.blog/2021/07/01/they-are-building.html",
 				
 				"content_html": "<p>They are building a roof on our roof!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "They are building a roof on our roof!\n\n<img src=\"uploads/2021/34ca928fd4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "They are building a roof on our roof!\n\n<img src=\"https://matti.micro.blog/uploads/2021/34ca928fd4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-01T15:53:13+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/07/01/they-are-building.html"
 			},
@@ -4552,7 +4606,7 @@
 				"id": "http://matti.micro.blog/2021/06/28/what-a-beautiful.html",
 				
 				"content_html": "<p>What a beautiful day! I had taken a vacation day from work today.</p>\n<p>After I woke up to help my GF in the morning by preparing food and coffee for her, I crawled back to bed and slept in.</p>\n<p>Took my sweet time, dreamt crazy dreams. Later, I started a new audio book from libby (more on that maybe another time) and started cleaning and stowing away our camping supplies.</p>\n<p>In the evening we went out to that bar that is so close to us — they had an open terrace for us to sit on, drink beers and eat. Lazy discussions about our summer plans and how we would approach tomorrow&rsquo;s day hike.</p>\n<p>Finally, a little stroll along the two lakes that are less than two hundred meters from our home.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What a beautiful day! I had taken a vacation day from work today. \r\n\r\nAfter I woke up to help my GF in the morning by preparing food and coffee for her, I crawled back to bed and slept in.\r\n\r\nTook my sweet time, dreamt crazy dreams. Later, I started a new audio book from libby (more on that maybe another time) and started cleaning and stowing away our camping supplies.\r\n\r\nIn the evening we went out to that bar that is so close to us — they had an open terrace for us to sit on, drink beers and eat. Lazy discussions about our summer plans and how we would approach tomorrow's day hike.\r\n\r\nFinally, a little stroll along the two lakes that are less than two hundred meters from our home.\n\n<img src=\"uploads/2021/0c629850dd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "What a beautiful day! I had taken a vacation day from work today. \r\n\r\nAfter I woke up to help my GF in the morning by preparing food and coffee for her, I crawled back to bed and slept in.\r\n\r\nTook my sweet time, dreamt crazy dreams. Later, I started a new audio book from libby (more on that maybe another time) and started cleaning and stowing away our camping supplies.\r\n\r\nIn the evening we went out to that bar that is so close to us — they had an open terrace for us to sit on, drink beers and eat. Lazy discussions about our summer plans and how we would approach tomorrow's day hike.\r\n\r\nFinally, a little stroll along the two lakes that are less than two hundred meters from our home.\n\n<img src=\"https://matti.micro.blog/uploads/2021/0c629850dd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-06-28T22:27:52+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/06/28/what-a-beautiful.html"
 			},
@@ -4610,7 +4664,7 @@
 				"id": "http://matti.micro.blog/2021/06/19/hiking-was-indeed.html",
 				
 				"content_html": "<p>Hiking was indeed nice. Now a late dinner cooking session to feed us hungry and exhausted nature admirers.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hiking was indeed nice. Now a late dinner cooking session to feed us hungry and exhausted nature admirers.\n\n<img src=\"uploads/2021/a5de84bd5a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Hiking was indeed nice. Now a late dinner cooking session to feed us hungry and exhausted nature admirers.\n\n<img src=\"https://matti.micro.blog/uploads/2021/a5de84bd5a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-06-19T23:05:04+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/06/19/hiking-was-indeed.html"
 			},
@@ -4634,7 +4688,7 @@
 				"id": "http://matti.micro.blog/2021/06/18/also-just-got.html",
 				
 				"content_html": "<p>Also: Just got my first vaccination. Thank goodness we are still allowed to go to Sauna!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Also: Just got my first vaccination. Thank goodness we are still allowed to go to Sauna!\n\n<img src=\"uploads/2021/87d72e150d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Also: Just got my first vaccination. Thank goodness we are still allowed to go to Sauna!\n\n<img src=\"https://matti.micro.blog/uploads/2021/87d72e150d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-18T10:23:15+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/06/18/also-just-got.html"
 			},
@@ -4666,7 +4720,7 @@
 				"id": "http://matti.micro.blog/2021/06/17/hi.html",
 				"title": "Hi!",
 				"content_html": "<p>So. Hi! I&rsquo;m matti.</p>\n<p>I&rsquo;m a German living in north-eastern Finland. I work as a developer remotely for a German company. I have an academic background in history of science and technology.</p>\n<p>Love a good chunk of the <a href=\"https://micro.blog/merlinmann\">@merlinmann</a> MPU, Maximumfun and some Incomparable Shows. Hi!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So. Hi! I'm matti.\n\nI'm a German living in north-eastern Finland. I work as a developer remotely for a German company. I have an academic background in history of science and technology.\n\nLove a good chunk of the [@merlinmann](https://micro.blog/merlinmann) MPU, Maximumfun and some Incomparable Shows. Hi!\n\n<img src=\"uploads/2021/acc8bf4807.jpg\" width=\"450\" height=\"600\" alt=\"Just a slightly goofy picture of me sitting in a wooden boat, from a recent trip down the rapids around Ruuna in Eastern Finland.\" />\n",
+				"content_text": "So. Hi! I'm matti.\n\nI'm a German living in north-eastern Finland. I work as a developer remotely for a German company. I have an academic background in history of science and technology.\n\nLove a good chunk of the [@merlinmann](https://micro.blog/merlinmann) MPU, Maximumfun and some Incomparable Shows. Hi!\n\n<img src=\"https://matti.micro.blog/uploads/2021/acc8bf4807.jpg\" width=\"450\" height=\"600\" alt=\"Just a slightly goofy picture of me sitting in a wooden boat, from a recent trip down the rapids around Ruuna in Eastern Finland.\" />\n",
 				"date_published": "2021-06-17T12:45:11+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/06/17/hi.html"
 			},
