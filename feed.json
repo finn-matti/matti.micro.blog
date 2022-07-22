@@ -7,10 +7,91 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/07/22/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 261 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 261 🐶\n\n<img src=\"uploads/2022/ada87d73d8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-22T19:45:57+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/07/22/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/07/21/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 260 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 260 🐶\n\n<img src=\"uploads/2022/9db315927a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-21T19:13:37+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/07/21/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/07/20/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 259 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 259 🐶\n\n<img src=\"uploads/2022/c3d7afb6c2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-20T21:05:53+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/07/20/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/07/19/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 258 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 258 🐶\n\n<img src=\"uploads/2022/7daa072191.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-19T19:28:49+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/07/19/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/07/18/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 257 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 257 🐶\n\n<img src=\"uploads/2022/ceebee6d32.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-18T20:07:42+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/07/18/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/07/18/the-three-types.html",
+				"title": "The three types of notes I take",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>My note taking system consists of three different pieces:</p>\n<ol>\n<li>Timeless notes: Ideas, thoughts, etc. that are interlinked and are not time sensitive. These are often literally the base of knowledge from which I work. Here I try to distill what I have learned and try to push myself toward the new and the more generalized.</li>\n<li>Project notes: Status quos, todos and thoughts related to ongoing projects or tasks that have some kind of momentum but are more ephemeral than timeless notes.</li>\n<li>Journal notes: Notes that record what is happening or has happened so that I have a written record of aspects of my lived life.</li>\n</ol>\n<p>Types 2 and 3 are very much related, although different in the sense, that a type 2 note is not necessarily interesting enough to be mentioned in a type 3 note. And a type 3 note is not so concerned with creating or maintaining momentum, but more with creating a record of what happened.</p>\n<p>Type one notes are different in the sense that they should be more interlinked and add up to trees of notes that in turn act serendipity-enhancing on the interface between thinking and writing (including coding). You want to treat those kinds of notes differently and keep them separate. This is where the good stuff lives. Insights from type 2 and 3 notes might end up becoming a type 1 note.</p>\n<p>A type 1 note is not the place to keep a record, though. It represents my latest stance on a topic, the latest formulation of an idea. They exist to be refactored and to be changed in any way that seems appropriate.</p>\n",
+				"date_published": "2022-07-18T17:34:37+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/07/18/the-three-types.html",
+				"tags": ["Notes on Notes"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/07/17/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 256 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 256 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/26a184a6f0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-17T19:17:22+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/07/17/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/07/16/192249.html",
+				
+				"content_html": "<p>DailyDogo 255 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 255 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/3bde814a59.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-16T19:22:49+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/07/16/192249.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/07/16/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 254 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 254 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/4cebc6ecb0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-16T06:48:31+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/07/16/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2022/07/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 253 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 253 🐶\n\n<img src=\"uploads/2022/5d50215c92.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 253 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/5d50215c92.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-14T22:02:14+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/07/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +100,7 @@
 				"id": "http://matti.micro.blog/2022/07/13/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 252 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 252 🐶\n\n<img src=\"uploads/2022/96f8be313c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 252 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/96f8be313c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-13T23:28:38+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/07/13/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +109,7 @@
 				"id": "http://matti.micro.blog/2022/07/12/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 251 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 251 🐶\n\n<img src=\"uploads/2022/1baac00009.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 251 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/1baac00009.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-12T23:30:14+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/07/12/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -37,7 +118,7 @@
 				"id": "http://matti.micro.blog/2022/07/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 250 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 250 🐶\n\n<img src=\"uploads/2022/c31f63373b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 250 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/c31f63373b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-11T20:58:28+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/07/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -46,7 +127,7 @@
 				"id": "http://matti.micro.blog/2022/07/10/213437.html",
 				
 				"content_html": "<p>DailyDogo 249 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 249 🐶\n\n<img src=\"uploads/2022/c1460ff3f0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 249 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/c1460ff3f0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-10T21:34:37+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/07/10/213437.html",
 				"tags": ["DailyDogo"]
@@ -181,7 +262,7 @@
 				"id": "http://matti.micro.blog/2022/07/07/130849.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>DailyDogo 235 🐶</p>\n<p><img src=\"uploads/2022/9368bded70.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n",
+				"content_text": "<p>DailyDogo 235 🐶</p>\n<p><img src=\"https://blog.martin-haehnel.de/uploads/2022/9368bded70.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n",
 				"date_published": "2022-07-07T13:08:49+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/07/07/130849.html",
 				"tags": ["DailyDogo"]
