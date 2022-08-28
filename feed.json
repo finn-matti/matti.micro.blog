@@ -7,10 +7,91 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/08/28/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 298 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 298 🐶\n\n<img src=\"uploads/2022/8d0e8f0c7c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-28T20:56:45+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/28/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/27/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 297 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 297 🐶\n\n<img src=\"uploads/2022/77c58398c5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-27T22:01:22+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/27/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/26/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 296 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 296 🐶\n\n<img src=\"uploads/2022/c18b781977.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-26T21:21:07+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/26/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/25/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 295 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 295 🐶\n\n<img src=\"uploads/2022/f37cbc9b41.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-25T23:58:30+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/25/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/24/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 294 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 294 🐶\n\n<img src=\"uploads/2022/45fcb6909b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-24T20:42:52+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/24/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/23/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 293 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 293 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/3e2590ddf9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-23T19:01:43+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/23/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/22/good-apps-agenda.html",
+				"title": "Good Apps - Agenda",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>For a while I used <a href=\"https://blog.martin-haehnel.de/2022/02/27/good-apps-obsidian.html\">Obsidian</a> to contain all kinds of notes I take: <a href=\"https://blog.martin-haehnel.de/2022/07/18/the-three-types.html\">timeless notes, project notes and journal notes</a>. Now that I have discovered <a href=\"https://agenda.com\">Agenda</a> I keep my project and journal notes there instead.</p>\n<p>Agenda is great for notes, that are transitory in nature. I am a person who needs a writing surface to think and Agenda makes it easy to keep a somewhat ordered writing environment. One thing I really like about it: It makes it very easy to keep periodic notes, <a href=\"https://blog.martin-haehnel.de/2022/08/22/stock-is-better.html\">without me having to maintain a custom system</a>.</p>\n",
+				"date_published": "2022-08-22T19:50:00+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/22/good-apps-agenda.html",
+				"tags": ["Good Apps"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/22/stock-is-better.html",
+				"title": "Stock Is Better",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>The best feature is one that is provided and maintained by the platform. A feature that can be built using an API or through extensions/plugins is of course better than a feature that does not exist all. But: Building a feature means maintaining a feature.</p>\n<p>An example: You can cobble together a functioning journaling/project notes solution, with daily, weekly and other periodic notes in <a href=\"https://blog.martin-haehnel.de/2022/02/27/good-apps-obsidian.html\">Obsidian</a> (using a handful of plugins and a carefully thought through file organization scheme). That works. You just have to remember how everything works the next time you touch that part of your setup. And hope that nothing breaks, between those loosely coupled building blocks and the next update. Or you could just use <a href=\"https://blog.martin-haehnel.de/2022/08/22/good-apps-agenda.html\">Agenda</a>. Is Agenda perfect? No. But it is much more well suited out of the box for this kind of note taking.</p>\n<p>There is also a risk of drift: If you're trying to organize your notes, you probably don't do so just for the sake of it, but because you try to become better at doing other things. The notes and also the notes setup are just helping to accomplish a task at hand. If your setup is complicated and some parts are even written by yourself, you might end up accomplishing everything else but the task you set out to check off in the first place.</p>\n<p>Therefore, when I try to improve my current system, I always look for ways to use a less customized system. The more stock features I use the better. The burden of maintaining those features lies with the app developer.</p>\n<p>Of course, there will be lots of cases where a feature just doesn't exist. In that case I try to live without this feature first. Maybe I don't need it as much as I first thought. If I can't live without it, I look for a plugin solution, again, to lessen the maintenance load on myself. I have to be aware, that I may not need to maintain the plugin providing the feature, but I am now responsible to make it all work, i.e. the burden of maintenance of the integration of plugin and setup lies with me.</p>\n<p>Finally, I might write a plugin, script or customize an existing piece of code to make it do what I need it to do, but this is really a last resort. Very often this is not worth the time.</p>\n",
+				"date_published": "2022-08-22T19:50:00+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/22/stock-is-better.html",
+				"tags": ["Setup"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/22/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 292 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 292 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/ec823736be.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-22T19:26:01+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/22/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2022/08/21/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 291 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 291 🐶\n\n<img src=\"uploads/2022/1ff7ced99f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 291 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/1ff7ced99f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-21T19:02:35+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/08/21/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +100,7 @@
 				"id": "http://matti.micro.blog/2022/08/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 290 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 290 🐶\n\n<img src=\"uploads/2022/12f7155a93.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 290 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/12f7155a93.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-20T19:06:55+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/08/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +109,7 @@
 				"id": "http://matti.micro.blog/2022/08/19/193218.html",
 				
 				"content_html": "<p>DailyDogo 289 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 289 🐶\n\n<img src=\"uploads/2022/355685c8d4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 289 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/355685c8d4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-19T19:32:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/08/19/193218.html",
 				"tags": ["DailyDogo"]
@@ -37,7 +118,7 @@
 				"id": "http://matti.micro.blog/2022/08/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 288 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 288 🐶\n\n<img src=\"uploads/2022/7339b5d012.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 288 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/7339b5d012.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-19T08:00:09+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/08/19/dailydogo.html",
 				"tags": ["DailyDogo"]
