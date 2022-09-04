@@ -7,10 +7,89 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/09/04/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 305 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 305 🐶\n\n<img src=\"uploads/2022/840bc246a1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-04T23:19:05+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/09/04/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/09/03/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 304 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 304 🐶\n\n<img src=\"uploads/2022/fcd154526c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-03T20:35:04+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/09/03/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/09/02/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 303 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 303 🐶\n\n<img src=\"uploads/2022/c5b7b781aa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-02T19:21:22+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/09/02/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/09/01/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 302 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 302 🐶\n\n<img src=\"uploads/2022/4f86ddaf8b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-01T19:11:40+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/09/01/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/31/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 301 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 301 🐶\n\n<img src=\"uploads/2022/3bcd68eca3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-31T21:39:06+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/31/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/30/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 300 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 300 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/cb32dbf3c0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-30T19:00:44+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/30/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/29/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 299 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 299 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/d52f0d244d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-08-29T19:11:09+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/29/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/29/not-a-lot.html",
+				
+				"content_html": "<p>Not a lot of sleep tonight, because the dogo needed to go out at 6 (I was in bed around 1, which is very late for me). I feel nauseous and threw up a little, because of an unclean thermo mug, I think (dishwasher didn&rsquo;t run correctly). The cascading effects of a bad (yester)day…</p>\n",
+				"content_text": "Not a lot of sleep tonight, because the dogo needed to go out at 6 (I was in bed around 1, which is very late for me). I feel nauseous and threw up a little, because of an unclean thermo mug, I think (dishwasher didn't run correctly). The cascading effects of a bad (yester)day…\n",
+				"date_published": "2022-08-29T11:50:29+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/29/not-a-lot.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/08/29/ill-try-to.html",
+				
+				"content_html": "<p>(I’ll try to post a little more this week to see if I like it)</p>\n<p>Difficult to get myself going this afternoon. Just sat around and kind of unintentionally „relaxed“ by watching YouTube and playing video games. Would have been nice to actually decide to do that but instead the day felt lost. Didn’t do anything I wanted and what I did I did without being really there.</p>\n",
+				"content_text": "(I’ll try to post a little more this week to see if I like it)\n\nDifficult to get myself going this afternoon. Just sat around and kind of unintentionally „relaxed“ by watching YouTube and playing video games. Would have been nice to actually decide to do that but instead the day felt lost. Didn’t do anything I wanted and what I did I did without being really there.\n",
+				"date_published": "2022-08-29T00:45:09+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/08/29/ill-try-to.html"
+			},
+			{
 				"id": "http://matti.micro.blog/2022/08/28/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 298 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 298 🐶\n\n<img src=\"uploads/2022/8d0e8f0c7c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 298 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/8d0e8f0c7c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-28T20:56:45+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/08/28/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +98,7 @@
 				"id": "http://matti.micro.blog/2022/08/27/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 297 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 297 🐶\n\n<img src=\"uploads/2022/77c58398c5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 297 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/77c58398c5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-27T22:01:22+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/08/27/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +107,7 @@
 				"id": "http://matti.micro.blog/2022/08/26/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 296 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 296 🐶\n\n<img src=\"uploads/2022/c18b781977.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 296 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/c18b781977.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-26T21:21:07+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/08/26/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -37,7 +116,7 @@
 				"id": "http://matti.micro.blog/2022/08/25/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 295 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 295 🐶\n\n<img src=\"uploads/2022/f37cbc9b41.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 295 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/f37cbc9b41.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-25T23:58:30+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/08/25/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -46,7 +125,7 @@
 				"id": "http://matti.micro.blog/2022/08/24/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 294 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 294 🐶\n\n<img src=\"uploads/2022/45fcb6909b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 294 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/45fcb6909b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-24T20:42:52+03:00",
 				"url": "https://blog.martin-haehnel.de/2022/08/24/dailydogo.html",
 				"tags": ["DailyDogo"]
