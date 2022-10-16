@@ -7,6 +7,68 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/10/16/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 346 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "DailyDogo 346 🐶\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://blog.martin-haehnel.de/uploads/2022/3c40d6d753.mov\" width=\"640\" height=\"360\" poster=\"https://blog.martin-haehnel.de/uploads/2022/8cb4d2696a.png\" preload=\"none\"></video>\n",
+				"date_published": "2022-10-16T22:33:45+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/16/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/15/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 345 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 345 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/424ed8119b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-15T21:06:31+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/15/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/14/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 344 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 344 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/07c46f068e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-14T19:49:49+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/14/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/14/a-good-indicator.html",
+				
+				"content_html": "<p>A good indicator of expertise (in my case) seems to be if and what I’m willing to promise to deliver. Am I willing to do so with ease and confidence? Are there a lot of „ifs“ involved? Do I ask for an authority (like an architect or product manager) to carry (part of) the responsibility?</p>\n",
+				"content_text": "A good indicator of expertise (in my case) seems to be if and what I’m willing to promise to deliver. Am I willing to do so with ease and confidence? Are there a lot of „ifs“ involved? Do I ask for an authority (like an architect or product manager) to carry (part of) the responsibility? \n",
+				"date_published": "2022-10-14T13:50:07+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/14/a-good-indicator.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/13/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 343 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 343 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/4b9fc1fbbd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-13T20:09:42+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/13/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/12/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 342 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 342 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/1e50abe2dd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-12T22:52:02+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/12/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/11/205213.html",
+				
+				"content_html": "<p>DailyDogo 341 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 341 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/3f74439ae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-11T20:52:13+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/11/205213.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2022/10/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 340 🐶</p>\n<!-- raw HTML omitted -->\n",
