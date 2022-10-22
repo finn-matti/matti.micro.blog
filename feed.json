@@ -7,6 +7,68 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/10/23/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 352 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 352 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/28f1e7734c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-23T01:32:30+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/23/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/21/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 351 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 351 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/3850dbeed9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-21T19:47:11+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/21/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/20/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 350 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 350 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/1fab4d073c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-20T20:08:22+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/20/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/19/214754.html",
+				
+				"content_html": "<p>DailyDogo 349 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 349 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/f7d7259929.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-19T21:47:54+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/19/214754.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/19/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 348 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 348 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/f9ffd8e54e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-19T08:40:42+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/19/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/17/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 347 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 347 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/21ad99affb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-17T19:30:54+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/17/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/17/i-had-a.html",
+				
+				"content_html": "<p>I had a fantastic day at work today. I guess I love programming? Found a way better solution to a problem I had hit my head against for a couple of weeks. The new solution (which I found while enjoying sitting in the sauna) requires less code, is also conceptually easier to understand and can be reused and adapted in the future if needed.</p>\n",
+				"content_text": "I had a fantastic day at work today. I guess I love programming? Found a way better solution to a problem I had hit my head against for a couple of weeks. The new solution (which I found while enjoying sitting in the sauna) requires less code, is also conceptually easier to understand and can be reused and adapted in the future if needed.\n",
+				"date_published": "2022-10-17T17:42:38+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/17/i-had-a.html"
+			},
+			{
 				"id": "http://matti.micro.blog/2022/10/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 346 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
