@@ -7,6 +7,75 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/11/02/i-just-pledged.html",
+				
+				"content_html": "<p>I just pledged 210$ for a cooperative board game that I might never play: It&rsquo;s <a href=\"https://www.kickstarter.com/projects/contentiongames/slay-the-spire-the-board-game\">the board game version of Slay The Spire</a>, maybe the only game I put as much hours into as Diablo 2 back in the day, which tells a lot. (Stellaris is a distant third, which tells a lot).</p>\n",
+				"content_text": "I just pledged 210$ for a cooperative board game that I might never play: It's [the board game version of Slay The Spire](https://www.kickstarter.com/projects/contentiongames/slay-the-spire-the-board-game), maybe the only game I put as much hours into as Diablo 2 back in the day, which tells a lot. (Stellaris is a distant third, which tells a lot).\n",
+				"date_published": "2022-11-02T23:23:36+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/11/02/i-just-pledged.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/11/02/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 363 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 363 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/26dbe69d95.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-11-02T18:33:47+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/11/02/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/11/02/fantastic-episode-of.html",
+				
+				"content_html": "<p>Fantastic episode of Upgrade this week. <a href=\"https://micro.blog/jsnell\">@jsnell</a> said out loud in a clear way, what I have been only hazily thinking. <a href=\"https://www.relay.fm/upgrade/431\">www.relay.fm/upgrade/4&hellip;</a></p>\n",
+				"content_text": "Fantastic episode of Upgrade this week. [@jsnell](https://micro.blog/jsnell) said out loud in a clear way, what I have been only hazily thinking. [www.relay.fm/upgrade/4...](https://www.relay.fm/upgrade/431)\n",
+				"date_published": "2022-11-02T12:37:33+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/11/02/fantastic-episode-of.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/11/01/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 362 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "DailyDogo 362 🐶\n\n<img src=\"uploads/2022/44fdd3a202.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/6db95e8fa4.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/39fc52caaf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-11-01T21:19:03+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/11/01/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/31/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 361 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 361 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/be7e4d0a11.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-31T22:03:19+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/31/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/30/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 360 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 360 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/85e2ccd723.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-30T20:15:57+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/30/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/29/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 359 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 359 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/82a5d51b9b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-10-29T21:31:43+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/29/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/10/29/i-was-just.html",
+				
+				"content_html": "<p>I was just out with the dog 🐶 in the dark, grayish, cold and freezing-melting-freezing weather we have here. And even though it is dark and unfriendly outside, it didn&rsquo;t change my mood at all. I was just thinking about my side project, the various research avenues I want to explore in my note taking and so on. Then I noticed: What a privilege to have things to look forward to doing.</p>\n",
+				"content_text": "I was just out with the dog 🐶 in the dark, grayish, cold and freezing-melting-freezing weather we have here. And even though it is dark and unfriendly outside, it didn't change my mood at all. I was just thinking about my side project, the various research avenues I want to explore in my note taking and so on. Then I noticed: What a privilege to have things to look forward to doing.\n",
+				"date_published": "2022-10-29T12:09:23+03:00",
+				"url": "https://blog.martin-haehnel.de/2022/10/29/i-was-just.html"
+			},
+			{
 				"id": "http://matti.micro.blog/2022/10/28/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 358 🐶</p>\n<!-- raw HTML omitted -->\n",
