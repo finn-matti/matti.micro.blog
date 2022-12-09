@@ -7,6 +7,92 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/12/09/good-that-my.html",
+				
+				"content_html": "<p>Good that my side project is done in typescript. Since learning and using PHP everyday for my current job I really have forgotten a lot…</p>\n",
+				"content_text": "Good that my side project is done in typescript. Since learning and using PHP everyday for my current job I really have forgotten a lot…\n",
+				"date_published": "2022-12-09T12:13:06+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/09/good-that-my.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/09/walked-with-the.html",
+				
+				"content_html": "<p>Walked with the dog 2km on a winter trail half an hour from home. Started around 15:30, it was already dark. My headlamp stopped working almost immediately. Thanks to the little flashlight on my phone, Napu and I were still able to walk the trail.</p>\n",
+				"content_text": "Walked with the dog 2km on a winter trail half an hour from home. Started around 15:30, it was already dark. My headlamp stopped working almost immediately. Thanks to the little flashlight on my phone, Napu and I were still able to walk the trail.\n",
+				"date_published": "2022-12-09T00:00:39+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/09/walked-with-the.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/08/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 399 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 399 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/25373a2cfb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-12-08T23:31:12+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/08/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/07/im-coming-to.html",
+				
+				"content_html": "<p>I&rsquo;m coming to you live from MarsEdit 5! 🤩</p>\n",
+				"content_text": "I'm coming to you live from MarsEdit 5! 🤩\n",
+				"date_published": "2022-12-07T20:29:13+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/07/im-coming-to.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/07/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 398 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 398 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/63de929f2e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-12-07T19:26:19+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/07/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/07/i-dont-know.html",
+				
+				"content_html": "<p>I don&rsquo;t know why, but there is just something so comforting listening to <a href=\"https://www.theincomparable.com/tpk\">TotalPartyKill</a>&rsquo;s Dark Sun campaign. The og actual play D&amp;D podcast party that started in 2014 is still one of my favorites.</p>\n",
+				"content_text": "I don't know why, but there is just something so comforting listening to [TotalPartyKill](https://www.theincomparable.com/tpk)'s Dark Sun campaign. The og actual play D&D podcast party that started in 2014 is still one of my favorites.\n",
+				"date_published": "2022-12-07T09:30:18+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/07/i-dont-know.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/06/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 397 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 397 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/7a8e60bca3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-12-06T20:18:26+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/06/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/05/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 396 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 396 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/e159f41a30.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-12-05T19:16:44+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/05/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/05/for-this-weeks.html",
+				
+				"content_html": "<p>For this week&rsquo;s MicroMonday, I recommend that you follow writer and Buddhist <a href=\"https://micro.blog/patrickrhone\">@patrickrhone</a>. I have followed him a long time and he still manages to remind me to be mindful, to stay grounded and at the same time connected to the modern world.</p>\n",
+				"content_text": "For this week's MicroMonday, I recommend that you follow writer and Buddhist [@patrickrhone](https://micro.blog/patrickrhone). I have followed him a long time and he still manages to remind me to be mindful, to stay grounded and at the same time connected to the modern world.\n",
+				"date_published": "2022-12-05T14:32:47+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/05/for-this-weeks.html",
+				"tags": ["MicroMonday"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/04/191109.html",
+				
+				"content_html": "<p>DailyDogo 395 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 395 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/fdff0545ab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-12-04T19:11:09+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/04/191109.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2022/12/04/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 394 🐶</p>\n<!-- raw HTML omitted -->\n",
@@ -98,7 +184,8 @@
 				"content_html": "<p>My MicroMonday recommendation this week goes to <a href=\"https://micro.blog/annahavron\">@annahavron</a>: A thoughtful productivity geek, that writes so interestingly (not only) about <a href=\"https://analogoffice.net\">paper-based productivity</a> that it&rsquo;s a joy to read even for someone who is not even using paper to organize their own life.</p>\n",
 				"content_text": "My MicroMonday recommendation this week goes to [@annahavron](https://micro.blog/annahavron): A thoughtful productivity geek, that writes so interestingly (not only) about [paper-based productivity](https://analogoffice.net) that it's a joy to read even for someone who is not even using paper to organize their own life.\n",
 				"date_published": "2022-11-28T18:48:06+02:00",
-				"url": "https://blog.martin-haehnel.de/2022/11/28/my-micromonday-recommendation.html"
+				"url": "https://blog.martin-haehnel.de/2022/11/28/my-micromonday-recommendation.html",
+				"tags": ["MicroMonday"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/11/28/twitterisgoinggreatcom-finally-took.html",
@@ -201,7 +288,8 @@
 				"content_html": "<p>My MicroMonday this week goes to <a href=\"https://micro.blog/Miraz\">@Miraz</a> who lives in New Zealand. I love the little slices of life we get when she posts a photo of her life and the nature that surrounds her. She is also helpful (see <a href=\"https://micro.blog/custom\">@custom</a>), thoughtful and a great treasure to have in any micro.blog timeline.</p>\n",
 				"content_text": "My MicroMonday this week goes to [@Miraz](https://micro.blog/Miraz) who lives in New Zealand. I love the little slices of life we get when she posts a photo of her life and the nature that surrounds her. She is also helpful (see [@custom](https://micro.blog/custom)), thoughtful and a great treasure to have in any micro.blog timeline.\n",
 				"date_published": "2022-11-21T15:43:41+02:00",
-				"url": "https://blog.martin-haehnel.de/2022/11/21/my-micromonday-this.html"
+				"url": "https://blog.martin-haehnel.de/2022/11/21/my-micromonday-this.html",
+				"tags": ["MicroMonday"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/11/21/at-least-im.html",
@@ -321,7 +409,8 @@
 				"content_html": "<p>My MicroMonday rec for this week is <a href=\"https://micro.blog/sod\">@sod</a>. As far as I can tell his favorite hobbies include: Helping people, being nice and having lots of knowledge around Hugo/micro.blog.</p>\n<p>(And starting next week I&rsquo;ll have to rec a little bit more diversely)</p>\n",
 				"content_text": "My MicroMonday rec for this week is [@sod](https://micro.blog/sod). As far as I can tell his favorite hobbies include: Helping people, being nice and having lots of knowledge around Hugo/micro.blog.\n\n(And starting next week I'll have to rec a little bit more diversely)\n",
 				"date_published": "2022-11-14T13:36:33+02:00",
-				"url": "https://blog.martin-haehnel.de/2022/11/14/my-micromonday-rec.html"
+				"url": "https://blog.martin-haehnel.de/2022/11/14/my-micromonday-rec.html",
+				"tags": ["MicroMonday"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/11/13/dailydogo.html",
@@ -408,7 +497,8 @@
 				"content_html": "<p>My <a href=\"https://micro.welltempered.net/2019/06/23/the-who-what.html\">MicroMonday</a> rec goes to <a href=\"https://micro.blog/baldur\">@baldur</a> for his different viewpoint on the web dev world.</p>\n<p>Come for the different perspective on the status quo, stay for the occasional photo of Iceland.</p>\n",
 				"content_text": "My [MicroMonday](https://micro.welltempered.net/2019/06/23/the-who-what.html) rec goes to [@baldur](https://micro.blog/baldur) for his different viewpoint on the web dev world. \n\nCome for the different perspective on the status quo, stay for the occasional photo of Iceland.\n",
 				"date_published": "2022-11-07T20:02:02+02:00",
-				"url": "https://blog.martin-haehnel.de/2022/11/07/my-micromonday-rec.html"
+				"url": "https://blog.martin-haehnel.de/2022/11/07/my-micromonday-rec.html",
+				"tags": ["MicroMonday"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/11/06/dailydogo.html",
