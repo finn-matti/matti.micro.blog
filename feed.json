@@ -7,6 +7,125 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2022/12/15/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 405 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 405 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/9a18057653.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-12-15T00:13:56+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/15/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/13/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 404 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 404 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/5cc7bc6f1b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-12-13T20:32:55+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/13/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/12/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 403 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 403 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/664b4405d8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-12-12T20:58:36+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/12/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/12/choose-boring-technology.html",
+				
+				"content_html": "<p><a href=\"https://mcfunley.com/choose-boring-technology\">Choose Boring Technology</a> by Dan McKinley is a great example of a kind of thought I enjoy. Boredom (in technologym but I suspect also otherwise) is almost always a good thing.</p>\n<p>A while ago on another blog of mine and while still using Evernote for all my notes I wrote <a href=\"https://noniin.antville.org/stories/2289504/\">an article about the benefits of using apps that are boring to you by now</a>:</p>\n<blockquote>\n<p>In most cases all of us have certain apps already in place for certain use cases. The idea here is to keep using the app and asking yourself if whatever is missing, is actually missing and then think about a change you actually would like to introduce to the current productivity system as a refactoring.</p>\n</blockquote>\n",
+				"content_text": "[Choose Boring Technology](https://mcfunley.com/choose-boring-technology) by Dan McKinley is a great example of a kind of thought I enjoy. Boredom (in technologym but I suspect also otherwise) is almost always a good thing.\n\nA while ago on another blog of mine and while still using Evernote for all my notes I wrote [an article about the benefits of using apps that are boring to you by now](https://noniin.antville.org/stories/2289504/):\n\n>In most cases all of us have certain apps already in place for certain use cases. The idea here is to keep using the app and asking yourself if whatever is missing, is actually missing and then think about a change you actually would like to introduce to the current productivity system as a refactoring.\n",
+				"date_published": "2022-12-12T18:28:54+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/12/choose-boring-technology.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/12/got-an-unexpected.html",
+				
+				"content_html": "<p>Got an unexpected Mail from TeuxDeux with a special offer. Very tempting to get <a href=\"https://blog.martin-haehnel.de/2022/12/11/two-promising-new.html\">TeuxDeux</a> for a whole year for only 18$…</p>\n",
+				"content_text": "Got an unexpected Mail from TeuxDeux with a special offer. Very tempting to get [TeuxDeux](https://blog.martin-haehnel.de/2022/12/11/two-promising-new.html) for a whole year for only 18$…\n",
+				"date_published": "2022-12-12T16:28:25+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/12/got-an-unexpected.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/12/this-weeks-micromonday.html",
+				
+				"content_html": "<p>This week&rsquo;s MicroMonday goes to <a href=\"https://micro.blog/val\">@val</a>, who happens to live in Bishkek, Kyrgyzstan.</p>\n<p>She&rsquo;s a great follow, if you like</p>\n<ul>\n<li>slice of life type posts (with lots of photos)</li>\n<li>interesting languages</li>\n<li>(depending on where you&rsquo;re from and what you have been exposed to) foreign cultures</li>\n</ul>\n",
+				"content_text": "This week's MicroMonday goes to [@val](https://micro.blog/val), who happens to live in Bishkek, Kyrgyzstan.\n\nShe's a great follow, if you like\n\n- slice of life type posts (with lots of photos)  \n- interesting languages  \n- (depending on where you're from and what you have been exposed to) foreign cultures\n",
+				"date_published": "2022-12-12T15:10:53+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/12/this-weeks-micromonday.html",
+				"tags": ["MicroMonday"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/11/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 402 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 402 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/6dddb1917f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-12-11T20:37:00+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/11/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/11/two-promising-new.html",
+				
+				"content_html": "<p>Two promising new apps:</p>\n<p><a href=\"https://sometime.irisationlab.com\">Sometime</a> is an app for recurring tasks and reminders that seems to be what I have (ab)used <a href=\"https://blog.martin-haehnel.de/2022/01/22/good-apps-due.html\">Due</a> for. I just started using it, but the idea is great.</p>\n<p><a href=\"https://teuxdeux.com\">TeuxDeux</a> is a pretty, minimalistic todo list manager. This year I cut down hard on what I&rsquo;d call metawork, that is work to organize other work and abandoned my heavier task-management systems I had set up in Things or OmniFocus. I&rsquo;m still using their free trial, but I love their clean design and can see myself using this going forward. I love <a href=\"https://teuxdeux.com/purpose\">their approach of doing business</a> and I think that <a href=\"https://www.instagram.com/teuxdeuxapp/\">their Instagram</a> is actually funny.</p>\n",
+				"content_text": "Two promising new apps:\n\n[Sometime](https://sometime.irisationlab.com) is an app for recurring tasks and reminders that seems to be what I have (ab)used [Due](https://blog.martin-haehnel.de/2022/01/22/good-apps-due.html) for. I just started using it, but the idea is great.\n\n[TeuxDeux](https://teuxdeux.com) is a pretty, minimalistic todo list manager. This year I cut down hard on what I'd call metawork, that is work to organize other work and abandoned my heavier task-management systems I had set up in Things or OmniFocus. I'm still using their free trial, but I love their clean design and can see myself using this going forward. I love [their approach of doing business](https://teuxdeux.com/purpose) and I think that [their Instagram](https://www.instagram.com/teuxdeuxapp/) is actually funny.\n",
+				"date_published": "2022-12-11T14:37:52+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/11/two-promising-new.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/10/i-wonder-if.html",
+				
+				"content_html": "<p>I wonder if there are people who feel excluded, because my no-frills daily dog pics do not include an alt text&hellip; is this something I should consider? I&rsquo;d like to make this little habit of mine more interesting in the new year, I think. Maybe this could be part of it?</p>\n",
+				"content_text": "I wonder if there are people who feel excluded, because my no-frills daily dog pics do not include an alt text... is this something I should consider? I'd like to make this little habit of mine more interesting in the new year, I think. Maybe this could be part of it?\n",
+				"date_published": "2022-12-10T21:56:12+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/10/i-wonder-if.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/10/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 401 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 401 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/d2b9f40647.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-12-10T19:23:07+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/10/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/10/christmas-is-just.html",
+				
+				"content_html": "<p>Christmas is just hard on me. Every year I feel I have to steel myself, get ready for battle. I am not alone in this. I wonder what a calm and relaxed Christmas even would look like.</p>\n<p>In any case: I&rsquo;m trying to stay empathetic (or sympathetic if I can&rsquo;t put myself in the other&rsquo;s shoes), forgiving and try to get skillfully through the hell that is the last part of the year. As best as I can, I try to not make it about me and my introvert tendencies. This time is a gift for others.</p>\n<p>But between us: I&rsquo;m already looking forward to January, tbh.</p>\n",
+				"content_text": "Christmas is just hard on me. Every year I feel I have to steel myself, get ready for battle. I am not alone in this. I wonder what a calm and relaxed Christmas even would look like.\n\nIn any case: I'm trying to stay empathetic (or sympathetic if I can't put myself in the other's shoes), forgiving and try to get skillfully through the hell that is the last part of the year. As best as I can, I try to not make it about me and my introvert tendencies. This time is a gift for others.\n\nBut between us: I'm already looking forward to January, tbh.\n",
+				"date_published": "2022-12-10T17:56:33+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/10/christmas-is-just.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/09/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 400 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 400 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2022/7d2aa90784.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-12-09T19:39:53+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/09/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/09/i-wonder-if.html",
+				
+				"content_html": "<p>I wonder if <a href=\"https://blog.martin-haehnel.de/2022/01/18/good-apps-albums.html\">Albums</a> will ever come out with its desktop version. Would be an instabuy for me.</p>\n",
+				"content_text": "I wonder if [Albums](https://blog.martin-haehnel.de/2022/01/18/good-apps-albums.html) will ever come out with its desktop version. Would be an instabuy for me.\n",
+				"date_published": "2022-12-09T18:04:25+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/09/i-wonder-if.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2022/12/09/its-just-the.html",
+				
+				"content_html": "<p>It&rsquo;s just the best feeling strolling to our small city&rsquo;s center, the dog is in a good mood, I&rsquo;m in a good mood. People are laughing. Walks like this are just the best. I don&rsquo;t even mind the cold. 🐶</p>\n",
+				"content_text": "It's just the best feeling strolling to our small city's center, the dog is in a good mood, I'm in a good mood. People are laughing. Walks like this are just the best. I don't even mind the cold. 🐶\n",
+				"date_published": "2022-12-09T16:18:58+02:00",
+				"url": "https://blog.martin-haehnel.de/2022/12/09/its-just-the.html"
+			},
+			{
 				"id": "http://matti.micro.blog/2022/12/09/good-that-my.html",
 				
 				"content_html": "<p>Good that my side project is done in typescript. Since learning and using PHP everyday for my current job I really have forgotten a lot…</p>\n",
@@ -295,7 +414,7 @@
 				"id": "http://matti.micro.blog/2022/11/21/at-least-im.html",
 				
 				"content_html": "<p>At least I&rsquo;m not going to sweat anytime soon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "At least I'm not going to sweat anytime soon. \n\n<img src=\"uploads/2022/7612d52b6a.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "At least I'm not going to sweat anytime soon. \n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/7612d52b6a.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-21T08:44:48+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/11/21/at-least-im.html"
 			},
@@ -565,7 +684,7 @@
 				"id": "http://matti.micro.blog/2022/11/01/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 362 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "DailyDogo 362 🐶\n\n<img src=\"uploads/2022/44fdd3a202.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/6db95e8fa4.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/39fc52caaf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "DailyDogo 362 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/44fdd3a202.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://blog.martin-haehnel.de/uploads/2022/6db95e8fa4.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://blog.martin-haehnel.de/uploads/2022/39fc52caaf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-01T20:19:03+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/11/01/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -935,7 +1054,7 @@
 				"id": "http://matti.micro.blog/2022/09/28/the-dog-has.html",
 				
 				"content_html": "<p>The dog has kept me pretty active the last few days… 🐶😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The dog has kept me pretty active the last few days… 🐶😅\n\n<img src=\"uploads/2022/d911fd2955.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The dog has kept me pretty active the last few days… 🐶😅\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/d911fd2955.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-28T07:05:44+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/09/28/the-dog-has.html"
 			},
@@ -3818,7 +3937,7 @@
 				"id": "http://matti.micro.blog/2022/03/09/second-day-in.html",
 				
 				"content_html": "<p>Second day in a row where I can’t upload a new podcast episode through wavelength. <!-- raw HTML omitted --> <a href=\"https://micro.blog/manton\">@manton</a>: Could you maybe look into this?</p>\n",
-				"content_text": "Second day in a row where I can’t upload a new podcast episode through wavelength. <img src=\"uploads/2022/d72ac67161.png\" /> [@manton](https://micro.blog/manton): Could you maybe look into this?\n",
+				"content_text": "Second day in a row where I can’t upload a new podcast episode through wavelength. <img src=\"https://blog.martin-haehnel.de/uploads/2022/d72ac67161.png\" /> [@manton](https://micro.blog/manton): Could you maybe look into this?\n",
 				"date_published": "2022-03-09T06:58:03+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/09/second-day-in.html"
 			},
@@ -3835,7 +3954,7 @@
 				"id": "http://matti.micro.blog/2022/03/08/help-i-cant.html",
 				
 				"content_html": "<p>.<a href=\"https://micro.blog/help\">@help</a> I can’t upload audio for some reason. The wavelength app won’t let me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": ".[@help](https://micro.blog/help) I can’t upload audio for some reason. The wavelength app won’t let me.\n\n<img src=\"uploads/2022/d72ac67161.png\" width=\"600\" height=\"204\" alt=\"\" />\n",
+				"content_text": ".[@help](https://micro.blog/help) I can’t upload audio for some reason. The wavelength app won’t let me.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/d72ac67161.png\" width=\"600\" height=\"204\" alt=\"\" />\n",
 				"date_published": "2022-03-08T07:02:28+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/08/help-i-cant.html"
 			},
@@ -4113,7 +4232,7 @@
 				"id": "http://matti.micro.blog/2022/02/22/213347.html",
 				
 				"content_html": "<p>22.2.22 ❤️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "22.2.22 ❤️\n\n<img src=\"uploads/2022/35c6b53597.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "22.2.22 ❤️\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/35c6b53597.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-22T21:33:47+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/22/213347.html"
 			},
@@ -4552,7 +4671,7 @@
 				"id": "http://matti.micro.blog/2022/02/02/current-home-screen.html",
 				
 				"content_html": "<p>Current Home Screen: the upper widget is a stack. The lower is siri app suggestions.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Current Home Screen: the upper widget is a stack. The lower is siri app suggestions. \n\n<img src=\"uploads/2022/7f23a94fc1.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Current Home Screen: the upper widget is a stack. The lower is siri app suggestions. \n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/7f23a94fc1.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-02T10:29:46+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/02/current-home-screen.html"
 			},
@@ -4998,7 +5117,7 @@
 				"id": "http://matti.micro.blog/2022/01/15/would-you-look.html",
 				
 				"content_html": "<p>Would you look at that super cute dog there in <a href=\"https://micro.blog/manton\">@manton</a>&rsquo;s <a href=\"https://www.manton.org/2022/01/14/123845.html\">announcement</a> of Micro.blog for Android!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Would you look at that super cute dog there in [@manton](https://micro.blog/manton)'s [announcement](https://www.manton.org/2022/01/14/123845.html) of Micro.blog for Android!\n\n<img src=\"uploads/2022/34e7c13e3d.jpg\" width=\"600\" height=\"557\" alt=\"\" />\n",
+				"content_text": "Would you look at that super cute dog there in [@manton](https://micro.blog/manton)'s [announcement](https://www.manton.org/2022/01/14/123845.html) of Micro.blog for Android!\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/34e7c13e3d.jpg\" width=\"600\" height=\"557\" alt=\"\" />\n",
 				"date_published": "2022-01-15T11:12:37+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/15/would-you-look.html"
 			},
@@ -5158,7 +5277,7 @@
 				"id": "http://matti.micro.blog/2022/01/07/help-it-seems.html",
 				
 				"content_html": "<p>.<a href=\"https://micro.blog/help\">@help</a> It seems to me that the <a href=\"https://gohugo.io/getting-started/configuration-markup#highlight\">highlight</a> part of an otherwise working overriden config.json in a custom theme is completely ignored (hugo v. 0.91)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": ".[@help](https://micro.blog/help) It seems to me that the [highlight](https://gohugo.io/getting-started/configuration-markup#highlight) part of an otherwise working overriden config.json in a custom theme is completely ignored (hugo v. 0.91)\n\n<img src=\"uploads/2022/39a36c4f7d.jpg\" width=\"600\" height=\"231\" alt=\"\" />\n",
+				"content_text": ".[@help](https://micro.blog/help) It seems to me that the [highlight](https://gohugo.io/getting-started/configuration-markup#highlight) part of an otherwise working overriden config.json in a custom theme is completely ignored (hugo v. 0.91)\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/39a36c4f7d.jpg\" width=\"600\" height=\"231\" alt=\"\" />\n",
 				"date_published": "2022-01-07T23:26:43+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/07/help-it-seems.html"
 			},
@@ -5270,7 +5389,7 @@
 				"id": "http://matti.micro.blog/2022/01/01/manton-also-why.html",
 				
 				"content_html": "<p>.<a href=\"https://micro.blog/manton\">@manton</a> Also: Why are theme errors not shown in the log? But here?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": ".[@manton](https://micro.blog/manton) Also: Why are theme errors not shown in the log? But here?\n\n<img src=\"uploads/2022/681fd9c18c.jpg\" width=\"600\" height=\"276\" alt=\"\" />\n",
+				"content_text": ".[@manton](https://micro.blog/manton) Also: Why are theme errors not shown in the log? But here?\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/681fd9c18c.jpg\" width=\"600\" height=\"276\" alt=\"\" />\n",
 				"date_published": "2022-01-01T20:38:00+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/01/manton-also-why.html"
 			},
@@ -5313,7 +5432,7 @@
 				"id": "http://matti.micro.blog/2021/12/31/help-somehow-while.html",
 				
 				"content_html": "<p>.<a href=\"https://micro.blog/help\">@help</a> Somehow while playing with my testblog I ended up with a weird situation: Note that 1.) The content of the titles page is test and 2.) The content is red and an h1 even though the layout for that page has been deleted.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": ".[@help](https://micro.blog/help) Somehow while playing with my testblog I ended up with a weird situation: Note that 1.) The content of the titles page is test and 2.) The content is red and an h1 even though the layout for that page has been deleted.\n\n<img src=\"uploads/2021/cce7fbda8e.jpg\" width=\"600\" height=\"307\" alt=\"\" /><img src=\"uploads/2021/bc717bb6e7.jpg\" width=\"600\" height=\"283\" alt=\"\" />\n",
+				"content_text": ".[@help](https://micro.blog/help) Somehow while playing with my testblog I ended up with a weird situation: Note that 1.) The content of the titles page is test and 2.) The content is red and an h1 even though the layout for that page has been deleted.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/cce7fbda8e.jpg\" width=\"600\" height=\"307\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/bc717bb6e7.jpg\" width=\"600\" height=\"283\" alt=\"\" />\n",
 				"date_published": "2021-12-31T19:44:50+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/31/help-somehow-while.html"
 			},
@@ -5541,7 +5660,7 @@
 				"id": "http://matti.micro.blog/2021/12/13/cool.html",
 				
 				"content_html": "<p>Cool.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cool. \n\n<img src=\"uploads/2021/9934becae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Cool. \n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/9934becae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-13T15:25:04+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/13/cool.html"
 			},
@@ -6019,7 +6138,7 @@
 				"id": "http://matti.micro.blog/2021/10/18/first-flight-to.html",
 				
 				"content_html": "<p>First flight to Germany in almost two years. Mostly to visit (some of) the family. First from Kuusamo to Helsinki and after some hours of waiting I’ll continue to Berlin.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First flight to Germany in almost two years. Mostly to visit (some of) the family. First from Kuusamo to Helsinki and after some hours of waiting I’ll continue to Berlin.\n\n<img src=\"uploads/2021/27166156af.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "First flight to Germany in almost two years. Mostly to visit (some of) the family. First from Kuusamo to Helsinki and after some hours of waiting I’ll continue to Berlin.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/27166156af.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-18T09:26:53+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/10/18/first-flight-to.html"
 			},
@@ -6051,7 +6170,7 @@
 				"id": "http://matti.micro.blog/2021/10/10/my-first-americano.html",
 				
 				"content_html": "<p>My first Americano ever. I like it a lot.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My first Americano ever. I like it a lot.\n\n<img src=\"uploads/2021/3a86099195.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My first Americano ever. I like it a lot.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/3a86099195.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-10T13:05:15+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/10/10/my-first-americano.html"
 			},
@@ -6119,7 +6238,7 @@
 				"id": "http://matti.micro.blog/2021/09/22/a-little-boat.html",
 				
 				"content_html": "<p>A little boat trip on the upper part of the Oulankajoki - About 15 km. Our bodies were so sore the next day. We weathered two small rapids and also almost keeled over! We laughed a lot last Sunday.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A little boat trip on the upper part of the Oulankajoki - About 15 km. Our bodies were so sore the next day. We weathered two small rapids and also almost keeled over! We laughed a lot last Sunday.\n\n<img src=\"uploads/2021/1b2f7432bc.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/c68cf79906.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/6b5655976b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/bc49a0c7a1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/419b14604c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "A little boat trip on the upper part of the Oulankajoki - About 15 km. Our bodies were so sore the next day. We weathered two small rapids and also almost keeled over! We laughed a lot last Sunday.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/1b2f7432bc.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/c68cf79906.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/6b5655976b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/bc49a0c7a1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/419b14604c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-09-22T21:22:06+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/09/22/a-little-boat.html"
 			},
@@ -6167,7 +6286,7 @@
 				"id": "http://matti.micro.blog/2021/09/13/and-done.html",
 				
 				"content_html": "<p>… and done!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "… and done!\n\n<img src=\"uploads/2021/14b7843d2e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "… and done!\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/14b7843d2e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-13T19:38:53+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/09/13/and-done.html"
 			},
@@ -6175,7 +6294,7 @@
 				"id": "http://matti.micro.blog/2021/09/13/vegetable-pasta.html",
 				
 				"content_html": "<p>Vegetable pasta. 🧑‍🍳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Vegetable pasta. 🧑‍🍳\n\n<img src=\"uploads/2021/ea1fef89c9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Vegetable pasta. 🧑‍🍳\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/ea1fef89c9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-09-13T19:23:17+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/09/13/vegetable-pasta.html"
 			},
@@ -6183,7 +6302,7 @@
 				"id": "http://matti.micro.blog/2021/09/13/colors-of-the.html",
 				
 				"content_html": "<p>Colors of the ruska season in the Riisitunturi Nationalpark</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Colors of the ruska season in the Riisitunturi Nationalpark\n\n<img src=\"uploads/2021/abad51b9d6.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/fa1eccd81e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/6f85d64668.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/568fe86599.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/8ea1466ce1.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/52a128d40c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/54911e7a9e.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/107d5de257.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/76dc0c1f22.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Colors of the ruska season in the Riisitunturi Nationalpark\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/abad51b9d6.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/fa1eccd81e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/6f85d64668.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/568fe86599.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/8ea1466ce1.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/52a128d40c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/54911e7a9e.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/107d5de257.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/76dc0c1f22.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-12T23:42:31+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/09/13/colors-of-the.html"
 			},
@@ -6295,7 +6414,7 @@
 				"id": "http://matti.micro.blog/2021/08/16/first-little-balcony.html",
 				
 				"content_html": "<p>First little balcony harvest. 🌱 It wasn’t easy or sure with all the scaffolding from the roof reno that lasts the whole summer. But grateful for the results nonetheless. 🍅 ☺️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "First little balcony harvest. 🌱 It wasn’t easy or sure with all the scaffolding from the roof reno that lasts the whole summer. But grateful for the results nonetheless. 🍅 ☺️\n\n<img src=\"uploads/2021/e860e98946.jpg\" width=\"600\" height=\"600\" alt=\"a handful of tomatoes spread out on a table and in a hand with a handwritten note next to them denoting their variety.\" /><img src=\"uploads/2021/50523fcf99.jpg\" width=\"600\" height=\"600\" alt=\"Tomato fruits still on the bush on our balcony with the scaffolding in the background.\" />\n",
+				"content_text": "First little balcony harvest. 🌱 It wasn’t easy or sure with all the scaffolding from the roof reno that lasts the whole summer. But grateful for the results nonetheless. 🍅 ☺️\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/e860e98946.jpg\" width=\"600\" height=\"600\" alt=\"a handful of tomatoes spread out on a table and in a hand with a handwritten note next to them denoting their variety.\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/50523fcf99.jpg\" width=\"600\" height=\"600\" alt=\"Tomato fruits still on the bush on our balcony with the scaffolding in the background.\" />\n",
 				"date_published": "2021-08-16T12:21:24+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/08/16/first-little-balcony.html"
 			},
@@ -6484,7 +6603,7 @@
 				"id": "http://matti.micro.blog/2021/07/02/construction-work-throughout.html",
 				
 				"content_html": "<p>Construction work throughout the whole pretty short summer sucks. But we make the best of it regardless. My GF rearranged the balcony, our oasis at home so that the plants would get more light and we can sit more comfortably there. 🌱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Construction work throughout the whole pretty short summer sucks. But we make the best of it regardless. My GF rearranged the balcony, our oasis at home so that the plants would get more light and we can sit more comfortably there. 🌱\n\n<img src=\"uploads/2021/b05ae4d546.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Construction work throughout the whole pretty short summer sucks. But we make the best of it regardless. My GF rearranged the balcony, our oasis at home so that the plants would get more light and we can sit more comfortably there. 🌱\n\n<img src=\"https://matti.micro.blog/uploads/2021/b05ae4d546.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-02T15:55:54+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/07/02/construction-work-throughout.html"
 			},
@@ -6500,7 +6619,7 @@
 				"id": "http://matti.micro.blog/2021/07/01/they-are-building.html",
 				
 				"content_html": "<p>They are building a roof on our roof!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "They are building a roof on our roof!\n\n<img src=\"uploads/2021/34ca928fd4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "They are building a roof on our roof!\n\n<img src=\"https://matti.micro.blog/uploads/2021/34ca928fd4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-01T14:53:13+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/07/01/they-are-building.html"
 			},
@@ -6516,7 +6635,7 @@
 				"id": "http://matti.micro.blog/2021/06/28/what-a-beautiful.html",
 				
 				"content_html": "<p>What a beautiful day! I had taken a vacation day from work today.</p>\n<p>After I woke up to help my GF in the morning by preparing food and coffee for her, I crawled back to bed and slept in.</p>\n<p>Took my sweet time, dreamt crazy dreams. Later, I started a new audio book from libby (more on that maybe another time) and started cleaning and stowing away our camping supplies.</p>\n<p>In the evening we went out to that bar that is so close to us — they had an open terrace for us to sit on, drink beers and eat. Lazy discussions about our summer plans and how we would approach tomorrow&rsquo;s day hike.</p>\n<p>Finally, a little stroll along the two lakes that are less than two hundred meters from our home.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What a beautiful day! I had taken a vacation day from work today. \r\n\r\nAfter I woke up to help my GF in the morning by preparing food and coffee for her, I crawled back to bed and slept in.\r\n\r\nTook my sweet time, dreamt crazy dreams. Later, I started a new audio book from libby (more on that maybe another time) and started cleaning and stowing away our camping supplies.\r\n\r\nIn the evening we went out to that bar that is so close to us — they had an open terrace for us to sit on, drink beers and eat. Lazy discussions about our summer plans and how we would approach tomorrow's day hike.\r\n\r\nFinally, a little stroll along the two lakes that are less than two hundred meters from our home.\n\n<img src=\"uploads/2021/0c629850dd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "What a beautiful day! I had taken a vacation day from work today. \r\n\r\nAfter I woke up to help my GF in the morning by preparing food and coffee for her, I crawled back to bed and slept in.\r\n\r\nTook my sweet time, dreamt crazy dreams. Later, I started a new audio book from libby (more on that maybe another time) and started cleaning and stowing away our camping supplies.\r\n\r\nIn the evening we went out to that bar that is so close to us — they had an open terrace for us to sit on, drink beers and eat. Lazy discussions about our summer plans and how we would approach tomorrow's day hike.\r\n\r\nFinally, a little stroll along the two lakes that are less than two hundred meters from our home.\n\n<img src=\"https://matti.micro.blog/uploads/2021/0c629850dd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-06-28T21:27:52+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/06/28/what-a-beautiful.html"
 			},
@@ -6574,7 +6693,7 @@
 				"id": "http://matti.micro.blog/2021/06/19/hiking-was-indeed.html",
 				
 				"content_html": "<p>Hiking was indeed nice. Now a late dinner cooking session to feed us hungry and exhausted nature admirers.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hiking was indeed nice. Now a late dinner cooking session to feed us hungry and exhausted nature admirers.\n\n<img src=\"uploads/2021/a5de84bd5a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Hiking was indeed nice. Now a late dinner cooking session to feed us hungry and exhausted nature admirers.\n\n<img src=\"https://matti.micro.blog/uploads/2021/a5de84bd5a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-06-19T22:05:04+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/06/19/hiking-was-indeed.html"
 			},
@@ -6598,7 +6717,7 @@
 				"id": "http://matti.micro.blog/2021/06/18/also-just-got.html",
 				
 				"content_html": "<p>Also: Just got my first vaccination. Thank goodness we are still allowed to go to Sauna!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Also: Just got my first vaccination. Thank goodness we are still allowed to go to Sauna!\n\n<img src=\"uploads/2021/87d72e150d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Also: Just got my first vaccination. Thank goodness we are still allowed to go to Sauna!\n\n<img src=\"https://matti.micro.blog/uploads/2021/87d72e150d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-18T09:23:15+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/06/18/also-just-got.html"
 			},
@@ -6630,7 +6749,7 @@
 				"id": "http://matti.micro.blog/2021/06/17/hi.html",
 				"title": "Hi!",
 				"content_html": "<p>So. Hi! I&rsquo;m matti.</p>\n<p>I&rsquo;m a German living in north-eastern Finland. I work as a developer remotely for a German company. I have an academic background in history of science and technology.</p>\n<p>Love a good chunk of the <a href=\"https://micro.blog/merlinmann\">@merlinmann</a> MPU, Maximumfun and some Incomparable Shows. Hi!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So. Hi! I'm matti.\n\nI'm a German living in north-eastern Finland. I work as a developer remotely for a German company. I have an academic background in history of science and technology.\n\nLove a good chunk of the [@merlinmann](https://micro.blog/merlinmann) MPU, Maximumfun and some Incomparable Shows. Hi!\n\n<img src=\"uploads/2021/acc8bf4807.jpg\" width=\"450\" height=\"600\" alt=\"Just a slightly goofy picture of me sitting in a wooden boat, from a recent trip down the rapids around Ruuna in Eastern Finland.\" />\n",
+				"content_text": "So. Hi! I'm matti.\n\nI'm a German living in north-eastern Finland. I work as a developer remotely for a German company. I have an academic background in history of science and technology.\n\nLove a good chunk of the [@merlinmann](https://micro.blog/merlinmann) MPU, Maximumfun and some Incomparable Shows. Hi!\n\n<img src=\"https://matti.micro.blog/uploads/2021/acc8bf4807.jpg\" width=\"450\" height=\"600\" alt=\"Just a slightly goofy picture of me sitting in a wooden boat, from a recent trip down the rapids around Ruuna in Eastern Finland.\" />\n",
 				"date_published": "2021-06-17T11:45:11+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/06/17/hi.html"
 			},
