@@ -7,6 +7,76 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/02/04/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 455 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 455 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/7dbd9f57bb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-04T18:58:58+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/04/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/03/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 454 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 454 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/ae4a799444.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-03T22:19:44+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/03/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/02/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 453 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 453 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/f1d5cdd837.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-02T21:32:25+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/02/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/01/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 452 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 452 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/c514589309.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-01T22:01:44+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/01/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/01/mental-rated-nutty.html",
+				
+				"content_html": "<p>Mental rated nutty &amp; mild</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mental rated nutty & mild \n\n<img src=\"uploads/2023/c9ca74b563.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-02-01T20:05:52+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/01/mental-rated-nutty.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/01/as-somebody-who.html",
+				
+				"content_html": "<p>As somebody who frequently edits older posts to maybe add links and/or fix typos, etc., I just have to say how pleasant it is to do this through <a href=\"https://micro.blog/danielpunkass\">@danielpunkass</a>' <a href=\"https://redsweater.com/marsedit/\">MarsEdit</a>.</p>\n",
+				"content_text": "As somebody who frequently edits older posts to maybe add links and/or fix typos, etc., I just have to say how pleasant it is to do this through [@danielpunkass](https://micro.blog/danielpunkass)' [MarsEdit](https://redsweater.com/marsedit/).\n",
+				"date_published": "2023-02-01T13:35:09+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/01/as-somebody-who.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/01/31/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 451 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 451 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/23909ca8f2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-01-31T20:26:05+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/01/31/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/01/30/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 450 🐶</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 450 🐶\n\n<img src=\"uploads/2023/1851d1f35b.png\" alt=\"IMG 6985\" title=\"IMG_6985.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/5b8a0e6ab4.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/e92b271d0c.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"449\" height=\"600\" />\n\n<img src=\"uploads/2023/fde41b2b3e.png\" alt=\"IMG 6988\" title=\"IMG_6988.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/70fdaaece5.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"450\" height=\"600\" />\n",
+				"date_published": "2023-01-30T21:24:20+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/01/30/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/01/29/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 449 🐶</p>\n<!-- raw HTML omitted -->\n",
@@ -565,8 +635,8 @@
 			{
 				"id": "http://matti.micro.blog/2022/12/12/choose-boring-technology.html",
 				
-				"content_html": "<p><a href=\"https://mcfunley.com/choose-boring-technology\">Choose Boring Technology</a> by Dan McKinley is a great example of a kind of thought I enjoy. Boredom (in technologym but I suspect also otherwise) is almost always a good thing.</p>\n<p>A while ago on another blog of mine and while still using Evernote for all my notes I wrote <a href=\"https://noniin.antville.org/stories/2289504/\">an article about the benefits of using apps that are boring to you by now</a>:</p>\n<blockquote>\n<p>In most cases all of us have certain apps already in place for certain use cases. The idea here is to keep using the app and asking yourself if whatever is missing, is actually missing and then think about a change you actually would like to introduce to the current productivity system as a refactoring.</p>\n</blockquote>\n",
-				"content_text": "[Choose Boring Technology](https://mcfunley.com/choose-boring-technology) by Dan McKinley is a great example of a kind of thought I enjoy. Boredom (in technologym but I suspect also otherwise) is almost always a good thing.\n\nA while ago on another blog of mine and while still using Evernote for all my notes I wrote [an article about the benefits of using apps that are boring to you by now](https://noniin.antville.org/stories/2289504/):\n\n>In most cases all of us have certain apps already in place for certain use cases. The idea here is to keep using the app and asking yourself if whatever is missing, is actually missing and then think about a change you actually would like to introduce to the current productivity system as a refactoring.\n",
+				"content_html": "<p><a href=\"https://mcfunley.com/choose-boring-technology\">Choose Boring Technology</a> by Dan McKinley is a great example of a kind of thought I enjoy. Boredom (in technology but I suspect also otherwise) is almost always a good thing.</p>\n<p>A while ago on another blog of mine and while still using Evernote for all my notes I wrote <a href=\"https://noniin.antville.org/stories/2289504/\">an article about the benefits of using apps that are boring to you by now</a>:</p>\n<blockquote>\n<p>In most cases all of us have certain apps already in place for certain use cases. The idea here is to keep using the app and asking yourself if whatever is missing, is actually missing and then think about a change you actually would like to introduce to the current productivity system as a refactoring.</p>\n</blockquote>\n",
+				"content_text": "[Choose Boring Technology](https://mcfunley.com/choose-boring-technology) by Dan McKinley is a great example of a kind of thought I enjoy. Boredom (in technology but I suspect also otherwise) is almost always a good thing.\n\nA while ago on another blog of mine and while still using Evernote for all my notes I wrote [an article about the benefits of using apps that are boring to you by now](https://noniin.antville.org/stories/2289504/):\n\n>In most cases all of us have certain apps already in place for certain use cases. The idea here is to keep using the app and asking yourself if whatever is missing, is actually missing and then think about a change you actually would like to introduce to the current productivity system as a refactoring.\n",
 				"date_published": "2022-12-12T18:28:54+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/12/12/choose-boring-technology.html"
 			},
@@ -1995,8 +2065,8 @@
 			{
 				"id": "http://matti.micro.blog/2022/08/22/good-apps-agenda.html",
 				"title": "Good Apps - Agenda",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>For a while I used <a href=\"https://blog.martin-haehnel.de/2022/02/27/good-apps-obsidian.html\">Obsidian</a> to contain all kinds of notes I take: <a href=\"https://blog.martin-haehnel.de/2022/07/18/the-three-types.html\">timeless notes, project notes and journal notes</a>. Now that I have discovered <a href=\"https://agenda.com\">Agenda</a> I keep my project and journal notes there instead.</p>\n<p>Agenda is great for notes, that are transitory in nature. I am a person who needs a writing surface to think and Agenda makes it easy to keep a somewhat ordered writing environment. One thing I really like about it: It makes it very easy to keep periodic notes, <a href=\"https://blog.martin-haehnel.de/2022/08/22/stock-is-better.html\">without me having to maintain a custom system</a>.</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>EDIT: <a href=\"https://blog.martin-haehnel.de/2022/09/22/after-three-months.html\">I&rsquo;m back with Obsidian for my journal notes.</a></p>\n",
+				"content_text": "<p>For a while I used <a href=\"https://blog.martin-haehnel.de/2022/02/27/good-apps-obsidian.html\">Obsidian</a> to contain all kinds of notes I take: <a href=\"https://blog.martin-haehnel.de/2022/07/18/the-three-types.html\">timeless notes, project notes and journal notes</a>. Now that I have discovered <a href=\"https://agenda.com\">Agenda</a> I keep my project and journal notes there instead.</p>\n<p>Agenda is great for notes, that are transitory in nature. I am a person who needs a writing surface to think and Agenda makes it easy to keep a somewhat ordered writing environment. One thing I really like about it: It makes it very easy to keep periodic notes, <a href=\"https://blog.martin-haehnel.de/2022/08/22/stock-is-better.html\">without me having to maintain a custom system</a>.</p>\n\nEDIT: [I'm back with Obsidian for my journal notes.](https://blog.martin-haehnel.de/2022/09/22/after-three-months.html)\n",
 				"date_published": "2022-08-22T18:50:00+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/08/22/good-apps-agenda.html",
 				"tags": ["Good Apps"]
