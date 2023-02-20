@@ -7,6 +7,76 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/02/20/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 471 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 471 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/9efd0fca5a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-20T19:02:22+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/20/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/19/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 470 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 470 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/aad18e9b37.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-19T19:06:36+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/19/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/18/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 469 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 469 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/5bb4a0d811.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-18T22:18:26+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/18/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/17/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 468 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 468 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/18fd63d8cc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-17T19:29:00+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/17/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/17/im-more-and.html",
+				
+				"content_html": "<p>I&rsquo;m more and more impressed by the offering of radio programs on Apple Music. The most recent <a href=\"https://music.apple.com/us/station/buffalo-nichols/ra.1669383966\">Color Me Country episode</a> with the blues musician <a href=\"https://www.buffalo-nichols.com\">Buffalo Nichols</a>, for example, is great.</p>\n",
+				"content_text": "I'm more and more impressed by the offering of radio programs on Apple Music. The most recent [Color Me Country episode](https://music.apple.com/us/station/buffalo-nichols/ra.1669383966) with the blues musician [Buffalo Nichols](https://www.buffalo-nichols.com), for example, is great.\n",
+				"date_published": "2023-02-17T14:11:20+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/17/im-more-and.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/16/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 467 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 467 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/eec54abd7f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-16T20:58:26+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/16/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/15/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 466 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 466 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/3af2b90035.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-15T19:24:18+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/15/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/14/as-a-big.html",
+				
+				"content_html": "<p>As a big fan of the art of live sports commentary and especially of the US school of the profession: How cool is it, that in the NBA 🏀women are not only doing color commentary but also play-by-play?</p>\n<p><a href=\"https://blog.martin-haehnel.de/2023/02/12/having-just-recently.html\">P. S. I just recently got into watching NBA.</a></p>\n",
+				"content_text": "As a big fan of the art of live sports commentary and especially of the US school of the profession: How cool is it, that in the NBA 🏀women are not only doing color commentary but also play-by-play?\n\n[P. S. I just recently got into watching NBA.](https://blog.martin-haehnel.de/2023/02/12/having-just-recently.html)\n",
+				"date_published": "2023-02-14T21:45:25+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/14/as-a-big.html"
+			},
+			{
 				"id": "http://matti.micro.blog/2023/02/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 465 🐶</p>\n<!-- raw HTML omitted -->\n",
