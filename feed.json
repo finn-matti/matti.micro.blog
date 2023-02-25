@@ -7,6 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/02/25/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 476 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 476 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/c116ec337a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-25T19:32:43+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/25/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/25/the-weird-feeling.html",
+				
+				"content_html": "<p>The weird feeling when you realize that you work quicker in php than in typescript nowadays.</p>\n<p>Or in other words: I started to rewrite my side-project in php. Because why not? 😅</p>\n",
+				"content_text": "The weird feeling when you realize that you work quicker in php than in typescript nowadays.\n\nOr in other words: I started to rewrite my side-project in php. Because why not? 😅\n",
+				"date_published": "2023-02-25T16:50:15+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/25/the-weird-feeling.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/24/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 475 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 475 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/abde84c203.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-24T21:30:18+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/24/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/23/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 474 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 474 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/646cff6bab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-23T21:05:58+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/23/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/22/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 473 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 473 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/865f6d1c88.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-22T21:41:23+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/22/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/22/weird-question-how.html",
+				
+				"content_html": "<p>Weird question: How do normal people handle giving/donations?</p>\n<p>How much? For what? Through what channels? Recurring or one-time? On/Off-Line? What else?</p>\n<p>I have been a bad donator so far and would like a starting point for doing the right thing, more often. Thanks!</p>\n",
+				"content_text": "Weird question: How do normal people handle giving/donations? \n\nHow much? For what? Through what channels? Recurring or one-time? On/Off-Line? What else?\n\nI have been a bad donator so far and would like a starting point for doing the right thing, more often. Thanks!\n",
+				"date_published": "2023-02-22T13:23:21+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/22/weird-question-how.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/21/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 472 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 472 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/f8bd380ced.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-21T21:47:54+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/21/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/02/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 471 🐶</p>\n<!-- raw HTML omitted -->\n",
@@ -255,7 +316,7 @@
 				"id": "http://matti.micro.blog/2023/01/30/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 450 🐶</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 450 🐶\n\n<img src=\"uploads/2023/1851d1f35b.png\" alt=\"IMG 6985\" title=\"IMG_6985.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/5b8a0e6ab4.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/e92b271d0c.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"449\" height=\"600\" />\n\n<img src=\"uploads/2023/fde41b2b3e.png\" alt=\"IMG 6988\" title=\"IMG_6988.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/70fdaaece5.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"450\" height=\"600\" />\n",
+				"content_text": "DailyDogo 450 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/1851d1f35b.png\" alt=\"IMG 6985\" title=\"IMG_6985.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/5b8a0e6ab4.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/e92b271d0c.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"449\" height=\"600\" />\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/fde41b2b3e.png\" alt=\"IMG 6988\" title=\"IMG_6988.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/70fdaaece5.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"450\" height=\"600\" />\n",
 				"date_published": "2023-01-30T21:24:20+02:00",
 				"url": "https://blog.martin-haehnel.de/2023/01/30/dailydogo.html",
 				"tags": ["DailyDogo"]
