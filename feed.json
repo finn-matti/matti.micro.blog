@@ -7,6 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/03/02/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 481 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 481 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/6f7bb2e36e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-03-02T19:56:08+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/03/02/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/03/01/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 480 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 480 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/82f993d8c1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-03-01T22:00:43+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/03/01/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/28/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 479 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 479 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/f9ffde3c59.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-28T18:13:24+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/28/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/27/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 478 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 478 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/fe937c0ca5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-27T19:37:33+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/27/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/27/rounding-up-to.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Hooray!</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Manton Reece\" data-avatar=\"https://micro.blog/manton/avatar.jpg\" cite=\"https://www.manton.org/2023/02/27/rounding-up-to.html\">Rounding up to 300 characters <a href=\"https://www.manton.org/2023/02/27/rounding-up-to.html\">manton.org</a><p class=\"post_archived_links\">Read: <a href=\"https://micro.blog/bookmarks/499590\">www.manton.org</a> </p><footer>Manton Reece <cite><a href=\"https://www.manton.org/2023/02/27/rounding-up-to.html\" class=\"u-in-reply-to\">https://www.manton.org/2023/02/27/rounding-up-to.html</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nHooray!\r\n",
+				"date_published": "2023-02-27T18:09:30+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/27/rounding-up-to.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/27/even-though-i.html",
+				
+				"content_html": "<p>Even though I want to use the services that <a href=\"https://omg.lol\">Omg.lol</a> provides, I struggle to do so.</p>\n<p>I set up <a href=\"https://omg.lol/matti\">a profile page</a> now, but I feel like this should be a page reachable under my domain (I can probably set this up). I love the idea of a status.log, but I have a micro.blog already and all the content should come from that as the canonical place and be fed into other means to consume my content. I don&rsquo;t want to produce parallel content or keep things up to date manually.</p>\n<p>I&rsquo;ll keep my omg.log address, because my mastodon account is registered on their instance, but I&rsquo;m not sure what I&rsquo;ll use it for otherwise at the moment.</p>\n",
+				"content_text": "Even though I want to use the services that [Omg.lol](https://omg.lol) provides, I struggle to do so.\n\nI set up [a profile page](https://omg.lol/matti) now, but I feel like this should be a page reachable under my domain (I can probably set this up). I love the idea of a status.log, but I have a micro.blog already and all the content should come from that as the canonical place and be fed into other means to consume my content. I don't want to produce parallel content or keep things up to date manually.\n\nI'll keep my omg.log address, because my mastodon account is registered on their instance, but I'm not sure what I'll use it for otherwise at the moment.\n",
+				"date_published": "2023-02-27T11:44:11+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/27/even-though-i.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/02/26/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 477 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 477 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/f60f8427cc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-02-26T21:14:43+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/02/26/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/02/25/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 476 🐶</p>\n<!-- raw HTML omitted -->\n",
