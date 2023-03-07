@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/03/07/220600.html",
+				
+				"content_html": "<p>DailyDogo 485 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 485 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/881642b0a6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-03-07T22:06:00+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/03/07/220600.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/03/07/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 484 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 484 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/3e80e52924.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-03-07T08:00:46+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/03/07/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/03/04/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 483 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 483 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/e103c6c36e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-03-04T21:18:07+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/03/04/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/03/03/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 482 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 482 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/86590aba2a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-03-03T21:19:28+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/03/03/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/03/02/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 481 🐶</p>\n<!-- raw HTML omitted -->\n",
@@ -352,7 +388,7 @@
 				"id": "http://matti.micro.blog/2023/02/01/mental-rated-nutty.html",
 				
 				"content_html": "<p>Mental rated nutty &amp; mild</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mental rated nutty & mild \n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/c9ca74b563.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Mental rated nutty & mild \n\n<img src=\"uploads/2023/c9ca74b563.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-02-01T20:05:52+02:00",
 				"url": "https://blog.martin-haehnel.de/2023/02/01/mental-rated-nutty.html"
 			},
@@ -377,7 +413,7 @@
 				"id": "http://matti.micro.blog/2023/01/30/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 450 🐶</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 450 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/1851d1f35b.png\" alt=\"IMG 6985\" title=\"IMG_6985.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/5b8a0e6ab4.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/e92b271d0c.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"449\" height=\"600\" />\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/fde41b2b3e.png\" alt=\"IMG 6988\" title=\"IMG_6988.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/70fdaaece5.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"450\" height=\"600\" />\n",
+				"content_text": "DailyDogo 450 🐶\n\n<img src=\"uploads/2023/1851d1f35b.png\" alt=\"IMG 6985\" title=\"IMG_6985.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/5b8a0e6ab4.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/e92b271d0c.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"449\" height=\"600\" />\n\n<img src=\"uploads/2023/fde41b2b3e.png\" alt=\"IMG 6988\" title=\"IMG_6988.png\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/70fdaaece5.png\" alt=\"FullSizeRender\" title=\"FullSizeRender.png\" border=\"0\" width=\"450\" height=\"600\" />\n",
 				"date_published": "2023-01-30T21:24:20+02:00",
 				"url": "https://blog.martin-haehnel.de/2023/01/30/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -668,7 +704,7 @@
 				"id": "http://matti.micro.blog/2023/01/06/previously-this-last.html",
 				
 				"content_html": "<p><a href=\"https://blog.martin-haehnel.de/2022/01/01/year-of-strain.html\">Previously</a></p>\n<p>This last year was not a great year. I wouldn&rsquo;t say it was as bad as 2021. But it was a challenging year. 2022 was a year of increasing uncertainty. There was (and is) war happening very close by (or at least that&rsquo;s how it feels). There is the economic down turn, which touches everything and everyone around me.</p>\n<p>I look back and see a year that was defined by trying to get a grip, finally (for the umpteenth time). I was successful for a while, but almost nothing I tried to do stuck throughout the year (and beyond): I did not become a <a href=\"https://blog.martin-haehnel.de/2022/05/29/taking-a-break.html\">microcaster</a>, an <a href=\"https://blog.martin-haehnel.de/categories/the-early-riser/\">early riser</a>, a <a href=\"https://blog.martin-haehnel.de/notes-on-notes/\">newsletter writer</a>, for example. Notable exceptions: Duolingo (500+ days streak) and my <a href=\"https://blog.martin-haehnel.de/categories/dailydogo/\">DailyDogo</a> series of posts here on the blog. I started a side project that I will claim is still ongoing, even though I have not invested any time into it since mid December.</p>\n<p>Now, not all projects are meant to be continuous, or even meant to succeed. I know that and it&rsquo;s fine. I do appreciate the insight gained from projects more than their outcomes. Nonetheless it is gnawing at me that I do not have a lot to show in terms of progress regarding my own ideas. I feel like I ought to be capable enough to make things (bring side projects to a &ldquo;version 1&rdquo; state, continuously publish side projects that are ongoing, like newsletters), change or add habits, transform my surroundings in a positive manner, etc. I feel like I should be able to succeed sometimes, at least.</p>\n<p>Let me say it again: Despite what I just wrote, I do appreciate that I have not stood still and it would be wrong to claim that nothing good came out of me trying hard in whatever it may have been. I just feel like that I would like to be able to show <em>something</em> for the effort, something tangible.</p>\n<p>Take my note taking system for example: For literal decades (only 2, but that still warrants the plural) I have honed and refined my skill to take notes, to think in notes and therefore am able to think many interesting thoughts beyond what a single &ldquo;thought session&rdquo; may come up with. I feel like this makes me good at my job. It actually makes me good at <em>life</em> I&rsquo;ll claim, because my reflections are more mature and I do know myself better than without. The question is though: If I&rsquo;m so great, where are the results of me being good? I&rsquo;m a middling programmer - I do recognize that I started my career later than others and I know that I have not reached my ceiling and am far from it: I even made steps forward to becoming more proficient. But still. I&rsquo;m an okay writer (or was) - not in English, mind you - but where are the publications? I&rsquo;m a pretty good thinker - but where are my contributions to a field, any field, that I have had academic training in (history, sociology, anthropology of science and technology and computer science)?</p>\n<p>It seems to me that I&rsquo;m caught in a stage of continuously drafting grand visions of my future if I look back through the many years of yearly reviews I have done. I&rsquo;m pretty sick of it. In 2022 I already made a change towards not changing my plans, but instead refining them. I count this as my biggest professional success. I made my peace with having a career in software development (now about 5 years in) and am trying to learn more about software architecture (only slightly successful, but nonetheless).</p>\n<!-- raw HTML omitted -->\n<p>In my private life, our dog has been a great source of happiness. At the same time having a dog is challenging. My family lives about 2000 km away. My partner&rsquo;s family lives about 800 km away. So visits to either part of the family became much, much harder to organize and carry out. The same is true for vacations. Daily life with a dog is great, but it&rsquo;s not a neutral thing either: A dog warrants attention, love, decision making and so many different things. Your life will change and it will revolve around the dog a lot. This is maybe not surprising intellectually, but experientially it feels still much different than what it may have looked like beforehand. I do not regret having a dog, as hard as it was raising or quite simply dealing with her this year sometimes, but I won&rsquo;t say that everything was fine and easy going all the time either. Still, I love her like a crazy dog dad loves his fur child.</p>\n<!-- raw HTML omitted -->\n<p>We got engaged this year. We are now seven years together. I take this as a great sign that we are truly there for each other - through thick and thin. It was not an easy year. Lots of emotional support was needed. I&rsquo;m happy to say that I was able to give it, when I could. As an introvert - yep, that&rsquo;s true even when it comes to my partner - it wasn&rsquo;t always an easy thing to do, but I can look at myself in the mirror and honestly say that I tried hard in this regard. And I won&rsquo;t only complain, either: The vast vast VAST majority of our time together has been fun and something to look forward to. I love sharing my life with my favorite person and love having lots of memorable moments together.</p>\n<p>I have become a little rounder last year. Maybe two or three kilos - or is it five? A little grayer, too. I&rsquo;m 36 now. I feel like I&rsquo;m fine with my age and my looks. &ldquo;Not having anything to show for the effort&rdquo;-itis (see above) is surely a sign of getting older, I think and I do recognize that I&rsquo;m not super young anymore, but getting older is not worrying me. That&rsquo;s good. I think.</p>\n<p>So what will I remember from 2022? Our engagement for sure. How I got sick of grand plans maybe? That 2022 was economically a terrible year and I&rsquo;m happy that we were not too hard hit? Maybe that I tried hard on many occasions, despite any track record or tangible results?</p>\n<p>Maybe I will remember this year as a kind of beacon, like from a light house: On the one hand I had some insights that will surely inform my decision making next year. On the other hand, I came close at times to run aground in the shoals of actual lived adulthood. I have to be careful, but I also want to take heart: I&rsquo;m looking as ever hopeful into the future. Maybe I&rsquo;m able to not only claim a realistic approach next year but actually live one also.</p>\n",
-				"content_text": "[Previously](https://blog.martin-haehnel.de/2022/01/01/year-of-strain.html)\n\nThis last year was not a great year. I wouldn't say it was as bad as 2021. But it was a challenging year. 2022 was a year of increasing uncertainty. There was (and is) war happening very close by (or at least that's how it feels). There is the economic down turn, which touches everything and everyone around me.\n\nI look back and see a year that was defined by trying to get a grip, finally (for the umpteenth time). I was successful for a while, but almost nothing I tried to do stuck throughout the year (and beyond): I did not become a [microcaster](https://blog.martin-haehnel.de/2022/05/29/taking-a-break.html), an [early riser](https://blog.martin-haehnel.de/categories/the-early-riser/), a [newsletter writer](https://blog.martin-haehnel.de/notes-on-notes/), for example. Notable exceptions: Duolingo (500+ days streak) and my [DailyDogo](https://blog.martin-haehnel.de/categories/dailydogo/) series of posts here on the blog. I started a side project that I will claim is still ongoing, even though I have not invested any time into it since mid December.\n\nNow, not all projects are meant to be continuous, or even meant to succeed. I know that and it's fine. I do appreciate the insight gained from projects more than their outcomes. Nonetheless it is gnawing at me that I do not have a lot to show in terms of progress regarding my own ideas. I feel like I ought to be capable enough to make things (bring side projects to a \"version 1\" state, continuously publish side projects that are ongoing, like newsletters), change or add habits, transform my surroundings in a positive manner, etc. I feel like I should be able to succeed sometimes, at least.\n\nLet me say it again: Despite what I just wrote, I do appreciate that I have not stood still and it would be wrong to claim that nothing good came out of me trying hard in whatever it may have been. I just feel like that I would like to be able to show *something* for the effort, something tangible.\n\nTake my note taking system for example: For literal decades (only 2, but that still warrants the plural) I have honed and refined my skill to take notes, to think in notes and therefore am able to think many interesting thoughts beyond what a single \"thought session\" may come up with. I feel like this makes me good at my job. It actually makes me good at *life* I'll claim, because my reflections are more mature and I do know myself better than without. The question is though: If I'm so great, where are the results of me being good? I'm a middling programmer - I do recognize that I started my career later than others and I know that I have not reached my ceiling and am far from it: I even made steps forward to becoming more proficient. But still. I'm an okay writer (or was) - not in English, mind you - but where are the publications? I'm a pretty good thinker - but where are my contributions to a field, any field, that I have had academic training in (history, sociology, anthropology of science and technology and computer science)?\n\nIt seems to me that I'm caught in a stage of continuously drafting grand visions of my future if I look back through the many years of yearly reviews I have done. I'm pretty sick of it. In 2022 I already made a change towards not changing my plans, but instead refining them. I count this as my biggest professional success. I made my peace with having a career in software development (now about 5 years in) and am trying to learn more about software architecture (only slightly successful, but nonetheless).\n\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/1a3f81d223.jpg\" alt=\"IMG 7608\" title=\"IMG_7608.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n\nIn my private life, our dog has been a great source of happiness. At the same time having a dog is challenging. My family lives about 2000 km away. My partner's family lives about 800 km away. So visits to either part of the family became much, much harder to organize and carry out. The same is true for vacations. Daily life with a dog is great, but it's not a neutral thing either: A dog warrants attention, love, decision making and so many different things. Your life will change and it will revolve around the dog a lot. This is maybe not surprising intellectually, but experientially it feels still much different than what it may have looked like beforehand. I do not regret having a dog, as hard as it was raising or quite simply dealing with her this year sometimes, but I won't say that everything was fine and easy going all the time either. Still, I love her like a crazy dog dad loves his fur child.\n\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2023/0fd5211ec6.jpg\" alt=\"IMG 7282\" title=\"IMG_7282.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n\nWe got engaged this year. We are now seven years together. I take this as a great sign that we are truly there for each other - through thick and thin. It was not an easy year. Lots of emotional support was needed. I'm happy to say that I was able to give it, when I could. As an introvert - yep, that's true even when it comes to my partner - it wasn't always an easy thing to do, but I can look at myself in the mirror and honestly say that I tried hard in this regard. And I won't only complain, either: The vast vast VAST majority of our time together has been fun and something to look forward to. I love sharing my life with my favorite person and love having lots of memorable moments together.\n\nI have become a little rounder last year. Maybe two or three kilos - or is it five? A little grayer, too. I'm 36 now. I feel like I'm fine with my age and my looks. \"Not having anything to show for the effort\"-itis (see above) is surely a sign of getting older, I think and I do recognize that I'm not super young anymore, but getting older is not worrying me. That's good. I think.\n\nSo what will I remember from 2022? Our engagement for sure. How I got sick of grand plans maybe? That 2022 was economically a terrible year and I'm happy that we were not too hard hit? Maybe that I tried hard on many occasions, despite any track record or tangible results?\n\nMaybe I will remember this year as a kind of beacon, like from a light house: On the one hand I had some insights that will surely inform my decision making next year. On the other hand, I came close at times to run aground in the shoals of actual lived adulthood. I have to be careful, but I also want to take heart: I'm looking as ever hopeful into the future. Maybe I'm able to not only claim a realistic approach next year but actually live one also.\n",
+				"content_text": "[Previously](https://blog.martin-haehnel.de/2022/01/01/year-of-strain.html)\n\nThis last year was not a great year. I wouldn't say it was as bad as 2021. But it was a challenging year. 2022 was a year of increasing uncertainty. There was (and is) war happening very close by (or at least that's how it feels). There is the economic down turn, which touches everything and everyone around me.\n\nI look back and see a year that was defined by trying to get a grip, finally (for the umpteenth time). I was successful for a while, but almost nothing I tried to do stuck throughout the year (and beyond): I did not become a [microcaster](https://blog.martin-haehnel.de/2022/05/29/taking-a-break.html), an [early riser](https://blog.martin-haehnel.de/categories/the-early-riser/), a [newsletter writer](https://blog.martin-haehnel.de/notes-on-notes/), for example. Notable exceptions: Duolingo (500+ days streak) and my [DailyDogo](https://blog.martin-haehnel.de/categories/dailydogo/) series of posts here on the blog. I started a side project that I will claim is still ongoing, even though I have not invested any time into it since mid December.\n\nNow, not all projects are meant to be continuous, or even meant to succeed. I know that and it's fine. I do appreciate the insight gained from projects more than their outcomes. Nonetheless it is gnawing at me that I do not have a lot to show in terms of progress regarding my own ideas. I feel like I ought to be capable enough to make things (bring side projects to a \"version 1\" state, continuously publish side projects that are ongoing, like newsletters), change or add habits, transform my surroundings in a positive manner, etc. I feel like I should be able to succeed sometimes, at least.\n\nLet me say it again: Despite what I just wrote, I do appreciate that I have not stood still and it would be wrong to claim that nothing good came out of me trying hard in whatever it may have been. I just feel like that I would like to be able to show *something* for the effort, something tangible.\n\nTake my note taking system for example: For literal decades (only 2, but that still warrants the plural) I have honed and refined my skill to take notes, to think in notes and therefore am able to think many interesting thoughts beyond what a single \"thought session\" may come up with. I feel like this makes me good at my job. It actually makes me good at *life* I'll claim, because my reflections are more mature and I do know myself better than without. The question is though: If I'm so great, where are the results of me being good? I'm a middling programmer - I do recognize that I started my career later than others and I know that I have not reached my ceiling and am far from it: I even made steps forward to becoming more proficient. But still. I'm an okay writer (or was) - not in English, mind you - but where are the publications? I'm a pretty good thinker - but where are my contributions to a field, any field, that I have had academic training in (history, sociology, anthropology of science and technology and computer science)?\n\nIt seems to me that I'm caught in a stage of continuously drafting grand visions of my future if I look back through the many years of yearly reviews I have done. I'm pretty sick of it. In 2022 I already made a change towards not changing my plans, but instead refining them. I count this as my biggest professional success. I made my peace with having a career in software development (now about 5 years in) and am trying to learn more about software architecture (only slightly successful, but nonetheless).\n\n\n<img src=\"uploads/2023/1a3f81d223.jpg\" alt=\"IMG 7608\" title=\"IMG_7608.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n\nIn my private life, our dog has been a great source of happiness. At the same time having a dog is challenging. My family lives about 2000 km away. My partner's family lives about 800 km away. So visits to either part of the family became much, much harder to organize and carry out. The same is true for vacations. Daily life with a dog is great, but it's not a neutral thing either: A dog warrants attention, love, decision making and so many different things. Your life will change and it will revolve around the dog a lot. This is maybe not surprising intellectually, but experientially it feels still much different than what it may have looked like beforehand. I do not regret having a dog, as hard as it was raising or quite simply dealing with her this year sometimes, but I won't say that everything was fine and easy going all the time either. Still, I love her like a crazy dog dad loves his fur child.\n\n\n<img src=\"uploads/2023/0fd5211ec6.jpg\" alt=\"IMG 7282\" title=\"IMG_7282.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n\nWe got engaged this year. We are now seven years together. I take this as a great sign that we are truly there for each other - through thick and thin. It was not an easy year. Lots of emotional support was needed. I'm happy to say that I was able to give it, when I could. As an introvert - yep, that's true even when it comes to my partner - it wasn't always an easy thing to do, but I can look at myself in the mirror and honestly say that I tried hard in this regard. And I won't only complain, either: The vast vast VAST majority of our time together has been fun and something to look forward to. I love sharing my life with my favorite person and love having lots of memorable moments together.\n\nI have become a little rounder last year. Maybe two or three kilos - or is it five? A little grayer, too. I'm 36 now. I feel like I'm fine with my age and my looks. \"Not having anything to show for the effort\"-itis (see above) is surely a sign of getting older, I think and I do recognize that I'm not super young anymore, but getting older is not worrying me. That's good. I think.\n\nSo what will I remember from 2022? Our engagement for sure. How I got sick of grand plans maybe? That 2022 was economically a terrible year and I'm happy that we were not too hard hit? Maybe that I tried hard on many occasions, despite any track record or tangible results?\n\nMaybe I will remember this year as a kind of beacon, like from a light house: On the one hand I had some insights that will surely inform my decision making next year. On the other hand, I came close at times to run aground in the shoals of actual lived adulthood. I have to be careful, but I also want to take heart: I'm looking as ever hopeful into the future. Maybe I'm able to not only claim a realistic approach next year but actually live one also.\n",
 				"date_published": "2023-01-06T22:45:44+02:00",
 				"url": "https://blog.martin-haehnel.de/2023/01/06/previously-this-last.html",
 				"tags": ["Year in Review"]
@@ -1320,7 +1356,7 @@
 				"id": "http://matti.micro.blog/2022/11/21/at-least-im.html",
 				
 				"content_html": "<p>At least I&rsquo;m not going to sweat anytime soon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "At least I'm not going to sweat anytime soon. \n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/7612d52b6a.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "At least I'm not going to sweat anytime soon. \n\n<img src=\"uploads/2022/7612d52b6a.jpg\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-21T08:44:48+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/11/21/at-least-im.html"
 			},
@@ -1592,7 +1628,7 @@
 				"id": "http://matti.micro.blog/2022/11/01/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 362 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "DailyDogo 362 🐶\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/44fdd3a202.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://blog.martin-haehnel.de/uploads/2022/6db95e8fa4.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://blog.martin-haehnel.de/uploads/2022/39fc52caaf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "DailyDogo 362 🐶\n\n<img src=\"uploads/2022/44fdd3a202.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/6db95e8fa4.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/39fc52caaf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-01T20:19:03+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/11/01/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1963,7 +1999,7 @@
 				"id": "http://matti.micro.blog/2022/09/28/the-dog-has.html",
 				
 				"content_html": "<p>The dog has kept me pretty active the last few days… 🐶😅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The dog has kept me pretty active the last few days… 🐶😅\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/d911fd2955.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The dog has kept me pretty active the last few days… 🐶😅\n\n<img src=\"uploads/2022/d911fd2955.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-28T07:05:44+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/09/28/the-dog-has.html"
 			},
@@ -4846,7 +4882,7 @@
 				"id": "http://matti.micro.blog/2022/03/09/second-day-in.html",
 				
 				"content_html": "<p>Second day in a row where I can’t upload a new podcast episode through wavelength. <!-- raw HTML omitted --> <a href=\"https://micro.blog/manton\">@manton</a>: Could you maybe look into this?</p>\n",
-				"content_text": "Second day in a row where I can’t upload a new podcast episode through wavelength. <img src=\"https://blog.martin-haehnel.de/uploads/2022/d72ac67161.png\" /> [@manton](https://micro.blog/manton): Could you maybe look into this?\n",
+				"content_text": "Second day in a row where I can’t upload a new podcast episode through wavelength. <img src=\"uploads/2022/d72ac67161.png\" /> [@manton](https://micro.blog/manton): Could you maybe look into this?\n",
 				"date_published": "2022-03-09T06:58:03+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/09/second-day-in.html"
 			},
@@ -4863,7 +4899,7 @@
 				"id": "http://matti.micro.blog/2022/03/08/help-i-cant.html",
 				
 				"content_html": "<p>.<a href=\"https://micro.blog/help\">@help</a> I can’t upload audio for some reason. The wavelength app won’t let me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": ".[@help](https://micro.blog/help) I can’t upload audio for some reason. The wavelength app won’t let me.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/d72ac67161.png\" width=\"600\" height=\"204\" alt=\"\" />\n",
+				"content_text": ".[@help](https://micro.blog/help) I can’t upload audio for some reason. The wavelength app won’t let me.\n\n<img src=\"uploads/2022/d72ac67161.png\" width=\"600\" height=\"204\" alt=\"\" />\n",
 				"date_published": "2022-03-08T07:02:28+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/03/08/help-i-cant.html"
 			},
@@ -5141,7 +5177,7 @@
 				"id": "http://matti.micro.blog/2022/02/22/213347.html",
 				
 				"content_html": "<p>22.2.22 ❤️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "22.2.22 ❤️\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/35c6b53597.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "22.2.22 ❤️\n\n<img src=\"uploads/2022/35c6b53597.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-22T21:33:47+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/22/213347.html"
 			},
@@ -5580,7 +5616,7 @@
 				"id": "http://matti.micro.blog/2022/02/02/current-home-screen.html",
 				
 				"content_html": "<p>Current Home Screen: the upper widget is a stack. The lower is siri app suggestions.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Current Home Screen: the upper widget is a stack. The lower is siri app suggestions. \n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/7f23a94fc1.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Current Home Screen: the upper widget is a stack. The lower is siri app suggestions. \n\n<img src=\"uploads/2022/7f23a94fc1.jpg\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-02T10:29:46+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/02/02/current-home-screen.html"
 			},
@@ -6026,7 +6062,7 @@
 				"id": "http://matti.micro.blog/2022/01/15/would-you-look.html",
 				
 				"content_html": "<p>Would you look at that super cute dog there in <a href=\"https://micro.blog/manton\">@manton</a>&rsquo;s <a href=\"https://www.manton.org/2022/01/14/123845.html\">announcement</a> of Micro.blog for Android!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Would you look at that super cute dog there in [@manton](https://micro.blog/manton)'s [announcement](https://www.manton.org/2022/01/14/123845.html) of Micro.blog for Android!\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/34e7c13e3d.jpg\" width=\"600\" height=\"557\" alt=\"\" />\n",
+				"content_text": "Would you look at that super cute dog there in [@manton](https://micro.blog/manton)'s [announcement](https://www.manton.org/2022/01/14/123845.html) of Micro.blog for Android!\n\n<img src=\"uploads/2022/34e7c13e3d.jpg\" width=\"600\" height=\"557\" alt=\"\" />\n",
 				"date_published": "2022-01-15T11:12:37+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/15/would-you-look.html"
 			},
@@ -6186,7 +6222,7 @@
 				"id": "http://matti.micro.blog/2022/01/07/help-it-seems.html",
 				
 				"content_html": "<p>.<a href=\"https://micro.blog/help\">@help</a> It seems to me that the <a href=\"https://gohugo.io/getting-started/configuration-markup#highlight\">highlight</a> part of an otherwise working overriden config.json in a custom theme is completely ignored (hugo v. 0.91)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": ".[@help](https://micro.blog/help) It seems to me that the [highlight](https://gohugo.io/getting-started/configuration-markup#highlight) part of an otherwise working overriden config.json in a custom theme is completely ignored (hugo v. 0.91)\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/39a36c4f7d.jpg\" width=\"600\" height=\"231\" alt=\"\" />\n",
+				"content_text": ".[@help](https://micro.blog/help) It seems to me that the [highlight](https://gohugo.io/getting-started/configuration-markup#highlight) part of an otherwise working overriden config.json in a custom theme is completely ignored (hugo v. 0.91)\n\n<img src=\"uploads/2022/39a36c4f7d.jpg\" width=\"600\" height=\"231\" alt=\"\" />\n",
 				"date_published": "2022-01-07T23:26:43+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/07/help-it-seems.html"
 			},
@@ -6298,7 +6334,7 @@
 				"id": "http://matti.micro.blog/2022/01/01/manton-also-why.html",
 				
 				"content_html": "<p>.<a href=\"https://micro.blog/manton\">@manton</a> Also: Why are theme errors not shown in the log? But here?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": ".[@manton](https://micro.blog/manton) Also: Why are theme errors not shown in the log? But here?\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2022/681fd9c18c.jpg\" width=\"600\" height=\"276\" alt=\"\" />\n",
+				"content_text": ".[@manton](https://micro.blog/manton) Also: Why are theme errors not shown in the log? But here?\n\n<img src=\"uploads/2022/681fd9c18c.jpg\" width=\"600\" height=\"276\" alt=\"\" />\n",
 				"date_published": "2022-01-01T20:38:00+02:00",
 				"url": "https://blog.martin-haehnel.de/2022/01/01/manton-also-why.html"
 			},
@@ -6341,7 +6377,7 @@
 				"id": "http://matti.micro.blog/2021/12/31/help-somehow-while.html",
 				
 				"content_html": "<p>.<a href=\"https://micro.blog/help\">@help</a> Somehow while playing with my testblog I ended up with a weird situation: Note that 1.) The content of the titles page is test and 2.) The content is red and an h1 even though the layout for that page has been deleted.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": ".[@help](https://micro.blog/help) Somehow while playing with my testblog I ended up with a weird situation: Note that 1.) The content of the titles page is test and 2.) The content is red and an h1 even though the layout for that page has been deleted.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/cce7fbda8e.jpg\" width=\"600\" height=\"307\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/bc717bb6e7.jpg\" width=\"600\" height=\"283\" alt=\"\" />\n",
+				"content_text": ".[@help](https://micro.blog/help) Somehow while playing with my testblog I ended up with a weird situation: Note that 1.) The content of the titles page is test and 2.) The content is red and an h1 even though the layout for that page has been deleted.\n\n<img src=\"uploads/2021/cce7fbda8e.jpg\" width=\"600\" height=\"307\" alt=\"\" /><img src=\"uploads/2021/bc717bb6e7.jpg\" width=\"600\" height=\"283\" alt=\"\" />\n",
 				"date_published": "2021-12-31T19:44:50+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/31/help-somehow-while.html"
 			},
@@ -6569,7 +6605,7 @@
 				"id": "http://matti.micro.blog/2021/12/13/cool.html",
 				
 				"content_html": "<p>Cool.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cool. \n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/9934becae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Cool. \n\n<img src=\"uploads/2021/9934becae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-13T15:25:04+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/13/cool.html"
 			},
@@ -7047,7 +7083,7 @@
 				"id": "http://matti.micro.blog/2021/10/18/first-flight-to.html",
 				
 				"content_html": "<p>First flight to Germany in almost two years. Mostly to visit (some of) the family. First from Kuusamo to Helsinki and after some hours of waiting I’ll continue to Berlin.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First flight to Germany in almost two years. Mostly to visit (some of) the family. First from Kuusamo to Helsinki and after some hours of waiting I’ll continue to Berlin.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/27166156af.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "First flight to Germany in almost two years. Mostly to visit (some of) the family. First from Kuusamo to Helsinki and after some hours of waiting I’ll continue to Berlin.\n\n<img src=\"uploads/2021/27166156af.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-18T09:26:53+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/10/18/first-flight-to.html"
 			},
@@ -7079,7 +7115,7 @@
 				"id": "http://matti.micro.blog/2021/10/10/my-first-americano.html",
 				
 				"content_html": "<p>My first Americano ever. I like it a lot.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My first Americano ever. I like it a lot.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/3a86099195.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My first Americano ever. I like it a lot.\n\n<img src=\"uploads/2021/3a86099195.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-10T13:05:15+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/10/10/my-first-americano.html"
 			},
@@ -7147,7 +7183,7 @@
 				"id": "http://matti.micro.blog/2021/09/22/a-little-boat.html",
 				
 				"content_html": "<p>A little boat trip on the upper part of the Oulankajoki - About 15 km. Our bodies were so sore the next day. We weathered two small rapids and also almost keeled over! We laughed a lot last Sunday.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A little boat trip on the upper part of the Oulankajoki - About 15 km. Our bodies were so sore the next day. We weathered two small rapids and also almost keeled over! We laughed a lot last Sunday.\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/1b2f7432bc.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/c68cf79906.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/6b5655976b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/bc49a0c7a1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/419b14604c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "A little boat trip on the upper part of the Oulankajoki - About 15 km. Our bodies were so sore the next day. We weathered two small rapids and also almost keeled over! We laughed a lot last Sunday.\n\n<img src=\"uploads/2021/1b2f7432bc.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/c68cf79906.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/6b5655976b.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/bc49a0c7a1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/419b14604c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-09-22T21:22:06+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/09/22/a-little-boat.html"
 			},
@@ -7195,7 +7231,7 @@
 				"id": "http://matti.micro.blog/2021/09/13/and-done.html",
 				
 				"content_html": "<p>… and done!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "… and done!\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/14b7843d2e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "… and done!\n\n<img src=\"uploads/2021/14b7843d2e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-13T19:38:53+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/09/13/and-done.html"
 			},
@@ -7203,7 +7239,7 @@
 				"id": "http://matti.micro.blog/2021/09/13/vegetable-pasta.html",
 				
 				"content_html": "<p>Vegetable pasta. 🧑‍🍳</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Vegetable pasta. 🧑‍🍳\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/ea1fef89c9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Vegetable pasta. 🧑‍🍳\n\n<img src=\"uploads/2021/ea1fef89c9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-09-13T19:23:17+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/09/13/vegetable-pasta.html"
 			},
@@ -7211,7 +7247,7 @@
 				"id": "http://matti.micro.blog/2021/09/13/colors-of-the.html",
 				
 				"content_html": "<p>Colors of the ruska season in the Riisitunturi Nationalpark</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Colors of the ruska season in the Riisitunturi Nationalpark\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/abad51b9d6.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/fa1eccd81e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/6f85d64668.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/568fe86599.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/8ea1466ce1.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/52a128d40c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/54911e7a9e.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/107d5de257.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/76dc0c1f22.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Colors of the ruska season in the Riisitunturi Nationalpark\n\n<img src=\"uploads/2021/abad51b9d6.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/fa1eccd81e.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/6f85d64668.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/568fe86599.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/8ea1466ce1.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/52a128d40c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/54911e7a9e.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/107d5de257.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/76dc0c1f22.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-12T23:42:31+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/09/13/colors-of-the.html"
 			},
@@ -7323,7 +7359,7 @@
 				"id": "http://matti.micro.blog/2021/08/16/first-little-balcony.html",
 				
 				"content_html": "<p>First little balcony harvest. 🌱 It wasn’t easy or sure with all the scaffolding from the roof reno that lasts the whole summer. But grateful for the results nonetheless. 🍅 ☺️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "First little balcony harvest. 🌱 It wasn’t easy or sure with all the scaffolding from the roof reno that lasts the whole summer. But grateful for the results nonetheless. 🍅 ☺️\n\n<img src=\"https://blog.martin-haehnel.de/uploads/2021/e860e98946.jpg\" width=\"600\" height=\"600\" alt=\"a handful of tomatoes spread out on a table and in a hand with a handwritten note next to them denoting their variety.\" /><img src=\"https://blog.martin-haehnel.de/uploads/2021/50523fcf99.jpg\" width=\"600\" height=\"600\" alt=\"Tomato fruits still on the bush on our balcony with the scaffolding in the background.\" />\n",
+				"content_text": "First little balcony harvest. 🌱 It wasn’t easy or sure with all the scaffolding from the roof reno that lasts the whole summer. But grateful for the results nonetheless. 🍅 ☺️\n\n<img src=\"uploads/2021/e860e98946.jpg\" width=\"600\" height=\"600\" alt=\"a handful of tomatoes spread out on a table and in a hand with a handwritten note next to them denoting their variety.\" /><img src=\"uploads/2021/50523fcf99.jpg\" width=\"600\" height=\"600\" alt=\"Tomato fruits still on the bush on our balcony with the scaffolding in the background.\" />\n",
 				"date_published": "2021-08-16T12:21:24+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/08/16/first-little-balcony.html"
 			},
@@ -7512,7 +7548,7 @@
 				"id": "http://matti.micro.blog/2021/07/02/construction-work-throughout.html",
 				
 				"content_html": "<p>Construction work throughout the whole pretty short summer sucks. But we make the best of it regardless. My GF rearranged the balcony, our oasis at home so that the plants would get more light and we can sit more comfortably there. 🌱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Construction work throughout the whole pretty short summer sucks. But we make the best of it regardless. My GF rearranged the balcony, our oasis at home so that the plants would get more light and we can sit more comfortably there. 🌱\n\n<img src=\"https://matti.micro.blog/uploads/2021/b05ae4d546.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Construction work throughout the whole pretty short summer sucks. But we make the best of it regardless. My GF rearranged the balcony, our oasis at home so that the plants would get more light and we can sit more comfortably there. 🌱\n\n<img src=\"uploads/2021/b05ae4d546.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-02T15:55:54+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/07/02/construction-work-throughout.html"
 			},
@@ -7528,7 +7564,7 @@
 				"id": "http://matti.micro.blog/2021/07/01/they-are-building.html",
 				
 				"content_html": "<p>They are building a roof on our roof!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "They are building a roof on our roof!\n\n<img src=\"https://matti.micro.blog/uploads/2021/34ca928fd4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "They are building a roof on our roof!\n\n<img src=\"uploads/2021/34ca928fd4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-01T14:53:13+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/07/01/they-are-building.html"
 			},
@@ -7544,7 +7580,7 @@
 				"id": "http://matti.micro.blog/2021/06/28/what-a-beautiful.html",
 				
 				"content_html": "<p>What a beautiful day! I had taken a vacation day from work today.</p>\n<p>After I woke up to help my GF in the morning by preparing food and coffee for her, I crawled back to bed and slept in.</p>\n<p>Took my sweet time, dreamt crazy dreams. Later, I started a new audio book from libby (more on that maybe another time) and started cleaning and stowing away our camping supplies.</p>\n<p>In the evening we went out to that bar that is so close to us — they had an open terrace for us to sit on, drink beers and eat. Lazy discussions about our summer plans and how we would approach tomorrow&rsquo;s day hike.</p>\n<p>Finally, a little stroll along the two lakes that are less than two hundred meters from our home.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What a beautiful day! I had taken a vacation day from work today. \r\n\r\nAfter I woke up to help my GF in the morning by preparing food and coffee for her, I crawled back to bed and slept in.\r\n\r\nTook my sweet time, dreamt crazy dreams. Later, I started a new audio book from libby (more on that maybe another time) and started cleaning and stowing away our camping supplies.\r\n\r\nIn the evening we went out to that bar that is so close to us — they had an open terrace for us to sit on, drink beers and eat. Lazy discussions about our summer plans and how we would approach tomorrow's day hike.\r\n\r\nFinally, a little stroll along the two lakes that are less than two hundred meters from our home.\n\n<img src=\"https://matti.micro.blog/uploads/2021/0c629850dd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "What a beautiful day! I had taken a vacation day from work today. \r\n\r\nAfter I woke up to help my GF in the morning by preparing food and coffee for her, I crawled back to bed and slept in.\r\n\r\nTook my sweet time, dreamt crazy dreams. Later, I started a new audio book from libby (more on that maybe another time) and started cleaning and stowing away our camping supplies.\r\n\r\nIn the evening we went out to that bar that is so close to us — they had an open terrace for us to sit on, drink beers and eat. Lazy discussions about our summer plans and how we would approach tomorrow's day hike.\r\n\r\nFinally, a little stroll along the two lakes that are less than two hundred meters from our home.\n\n<img src=\"uploads/2021/0c629850dd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-06-28T21:27:52+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/06/28/what-a-beautiful.html"
 			},
@@ -7602,7 +7638,7 @@
 				"id": "http://matti.micro.blog/2021/06/19/hiking-was-indeed.html",
 				
 				"content_html": "<p>Hiking was indeed nice. Now a late dinner cooking session to feed us hungry and exhausted nature admirers.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hiking was indeed nice. Now a late dinner cooking session to feed us hungry and exhausted nature admirers.\n\n<img src=\"https://matti.micro.blog/uploads/2021/a5de84bd5a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Hiking was indeed nice. Now a late dinner cooking session to feed us hungry and exhausted nature admirers.\n\n<img src=\"uploads/2021/a5de84bd5a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-06-19T22:05:04+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/06/19/hiking-was-indeed.html"
 			},
@@ -7626,7 +7662,7 @@
 				"id": "http://matti.micro.blog/2021/06/18/also-just-got.html",
 				
 				"content_html": "<p>Also: Just got my first vaccination. Thank goodness we are still allowed to go to Sauna!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Also: Just got my first vaccination. Thank goodness we are still allowed to go to Sauna!\n\n<img src=\"https://matti.micro.blog/uploads/2021/87d72e150d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Also: Just got my first vaccination. Thank goodness we are still allowed to go to Sauna!\n\n<img src=\"uploads/2021/87d72e150d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-18T09:23:15+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/06/18/also-just-got.html"
 			},
@@ -7658,7 +7694,7 @@
 				"id": "http://matti.micro.blog/2021/06/17/hi.html",
 				"title": "Hi!",
 				"content_html": "<p>So. Hi! I&rsquo;m matti.</p>\n<p>I&rsquo;m a German living in north-eastern Finland. I work as a developer remotely for a German company. I have an academic background in history of science and technology.</p>\n<p>Love a good chunk of the <a href=\"https://micro.blog/merlinmann\">@merlinmann</a> MPU, Maximumfun and some Incomparable Shows. Hi!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So. Hi! I'm matti.\n\nI'm a German living in north-eastern Finland. I work as a developer remotely for a German company. I have an academic background in history of science and technology.\n\nLove a good chunk of the [@merlinmann](https://micro.blog/merlinmann) MPU, Maximumfun and some Incomparable Shows. Hi!\n\n<img src=\"https://matti.micro.blog/uploads/2021/acc8bf4807.jpg\" width=\"450\" height=\"600\" alt=\"Just a slightly goofy picture of me sitting in a wooden boat, from a recent trip down the rapids around Ruuna in Eastern Finland.\" />\n",
+				"content_text": "So. Hi! I'm matti.\n\nI'm a German living in north-eastern Finland. I work as a developer remotely for a German company. I have an academic background in history of science and technology.\n\nLove a good chunk of the [@merlinmann](https://micro.blog/merlinmann) MPU, Maximumfun and some Incomparable Shows. Hi!\n\n<img src=\"uploads/2021/acc8bf4807.jpg\" width=\"450\" height=\"600\" alt=\"Just a slightly goofy picture of me sitting in a wooden boat, from a recent trip down the rapids around Ruuna in Eastern Finland.\" />\n",
 				"date_published": "2021-06-17T11:45:11+02:00",
 				"url": "https://blog.martin-haehnel.de/2021/06/17/hi.html"
 			},
