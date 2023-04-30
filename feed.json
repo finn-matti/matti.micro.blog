@@ -7,10 +7,107 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/04/30/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 537 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 537 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/8e75a91acb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-04-30T19:26:30+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/04/30/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/04/29/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 536 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 536 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/f892452fe0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-04-29T20:04:28+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/04/29/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/04/28/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 535 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 535 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/9dcc9e23ba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-04-28T21:12:15+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/04/28/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/04/27/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 534 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 534 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/fbe4aec6f7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-04-27T19:56:48+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/04/27/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/04/27/its-always-surprising.html",
+				
+				"content_html": "<p>It&rsquo;s always surprising to me, even though it shouldn&rsquo;t anymore: Pretty thorny coding project problem because a dependency update/runtime configuration conflict led to an edge case relatively deep in the stack. Tests that never failed, failed all of a sudden with unclear Errors, nobody in the team knew anything and even the internet was pretty unhelpful.</p>\n<p>Programming is a lesson in patience and perseverance sometimes.</p>\n",
+				"content_text": "It's always surprising to me, even though it shouldn't anymore: Pretty thorny coding project problem because a dependency update/runtime configuration conflict led to an edge case relatively deep in the stack. Tests that never failed, failed all of a sudden with unclear Errors, nobody in the team knew anything and even the internet was pretty unhelpful.\n\nProgramming is a lesson in patience and perseverance sometimes.\n",
+				"date_published": "2023-04-27T11:56:12+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/04/27/its-always-surprising.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/04/26/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 533 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 533 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/e65cb4bffc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-04-26T19:01:41+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/04/26/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/04/26/on-the-one.html",
+				
+				"content_html": "<p><a href=\"https://blog.martin-haehnel.de/2023/02/17/im-more-and.html\">Previously</a></p>\n<p>On the one hand I&rsquo;m baffled that Apple Music doesn&rsquo;t have a dedicated &ldquo;Rock&rdquo; radio channel.</p>\n<p>On the other hand I have never listened to so much Country music in my life before coming back to Apple Music.</p>\n<p>Yeeha! 🤠</p>\n",
+				"content_text": "[Previously](https://blog.martin-haehnel.de/2023/02/17/im-more-and.html)\n\nOn the one hand I'm baffled that Apple Music doesn't have a dedicated \"Rock\" radio channel.\n\nOn the other hand I have never listened to so much Country music in my life before coming back to Apple Music.\n\nYeeha! 🤠\n",
+				"date_published": "2023-04-26T15:49:05+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/04/26/on-the-one.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/04/26/i-am-more.html",
+				
+				"content_html": "<p>I am more and more of the opinion that relying on semantic versioning conventions (e.g. using <code>&quot;module&quot;: &quot;^1.2.3&quot;,</code> in your package.json) is a bad idea. A convention is not a guarantee. Something like <a href=\"https://github.com/renovatebot/renovate\">Renovate</a> is safer, especially in combination with a good test suite.</p>\n",
+				"content_text": "I am more and more of the opinion that relying on semantic versioning conventions (e.g. using `\"module\": \"^1.2.3\",` in your package.json) is a bad idea. A convention is not a guarantee. Something like [Renovate](https://github.com/renovatebot/renovate) is safer, especially in combination with a good test suite.\n",
+				"date_published": "2023-04-26T10:29:23+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/04/26/i-am-more.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/04/25/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 532 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 532 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/84c9d5f65d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-04-25T19:17:42+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/04/25/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/04/25/yesterday-i-tried.html",
+				
+				"content_html": "<p>Yesterday I tried to write three different blog posts about three different half baked ideas and published none. I aborted them one after another after being dissatisfied with their individual messages. Too much hot take, not enough general validity.</p>\n<p>I swear: Someday I will write a blog post again.</p>\n",
+				"content_text": "Yesterday I tried to write three different blog posts about three different half baked ideas and published none. I aborted them one after another after being dissatisfied with their individual messages. Too much hot take, not enough general validity.\n\nI swear: Someday I will write a blog post again.\n",
+				"date_published": "2023-04-25T10:56:19+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/04/25/yesterday-i-tried.html",
+				"tags": ["Blog"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/04/24/alt-for-todays.html",
+				
+				"content_html": "<p>Alt for today&rsquo;s DailyDogo (she has been such a good girl, with her mom on a business trip for three weeks and whatnot…)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Alt for today's DailyDogo (she has been such a good girl, with her mom on a business trip for three weeks and whatnot…)\n\n<img src=\"https://cdn.uploads.micro.blog/44388/2023/7c0c0e6258.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-24T21:25:15+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/04/24/alt-for-todays.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/04/24/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 531 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 531 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/005d5c27d2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 531 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/005d5c27d2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-04-24T21:20:50+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/04/24/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +116,7 @@
 				"id": "http://matti.micro.blog/2023/04/23/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 530 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 530 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/768fe39038.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 530 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/768fe39038.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-04-23T20:27:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/04/23/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +125,7 @@
 				"id": "http://matti.micro.blog/2023/04/22/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 529 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 529 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/1ad38a971b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 529 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/1ad38a971b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-04-22T22:07:29+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/04/22/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -1121,8 +1218,8 @@
 			{
 				"id": "http://matti.micro.blog/2023/02/17/im-more-and.html",
 				
-				"content_html": "<p>I&rsquo;m more and more impressed by the offering of radio programs on Apple Music. The most recent <a href=\"https://music.apple.com/us/station/buffalo-nichols/ra.1669383966\">Color Me Country episode</a> with the blues musician <a href=\"https://www.buffalo-nichols.com\">Buffalo Nichols</a>, for example, is great.</p>\n",
-				"content_text": "I'm more and more impressed by the offering of radio programs on Apple Music. The most recent [Color Me Country episode](https://music.apple.com/us/station/buffalo-nichols/ra.1669383966) with the blues musician [Buffalo Nichols](https://www.buffalo-nichols.com), for example, is great.\n",
+				"content_html": "<p>I&rsquo;m more and more impressed by the offering of radio programs on Apple Music. The most recent <a href=\"https://music.apple.com/us/station/buffalo-nichols/ra.1669383966\">Color Me Country episode</a> with the blues musician <a href=\"https://www.buffalo-nichols.com\">Buffalo Nichols</a>, for example, is great.</p>\n<p><a href=\"https://blog.martin-haehnel.de/2023/04/26/on-the-one.html\">Forward</a></p>\n",
+				"content_text": "I'm more and more impressed by the offering of radio programs on Apple Music. The most recent [Color Me Country episode](https://music.apple.com/us/station/buffalo-nichols/ra.1669383966) with the blues musician [Buffalo Nichols](https://www.buffalo-nichols.com), for example, is great.\n\n[Forward](https://blog.martin-haehnel.de/2023/04/26/on-the-one.html)\n",
 				"date_published": "2023-02-17T15:11:20+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/02/17/im-more-and.html",
 				"tags": ["Music"]
