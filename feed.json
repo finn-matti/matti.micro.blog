@@ -7,10 +7,88 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/05/06/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 543 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 543 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/3cf4e9a289.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-05-06T20:07:14+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/06/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/05/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 542 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 542 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/4e13d91d44.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-05-05T19:11:47+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/05/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/04/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 541 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 541 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/137941241f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-05-04T20:08:51+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/04/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/04/great-episode-of.html",
+				
+				"content_html": "<p><a href=\"https://www.relay.fm/clockwise/501\">Great Episode</a> of @clockwise@relayfm.social. The message of trying to stay even keeled, working for better legislation instead of engaging in shouting matches, understanding that you can&rsquo;t change what has already happened (you can only work with it), not only works for AI but also for climate change.</p>\n",
+				"content_text": "[Great Episode](https://www.relay.fm/clockwise/501) of @clockwise@relayfm.social. The message of trying to stay even keeled, working for better legislation instead of engaging in shouting matches, understanding that you can't change what has already happened (you can only work with it), not only works for AI but also for climate change.\n",
+				"date_published": "2023-05-04T13:12:35+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/04/great-episode-of.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/04/had-the-weirdest.html",
+				
+				"content_html": "<p>Had the weirdest stress dream last night: I dreamt that I agreed to buy one kind of computer for my new job, but then bought another. The rest of the dream consisted of me trying to hide this fact (I am 100% remote) from my coworkers and higher ups.</p>\n",
+				"content_text": "Had the weirdest stress dream last night: I dreamt that I agreed to buy one kind of computer for my new job, but then bought another. The rest of the dream consisted of me trying to hide this fact (I am 100% remote) from my coworkers and higher ups.\n",
+				"date_published": "2023-05-04T10:34:47+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/04/had-the-weirdest.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/03/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 540 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 540 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/a7d34c2ad6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-05-03T20:48:52+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/03/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/02/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 539 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 539 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/4e9f2fd649.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-05-02T20:06:33+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/02/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/02/that-is-a.html",
+				
+				"content_html": "<p>That is… a pretty old MacBook by today&rsquo;s standards, right?</p>\n<p><a href=\"https://www.apple.com/safari/\">From Apple&rsquo;s Safari page.</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "That is… a pretty old MacBook by today's standards, right?\n\n[From Apple's Safari page.](https://www.apple.com/safari/)\n\n<img src=\"https://cdn.uploads.micro.blog/44388/2023/07b78da3c4.png\" width=\"600\" height=\"561\" alt=\"\">\n",
+				"date_published": "2023-05-02T15:20:39+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/02/that-is-a.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/01/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 538 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 538 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/00aa8658c7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-05-01T20:57:00+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/01/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/04/30/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 537 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 537 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/8e75a91acb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 537 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/8e75a91acb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-04-30T19:26:30+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/04/30/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +97,7 @@
 				"id": "http://matti.micro.blog/2023/04/29/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 536 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 536 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/f892452fe0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 536 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/f892452fe0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-04-29T20:04:28+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/04/29/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +106,7 @@
 				"id": "http://matti.micro.blog/2023/04/28/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 535 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 535 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/9dcc9e23ba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 535 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/9dcc9e23ba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-04-28T21:12:15+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/04/28/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -37,7 +115,7 @@
 				"id": "http://matti.micro.blog/2023/04/27/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 534 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 534 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/fbe4aec6f7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 534 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/fbe4aec6f7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-04-27T19:56:48+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/04/27/dailydogo.html",
 				"tags": ["DailyDogo"]
