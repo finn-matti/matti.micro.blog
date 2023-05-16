@@ -7,10 +7,71 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/05/16/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 553 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 553 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/7dad16c6b1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-05-16T21:52:58+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/16/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/15/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 552 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 552 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/cbc76de9e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-05-15T19:19:56+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/15/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/15/not-gonna-lie.html",
+				
+				"content_html": "<p>Not gonna lie: The last couple of weeks in my current job have been… trying. Being annoyed always triggers anxiety in me and so this is no different. I notice it in how little I get done and in the quality of the little that I am able to do. Stuff like this is truly paralysing to me.</p>\n",
+				"content_text": "Not gonna lie: The last couple of weeks in my current job have been… trying. Being annoyed always triggers anxiety in me and so this is no different. I notice it in how little I get done and in the quality of the little that I am able to do. Stuff like this is truly paralysing to me.\n",
+				"date_published": "2023-05-15T13:18:47+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/15/not-gonna-lie.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/14/201718.html",
+				
+				"content_html": "<p>DailyDogo 551 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 551 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/568d63fc8a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-05-14T20:17:18+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/14/201718.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/14/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 550 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 550 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/bfa100b943.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-05-14T12:43:33+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/14/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/13/as-exciting-as.html",
+				
+				"content_html": "<p>As exciting as app development for iOS/MacOS sounds (being an indy is actually a dream of mine), the abhorrent state of documentation AND support in case of bugs makes it much less appealing than staying in my web development lane as a corporate stooge.</p>\n",
+				"content_text": "As exciting as app development for iOS/MacOS sounds (being an indy is actually a dream of mine), the abhorrent state of documentation AND support in case of bugs makes it much less appealing than staying in my web development lane as a corporate stooge.\n",
+				"date_published": "2023-05-13T18:10:28+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/13/as-exciting-as.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/05/12/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 549 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 549 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/53ff66fdc9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-05-12T23:00:28+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/05/12/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/05/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 548 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 548 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/10da342275.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 548 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/10da342275.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-11T20:09:00+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +80,7 @@
 				"id": "http://matti.micro.blog/2023/05/10/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 547 🐶</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "DailyDogo 547 🐶\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://blog.martin-haehnel.de/uploads/2023/59eb287eb6.mov\" width=\"360\" height=\"640\" poster=\"https://blog.martin-haehnel.de/uploads/2023/bb6cb04686.png\" preload=\"none\"></video>\n",
+				"content_text": "DailyDogo 547 🐶\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/44388/2023/59eb287eb6.mov\" width=\"360\" height=\"640\" poster=\"https://blog.martin-haehnel.de/uploads/2023/bb6cb04686.png\" preload=\"none\"></video>\n",
 				"date_published": "2023-05-10T21:51:52+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/10/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +89,7 @@
 				"id": "http://matti.micro.blog/2023/05/09/192237.html",
 				
 				"content_html": "<p>DailyDogo 546 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 546 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/272791471a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 546 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/272791471a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-09T19:22:37+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/09/192237.html",
 				"tags": ["DailyDogo"]
@@ -45,7 +106,7 @@
 				"id": "http://matti.micro.blog/2023/05/09/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 545 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 545 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/00de126ea2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 545 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/00de126ea2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-09T00:05:23+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/09/dailydogo.html",
 				"tags": ["DailyDogo"]
