@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/06/12/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 579 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 579 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/6a908084d1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-12T21:54:10+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/12/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/12/quick-update-on.html",
+				
+				"content_html": "<p>Quick update on <a href=\"https://blog.martin-haehnel.de/2023/06/11/first-impression-of.html\">my Diablo IV enjoyment</a>: I don&rsquo;t have any. So I stopped playing and went back to DeadCells, which is so much more fun.</p>\n<p>What was nice, though: I tried to use my Steam Deck as a little gaming PC and it worked like a charm (if a little slow: there were a lot of frame rate drops while playing Diablo IV through <a href=\"https://lutris.net\">Lutris</a>. No need for a <a href=\"https://www.steamdeck.com/en/dock\">Steam Deck Dock</a> either, since I have had a USB-C hub laying around and that&rsquo;s enough. This opens up some nice possibilities in terms of playing non-mac games for me.</p>\n",
+				"content_text": "Quick update on [my Diablo IV enjoyment](https://blog.martin-haehnel.de/2023/06/11/first-impression-of.html): I don't have any. So I stopped playing and went back to DeadCells, which is so much more fun.\n\nWhat was nice, though: I tried to use my Steam Deck as a little gaming PC and it worked like a charm (if a little slow: there were a lot of frame rate drops while playing Diablo IV through [Lutris](https://lutris.net). No need for a [Steam Deck Dock](https://www.steamdeck.com/en/dock) either, since I have had a USB-C hub laying around and that's enough. This opens up some nice possibilities in terms of playing non-mac games for me.\n",
+				"date_published": "2023-06-12T15:18:17+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/12/quick-update-on.html",
+				"tags": ["Games","Quick Note"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/11/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 578 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 578 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/5f84ec9d5d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-11T20:54:15+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/11/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/11/first-impression-of.html",
+				
+				"content_html": "<p>First impression of Diablo IV. I hate the MMORPG aspects of it. I don&rsquo;t need to see other people in my game. I don&rsquo;t plan nor want to interact with anyone when playing games.</p>\n<p>I also do not like how enemies spawn out of nowhere. In Diablo II you never saw them spawn - if that wasn&rsquo;t part of their mechanics. Enemies were always already there. Seeing them spawn is another MMORPG thing.</p>\n<p>Sadly a lot of Diablo IV&rsquo;s MMORPG elements make the game very slot-machine-y feeling. You click a bunch in front of a beautifully bleak backdrop and then you find loot. And that loot might be good or bad, but certainly you have always the chance to find better loot. As long as you just click a little more. To be clear: This has always been what Diablo was about, in the end - and maybe it&rsquo;s because I&rsquo;m older and/or maybe because you can&rsquo;t step into the same river twice - but I do not feel like Story/Progression and this game loop hang together correctly. It feels manipulative. Add on top the social elements - which are designed in a way that try to keep you in the game longer, by promising better rewards if you socialize (and forging relationships in a game like this makes it more likely for you to come back to socialize with game buddies) - and a shop to spend a weird in-game currency that you mostly can get by spending real-live money.</p>\n<p>Diablo IV is a glorified slot machine casino.</p>\n<p>That being sad, I have enjoyed the less gross aspects of the game, which is the campaign. (Mild spoilers ahead) I mostly like the lore - I&rsquo;m on level 22 maybe? - but even there I feel like that Lilith, the main antagonist, is too visible and not very mysterious. It seems weird that she is so hands on with her plans, interacting with villagers in far away, unimportant locations directly. Where are her underlings? As a villain she is not super interesting, I&rsquo;m afraid, and we haven&rsquo;t seen a lot of other interesting characters - good or bad - so far. If this is a problem of lore, or more a lacking aspect of world building, or story telling I don&rsquo;t know yet. It might be all of the above or maybe I&rsquo;ll change my mind. Diablo&rsquo;s stories have always been somewhat <a href=\"https://en.wikipedia.org/wiki/Camp_(style)\">campy</a>, but campy doesn&rsquo;t mean their story telling was bad.</p>\n<p>As you might imagine, I am not blown away by the game. A video game podcast I listen to, <a href=\"https://maximumfun.org/episodes/triple-click/our-first-dive-into-diablo-iv/\">Tripple Click</a>, likened the game to Destiny, which is a game with a similar slot machine loop built-in. I would relate it to Far Cry, which although different in many ways seems to me like yet another different take on the same basic idea: Loot-oriented, rpg-style, progressively open world-revealing, multiplayer friendly, story driven gaming.</p>\n<p>If all AAA games become one game - at least as far as the general design blue print is concerned - maybe AAA games are not for me anymore. I guess it&rsquo;s not fair to say, there are many different kinds of AAA games, but it at least feels like the amount of convergence has become more apparent over the last 10 years or so.</p>\n",
+				"content_text": "First impression of Diablo IV. I hate the MMORPG aspects of it. I don't need to see other people in my game. I don't plan nor want to interact with anyone when playing games.\n\nI also do not like how enemies spawn out of nowhere. In Diablo II you never saw them spawn - if that wasn't part of their mechanics. Enemies were always already there. Seeing them spawn is another MMORPG thing.\n\nSadly a lot of Diablo IV's MMORPG elements make the game very slot-machine-y feeling. You click a bunch in front of a beautifully bleak backdrop and then you find loot. And that loot might be good or bad, but certainly you have always the chance to find better loot. As long as you just click a little more. To be clear: This has always been what Diablo was about, in the end - and maybe it's because I'm older and/or maybe because you can't step into the same river twice - but I do not feel like Story/Progression and this game loop hang together correctly. It feels manipulative. Add on top the social elements - which are designed in a way that try to keep you in the game longer, by promising better rewards if you socialize (and forging relationships in a game like this makes it more likely for you to come back to socialize with game buddies) - and a shop to spend a weird in-game currency that you mostly can get by spending real-live money.\n\nDiablo IV is a glorified slot machine casino.\n\nThat being sad, I have enjoyed the less gross aspects of the game, which is the campaign. (Mild spoilers ahead) I mostly like the lore - I'm on level 22 maybe? - but even there I feel like that Lilith, the main antagonist, is too visible and not very mysterious. It seems weird that she is so hands on with her plans, interacting with villagers in far away, unimportant locations directly. Where are her underlings? As a villain she is not super interesting, I'm afraid, and we haven't seen a lot of other interesting characters - good or bad - so far. If this is a problem of lore, or more a lacking aspect of world building, or story telling I don't know yet. It might be all of the above or maybe I'll change my mind. Diablo's stories have always been somewhat [campy](https://en.wikipedia.org/wiki/Camp_(style)), but campy doesn't mean their story telling was bad.\n\nAs you might imagine, I am not blown away by the game. A video game podcast I listen to, [Tripple Click](https://maximumfun.org/episodes/triple-click/our-first-dive-into-diablo-iv/), likened the game to Destiny, which is a game with a similar slot machine loop built-in. I would relate it to Far Cry, which although different in many ways seems to me like yet another different take on the same basic idea: Loot-oriented, rpg-style, progressively open world-revealing, multiplayer friendly, story driven gaming.\n\nIf all AAA games become one game - at least as far as the general design blue print is concerned - maybe AAA games are not for me anymore. I guess it's not fair to say, there are many different kinds of AAA games, but it at least feels like the amount of convergence has become more apparent over the last 10 years or so.\n",
+				"date_published": "2023-06-11T09:56:36+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/11/first-impression-of.html",
+				"tags": ["Games","Quick Note"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/10/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 577 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 577 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/a600cc2b87.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-10T23:16:36+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/10/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/10/a-little-addition.html",
+				
+				"content_html": "<p>A little addition to what I said <a href=\"https://blog.martin-haehnel.de/2023/06/03/some-ways-in.html\">the other day</a>: The &ldquo;take notes to reach your goals&rdquo; is kinda important. Because I am a believer that you actually shouldn&rsquo;t take (too many) notes that are not in some productive way connected to what you want to achieve.</p>\n<p>The world is big. And the amount of potential notes you could take is immense. In my own note taking I try to frame the act of note taking as an activity done by an author, not an archivist. Be an author or creator and find ways in which note taking can support you, but try not to fall into the trap of writing everything down.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> Your job is not to have the perfect Zettelkasten (or whatever), but to have and stay in contact with whatever it is your try to do with your life.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Even worse: trying to perfect all this random stuff: By making everything a beautiful, artfully crafted perfect little note. No! Only do that with the stuff that makes you better in your job/helps you reach your goals.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "A little addition to what I said [the other day](https://blog.martin-haehnel.de/2023/06/03/some-ways-in.html): The \"take notes to reach your goals\" is kinda important. Because I am a believer that you actually shouldn't take (too many) notes that are not in some productive way connected to what you want to achieve.\n\nThe world is big. And the amount of potential notes you could take is immense. In my own note taking I try to frame the act of note taking as an activity done by an author, not an archivist. Be an author or creator and find ways in which note taking can support you, but try not to fall into the trap of writing everything down.[^1] Your job is not to have the perfect Zettelkasten (or whatever), but to have and stay in contact with whatever it is your try to do with your life.\n\n[^1]: Even worse: trying to perfect all this random stuff: By making everything a beautiful, artfully crafted perfect little note. No! Only do that with the stuff that makes you better in your job/helps you reach your goals.\n",
+				"date_published": "2023-06-10T14:48:10+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/10/a-little-addition.html",
+				"tags": ["Notes on Notes"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/09/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 576 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 576 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/23cd646766.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-09T22:26:46+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/09/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/08/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 575 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 575 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/95a8f93382.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-08T20:18:31+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/08/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/06/07/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 574 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 574 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/34a810988f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 574 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/34a810988f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-06-07T20:26:37+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/07/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +91,7 @@
 				"id": "http://matti.micro.blog/2023/06/06/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 573 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 573 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/feddad7504.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 573 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/feddad7504.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-06-06T19:15:27+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/06/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -27,8 +99,8 @@
 			{
 				"id": "http://matti.micro.blog/2023/06/06/i-wonder-if.html",
 				
-				"content_html": "<p>I wonder if the dystopian looks of AR/VR headsets are really the problem. I can see that they don&rsquo;t translate well to PR story telling: People find it creepy to look at.</p>\n<p>But I do wonder if that even matters. If we think about people&rsquo;s desktop setups right now - with multiple displays, the users hunched over a keyboard, cables everywhere, big headphones cutting us off, probably looking at a wall, instead of the room - isn&rsquo;t this not just as dystopian? What the current aesthetics of every day computing has going for itself in comparison than a headset blocking our view of the real(?) world is that you can make it look somewhat palatable in photos and videos.</p>\n<p>If you hide the cables and clean the desk, it can be made to look somewhat pleasing even. But that&rsquo;s not really how most computing places look.</p>\n<p>In practice there are finger prints, bread crumbs, cables not very well hidden, there is fan noise, dust, asymmetry. And then we sit in front of these machines for hours on end. Computers brake our bodies. There is nothing innocent about using &ldquo;normal&rdquo; computers today. This is true also for handheld devices.</p>\n<p>It seems to me that there are two directions to answer to this status quo. The first is a kind of digital ludditism: &ldquo;We should use less screens, we should go out, we should not be so dependent and addicted to our computing devices.&rdquo; The second is an optimistic affirmation of technological progress: &ldquo;All the computing around us is great, the future is bright. I&rsquo;m excited.&rdquo; And then there are mixed versions: &ldquo;Computers are great in moderation.&rdquo; Or: &ldquo;Computers are a necessary evil.&rdquo;</p>\n<p>I&rsquo;ll add to the mix a stance that is all too often called fatalism: Computers are inevitable. And furthermore: There is no choice involved. It doesn&rsquo;t really matter if we like or dislike technology. What matters is if technology is able to reorganize society around itself sufficiently. If a technology - take the smartphone - is able to do so, we&rsquo;ll find all kinds of excuses - that&rsquo;s the wrong word, because there is no value judgement implied, but merely a description of a general discourse dynamic - to not find it creepy or dystopian. In practice the reorganization has more to do with making certain kinds of activities more interesting, effective, productive - or, in short: more likely. If an activity sufficiently occurs mediated by a new technology - for whatever reason - it will be adopted.</p>\n<p>And when it has been sufficiently adopted, perceived PR problems are none anymore. But let&rsquo;s not kid ourselves that it would be PR that makes this possible. PR can - maybe! - help to establish some use cases or open the door, but it&rsquo;s the actual use that leads to an uptake in the likelihood of (mediated) activities where the difference lies. That in turn doesn&rsquo;t mean that PR is useless either. PR makes things appear pleasant, which is nice.</p>\n<p>Coming back to AR/VR headsets: The problem of these technologies so far is that they do not make you play more games or take more meetings, or whatever. The technology is not persuasive enough to get over the uncanny valley. But, again, it&rsquo;s not the uncanny valley itself that make them unsuccessful so far.</p>\n",
-				"content_text": "I wonder if the dystopian looks of AR/VR headsets are really the problem. I can see that they don't translate well to PR story telling: People find it creepy to look at.\n\nBut I do wonder if that even matters. If we think about people's desktop setups right now - with multiple displays, the users hunched over a keyboard, cables everywhere, big headphones cutting us off, probably looking at a wall, instead of the room - isn't this not just as dystopian? What the current aesthetics of every day computing has going for itself in comparison than a headset blocking our view of the real(?) world is that you can make it look somewhat palatable in photos and videos.\n\nIf you hide the cables and clean the desk, it can be made to look somewhat pleasing even. But that's not really how most computing places look.\n\nIn practice there are finger prints, bread crumbs, cables not very well hidden, there is fan noise, dust, asymmetry. And then we sit in front of these machines for hours on end. Computers brake our bodies. There is nothing innocent about using \"normal\" computers today. This is true also for handheld devices.\n\nIt seems to me that there are two directions to answer to this status quo. The first is a kind of digital ludditism: \"We should use less screens, we should go out, we should not be so dependent and addicted to our computing devices.\" The second is an optimistic affirmation of technological progress: \"All the computing around us is great, the future is bright. I'm excited.\" And then there are mixed versions: \"Computers are great in moderation.\" Or: \"Computers are a necessary evil.\"\n\nI'll add to the mix a stance that is all too often called fatalism: Computers are inevitable. And furthermore: There is no choice involved. It doesn't really matter if we like or dislike technology. What matters is if technology is able to reorganize society around itself sufficiently. If a technology - take the smartphone - is able to do so, we'll find all kinds of excuses - that's the wrong word, because there is no value judgement implied, but merely a description of a general discourse dynamic - to not find it creepy or dystopian. In practice the reorganization has more to do with making certain kinds of activities more interesting, effective, productive - or, in short: more likely. If an activity sufficiently occurs mediated by a new technology - for whatever reason - it will be adopted.\n\nAnd when it has been sufficiently adopted, perceived PR problems are none anymore. But let's not kid ourselves that it would be PR that makes this possible. PR can - maybe! - help to establish some use cases or open the door, but it's the actual use that leads to an uptake in the likelihood of (mediated) activities where the difference lies. That in turn doesn't mean that PR is useless either. PR makes things appear pleasant, which is nice.\n\nComing back to AR/VR headsets: The problem of these technologies so far is that they do not make you play more games or take more meetings, or whatever. The technology is not persuasive enough to get over the uncanny valley. But, again, it's not the uncanny valley itself that make them unsuccessful so far.\n",
+				"content_html": "<p>I wonder if the dystopian looks of AR/VR headsets are really the problem. I can see that they don&rsquo;t translate well to PR story telling: People find it creepy to look at.</p>\n<p>But I do wonder if that even matters. If we think about people&rsquo;s desktop setups right now - with multiple displays, the users hunched over a keyboard, cables everywhere, big headphones cutting us off, probably looking at a wall, instead of the room - isn&rsquo;t this just as dystopian? What the current aesthetics of every day computing has going for itself in comparison to a headset blocking our view of the real(?) world is that you can make it look somewhat palatable in photos and videos.</p>\n<p>If you hide the cables and clean the desk, it can be made to look somewhat pleasing even. But that&rsquo;s not really how most computing places look.</p>\n<p>In practice there are finger prints, bread crumbs, cables not very well hidden, there is fan noise, dust, asymmetry. And then we sit in front of these machines for hours on end. Computers brake our bodies. There is nothing innocent about using &ldquo;normal&rdquo; computers today. This is true also for handheld devices.</p>\n<p>It seems to me that there are two directions to answer to this status quo. The first is a kind of digital ludditism: &ldquo;We should use less screens, we should go out, we should not be so dependent and addicted to our computing devices.&rdquo; The second is an optimistic affirmation of technological progress: &ldquo;All the computing around us is great, the future is bright. I&rsquo;m excited.&rdquo; And then there are mixed versions: &ldquo;Computers are great in moderation.&rdquo; Or: &ldquo;Computers are a necessary evil.&rdquo;</p>\n<p>I&rsquo;ll add to the mix a stance that is all too often called fatalism: Computers are inevitable. And furthermore: There is no choice involved. It doesn&rsquo;t really matter if we like or dislike technology. What matters is if technology is able to reorganize society around itself sufficiently. If a technology - take the smartphone - is able to do so, we&rsquo;ll find all kinds of excuses - that&rsquo;s the wrong word, because there is no value judgement implied, but merely a description of a general discourse dynamic - to not find it creepy or dystopian. In practice the reorganization has more to do with making certain kinds of activities more interesting, effective, productive - or, in short: more likely. If an activity sufficiently occurs mediated by a new technology - for whatever reason - that new technology will be adopted.</p>\n<p>And when it has been sufficiently adopted, perceived PR problems are none anymore. But let&rsquo;s not kid ourselves that it would be PR that makes this possible. PR can - maybe! - help to establish some use cases or open the door, but it&rsquo;s the actual use that leads to an uptake in the likelihood of (mediated) activities. And that&rsquo;s where the difference lies. That in turn doesn&rsquo;t mean that PR is useless either. PR makes things appear pleasant, which is nice.</p>\n<p>Coming back to AR/VR headsets: The problem of these technologies so far is that they do not make you play more games or take more meetings, or whatever. The technology is not persuasive enough to get over the uncanny valley. But, again, it&rsquo;s not the uncanny valley itself that make them unsuccessful so far.</p>\n",
+				"content_text": "I wonder if the dystopian looks of AR/VR headsets are really the problem. I can see that they don't translate well to PR story telling: People find it creepy to look at.\n\nBut I do wonder if that even matters. If we think about people's desktop setups right now - with multiple displays, the users hunched over a keyboard, cables everywhere, big headphones cutting us off, probably looking at a wall, instead of the room - isn't this just as dystopian? What the current aesthetics of every day computing has going for itself in comparison to a headset blocking our view of the real(?) world is that you can make it look somewhat palatable in photos and videos.\n\nIf you hide the cables and clean the desk, it can be made to look somewhat pleasing even. But that's not really how most computing places look.\n\nIn practice there are finger prints, bread crumbs, cables not very well hidden, there is fan noise, dust, asymmetry. And then we sit in front of these machines for hours on end. Computers brake our bodies. There is nothing innocent about using \"normal\" computers today. This is true also for handheld devices.\n\nIt seems to me that there are two directions to answer to this status quo. The first is a kind of digital ludditism: \"We should use less screens, we should go out, we should not be so dependent and addicted to our computing devices.\" The second is an optimistic affirmation of technological progress: \"All the computing around us is great, the future is bright. I'm excited.\" And then there are mixed versions: \"Computers are great in moderation.\" Or: \"Computers are a necessary evil.\"\n\nI'll add to the mix a stance that is all too often called fatalism: Computers are inevitable. And furthermore: There is no choice involved. It doesn't really matter if we like or dislike technology. What matters is if technology is able to reorganize society around itself sufficiently. If a technology - take the smartphone - is able to do so, we'll find all kinds of excuses - that's the wrong word, because there is no value judgement implied, but merely a description of a general discourse dynamic - to not find it creepy or dystopian. In practice the reorganization has more to do with making certain kinds of activities more interesting, effective, productive - or, in short: more likely. If an activity sufficiently occurs mediated by a new technology - for whatever reason - that new technology will be adopted.\n\nAnd when it has been sufficiently adopted, perceived PR problems are none anymore. But let's not kid ourselves that it would be PR that makes this possible. PR can - maybe! - help to establish some use cases or open the door, but it's the actual use that leads to an uptake in the likelihood of (mediated) activities. And that's where the difference lies. That in turn doesn't mean that PR is useless either. PR makes things appear pleasant, which is nice.\n\nComing back to AR/VR headsets: The problem of these technologies so far is that they do not make you play more games or take more meetings, or whatever. The technology is not persuasive enough to get over the uncanny valley. But, again, it's not the uncanny valley itself that make them unsuccessful so far.\n",
 				"date_published": "2023-06-06T12:20:39+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/06/i-wonder-if.html",
 				"tags": ["Quick Note"]
@@ -87,8 +159,8 @@
 			{
 				"id": "http://matti.micro.blog/2023/06/03/some-ways-in.html",
 				
-				"content_html": "<p>Some ways in which notes can help to reach goals:</p>\n<ul>\n<li>Finding goals and planning them out</li>\n<li>Tracking progress</li>\n<li>Colleting ideas</li>\n<li>organizing Tasks</li>\n<li>Reflecting on all of the above</li>\n</ul>\n<p>Some ways in which some types of notes can make you write more notes:</p>\n<ul>\n<li>running list notes - as long as a list is active, new things have to be added to it to keep it active</li>\n<li>check list notes - check lists have to be used</li>\n<li>&ldquo;forms&rdquo; - forms have to be filled (could also be a single field form, like a prompt note)</li>\n<li>seed notes - have to be edited/refactored</li>\n<li>notes with complex ideas - will have to be explained by other notes that may not exist yet or have to bridged to be able to be linked</li>\n<li>highlights/notes of reading materials - are not even real notes yet!</li>\n</ul>\n<p>I think that one trick to make note taking make sense is to arrange your note taking in a way that leads to more note taking and then to make that note taking about reaching your goals. I say &ldquo;and then&rdquo; but both things - goals in themselves - have to be front and center all the time.</p>\n",
-				"content_text": "Some ways in which notes can help to reach goals:\n\n- Finding goals and planning them out\n- Tracking progress\n- Colleting ideas\n- organizing Tasks\n- Reflecting on all of the above\n\nSome ways in which some types of notes can make you write more notes:\n\n- running list notes - as long as a list is active, new things have to be added to it to keep it active\n- check list notes - check lists have to be used\n- \"forms\" - forms have to be filled (could also be a single field form, like a prompt note)\n- seed notes - have to be edited/refactored\n- notes with complex ideas - will have to be explained by other notes that may not exist yet or have to bridged to be able to be linked\n- highlights/notes of reading materials - are not even real notes yet!\n\nI think that one trick to make note taking make sense is to arrange your note taking in a way that leads to more note taking and then to make that note taking about reaching your goals. I say \"and then\" but both things - goals in themselves - have to be front and center all the time.\n",
+				"content_html": "<p>Some ways in which notes can help to reach goals:</p>\n<ul>\n<li>Finding goals and planning them out</li>\n<li>Tracking progress</li>\n<li>Colleting ideas</li>\n<li>organizing Tasks</li>\n<li>Reflecting on all of the above</li>\n</ul>\n<p>Some ways in which some types of notes can make you write more notes:</p>\n<ul>\n<li>running list notes - as long as a list is active, new things have to be added to it to keep it active</li>\n<li>check list notes - check lists have to be used</li>\n<li>&ldquo;forms&rdquo; - forms have to be filled (could also be a single field form, like a prompt note)</li>\n<li>seed notes - have to be edited/refactored</li>\n<li>notes with complex ideas - will have to be explained by other notes that may not exist yet or have to bridged to be able to be linked</li>\n<li>highlights/notes of reading materials - are not even real notes yet!</li>\n</ul>\n<p>I think that one trick to make note taking make sense is to arrange your note taking in a way that leads to more note taking and then to make that note taking about reaching your goals. I say &ldquo;and then&rdquo; but both things (which are goals in themselves) have to be front and center all the time.</p>\n",
+				"content_text": "Some ways in which notes can help to reach goals:\n\n- Finding goals and planning them out\n- Tracking progress\n- Colleting ideas\n- organizing Tasks\n- Reflecting on all of the above\n\nSome ways in which some types of notes can make you write more notes:\n\n- running list notes - as long as a list is active, new things have to be added to it to keep it active\n- check list notes - check lists have to be used\n- \"forms\" - forms have to be filled (could also be a single field form, like a prompt note)\n- seed notes - have to be edited/refactored\n- notes with complex ideas - will have to be explained by other notes that may not exist yet or have to bridged to be able to be linked\n- highlights/notes of reading materials - are not even real notes yet!\n\nI think that one trick to make note taking make sense is to arrange your note taking in a way that leads to more note taking and then to make that note taking about reaching your goals. I say \"and then\" but both things (which are goals in themselves) have to be front and center all the time.\n",
 				"date_published": "2023-06-03T17:52:17+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/03/some-ways-in.html",
 				"tags": ["Notes on Notes"]
@@ -187,7 +259,7 @@
 				"id": "http://matti.micro.blog/2023/05/27/214859.html",
 				
 				"content_html": "<p>DailyDogo 564 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 564 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/da03874078.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 564 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/da03874078.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-27T21:48:59+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/27/214859.html",
 				"tags": ["DailyDogo"]
@@ -196,7 +268,7 @@
 				"id": "http://matti.micro.blog/2023/05/27/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 563 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 563 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/0e731c8826.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 563 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/0e731c8826.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-27T13:47:38+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/27/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -205,7 +277,7 @@
 				"id": "http://matti.micro.blog/2023/05/25/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 562 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 562 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/40d4f5647a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 562 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/40d4f5647a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-25T23:18:27+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/25/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -214,7 +286,7 @@
 				"id": "http://matti.micro.blog/2023/05/24/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 561 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 561 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/76f3c6fa95.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 561 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/76f3c6fa95.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-24T22:38:06+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/24/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -223,7 +295,7 @@
 				"id": "http://matti.micro.blog/2023/05/23/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 560 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 560 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/0d85b4753a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 560 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/0d85b4753a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-23T23:30:13+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/23/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -250,7 +322,7 @@
 				"id": "http://matti.micro.blog/2023/05/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 557 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 557 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/3e82d7f7fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 557 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/3e82d7f7fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-20T21:02:32+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -259,7 +331,7 @@
 				"id": "http://matti.micro.blog/2023/05/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 556 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 556 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/5a4719de97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 556 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/5a4719de97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-19T23:03:17+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/19/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -268,7 +340,7 @@
 				"id": "http://matti.micro.blog/2023/05/18/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 555 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 555 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/3d438d1d26.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 555 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/3d438d1d26.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-18T20:47:22+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/18/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -286,7 +358,7 @@
 				"id": "http://matti.micro.blog/2023/05/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 553 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 553 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/7dad16c6b1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 553 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/7dad16c6b1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-16T21:52:58+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/16/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -295,7 +367,7 @@
 				"id": "http://matti.micro.blog/2023/05/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 552 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 552 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/cbc76de9e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 552 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/cbc76de9e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-15T19:19:56+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/15/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -312,7 +384,7 @@
 				"id": "http://matti.micro.blog/2023/05/14/201718.html",
 				
 				"content_html": "<p>DailyDogo 551 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 551 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/568d63fc8a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 551 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/568d63fc8a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-14T20:17:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/14/201718.html",
 				"tags": ["DailyDogo"]
@@ -321,7 +393,7 @@
 				"id": "http://matti.micro.blog/2023/05/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 550 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 550 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/bfa100b943.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 550 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/bfa100b943.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-14T12:43:33+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -373,8 +445,8 @@
 			{
 				"id": "http://matti.micro.blog/2023/05/09/previously-two-more.html",
 				
-				"content_html": "<p><a href=\"https://blog.martin-haehnel.de/2022/12/11/two-promising-new.html\">Previously.</a></p>\n<p>Two more promising apps:</p>\n<p>I&rsquo;m a big fan of noise and music apps and podcasts for focus and sleep. <a href=\"https://darknoise.app\">Dark Noise 3</a> is a great one that was new to me. Especially its Green Noise sound is very soothing to me.</p>\n<p><a href=\"https://www.getsequel.app\">Sequel 2</a> is probably the first media tracking app, that I am actually using (for a few weeks at least). It&rsquo;s easy to use and has just the right amount of bells and whistles. This works better for me than, say, Trakt.tv, because I don&rsquo;t need nor want the social network aspect and I do want to track more than just one type of media.</p>\n",
-				"content_text": "[Previously.](https://blog.martin-haehnel.de/2022/12/11/two-promising-new.html)\n\nTwo more promising apps:\n\nI'm a big fan of noise and music apps and podcasts for focus and sleep. [Dark Noise 3](https://darknoise.app) is a great one that was new to me. Especially its Green Noise sound is very soothing to me.\n\n[Sequel 2](https://www.getsequel.app) is probably the first media tracking app, that I am actually using (for a few weeks at least). It's easy to use and has just the right amount of bells and whistles. This works better for me than, say, Trakt.tv, because I don't need nor want the social network aspect and I do want to track more than just one type of media.\n",
+				"content_html": "<p><a href=\"https://blog.martin-haehnel.de/2022/12/11/two-promising-new.html\">Previously.</a></p>\n<p>Two more promising apps:</p>\n<p>I&rsquo;m a big fan of noise and music apps and podcasts for focus and sleep. <a href=\"https://darknoise.app\">Dark Noise 3</a> is a great one that was new to me. Especially its Green Noise sound is very soothing to me.</p>\n<p><a href=\"https://www.getsequel.app\">Sequel 2</a> is probably the first media tracking app, that I am actually using (for a few weeks at least). It&rsquo;s easy to use and has just the right amount of bells and whistles. This works better for me than, say, Trakt.tv, because I don&rsquo;t need nor want the social network aspect and I do want to track more than just one type of media.</p>\n<p><a href=\"https://blog.martin-haehnel.de/2022/11/27/if-there-would.html\">Forward. (Sequel 2)</a></p>\n",
+				"content_text": "[Previously.](https://blog.martin-haehnel.de/2022/12/11/two-promising-new.html)\n\nTwo more promising apps:\n\nI'm a big fan of noise and music apps and podcasts for focus and sleep. [Dark Noise 3](https://darknoise.app) is a great one that was new to me. Especially its Green Noise sound is very soothing to me.\n\n[Sequel 2](https://www.getsequel.app) is probably the first media tracking app, that I am actually using (for a few weeks at least). It's easy to use and has just the right amount of bells and whistles. This works better for me than, say, Trakt.tv, because I don't need nor want the social network aspect and I do want to track more than just one type of media.\n\n[Forward. (Sequel 2)](https://blog.martin-haehnel.de/2022/11/27/if-there-would.html)\n",
 				"date_published": "2023-05-09T11:39:44+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/09/previously-two-more.html"
 			},
@@ -2761,10 +2833,11 @@
 			{
 				"id": "http://matti.micro.blog/2022/11/27/if-there-would.html",
 				
-				"content_html": "<p>If there would be a bookshelves feature for games then the &ldquo;currently playing&rdquo; shelf would include <a href=\"https://dead-cells.com/\">Dead Cells</a>. Bought it on a whim the other day, I have been playing it the whole weekend on my MacBook Air through steam using my xbox one controller. Easy to pick up, hard to put down.</p>\n",
-				"content_text": "If there would be a bookshelves feature for games then the \"currently playing\" shelf would include [Dead Cells](https://dead-cells.com/). Bought it on a whim the other day, I have been playing it the whole weekend on my MacBook Air through steam using my xbox one controller. Easy to pick up, hard to put down.\n",
+				"content_html": "<p><a href=\"https://blog.martin-haehnel.de/2023/05/09/previously-two-more.html\">Previously. (Media Tracking)</a></p>\n<p>If there would be a bookshelves feature for games then the &ldquo;currently playing&rdquo; shelf would include <a href=\"https://dead-cells.com/\">Dead Cells</a>. Bought it on a whim the other day, I have been playing it the whole weekend on my MacBook Air through steam using my xbox one controller. Easy to pick up, hard to put down.</p>\n<p><a href=\"https://blog.martin-haehnel.de/2023/06/12/quick-update-on.html\">Forward. (Dead Cells)</a></p>\n",
+				"content_text": "[Previously. (Media Tracking)](https://blog.martin-haehnel.de/2023/05/09/previously-two-more.html)\n\nIf there would be a bookshelves feature for games then the \"currently playing\" shelf would include [Dead Cells](https://dead-cells.com/). Bought it on a whim the other day, I have been playing it the whole weekend on my MacBook Air through steam using my xbox one controller. Easy to pick up, hard to put down.\n\n[Forward. (Dead Cells)](https://blog.martin-haehnel.de/2023/06/12/quick-update-on.html)\n",
 				"date_published": "2022-11-27T19:39:33+03:00",
-				"url": "https://blog.martin-haehnel.de/2022/11/27/if-there-would.html"
+				"url": "https://blog.martin-haehnel.de/2022/11/27/if-there-would.html",
+				"tags": ["Games"]
 			},
 			{
 				"id": "http://matti.micro.blog/2022/11/26/dailydogo.html",
