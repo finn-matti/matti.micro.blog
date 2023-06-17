@@ -7,10 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/06/17/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 584 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 584 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/341e766a3750465bafbad215c3475b4c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-17T22:44:17+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/17/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/16/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 583 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 583 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/22b506f37b314854a7ea2945ed7370db.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-16T22:08:44+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/16/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/15/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 582 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 582 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/c18c46e343.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-15T22:42:07+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/15/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/14/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 581 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 581 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/ea2ec43e51.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-14T20:11:12+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/14/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/13/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 580 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 580 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/05ba862ca0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-13T20:34:08+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/13/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/13/its-really-cool.html",
+				
+				"content_html": "<p>It&rsquo;s really cool that the upstairs neighbor has decided to renovate their apartment without notice for who knows how long right when my vacation starts. Love it. Love. It. Especially because it seems to include ripping out the floors, too.</p>\n",
+				"content_text": "It's really cool that the upstairs neighbor has decided to renovate their apartment without notice for who knows how long right when my vacation starts. Love it. Love. It. Especially because it seems to include ripping out the floors, too. \n",
+				"date_published": "2023-06-13T14:13:54+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/13/its-really-cool.html"
+			},
+			{
 				"id": "http://matti.micro.blog/2023/06/12/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 579 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 579 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/6a908084d1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 579 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/6a908084d1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-06-12T21:54:10+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/12/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -18,8 +71,8 @@
 			{
 				"id": "http://matti.micro.blog/2023/06/12/quick-update-on.html",
 				
-				"content_html": "<p>Quick update on <a href=\"https://blog.martin-haehnel.de/2023/06/11/first-impression-of.html\">my Diablo IV enjoyment</a>: I don&rsquo;t have any. So I stopped playing and went back to DeadCells, which is so much more fun.</p>\n<p>What was nice, though: I tried to use my Steam Deck as a little gaming PC and it worked like a charm (if a little slow: there were a lot of frame rate drops while playing Diablo IV through <a href=\"https://lutris.net\">Lutris</a>. No need for a <a href=\"https://www.steamdeck.com/en/dock\">Steam Deck Dock</a> either, since I have had a USB-C hub laying around and that&rsquo;s enough. This opens up some nice possibilities in terms of playing non-mac games for me.</p>\n",
-				"content_text": "Quick update on [my Diablo IV enjoyment](https://blog.martin-haehnel.de/2023/06/11/first-impression-of.html): I don't have any. So I stopped playing and went back to DeadCells, which is so much more fun.\n\nWhat was nice, though: I tried to use my Steam Deck as a little gaming PC and it worked like a charm (if a little slow: there were a lot of frame rate drops while playing Diablo IV through [Lutris](https://lutris.net). No need for a [Steam Deck Dock](https://www.steamdeck.com/en/dock) either, since I have had a USB-C hub laying around and that's enough. This opens up some nice possibilities in terms of playing non-mac games for me.\n",
+				"content_html": "<p><a href=\"https://blog.martin-haehnel.de/2022/11/27/if-there-would.html\">Previously (Dead Cells).</a></p>\n<p><a href=\"https://blog.martin-haehnel.de/2023/06/11/first-impression-of.html\">Previously (Diablo IV - same link as below).</a></p>\n<p>Quick update on <a href=\"https://blog.martin-haehnel.de/2023/06/11/first-impression-of.html\">my Diablo IV enjoyment</a>: I don&rsquo;t have any. So I stopped playing and went back to DeadCells, which is so much more fun.</p>\n<p>What was nice, though: I tried to use my Steam Deck as a little gaming PC and it worked like a charm (if a little slow: there were a lot of frame rate drops while playing Diablo IV through <a href=\"https://lutris.net\">Lutris</a>. No need for a <a href=\"https://www.steamdeck.com/en/dock\">Steam Deck Dock</a> either, since I have had a USB-C hub laying around and that&rsquo;s enough. This opens up some nice possibilities in terms of playing non-mac games for me.</p>\n",
+				"content_text": "[Previously (Dead Cells).](https://blog.martin-haehnel.de/2022/11/27/if-there-would.html)\n\n[Previously (Diablo IV - same link as below).](https://blog.martin-haehnel.de/2023/06/11/first-impression-of.html)\n\nQuick update on [my Diablo IV enjoyment](https://blog.martin-haehnel.de/2023/06/11/first-impression-of.html): I don't have any. So I stopped playing and went back to DeadCells, which is so much more fun.\n\nWhat was nice, though: I tried to use my Steam Deck as a little gaming PC and it worked like a charm (if a little slow: there were a lot of frame rate drops while playing Diablo IV through [Lutris](https://lutris.net). No need for a [Steam Deck Dock](https://www.steamdeck.com/en/dock) either, since I have had a USB-C hub laying around and that's enough. This opens up some nice possibilities in terms of playing non-mac games for me.\n",
 				"date_published": "2023-06-12T15:18:17+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/12/quick-update-on.html",
 				"tags": ["Games","Quick Note"]
@@ -28,7 +81,7 @@
 				"id": "http://matti.micro.blog/2023/06/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 578 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 578 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/5f84ec9d5d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 578 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/5f84ec9d5d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-06-11T20:54:15+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -36,8 +89,8 @@
 			{
 				"id": "http://matti.micro.blog/2023/06/11/first-impression-of.html",
 				
-				"content_html": "<p>First impression of Diablo IV. I hate the MMORPG aspects of it. I don&rsquo;t need to see other people in my game. I don&rsquo;t plan nor want to interact with anyone when playing games.</p>\n<p>I also do not like how enemies spawn out of nowhere. In Diablo II you never saw them spawn - if that wasn&rsquo;t part of their mechanics. Enemies were always already there. Seeing them spawn is another MMORPG thing.</p>\n<p>Sadly a lot of Diablo IV&rsquo;s MMORPG elements make the game very slot-machine-y feeling. You click a bunch in front of a beautifully bleak backdrop and then you find loot. And that loot might be good or bad, but certainly you have always the chance to find better loot. As long as you just click a little more. To be clear: This has always been what Diablo was about, in the end - and maybe it&rsquo;s because I&rsquo;m older and/or maybe because you can&rsquo;t step into the same river twice - but I do not feel like Story/Progression and this game loop hang together correctly. It feels manipulative. Add on top the social elements - which are designed in a way that try to keep you in the game longer, by promising better rewards if you socialize (and forging relationships in a game like this makes it more likely for you to come back to socialize with game buddies) - and a shop to spend a weird in-game currency that you mostly can get by spending real-live money.</p>\n<p>Diablo IV is a glorified slot machine casino.</p>\n<p>That being sad, I have enjoyed the less gross aspects of the game, which is the campaign. (Mild spoilers ahead) I mostly like the lore - I&rsquo;m on level 22 maybe? - but even there I feel like that Lilith, the main antagonist, is too visible and not very mysterious. It seems weird that she is so hands on with her plans, interacting with villagers in far away, unimportant locations directly. Where are her underlings? As a villain she is not super interesting, I&rsquo;m afraid, and we haven&rsquo;t seen a lot of other interesting characters - good or bad - so far. If this is a problem of lore, or more a lacking aspect of world building, or story telling I don&rsquo;t know yet. It might be all of the above or maybe I&rsquo;ll change my mind. Diablo&rsquo;s stories have always been somewhat <a href=\"https://en.wikipedia.org/wiki/Camp_(style)\">campy</a>, but campy doesn&rsquo;t mean their story telling was bad.</p>\n<p>As you might imagine, I am not blown away by the game. A video game podcast I listen to, <a href=\"https://maximumfun.org/episodes/triple-click/our-first-dive-into-diablo-iv/\">Tripple Click</a>, likened the game to Destiny, which is a game with a similar slot machine loop built-in. I would relate it to Far Cry, which although different in many ways seems to me like yet another different take on the same basic idea: Loot-oriented, rpg-style, progressively open world-revealing, multiplayer friendly, story driven gaming.</p>\n<p>If all AAA games become one game - at least as far as the general design blue print is concerned - maybe AAA games are not for me anymore. I guess it&rsquo;s not fair to say, there are many different kinds of AAA games, but it at least feels like the amount of convergence has become more apparent over the last 10 years or so.</p>\n",
-				"content_text": "First impression of Diablo IV. I hate the MMORPG aspects of it. I don't need to see other people in my game. I don't plan nor want to interact with anyone when playing games.\n\nI also do not like how enemies spawn out of nowhere. In Diablo II you never saw them spawn - if that wasn't part of their mechanics. Enemies were always already there. Seeing them spawn is another MMORPG thing.\n\nSadly a lot of Diablo IV's MMORPG elements make the game very slot-machine-y feeling. You click a bunch in front of a beautifully bleak backdrop and then you find loot. And that loot might be good or bad, but certainly you have always the chance to find better loot. As long as you just click a little more. To be clear: This has always been what Diablo was about, in the end - and maybe it's because I'm older and/or maybe because you can't step into the same river twice - but I do not feel like Story/Progression and this game loop hang together correctly. It feels manipulative. Add on top the social elements - which are designed in a way that try to keep you in the game longer, by promising better rewards if you socialize (and forging relationships in a game like this makes it more likely for you to come back to socialize with game buddies) - and a shop to spend a weird in-game currency that you mostly can get by spending real-live money.\n\nDiablo IV is a glorified slot machine casino.\n\nThat being sad, I have enjoyed the less gross aspects of the game, which is the campaign. (Mild spoilers ahead) I mostly like the lore - I'm on level 22 maybe? - but even there I feel like that Lilith, the main antagonist, is too visible and not very mysterious. It seems weird that she is so hands on with her plans, interacting with villagers in far away, unimportant locations directly. Where are her underlings? As a villain she is not super interesting, I'm afraid, and we haven't seen a lot of other interesting characters - good or bad - so far. If this is a problem of lore, or more a lacking aspect of world building, or story telling I don't know yet. It might be all of the above or maybe I'll change my mind. Diablo's stories have always been somewhat [campy](https://en.wikipedia.org/wiki/Camp_(style)), but campy doesn't mean their story telling was bad.\n\nAs you might imagine, I am not blown away by the game. A video game podcast I listen to, [Tripple Click](https://maximumfun.org/episodes/triple-click/our-first-dive-into-diablo-iv/), likened the game to Destiny, which is a game with a similar slot machine loop built-in. I would relate it to Far Cry, which although different in many ways seems to me like yet another different take on the same basic idea: Loot-oriented, rpg-style, progressively open world-revealing, multiplayer friendly, story driven gaming.\n\nIf all AAA games become one game - at least as far as the general design blue print is concerned - maybe AAA games are not for me anymore. I guess it's not fair to say, there are many different kinds of AAA games, but it at least feels like the amount of convergence has become more apparent over the last 10 years or so.\n",
+				"content_html": "<p>First impression of Diablo IV. I hate the MMORPG aspects of it. I don&rsquo;t need to see other people in my game. I don&rsquo;t plan nor want to interact with anyone when playing games.</p>\n<p>I also do not like how enemies spawn out of nowhere. In Diablo II you never saw them spawn - if that wasn&rsquo;t part of their mechanics. Enemies were always already there. Seeing them spawn is another MMORPG thing.</p>\n<p>Sadly a lot of Diablo IV&rsquo;s MMORPG elements make the game very slot-machine-y feeling. You click a bunch in front of a beautifully bleak backdrop and then you find loot. And that loot might be good or bad, but certainly you have always the chance to find better loot. As long as you just click a little more. To be clear: This has always been what Diablo was about, in the end - and maybe it&rsquo;s because I&rsquo;m older and/or maybe because you can&rsquo;t step into the same river twice - but I do not feel like story/progression and this game loop hang together correctly. It feels manipulative. Add on top the social elements - which are designed in a way that try to keep you in the game longer, by promising better rewards if you socialize (and forging relationships in a game like this makes it more likely for you to come back to socialize with game buddies) - and a shop to spend a weird in-game currency that you mostly can get by spending real-live money.</p>\n<p>Diablo IV is a glorified slot machine casino.</p>\n<p>That being sad, I have enjoyed the less gross aspects of the game, which is the campaign. (Mild spoilers ahead) I mostly like the lore - I&rsquo;m on level 22 maybe? - but even there I feel like that Lilith, the main antagonist, is too visible and not very mysterious. It seems weird that she is so hands on with her plans, interacting with villagers in far away, unimportant locations directly. Where are her underlings? As a villain she is not super interesting, I&rsquo;m afraid, and we haven&rsquo;t seen a lot of other interesting characters - good or bad - so far. If this is a problem of lore, or more a lacking aspect of world building, or story telling I don&rsquo;t know yet. It might be all of the above or maybe I&rsquo;ll change my mind. Diablo&rsquo;s stories have always been somewhat <a href=\"https://en.wikipedia.org/wiki/Camp_(style)\">campy</a>, but campy doesn&rsquo;t mean their story telling was bad.</p>\n<p>As you might imagine, I am not blown away by the game. A video game podcast I listen to, <a href=\"https://maximumfun.org/episodes/triple-click/our-first-dive-into-diablo-iv/\">Tripple Click</a>, likened the game to Destiny, which is a game with a similar slot machine loop built-in. I would relate it to Far Cry, which although different in many ways seems to me like yet another different take on the same basic idea: Loot-oriented, rpg-style, progressively open world-revealing, multiplayer friendly, story driven gaming.</p>\n<p>If all AAA games become one game - at least as far as the general design blue print is concerned - maybe AAA games are not for me anymore. I guess it&rsquo;s not fair to say, there are many different kinds of AAA games, but it at least feels like the amount of convergence has become more apparent over the last 10 years or so.</p>\n<p><a href=\"https://blog.martin-haehnel.de/2023/06/12/quick-update-on.html\">Forward.</a></p>\n",
+				"content_text": "First impression of Diablo IV. I hate the MMORPG aspects of it. I don't need to see other people in my game. I don't plan nor want to interact with anyone when playing games.\n\nI also do not like how enemies spawn out of nowhere. In Diablo II you never saw them spawn - if that wasn't part of their mechanics. Enemies were always already there. Seeing them spawn is another MMORPG thing.\n\nSadly a lot of Diablo IV's MMORPG elements make the game very slot-machine-y feeling. You click a bunch in front of a beautifully bleak backdrop and then you find loot. And that loot might be good or bad, but certainly you have always the chance to find better loot. As long as you just click a little more. To be clear: This has always been what Diablo was about, in the end - and maybe it's because I'm older and/or maybe because you can't step into the same river twice - but I do not feel like story/progression and this game loop hang together correctly. It feels manipulative. Add on top the social elements - which are designed in a way that try to keep you in the game longer, by promising better rewards if you socialize (and forging relationships in a game like this makes it more likely for you to come back to socialize with game buddies) - and a shop to spend a weird in-game currency that you mostly can get by spending real-live money.\n\nDiablo IV is a glorified slot machine casino.\n\nThat being sad, I have enjoyed the less gross aspects of the game, which is the campaign. (Mild spoilers ahead) I mostly like the lore - I'm on level 22 maybe? - but even there I feel like that Lilith, the main antagonist, is too visible and not very mysterious. It seems weird that she is so hands on with her plans, interacting with villagers in far away, unimportant locations directly. Where are her underlings? As a villain she is not super interesting, I'm afraid, and we haven't seen a lot of other interesting characters - good or bad - so far. If this is a problem of lore, or more a lacking aspect of world building, or story telling I don't know yet. It might be all of the above or maybe I'll change my mind. Diablo's stories have always been somewhat [campy](https://en.wikipedia.org/wiki/Camp_(style)), but campy doesn't mean their story telling was bad.\n\nAs you might imagine, I am not blown away by the game. A video game podcast I listen to, [Tripple Click](https://maximumfun.org/episodes/triple-click/our-first-dive-into-diablo-iv/), likened the game to Destiny, which is a game with a similar slot machine loop built-in. I would relate it to Far Cry, which although different in many ways seems to me like yet another different take on the same basic idea: Loot-oriented, rpg-style, progressively open world-revealing, multiplayer friendly, story driven gaming.\n\nIf all AAA games become one game - at least as far as the general design blue print is concerned - maybe AAA games are not for me anymore. I guess it's not fair to say, there are many different kinds of AAA games, but it at least feels like the amount of convergence has become more apparent over the last 10 years or so.\n\n[Forward.](https://blog.martin-haehnel.de/2023/06/12/quick-update-on.html)\n",
 				"date_published": "2023-06-11T09:56:36+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/11/first-impression-of.html",
 				"tags": ["Games","Quick Note"]
@@ -46,7 +99,7 @@
 				"id": "http://matti.micro.blog/2023/06/10/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 577 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 577 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/a600cc2b87.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 577 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/a600cc2b87.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-06-10T23:16:36+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/10/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -91,7 +144,7 @@
 				"id": "http://matti.micro.blog/2023/06/06/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 573 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 573 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/feddad7504.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 573 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/feddad7504.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-06-06T19:15:27+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/06/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -259,7 +312,7 @@
 				"id": "http://matti.micro.blog/2023/05/27/214859.html",
 				
 				"content_html": "<p>DailyDogo 564 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 564 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/da03874078.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 564 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/da03874078.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-27T21:48:59+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/27/214859.html",
 				"tags": ["DailyDogo"]
@@ -268,7 +321,7 @@
 				"id": "http://matti.micro.blog/2023/05/27/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 563 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 563 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/0e731c8826.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 563 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/0e731c8826.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-27T13:47:38+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/27/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -277,7 +330,7 @@
 				"id": "http://matti.micro.blog/2023/05/25/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 562 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 562 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/40d4f5647a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 562 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/40d4f5647a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-25T23:18:27+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/25/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -286,7 +339,7 @@
 				"id": "http://matti.micro.blog/2023/05/24/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 561 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 561 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/76f3c6fa95.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 561 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/76f3c6fa95.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-24T22:38:06+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/24/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -295,7 +348,7 @@
 				"id": "http://matti.micro.blog/2023/05/23/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 560 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 560 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/0d85b4753a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 560 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/0d85b4753a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-23T23:30:13+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/23/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -322,7 +375,7 @@
 				"id": "http://matti.micro.blog/2023/05/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 557 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 557 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/3e82d7f7fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 557 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/3e82d7f7fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-20T21:02:32+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -331,7 +384,7 @@
 				"id": "http://matti.micro.blog/2023/05/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 556 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 556 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/5a4719de97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 556 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/5a4719de97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-19T23:03:17+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/19/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -340,7 +393,7 @@
 				"id": "http://matti.micro.blog/2023/05/18/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 555 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 555 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/3d438d1d26.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 555 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/3d438d1d26.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-18T20:47:22+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/18/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -358,7 +411,7 @@
 				"id": "http://matti.micro.blog/2023/05/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 553 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 553 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/7dad16c6b1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 553 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/7dad16c6b1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-16T21:52:58+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/16/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -367,7 +420,7 @@
 				"id": "http://matti.micro.blog/2023/05/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 552 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 552 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/cbc76de9e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 552 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/cbc76de9e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-15T19:19:56+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/15/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -384,7 +437,7 @@
 				"id": "http://matti.micro.blog/2023/05/14/201718.html",
 				
 				"content_html": "<p>DailyDogo 551 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 551 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/568d63fc8a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 551 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/568d63fc8a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-14T20:17:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/14/201718.html",
 				"tags": ["DailyDogo"]
@@ -393,7 +446,7 @@
 				"id": "http://matti.micro.blog/2023/05/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 550 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 550 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/bfa100b943.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 550 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/bfa100b943.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-14T12:43:33+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/14/dailydogo.html",
 				"tags": ["DailyDogo"]
