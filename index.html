@@ -25,6 +25,132 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://blog.martin-haehnel.de/2023/06/23/dailydogo.html" class="u-url"><time class="dt-published" datetime="2023-06-23 00:07:03 &#43;0300">Jun 23, 2023</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 589 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2023/06/21/dailydogo.html" class="u-url"><time class="dt-published" datetime="2023-06-21 22:08:19 &#43;0300">Jun 21, 2023</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 588 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2023/06/20/dailydogo.html" class="u-url"><time class="dt-published" datetime="2023-06-20 22:03:07 &#43;0300">Jun 20, 2023</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 587 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2023/06/19/dailydogo.html" class="u-url"><time class="dt-published" datetime="2023-06-19 23:41:17 &#43;0300">Jun 19, 2023</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 586 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2023/06/18/dailydogo.html" class="u-url"><time class="dt-published" datetime="2023-06-18 21:25:13 &#43;0300">Jun 18, 2023</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 585 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://blog.martin-haehnel.de/2023/06/18/the-hugo-template.html">The (Hu)go template syntax is bad.</a></h1>
+		
+
+		<a href="https://blog.martin-haehnel.de/2023/06/18/the-hugo-template.html" class="u-url"><time class="dt-published" datetime="2023-06-18 21:14:05 &#43;0300">Jun 18, 2023</time></a>
+
+		<div class="e-content">
+			 <p>There is no two ways about it. It&rsquo;s just bad and often counterintuitive. It&rsquo;s hard to read, hard to write, hard to debug, hard to fill in blanks. Easy things should be easy and hard things should be possible. I feel like everything is just hard with it - not impossible per se, but often harder then it should be.</p>
+<p>I mean just look at this one line:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go-html-template" data-lang="go-html-template"><span style="color:#75715e">{{</span> <span style="color:#a6e22e">$paginator</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">.Paginate</span> <span style="color:#f92672">(</span><span style="color:#a6e22e">where</span> <span style="color:#a6e22e">.Site.Pages.ByDate.Reverse</span> <span style="color:#e6db74">&#34;Type&#34;</span> <span style="color:#e6db74">&#34;post&#34;</span><span style="color:#f92672">)</span> <span style="color:#f92672">(</span><span style="color:#66d9ef">index</span> <span style="color:#a6e22e">.Site.Params</span> <span style="color:#e6db74">&#34;archive-paginate&#34;</span> <span style="color:#f92672">|</span> <span style="color:#a6e22e">default</span> <span style="color:#a6e22e">25</span><span style="color:#f92672">)</span> <span style="color:#75715e">}}</span>
+</code></pre></div><p>This does/means the following:</p>
+<ul>
+<li><code>$paginator</code> - that&rsquo;s a custom variable, it needs to be prefixed with a <code>$</code></li>
+<li><code>:=</code> - you need to use this operator to declare a variable and assign a value. But later it&rsquo;s fine to just use <code>=</code> to reassign it.</li>
+<li><code>.</code>  - &ldquo;the dot&rdquo;. It holds the context, which is basically a kind of scope. Why the scope is not implied? I don&rsquo;t know. I guess if you&rsquo;d have a <code>this</code> keyword, you&rsquo;d end up writing <code>this.whatever…</code> and you would still need to differentiate globals and in-scope vars, so I guess that&rsquo;s better?</li>
+<li><code>.Paginate</code> - Inside &ldquo;the dot&rdquo; there exists a <code>Paginate</code> function which has to be upper case because that is the way to make a function visible outside of its &ldquo;package&rdquo; in go. If you look at <a href="https://gohugo.io/functions/">the list of available functions in hugo</a>, you will know that a function was exported, but not why. Also a lot of functions were not exported, but you also do not know why. I assume that the lower case functions are all part of hugo&rsquo;s templating standard lib. But it&rsquo;s not explained what is going on in the docs explicitly.</li>
+<li><code> </code> - A space (yup). Functions and parameters are separated by spaces, so this space indicates the start of the Paginate function call (And not the parentheses in front of the <code>where</code>, as one might think when coming from other languages).</li>
+<li><code>(</code> - The start of the parentheses denotes a nested expression.</li>
+<li><code>where</code> - that&rsquo;s the <code>where</code> function which takes an array and compares a value at a given key using an operator (equals is implied and can be omitted like has been done here) to a value and only keeps the elements that pass the test.</li>
+<li><code>.Site.Pages.ByDate.Reverse</code> - The <code>.Site.Pages</code> part is an array of all pages of the blog. The <code>ByDate.Reverse</code> part is used (and available only) on <a href="https://gohugo.io/templates/lists/#what-is-a-list-page-template">list pages</a> - another detail you&rsquo;ll have to know - that is pages that have other pages under them in the file hierarchy. AND that the homepage is a special kind of list page. This is a snippet from the home page, so you can use it here to change the order of the retrieved array. Why you can&rsquo;t retrieve pages in similar manner on non list pages is unclear to me.</li>
+<li><code>&quot;Type&quot;</code> - This is the key parameter of the <code>where</code> function. The key is &ldquo;Type&rdquo; here. Why is <code>Type</code> capitalized? Maybe it has to because of exports? Maybe it&rsquo;s some other reason that I don&rsquo;t know. In any case it is part of the keys of the element that is kept (or discarded). For the pages array an element includes things like a <code>Permalink</code>, a published <code>Date</code> and a also a <code>Type</code>. How do you know what an element includes? Well, it&rsquo;s hard to say, because the <a href="https://gohugo.io/templates/template-debugging/#what-variables-are-available-in-this-context">proposed solution</a> to use something like <code>&amp;#123;&amp;#123; printf &quot;%#v&quot; . }}</code> within a range function call that references the pages from the <code>Paginator</code> above only prints garbage. An actual solution is to use <code>&lt;pre&gt;&amp;#123;&amp;#123; . | jsonify (dict &quot;indent&quot; &quot; &quot;) }}&lt;/pre&gt;</code> which gives a pretty printed JSON representation of all the available properties within a given context. But you&rsquo;ll not find this solution in the docs, you have to get lucky and find it in the forum or <a href="https://stackoverflow.com/questions/64163573/how-to-inspect-variables-in-the-current-scope-in-hugo">Stack Overflow</a>.</li>
+<li><code>&quot;post&quot;</code> - this is the match parameter of the <code>where</code> function. In other words the value found for the key &ldquo;Type&rdquo; must match this value in order to be included in the filtered array.</li>
+<li><code>) (</code> - we finish one nested expression - which is parameter one of our <code>.Paginate</code> call (the array to paginate) and start another nested expression - parameter two (the page size) of <code>.Paginate</code></li>
+<li><code>index .Site.Params &quot;archive-paginate&quot;</code> - this returns the value at index or key n of a given array. So in this case the value at .SiteParams.archive-paginate</li>
+<li><code> | default 25)</code> if <code>index</code> does not return a value the default function can take over and return a default value. I don&rsquo;t know why this has to be a function. I also find the whole part <code>index .Site.Params &quot;archive-paginate&quot; | default 25</code> difficult to parse: Is the pipe still part of the index function call? You&rsquo;ll have to know what pipes are.</li>
+</ul>
+<p>Finally, we have parsed the whole thing:</p>
+<pre tabindex="0"><code>instantiate customVar = 
+functionCallThatReturnsAPaginator(
+    functionCallThatReturnsAFilteredArray,
+    (
+        functionCallThatReturnsANumber ||
+        functionCallThatReturnsaAdefaultValue
+    )
+)
+</code></pre><p>And <code>.Paginator</code> itself is just an object that makes it easier to refer to and implement a paged navigation for an array of given elements (posts).</p>
+<p>Apart from the unusual syntax I find (Hu)go templates hard to parse, even if I grok them somewhat. (Hu)go&rsquo;s way to write function expressions, namely using spaces instead of parentheses and commas make the whole line harder to read than it needs to be. Compare:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go-html-template" data-lang="go-html-template"><span style="color:#75715e">{{</span> <span style="color:#a6e22e">$paginator</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">.Paginate</span> <span style="color:#f92672">(</span><span style="color:#a6e22e">where</span> <span style="color:#a6e22e">.Site.Pages.ByDate.Reverse</span> <span style="color:#e6db74">&#34;Type&#34;</span> <span style="color:#e6db74">&#34;post&#34;</span><span style="color:#f92672">)</span> <span style="color:#f92672">(</span><span style="color:#66d9ef">index</span> <span style="color:#a6e22e">.Site.Params</span> <span style="color:#e6db74">&#34;archive-paginate&#34;</span> <span style="color:#f92672">|</span> <span style="color:#a6e22e">default</span> <span style="color:#a6e22e">25</span><span style="color:#f92672">)</span> <span style="color:#75715e">}}</span>
+</code></pre></div><p>vs.</p>
+<pre tabindex="0"><code>{{$paginator := .Paginate(where(.Site.Pages.ByDate.Reverse,&quot;Type&quot;,&quot;post&quot;),(index(.Site.Params,&quot;archive-paginate&quot;) | default(25)))}}
+</code></pre><p>Granted, this is still hard to read, because a lot is happening in this one line of code, but still: I&rsquo;d argue it&rsquo;s much easier to parse, because opening and closing parentheses and commas carry much more information than a simple space could. Spaces are also commonly used to align or balance things as has happened around the pipe char. Does this carry semantic meaning? Nope, not in this case!</p>
+<!-- raw HTML omitted -->
+<p>The space is doing an enormous amount of overtime here and I have yet to see a good justification of muddling the waters like this. The only reason I could see is that you have to balance parentheses, meaning you&rsquo;re ending up with the line ending in <code>)))</code>. The best part is that you still need parens in any case, you just have to put them around the whole function expression! The real template version safes you two parentheses for the price of a parsing headache. I feel like that&rsquo;s not worth it.</p>
+<p>Let&rsquo;s move on: It should be super easy to limit the list of pages to only include a certain category of posts, right? Would this have been what you&rsquo;d come up with on the first try?</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go-html-template" data-lang="go-html-template"><span style="color:#75715e">{{</span> <span style="color:#a6e22e">$allPosts</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">where</span> <span style="color:#a6e22e">.Site.Pages.ByDate.Reverse</span> <span style="color:#e6db74">&#34;Type&#34;</span> <span style="color:#e6db74">&#34;post&#34;</span> <span style="color:#75715e">}}</span>
+<span style="color:#75715e">{{</span> <span style="color:#a6e22e">$allDailyDogos</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">where</span> <span style="color:#a6e22e">.Site.Pages</span> <span style="color:#e6db74">&#34;Params.categories&#34;</span> <span style="color:#e6db74">&#34;intersect&#34;</span> <span style="color:#f92672">(</span><span style="color:#a6e22e">slice</span> <span style="color:#e6db74">&#34;DailyDogo&#34;</span><span style="color:#f92672">)</span> <span style="color:#75715e">}}</span>
+<span style="color:#75715e">{{</span> <span style="color:#a6e22e">$onlyDogos</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">intersect</span> <span style="color:#a6e22e">$allPosts</span> <span style="color:#a6e22e">$allDailyDogos</span> <span style="color:#75715e">}}</span>
+<span style="color:#75715e">{{</span> <span style="color:#a6e22e">$paginator</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">.Paginate</span> <span style="color:#f92672">(</span><span style="color:#a6e22e">$onlyDogos</span><span style="color:#f92672">)</span> <span style="color:#f92672">(</span><span style="color:#66d9ef">index</span> <span style="color:#a6e22e">.Site.Params</span> <span style="color:#e6db74">&#34;archive-paginate&#34;</span> <span style="color:#f92672">|</span> <span style="color:#a6e22e">default</span> <span style="color:#a6e22e">25</span><span style="color:#f92672">)</span> <span style="color:#75715e">}}</span>
+</code></pre></div><p>So far so good. How about the inverse? You&rsquo;ll find that there is no way to tell the line <code>$allDailyDogos</code> to simply do the inverse. There is no <code>&quot;not intersect&quot;</code> or whatever. You have to use another function called <code>symdiff</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go-html-template" data-lang="go-html-template"><span style="color:#75715e">{{</span> <span style="color:#a6e22e">$allPosts</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">where</span> <span style="color:#a6e22e">.Site.Pages.ByDate.Reverse</span> <span style="color:#e6db74">&#34;Type&#34;</span> <span style="color:#e6db74">&#34;post&#34;</span> <span style="color:#75715e">}}</span>
+<span style="color:#75715e">{{</span> <span style="color:#a6e22e">$allDailyDogos</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">where</span> <span style="color:#a6e22e">.Site.Pages</span> <span style="color:#e6db74">&#34;Params.categories&#34;</span> <span style="color:#e6db74">&#34;intersect&#34;</span> <span style="color:#f92672">(</span><span style="color:#a6e22e">slice</span> <span style="color:#e6db74">&#34;DailyDogo&#34;</span><span style="color:#f92672">)</span> <span style="color:#75715e">}}</span>
+<span style="color:#75715e">{{</span> <span style="color:#a6e22e">$noDogos</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">symdiff</span> <span style="color:#a6e22e">$allDailyDogos</span> <span style="color:#a6e22e">$allPosts</span> <span style="color:#75715e">}}</span>
+<span style="color:#75715e">{{</span> <span style="color:#a6e22e">$paginator</span> <span style="color:#f92672">:=</span> <span style="color:#a6e22e">.Paginate</span> <span style="color:#f92672">(</span><span style="color:#a6e22e">$noDogos</span><span style="color:#f92672">)</span> <span style="color:#f92672">(</span><span style="color:#66d9ef">index</span> <span style="color:#a6e22e">.Site.Params</span> <span style="color:#e6db74">&#34;archive-paginate&#34;</span> <span style="color:#f92672">|</span> <span style="color:#a6e22e">default</span> <span style="color:#a6e22e">25</span><span style="color:#f92672">)</span> <span style="color:#75715e">}}</span>
+</code></pre></div><p>Symdiff is short for <a href="https://en.wikipedia.org/wiki/Symmetric_difference">symmetric difference</a> and means here that we want all elements from the <code>$allPosts</code> array that are not part of the <code>$allDailyDogos</code> array. Meaning we are keeping only those posts, which is like filtering for the inverse of the <code>$onlyDogos</code> array from before.</p>
+<p>We could have mashed this all into one line to make it totally unreadable, but I think this is instructive and it would have not been anymore readable in other template languages (if they even would&rsquo;ve been able to deal with this as a one liner). Still:</p>
+<ul>
+<li>Why do I need to make a slice/array out of &ldquo;DailyDogo&rdquo;?</li>
+<li>Why is there no <code>NOT</code> operator? - it would&rsquo;ve been nice in two instances: 1. inside the <code>where</code> function to save an extra call to <code>symdiff</code> or 2. as a better (I&rsquo;d say) alternative to using <code>symdiff</code>, because people think more along the lines of &ldquo;all but not these kinds of things&rdquo; instead of &ldquo;symmetrical difference of these two sets&rdquo;.</li>
+<li>Why is it so hard to chain conditions to the <code>where</code> function to the point where you&rsquo;d rather create two arrays instead of filtering the array down in one step?</li>
+</ul>
+<p>Ugh. There is so much in just this one line - and the subsequent slight changes I have done - that I find weird and unergonomic. I hope I could also show that it&rsquo;s not complete and utter failure to understand what&rsquo;s going on, either. Sometimes things are just badly designed for the most obvious use cases in order to accommodate fancier goals. I&rsquo;d rahter have a templating syntax/language that makes things easier. If that makes it more boring: Good. I&rsquo;m here to improve my blog first and foremost.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://blog.martin-haehnel.de/2023/06/17/dailydogo.html" class="u-url"><time class="dt-published" datetime="2023-06-17 22:44:17 &#43;0300">Jun 17, 2023</time></a>
 
 		<div class="e-content">
@@ -243,75 +369,6 @@
 <p>I&rsquo;ll add to the mix a stance that is all too often called fatalism: Computers are inevitable. And furthermore: There is no choice involved. It doesn&rsquo;t really matter if we like or dislike technology. What matters is if technology is able to reorganize society around itself sufficiently. If a technology - take the smartphone - is able to do so, we&rsquo;ll find all kinds of excuses - that&rsquo;s the wrong word, because there is no value judgement implied, but merely a description of a general discourse dynamic - to not find it creepy or dystopian. In practice the reorganization has more to do with making certain kinds of activities more interesting, effective, productive - or, in short: more likely. If an activity sufficiently occurs mediated by a new technology - for whatever reason - that new technology will be adopted.</p>
 <p>And when it has been sufficiently adopted, perceived PR problems are none anymore. But let&rsquo;s not kid ourselves that it would be PR that makes this possible. PR can - maybe! - help to establish some use cases or open the door, but it&rsquo;s the actual use that leads to an uptake in the likelihood of (mediated) activities. And that&rsquo;s where the difference lies. That in turn doesn&rsquo;t mean that PR is useless either. PR makes things appear pleasant, which is nice.</p>
 <p>Coming back to AR/VR headsets: The problem of these technologies so far is that they do not make you play more games or take more meetings, or whatever. The technology is not persuasive enough to get over the uncanny valley. But, again, it&rsquo;s not the uncanny valley itself that make them unsuccessful so far.</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://blog.martin-haehnel.de/2023/06/05/about-the-vision.html" class="u-url"><time class="dt-published" datetime="2023-06-05 23:00:22 &#43;0300">Jun 5, 2023</time></a>
-
-		<div class="e-content">
-			 <p>About the Vision Pro: I don&rsquo;t think I would ever pay that much for a device. Except if <em>I</em> would be using it to make money myself.</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://blog.martin-haehnel.de/2023/06/05/i-do-wonder.html" class="u-url"><time class="dt-published" datetime="2023-06-05 22:24:24 &#43;0300">Jun 5, 2023</time></a>
-
-		<div class="e-content">
-			 <p>I do wonder if it&rsquo;ll matter, that people don&rsquo;t like how the new Apple Headset <em>looks</em>. That it&rsquo;s creepy and dystopian <em>looking</em>. It&rsquo;s interesting to me that it&rsquo;s the aesthetics and the way you look for others while wearing the thing.</p>
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://blog.martin-haehnel.de/2023/06/05/dailydogo.html" class="u-url"><time class="dt-published" datetime="2023-06-05 22:12:06 &#43;0300">Jun 5, 2023</time></a>
-
-		<div class="e-content">
-			 <p>DailyDogo 573 🐶</p>
-<!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://blog.martin-haehnel.de/2023/06/04/193714.html" class="u-url"><time class="dt-published" datetime="2023-06-04 19:37:14 &#43;0300">Jun 4, 2023</time></a>
-
-		<div class="e-content">
-			 <p>DailyDogo 572 🐶</p>
-<!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://blog.martin-haehnel.de/2023/06/04/dailydogo.html" class="u-url"><time class="dt-published" datetime="2023-06-04 09:03:36 &#43;0300">Jun 4, 2023</time></a>
-
-		<div class="e-content">
-			 <p>DailyDogo 571 🐶</p>
-<!-- raw HTML omitted -->
-
-		</div>
-	  </div>
-	
-	  <div class="h-entry">
-		
-
-		<a href="https://blog.martin-haehnel.de/2023/06/03/god-damnit-karelian.html" class="u-url"><time class="dt-published" datetime="2023-06-03 21:32:28 &#43;0300">Jun 3, 2023</time></a>
-
-		<div class="e-content">
-			 <p>God damnit, Karelian pies are so good! 🇫🇮</p>
 
 		</div>
 	  </div>
