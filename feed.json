@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/06/23/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 589 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 589 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/b14ee16f7cd3448aaa7d19278148894b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-23T00:07:03+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/23/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/21/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 588 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 588 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/622c5b1d8ac64e388ca23775eadc722e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-21T22:08:19+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/21/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/20/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 587 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 587 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/0c75a9b2784d483b8a72512aa4851221.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-20T22:03:07+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/20/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/19/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 586 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 586 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/eb07b96d8aec490aabdbe7af8a93246a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-19T23:41:17+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/19/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/18/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 585 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 585 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/d124f2fbebf846acb77eca0c4d26338b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-06-18T21:25:13+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/18/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/06/18/the-hugo-template.html",
+				"title": "The (Hu)go template syntax is bad.",
+				"content_html": "<p>There is no two ways about it. It&rsquo;s just bad and often counterintuitive. It&rsquo;s hard to read, hard to write, hard to debug, hard to fill in blanks. Easy things should be easy and hard things should be possible. I feel like everything is just hard with it - not impossible per se, but often harder then it should be.</p>\n<p>I mean just look at this one line:</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-go-html-template\" data-lang=\"go-html-template\"><span style=\"color:#75715e\">{{</span> <span style=\"color:#a6e22e\">$paginator</span> <span style=\"color:#f92672\">:=</span> <span style=\"color:#a6e22e\">.Paginate</span> <span style=\"color:#f92672\">(</span><span style=\"color:#a6e22e\">where</span> <span style=\"color:#a6e22e\">.Site.Pages.ByDate.Reverse</span> <span style=\"color:#e6db74\">&#34;Type&#34;</span> <span style=\"color:#e6db74\">&#34;post&#34;</span><span style=\"color:#f92672\">)</span> <span style=\"color:#f92672\">(</span><span style=\"color:#66d9ef\">index</span> <span style=\"color:#a6e22e\">.Site.Params</span> <span style=\"color:#e6db74\">&#34;archive-paginate&#34;</span> <span style=\"color:#f92672\">|</span> <span style=\"color:#a6e22e\">default</span> <span style=\"color:#a6e22e\">25</span><span style=\"color:#f92672\">)</span> <span style=\"color:#75715e\">}}</span>\n</code></pre></div><p>This does/means the following:</p>\n<ul>\n<li><code>$paginator</code> - that&rsquo;s a custom variable, it needs to be prefixed with a <code>$</code></li>\n<li><code>:=</code> - you need to use this operator to declare a variable and assign a value. But later it&rsquo;s fine to just use <code>=</code> to reassign it.</li>\n<li><code>.</code>  - &ldquo;the dot&rdquo;. It holds the context, which is basically a kind of scope. Why the scope is not implied? I don&rsquo;t know. I guess if you&rsquo;d have a <code>this</code> keyword, you&rsquo;d end up writing <code>this.whatever…</code> and you would still need to differentiate globals and in-scope vars, so I guess that&rsquo;s better?</li>\n<li><code>.Paginate</code> - Inside &ldquo;the dot&rdquo; there exists a <code>Paginate</code> function which has to be upper case because that is the way to make a function visible outside of its &ldquo;package&rdquo; in go. If you look at <a href=\"https://gohugo.io/functions/\">the list of available functions in hugo</a>, you will know that a function was exported, but not why. Also a lot of functions were not exported, but you also do not know why. I assume that the lower case functions are all part of hugo&rsquo;s templating standard lib. But it&rsquo;s not explained what is going on in the docs explicitly.</li>\n<li><code> </code> - A space (yup). Functions and parameters are separated by spaces, so this space indicates the start of the Paginate function call (And not the parentheses in front of the <code>where</code>, as one might think when coming from other languages).</li>\n<li><code>(</code> - The start of the parentheses denotes a nested expression.</li>\n<li><code>where</code> - that&rsquo;s the <code>where</code> function which takes an array and compares a value at a given key using an operator (equals is implied and can be omitted like has been done here) to a value and only keeps the elements that pass the test.</li>\n<li><code>.Site.Pages.ByDate.Reverse</code> - The <code>.Site.Pages</code> part is an array of all pages of the blog. The <code>ByDate.Reverse</code> part is used (and available only) on <a href=\"https://gohugo.io/templates/lists/#what-is-a-list-page-template\">list pages</a> - another detail you&rsquo;ll have to know - that is pages that have other pages under them in the file hierarchy. AND that the homepage is a special kind of list page. This is a snippet from the home page, so you can use it here to change the order of the retrieved array. Why you can&rsquo;t retrieve pages in similar manner on non list pages is unclear to me.</li>\n<li><code>&quot;Type&quot;</code> - This is the key parameter of the <code>where</code> function. The key is &ldquo;Type&rdquo; here. Why is <code>Type</code> capitalized? Maybe it has to because of exports? Maybe it&rsquo;s some other reason that I don&rsquo;t know. In any case it is part of the keys of the element that is kept (or discarded). For the pages array an element includes things like a <code>Permalink</code>, a published <code>Date</code> and a also a <code>Type</code>. How do you know what an element includes? Well, it&rsquo;s hard to say, because the <a href=\"https://gohugo.io/templates/template-debugging/#what-variables-are-available-in-this-context\">proposed solution</a> to use something like <code>&amp;#123;&amp;#123; printf &quot;%#v&quot; . }}</code> within a range function call that references the pages from the <code>Paginator</code> above only prints garbage. An actual solution is to use <code>&lt;pre&gt;&amp;#123;&amp;#123; . | jsonify (dict &quot;indent&quot; &quot; &quot;) }}&lt;/pre&gt;</code> which gives a pretty printed JSON representation of all the available properties within a given context. But you&rsquo;ll not find this solution in the docs, you have to get lucky and find it in the forum or <a href=\"https://stackoverflow.com/questions/64163573/how-to-inspect-variables-in-the-current-scope-in-hugo\">Stack Overflow</a>.</li>\n<li><code>&quot;post&quot;</code> - this is the match parameter of the <code>where</code> function. In other words the value found for the key &ldquo;Type&rdquo; must match this value in order to be included in the filtered array.</li>\n<li><code>) (</code> - we finish one nested expression - which is parameter one of our <code>.Paginate</code> call (the array to paginate) and start another nested expression - parameter two (the page size) of <code>.Paginate</code></li>\n<li><code>index .Site.Params &quot;archive-paginate&quot;</code> - this returns the value at index or key n of a given array. So in this case the value at .SiteParams.archive-paginate</li>\n<li><code> | default 25)</code> if <code>index</code> does not return a value the default function can take over and return a default value. I don&rsquo;t know why this has to be a function. I also find the whole part <code>index .Site.Params &quot;archive-paginate&quot; | default 25</code> difficult to parse: Is the pipe still part of the index function call? You&rsquo;ll have to know what pipes are.</li>\n</ul>\n<p>Finally, we have parsed the whole thing:</p>\n<pre tabindex=\"0\"><code>instantiate customVar = \nfunctionCallThatReturnsAPaginator(\n    functionCallThatReturnsAFilteredArray,\n    (\n        functionCallThatReturnsANumber ||\n        functionCallThatReturnsaAdefaultValue\n    )\n)\n</code></pre><p>And <code>.Paginator</code> itself is just an object that makes it easier to refer to and implement a paged navigation for an array of given elements (posts).</p>\n<p>Apart from the unusual syntax I find (Hu)go templates hard to parse, even if I grok them somewhat. (Hu)go&rsquo;s way to write function expressions, namely using spaces instead of parentheses and commas make the whole line harder to read than it needs to be. Compare:</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-go-html-template\" data-lang=\"go-html-template\"><span style=\"color:#75715e\">{{</span> <span style=\"color:#a6e22e\">$paginator</span> <span style=\"color:#f92672\">:=</span> <span style=\"color:#a6e22e\">.Paginate</span> <span style=\"color:#f92672\">(</span><span style=\"color:#a6e22e\">where</span> <span style=\"color:#a6e22e\">.Site.Pages.ByDate.Reverse</span> <span style=\"color:#e6db74\">&#34;Type&#34;</span> <span style=\"color:#e6db74\">&#34;post&#34;</span><span style=\"color:#f92672\">)</span> <span style=\"color:#f92672\">(</span><span style=\"color:#66d9ef\">index</span> <span style=\"color:#a6e22e\">.Site.Params</span> <span style=\"color:#e6db74\">&#34;archive-paginate&#34;</span> <span style=\"color:#f92672\">|</span> <span style=\"color:#a6e22e\">default</span> <span style=\"color:#a6e22e\">25</span><span style=\"color:#f92672\">)</span> <span style=\"color:#75715e\">}}</span>\n</code></pre></div><p>vs.</p>\n<pre tabindex=\"0\"><code>{{$paginator := .Paginate(where(.Site.Pages.ByDate.Reverse,&quot;Type&quot;,&quot;post&quot;),(index(.Site.Params,&quot;archive-paginate&quot;) | default(25)))}}\n</code></pre><p>Granted, this is still hard to read, because a lot is happening in this one line of code, but still: I&rsquo;d argue it&rsquo;s much easier to parse, because opening and closing parentheses and commas carry much more information than a simple space could. Spaces are also commonly used to align or balance things as has happened around the pipe char. Does this carry semantic meaning? Nope, not in this case!</p>\n<!-- raw HTML omitted -->\n<p>The space is doing an enormous amount of overtime here and I have yet to see a good justification of muddling the waters like this. The only reason I could see is that you have to balance parentheses, meaning you&rsquo;re ending up with the line ending in <code>)))</code>. The best part is that you still need parens in any case, you just have to put them around the whole function expression! The real template version safes you two parentheses for the price of a parsing headache. I feel like that&rsquo;s not worth it.</p>\n<p>Let&rsquo;s move on: It should be super easy to limit the list of pages to only include a certain category of posts, right? Would this have been what you&rsquo;d come up with on the first try?</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-go-html-template\" data-lang=\"go-html-template\"><span style=\"color:#75715e\">{{</span> <span style=\"color:#a6e22e\">$allPosts</span> <span style=\"color:#f92672\">:=</span> <span style=\"color:#a6e22e\">where</span> <span style=\"color:#a6e22e\">.Site.Pages.ByDate.Reverse</span> <span style=\"color:#e6db74\">&#34;Type&#34;</span> <span style=\"color:#e6db74\">&#34;post&#34;</span> <span style=\"color:#75715e\">}}</span>\n<span style=\"color:#75715e\">{{</span> <span style=\"color:#a6e22e\">$allDailyDogos</span> <span style=\"color:#f92672\">:=</span> <span style=\"color:#a6e22e\">where</span> <span style=\"color:#a6e22e\">.Site.Pages</span> <span style=\"color:#e6db74\">&#34;Params.categories&#34;</span> <span style=\"color:#e6db74\">&#34;intersect&#34;</span> <span style=\"color:#f92672\">(</span><span style=\"color:#a6e22e\">slice</span> <span style=\"color:#e6db74\">&#34;DailyDogo&#34;</span><span style=\"color:#f92672\">)</span> <span style=\"color:#75715e\">}}</span>\n<span style=\"color:#75715e\">{{</span> <span style=\"color:#a6e22e\">$onlyDogos</span> <span style=\"color:#f92672\">:=</span> <span style=\"color:#a6e22e\">intersect</span> <span style=\"color:#a6e22e\">$allPosts</span> <span style=\"color:#a6e22e\">$allDailyDogos</span> <span style=\"color:#75715e\">}}</span>\n<span style=\"color:#75715e\">{{</span> <span style=\"color:#a6e22e\">$paginator</span> <span style=\"color:#f92672\">:=</span> <span style=\"color:#a6e22e\">.Paginate</span> <span style=\"color:#f92672\">(</span><span style=\"color:#a6e22e\">$onlyDogos</span><span style=\"color:#f92672\">)</span> <span style=\"color:#f92672\">(</span><span style=\"color:#66d9ef\">index</span> <span style=\"color:#a6e22e\">.Site.Params</span> <span style=\"color:#e6db74\">&#34;archive-paginate&#34;</span> <span style=\"color:#f92672\">|</span> <span style=\"color:#a6e22e\">default</span> <span style=\"color:#a6e22e\">25</span><span style=\"color:#f92672\">)</span> <span style=\"color:#75715e\">}}</span>\n</code></pre></div><p>So far so good. How about the inverse? You&rsquo;ll find that there is no way to tell the line <code>$allDailyDogos</code> to simply do the inverse. There is no <code>&quot;not intersect&quot;</code> or whatever. You have to use another function called <code>symdiff</code>:</p>\n<div class=\"highlight\"><pre tabindex=\"0\" style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"><code class=\"language-go-html-template\" data-lang=\"go-html-template\"><span style=\"color:#75715e\">{{</span> <span style=\"color:#a6e22e\">$allPosts</span> <span style=\"color:#f92672\">:=</span> <span style=\"color:#a6e22e\">where</span> <span style=\"color:#a6e22e\">.Site.Pages.ByDate.Reverse</span> <span style=\"color:#e6db74\">&#34;Type&#34;</span> <span style=\"color:#e6db74\">&#34;post&#34;</span> <span style=\"color:#75715e\">}}</span>\n<span style=\"color:#75715e\">{{</span> <span style=\"color:#a6e22e\">$allDailyDogos</span> <span style=\"color:#f92672\">:=</span> <span style=\"color:#a6e22e\">where</span> <span style=\"color:#a6e22e\">.Site.Pages</span> <span style=\"color:#e6db74\">&#34;Params.categories&#34;</span> <span style=\"color:#e6db74\">&#34;intersect&#34;</span> <span style=\"color:#f92672\">(</span><span style=\"color:#a6e22e\">slice</span> <span style=\"color:#e6db74\">&#34;DailyDogo&#34;</span><span style=\"color:#f92672\">)</span> <span style=\"color:#75715e\">}}</span>\n<span style=\"color:#75715e\">{{</span> <span style=\"color:#a6e22e\">$noDogos</span> <span style=\"color:#f92672\">:=</span> <span style=\"color:#a6e22e\">symdiff</span> <span style=\"color:#a6e22e\">$allDailyDogos</span> <span style=\"color:#a6e22e\">$allPosts</span> <span style=\"color:#75715e\">}}</span>\n<span style=\"color:#75715e\">{{</span> <span style=\"color:#a6e22e\">$paginator</span> <span style=\"color:#f92672\">:=</span> <span style=\"color:#a6e22e\">.Paginate</span> <span style=\"color:#f92672\">(</span><span style=\"color:#a6e22e\">$noDogos</span><span style=\"color:#f92672\">)</span> <span style=\"color:#f92672\">(</span><span style=\"color:#66d9ef\">index</span> <span style=\"color:#a6e22e\">.Site.Params</span> <span style=\"color:#e6db74\">&#34;archive-paginate&#34;</span> <span style=\"color:#f92672\">|</span> <span style=\"color:#a6e22e\">default</span> <span style=\"color:#a6e22e\">25</span><span style=\"color:#f92672\">)</span> <span style=\"color:#75715e\">}}</span>\n</code></pre></div><p>Symdiff is short for <a href=\"https://en.wikipedia.org/wiki/Symmetric_difference\">symmetric difference</a> and means here that we want all elements from the <code>$allPosts</code> array that are not part of the <code>$allDailyDogos</code> array. Meaning we are keeping only those posts, which is like filtering for the inverse of the <code>$onlyDogos</code> array from before.</p>\n<p>We could have mashed this all into one line to make it totally unreadable, but I think this is instructive and it would have not been anymore readable in other template languages (if they even would&rsquo;ve been able to deal with this as a one liner). Still:</p>\n<ul>\n<li>Why do I need to make a slice/array out of &ldquo;DailyDogo&rdquo;?</li>\n<li>Why is there no <code>NOT</code> operator? - it would&rsquo;ve been nice in two instances: 1. inside the <code>where</code> function to save an extra call to <code>symdiff</code> or 2. as a better (I&rsquo;d say) alternative to using <code>symdiff</code>, because people think more along the lines of &ldquo;all but not these kinds of things&rdquo; instead of &ldquo;symmetrical difference of these two sets&rdquo;.</li>\n<li>Why is it so hard to chain conditions to the <code>where</code> function to the point where you&rsquo;d rather create two arrays instead of filtering the array down in one step?</li>\n</ul>\n<p>Ugh. There is so much in just this one line - and the subsequent slight changes I have done - that I find weird and unergonomic. I hope I could also show that it&rsquo;s not complete and utter failure to understand what&rsquo;s going on, either. Sometimes things are just badly designed for the most obvious use cases in order to accommodate fancier goals. I&rsquo;d rahter have a templating syntax/language that makes things easier. If that makes it more boring: Good. I&rsquo;m here to improve my blog first and foremost.</p>\n",
+				"content_text": "There is no two ways about it. It's just bad and often counterintuitive. It's hard to read, hard to write, hard to debug, hard to fill in blanks. Easy things should be easy and hard things should be possible. I feel like everything is just hard with it - not impossible per se, but often harder then it should be.\n\nI mean just look at this one line:\n\n```go-html-template\n{{ $paginator := .Paginate (where .Site.Pages.ByDate.Reverse \"Type\" \"post\") (index .Site.Params \"archive-paginate\" | default 25) }}\n```\n\nThis does/means the following:\n\n- `$paginator` - that's a custom variable, it needs to be prefixed with a `$`\n- `:=` - you need to use this operator to declare a variable and assign a value. But later it's fine to just use `=` to reassign it.\n- `.`  - \"the dot\". It holds the context, which is basically a kind of scope. Why the scope is not implied? I don't know. I guess if you'd have a `this` keyword, you'd end up writing `this.whatever…` and you would still need to differentiate globals and in-scope vars, so I guess that's better?\n- `.Paginate` - Inside \"the dot\" there exists a `Paginate` function which has to be upper case because that is the way to make a function visible outside of its \"package\" in go. If you look at [the list of available functions in hugo](https://gohugo.io/functions/), you will know that a function was exported, but not why. Also a lot of functions were not exported, but you also do not know why. I assume that the lower case functions are all part of hugo's templating standard lib. But it's not explained what is going on in the docs explicitly.\n- ` ` - A space (yup). Functions and parameters are separated by spaces, so this space indicates the start of the Paginate function call (And not the parentheses in front of the `where`, as one might think when coming from other languages).\n- `(` - The start of the parentheses denotes a nested expression.\n- `where` - that's the `where` function which takes an array and compares a value at a given key using an operator (equals is implied and can be omitted like has been done here) to a value and only keeps the elements that pass the test.\n- `.Site.Pages.ByDate.Reverse` - The `.Site.Pages` part is an array of all pages of the blog. The `ByDate.Reverse` part is used (and available only) on [list pages](https://gohugo.io/templates/lists/#what-is-a-list-page-template) - another detail you'll have to know - that is pages that have other pages under them in the file hierarchy. AND that the homepage is a special kind of list page. This is a snippet from the home page, so you can use it here to change the order of the retrieved array. Why you can't retrieve pages in similar manner on non list pages is unclear to me.\n- `\"Type\"` - This is the key parameter of the `where` function. The key is \"Type\" here. Why is `Type` capitalized? Maybe it has to because of exports? Maybe it's some other reason that I don't know. In any case it is part of the keys of the element that is kept (or discarded). For the pages array an element includes things like a `Permalink`, a published `Date` and a also a `Type`. How do you know what an element includes? Well, it's hard to say, because the [proposed solution](https://gohugo.io/templates/template-debugging/#what-variables-are-available-in-this-context) to use something like `&#123;&#123; printf \"%#v\" . }}` within a range function call that references the pages from the `Paginator` above only prints garbage. An actual solution is to use `<pre>&#123;&#123; . | jsonify (dict \"indent\" \" \") }}</pre>` which gives a pretty printed JSON representation of all the available properties within a given context. But you'll not find this solution in the docs, you have to get lucky and find it in the forum or [Stack Overflow](https://stackoverflow.com/questions/64163573/how-to-inspect-variables-in-the-current-scope-in-hugo).\n- `\"post\"` - this is the match parameter of the `where` function. In other words the value found for the key \"Type\" must match this value in order to be included in the filtered array.\n- `) (` - we finish one nested expression - which is parameter one of our `.Paginate` call (the array to paginate) and start another nested expression - parameter two (the page size) of `.Paginate`\n- `index .Site.Params \"archive-paginate\"` - this returns the value at index or key n of a given array. So in this case the value at .SiteParams.archive-paginate\n- ` | default 25)` if `index` does not return a value the default function can take over and return a default value. I don't know why this has to be a function. I also find the whole part `index .Site.Params \"archive-paginate\" | default 25` difficult to parse: Is the pipe still part of the index function call? You'll have to know what pipes are.\n\nFinally, we have parsed the whole thing:\n\n```\ninstantiate customVar = \nfunctionCallThatReturnsAPaginator(\n    functionCallThatReturnsAFilteredArray,\n    (\n        functionCallThatReturnsANumber ||\n        functionCallThatReturnsaAdefaultValue\n    )\n)\n```\n\nAnd `.Paginator` itself is just an object that makes it easier to refer to and implement a paged navigation for an array of given elements (posts).\n\nApart from the unusual syntax I find (Hu)go templates hard to parse, even if I grok them somewhat. (Hu)go's way to write function expressions, namely using spaces instead of parentheses and commas make the whole line harder to read than it needs to be. Compare:\n\n```go-html-template\n{{ $paginator := .Paginate (where .Site.Pages.ByDate.Reverse \"Type\" \"post\") (index .Site.Params \"archive-paginate\" | default 25) }}\n```\n\nvs.\n\n```\n{{$paginator := .Paginate(where(.Site.Pages.ByDate.Reverse,\"Type\",\"post\"),(index(.Site.Params,\"archive-paginate\") | default(25)))}}\n```\n\nGranted, this is still hard to read, because a lot is happening in this one line of code, but still: I'd argue it's much easier to parse, because opening and closing parentheses and commas carry much more information than a simple space could. Spaces are also commonly used to align or balance things as has happened around the pipe char. Does this carry semantic meaning? Nope, not in this case!\n\n\n<img src=\"uploads/2023/2023-06-19-hugo-templating-sucks-2.jpeg\" alt=\"A visualization of what different symbols of the templating syntax mean in our example. It turns out that the space char carries three differnt meanings: an aesthtic space, a start of a parameter list, a delimiter between parameters.\" title=\"2023-06-19-hugo-templating-sucks-2.jpeg\" border=\"0\" width=\"600\" height=\"424\" />\n\nThe space is doing an enormous amount of overtime here and I have yet to see a good justification of muddling the waters like this. The only reason I could see is that you have to balance parentheses, meaning you're ending up with the line ending in `)))`. The best part is that you still need parens in any case, you just have to put them around the whole function expression! The real template version safes you two parentheses for the price of a parsing headache. I feel like that's not worth it.\n\nLet's move on: It should be super easy to limit the list of pages to only include a certain category of posts, right? Would this have been what you'd come up with on the first try?\n\n```go-html-template\n{{ $allPosts := where .Site.Pages.ByDate.Reverse \"Type\" \"post\" }}\n{{ $allDailyDogos := where .Site.Pages \"Params.categories\" \"intersect\" (slice \"DailyDogo\") }}\n{{ $onlyDogos := intersect $allPosts $allDailyDogos }}\n{{ $paginator := .Paginate ($onlyDogos) (index .Site.Params \"archive-paginate\" | default 25) }}\n```\n\nSo far so good. How about the inverse? You'll find that there is no way to tell the line `$allDailyDogos` to simply do the inverse. There is no `\"not intersect\"` or whatever. You have to use another function called `symdiff`:\n\n```go-html-template\n{{ $allPosts := where .Site.Pages.ByDate.Reverse \"Type\" \"post\" }}\n{{ $allDailyDogos := where .Site.Pages \"Params.categories\" \"intersect\" (slice \"DailyDogo\") }}\n{{ $noDogos := symdiff $allDailyDogos $allPosts }}\n{{ $paginator := .Paginate ($noDogos) (index .Site.Params \"archive-paginate\" | default 25) }}\n```\n\nSymdiff is short for [symmetric difference](https://en.wikipedia.org/wiki/Symmetric_difference) and means here that we want all elements from the `$allPosts` array that are not part of the `$allDailyDogos` array. Meaning we are keeping only those posts, which is like filtering for the inverse of the `$onlyDogos` array from before.\n\nWe could have mashed this all into one line to make it totally unreadable, but I think this is instructive and it would have not been anymore readable in other template languages (if they even would've been able to deal with this as a one liner). Still:\n\n- Why do I need to make a slice/array out of \"DailyDogo\"?\n- Why is there no `NOT` operator? - it would've been nice in two instances: 1. inside the `where` function to save an extra call to `symdiff` or 2. as a better (I'd say) alternative to using `symdiff`, because people think more along the lines of \"all but not these kinds of things\" instead of \"symmetrical difference of these two sets\".\n- Why is it so hard to chain conditions to the `where` function to the point where you'd rather create two arrays instead of filtering the array down in one step?\n\nUgh. There is so much in just this one line - and the subsequent slight changes I have done - that I find weird and unergonomic. I hope I could also show that it's not complete and utter failure to understand what's going on, either. Sometimes things are just badly designed for the most obvious use cases in order to accommodate fancier goals. I'd rahter have a templating syntax/language that makes things easier. If that makes it more boring: Good. I'm here to improve my blog first and foremost.\n",
+				"date_published": "2023-06-18T21:14:05+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/06/18/the-hugo-template.html",
+				"tags": ["Blog","Dev Notes"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/06/17/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 584 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 584 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/341e766a3750465bafbad215c3475b4c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 584 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/341e766a3750465bafbad215c3475b4c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-06-17T22:44:17+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/17/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +73,7 @@
 				"id": "http://matti.micro.blog/2023/06/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 583 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 583 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/22b506f37b314854a7ea2945ed7370db.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 583 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/22b506f37b314854a7ea2945ed7370db.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-06-16T22:08:44+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/16/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +82,7 @@
 				"id": "http://matti.micro.blog/2023/06/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 582 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 582 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/c18c46e343.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 582 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/c18c46e343.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-06-15T22:42:07+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/15/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -37,7 +91,7 @@
 				"id": "http://matti.micro.blog/2023/06/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 581 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 581 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/ea2ec43e51.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 581 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/ea2ec43e51.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-06-14T20:11:12+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -46,7 +100,7 @@
 				"id": "http://matti.micro.blog/2023/06/13/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 580 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 580 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/05ba862ca0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 580 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/05ba862ca0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-06-13T20:34:08+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/13/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -144,7 +198,7 @@
 				"id": "http://matti.micro.blog/2023/06/06/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 573 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 573 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/feddad7504.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 573 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/feddad7504.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-06-06T19:15:27+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/06/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -157,57 +211,6 @@
 				"date_published": "2023-06-06T12:20:39+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/06/06/i-wonder-if.html",
 				"tags": ["Quick Note"]
-			},
-			{
-				"id": "http://matti.micro.blog/2023/06/05/about-the-vision.html",
-				
-				"content_html": "<p>About the Vision Pro: I don&rsquo;t think I would ever pay that much for a device. Except if <em>I</em> would be using it to make money myself.</p>\n",
-				"content_text": "About the Vision Pro: I don't think I would ever pay that much for a device. Except if _I_ would be using it to make money myself.\n",
-				"date_published": "2023-06-05T23:00:22+03:00",
-				"url": "https://blog.martin-haehnel.de/2023/06/05/about-the-vision.html"
-			},
-			{
-				"id": "http://matti.micro.blog/2023/06/05/i-do-wonder.html",
-				
-				"content_html": "<p>I do wonder if it&rsquo;ll matter, that people don&rsquo;t like how the new Apple Headset <em>looks</em>. That it&rsquo;s creepy and dystopian <em>looking</em>. It&rsquo;s interesting to me that it&rsquo;s the aesthetics and the way you look for others while wearing the thing.</p>\n",
-				"content_text": "I do wonder if it'll matter, that people don't like how the new Apple Headset _looks_. That it's creepy and dystopian _looking_. It's interesting to me that it's the aesthetics and the way you look for others while wearing the thing.\n",
-				"date_published": "2023-06-05T22:24:24+03:00",
-				"url": "https://blog.martin-haehnel.de/2023/06/05/i-do-wonder.html"
-			},
-			{
-				"id": "http://matti.micro.blog/2023/06/05/dailydogo.html",
-				
-				"content_html": "<p>DailyDogo 573 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 573 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/b283790fc6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2023-06-05T22:12:06+03:00",
-				"url": "https://blog.martin-haehnel.de/2023/06/05/dailydogo.html",
-				"tags": ["DailyDogo"]
-			},
-			{
-				"id": "http://matti.micro.blog/2023/06/04/193714.html",
-				
-				"content_html": "<p>DailyDogo 572 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 572 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/4fe1ec8947.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2023-06-04T19:37:14+03:00",
-				"url": "https://blog.martin-haehnel.de/2023/06/04/193714.html",
-				"tags": ["DailyDogo"]
-			},
-			{
-				"id": "http://matti.micro.blog/2023/06/04/dailydogo.html",
-				
-				"content_html": "<p>DailyDogo 571 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 571 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/942c98f0ba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2023-06-04T09:03:36+03:00",
-				"url": "https://blog.martin-haehnel.de/2023/06/04/dailydogo.html",
-				"tags": ["DailyDogo"]
-			},
-			{
-				"id": "http://matti.micro.blog/2023/06/03/god-damnit-karelian.html",
-				
-				"content_html": "<p>God damnit, Karelian pies are so good! 🇫🇮</p>\n",
-				"content_text": "God damnit, Karelian pies are so good! 🇫🇮\n",
-				"date_published": "2023-06-03T21:32:28+03:00",
-				"url": "https://blog.martin-haehnel.de/2023/06/03/god-damnit-karelian.html"
 			},
 			{
 				"id": "http://matti.micro.blog/2023/06/03/some-ways-in.html",
@@ -224,8 +227,7 @@
 				"content_html": "<p>Quick note on the <a href=\"https://www.reddit.com/r/modnews/comments/13wshdp/comment/jmddl3u/\">terrible</a>, <a href=\"https://www.reddit.com/r/redditdev/comments/13wsiks/comment/jmnj9xc/\">terrible</a> reddit api pricing and how it affects <a href=\"https://www.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/\">apps like Apollo</a>.</p>\n<p>I&rsquo;ll admit that my reddit usage has been barely existent in the last few years, but the last time I used reddit, I used it through the excellent app Apollo.</p>\n<p>Apart from being upset by the sheer audacity and the way in which this was communicated, I always hope in moments like this, that we would move on collectively to more federated, less monopolistic ways of organizing ourselves online.</p>\n<p>It would need large-scale adoption of paying by users - surely not 100%, but more than the 5% you hear often - for such a thing to occur, I think. People who are less technically inclined and maybe have less of an interest - ideological, anthropological or otherwise - would need to be part of this. I&rsquo;m not very hopeful that they ever will.</p>\n<p>There is a certain kind of perverse satisfaction to observe how some of these giants of social media are failing right now. But I&rsquo;m not optimistic enough that all or even a significant portion of the people will make the jump because of this. Platforms like Instagram and TikTok seem to continue to thrive.</p>\n<p>But for me, right now, there is a lot to see and do in places like micro.blog and mastodon. I hope it stays that way and maybe, just maybe, there are enough interesting people on these platforms that the &ldquo;normies&rdquo; will come over (and stay), too. It seems like this would lead to a healthier, more democratic future.</p>\n",
 				"content_text": "Quick note on the [terrible](https://www.reddit.com/r/modnews/comments/13wshdp/comment/jmddl3u/), [terrible](https://www.reddit.com/r/redditdev/comments/13wsiks/comment/jmnj9xc/) reddit api pricing and how it affects [apps like Apollo](https://www.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/).\n\nI'll admit that my reddit usage has been barely existent in the last few years, but the last time I used reddit, I used it through the excellent app Apollo.\n\nApart from being upset by the sheer audacity and the way in which this was communicated, I always hope in moments like this, that we would move on collectively to more federated, less monopolistic ways of organizing ourselves online.\n\nIt would need large-scale adoption of paying by users - surely not 100%, but more than the 5% you hear often - for such a thing to occur, I think. People who are less technically inclined and maybe have less of an interest - ideological, anthropological or otherwise - would need to be part of this. I'm not very hopeful that they ever will.\n\nThere is a certain kind of perverse satisfaction to observe how some of these giants of social media are failing right now. But I'm not optimistic enough that all or even a significant portion of the people will make the jump because of this. Platforms like Instagram and TikTok seem to continue to thrive.\n\nBut for me, right now, there is a lot to see and do in places like micro.blog and mastodon. I hope it stays that way and maybe, just maybe, there are enough interesting people on these platforms that the \"normies\" will come over (and stay), too. It seems like this would lead to a healthier, more democratic future.\n",
 				"date_published": "2023-06-03T01:08:16+03:00",
-				"url": "https://blog.martin-haehnel.de/2023/06/03/quick-note-on.html",
-				"tags": ["Quick Note"]
+				"url": "https://blog.martin-haehnel.de/2023/06/03/quick-note-on.html"
 			},
 			{
 				"id": "http://matti.micro.blog/2023/06/02/dailydogo.html",
@@ -375,7 +377,7 @@
 				"id": "http://matti.micro.blog/2023/05/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 557 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 557 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/3e82d7f7fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 557 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/3e82d7f7fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-20T21:02:32+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -384,7 +386,7 @@
 				"id": "http://matti.micro.blog/2023/05/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 556 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 556 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/5a4719de97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 556 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/5a4719de97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-19T23:03:17+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/19/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -393,7 +395,7 @@
 				"id": "http://matti.micro.blog/2023/05/18/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 555 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 555 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/3d438d1d26.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 555 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/3d438d1d26.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-18T20:47:22+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/18/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -411,7 +413,7 @@
 				"id": "http://matti.micro.blog/2023/05/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 553 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 553 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/7dad16c6b1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 553 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/7dad16c6b1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-16T21:52:58+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/16/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -420,7 +422,7 @@
 				"id": "http://matti.micro.blog/2023/05/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 552 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 552 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/cbc76de9e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 552 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/cbc76de9e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-15T19:19:56+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/15/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -437,7 +439,7 @@
 				"id": "http://matti.micro.blog/2023/05/14/201718.html",
 				
 				"content_html": "<p>DailyDogo 551 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 551 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/568d63fc8a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 551 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/568d63fc8a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-14T20:17:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/14/201718.html",
 				"tags": ["DailyDogo"]
@@ -446,7 +448,7 @@
 				"id": "http://matti.micro.blog/2023/05/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 550 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 550 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/bfa100b943.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 550 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/bfa100b943.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-14T12:43:33+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -507,7 +509,7 @@
 				"id": "http://matti.micro.blog/2023/05/09/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 545 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 545 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/00de126ea2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 545 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/00de126ea2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2023-05-09T00:05:23+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/05/09/dailydogo.html",
 				"tags": ["DailyDogo"]
