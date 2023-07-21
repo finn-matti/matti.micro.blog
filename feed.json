@@ -7,6 +7,85 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/07/21/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 618 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 618 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/2851b090e1d84458b6d4c33b7a357c3d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-07-21T22:58:24+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/21/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/20/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 617 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 617 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/2a75a09c73b44462ab76f8936b30ebd3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-07-20T20:33:47+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/20/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/20/who-would-have.html",
+				
+				"content_html": "<p>Who would have thought that <a href=\"https://github.com/squizlabs/PHP_CodeSniffer\">PHP_Codesniffer</a> is actually superior to <a href=\"https://github.com/PHP-CS-Fixer/PHP-CS-Fixer\">php-cs-fixer</a>… (Not me. But it is.)</p>\n",
+				"content_text": "Who would have thought that [PHP_Codesniffer](https://github.com/squizlabs/PHP_CodeSniffer) is actually superior to [php-cs-fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer)… (Not me. But it is.)\n",
+				"date_published": "2023-07-20T13:28:12+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/20/who-would-have.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/19/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 616 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 616 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/4931b6916f33457db83eeace6c7f9849.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-07-19T19:19:37+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/19/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/18/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 615 🐶</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 615 🐶\n\n<img src=\"uploads/2023/img-1368.jpeg\" alt=\"IMG 1368\" title=\"IMG_1368.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/img-1369.jpeg\" alt=\"IMG 1369\" title=\"IMG_1369.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n\n<img src=\"uploads/2023/img-1372.jpeg\" alt=\"IMG 1372\" title=\"IMG_1372.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n",
+				"date_published": "2023-07-18T22:07:32+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/18/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/17/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 614 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 614 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/0e4f89ee23214bd0a913ff2c783e0b3c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-07-17T19:10:20+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/17/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/17/you-dont-need.html",
+				
+				"content_html": "<p>You don&rsquo;t need to be a &ldquo;test first&rdquo;/test-driven developer to like tests in your application.</p>\n",
+				"content_text": "You don't need to be a \"test first\"/test-driven developer to like tests in your application.\n",
+				"date_published": "2023-07-17T12:23:31+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/17/you-dont-need.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/16/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 613 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 613 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/2ec73b26ccac41b9b59779cc9d23a0bb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-07-16T19:23:46+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/16/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/16/there-is-a.html",
+				
+				"content_html": "<p><a href=\"https://blog.martin-haehnel.de/2023/03/16/i-dont-know.html\">Previously.</a></p>\n<p>There is a great OmniFocus plug-in by Kaitlin Salzke called <a href=\"https://kaitlinsalzke.com/omnifocus-plugins/work-on/\">Work On</a> which <a href=\"https://kaitlinsalzke.com/workflow/waxing-philosophical-about-task-management-in-omnifocus/\">apparently</a> is an idea - the work on task that is - that Kourosh Dini came up with.</p>\n<p>People who know GTD know that I&rsquo;m at least to define the next step that would bring my project closer to completion. But sometimes even that gets in the way and so I end up not setting up the project in OmniFocus at all. The antidote is a repeating &ldquo;Work on&rdquo; task that I can check off when I did an appropriate amount of work. Instead of defining the next step I&rsquo;m just working on it and especially in projects that are self evident, creative or not in need of lots of planning this is a great idea.</p>\n<p>Kaitlin&rsquo;s plug-in makes this thing now even better, because I can check the task off for the whole day and it won&rsquo;t come back until tomorrow.</p>\n<p>Great idea, great plug-in. Give it a try.</p>\n<p>P. S.: It&rsquo;s maybe slightly too early to write a post like this, but I just wanted to share my enthusiasm. So take it with a grain of salt - and ask me in 3 months if I&rsquo;m still using this.</p>\n",
+				"content_text": "[Previously.](https://blog.martin-haehnel.de/2023/03/16/i-dont-know.html)\n\nThere is a great OmniFocus plug-in by Kaitlin Salzke called [Work On](https://kaitlinsalzke.com/omnifocus-plugins/work-on/) which [apparently](https://kaitlinsalzke.com/workflow/waxing-philosophical-about-task-management-in-omnifocus/) is an idea - the work on task that is - that Kourosh Dini came up with.\n\nPeople who know GTD know that I'm at least to define the next step that would bring my project closer to completion. But sometimes even that gets in the way and so I end up not setting up the project in OmniFocus at all. The antidote is a repeating \"Work on\" task that I can check off when I did an appropriate amount of work. Instead of defining the next step I'm just working on it and especially in projects that are self evident, creative or not in need of lots of planning this is a great idea.\n\nKaitlin's plug-in makes this thing now even better, because I can check the task off for the whole day and it won't come back until tomorrow.\n\nGreat idea, great plug-in. Give it a try.\n\nP. S.: It's maybe slightly too early to write a post like this, but I just wanted to share my enthusiasm. So take it with a grain of salt - and ask me in 3 months if I'm still using this.\n",
+				"date_published": "2023-07-16T13:43:15+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/16/there-is-a.html",
+				"tags": ["Task Management"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/07/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 612 🐶</p>\n<!-- raw HTML omitted -->\n",
@@ -27,8 +106,8 @@
 			{
 				"id": "http://matti.micro.blog/2023/07/14/i-didnt-sleep.html",
 				
-				"content_html": "<p>I didn&rsquo;t sleep long. I didn&rsquo;t sleep deeply or well, really. But man, did I enjoy sleeping on the couch for a little but just now. What a great start to the evening.</p>\n",
-				"content_text": "I didn't sleep long. I didn't sleep deeply or well, really. But man, did I enjoy sleeping on the couch for a little but just now. What a great start to the evening.\n",
+				"content_html": "<p>I didn&rsquo;t sleep long. I didn&rsquo;t sleep deeply or well, really. But man, did I enjoy sleeping on the couch for a little bit just now. What a great start to the evening.</p>\n",
+				"content_text": "I didn't sleep long. I didn't sleep deeply or well, really. But man, did I enjoy sleeping on the couch for a little bit just now. What a great start to the evening.\n",
 				"date_published": "2023-07-14T19:43:18+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/07/14/i-didnt-sleep.html"
 			},
@@ -1703,10 +1782,11 @@
 			{
 				"id": "http://matti.micro.blog/2023/03/16/i-dont-know.html",
 				
-				"content_html": "<p>I don&rsquo;t know why, but I may have for the first time really understood how OmniFocus' repeating event functionality works. Amazing how much complexity they managed to cram into this feature. I can actually express all my recurring tasks in my task manager. <em>But:</em> It almost certainly means that I&rsquo;m stuck with OmniFocus, because no other app can do this.</p>\n",
-				"content_text": "I don't know why, but I may have for the first time really understood how OmniFocus' repeating event functionality works. Amazing how much complexity they managed to cram into this feature. I can actually express all my recurring tasks in my task manager. _But:_ It almost certainly means that I'm stuck with OmniFocus, because no other app can do this.\n",
+				"content_html": "<p><a href=\"https://blog.martin-haehnel.de/2023/03/15/previously-im-not.html\">Peviously.</a></p>\n<p>I don&rsquo;t know why, but I may have for the first time really understood how OmniFocus' repeating event functionality works. Amazing how much complexity they managed to cram into this feature. I can actually express all my recurring tasks in my task manager. <em>But:</em> It almost certainly means that I&rsquo;m stuck with OmniFocus, because no other app can do this.</p>\n<p><a href=\"https://blog.martin-haehnel.de/2023/07/16/there-is-a.html\">Forward</a></p>\n",
+				"content_text": "[Peviously.](https://blog.martin-haehnel.de/2023/03/15/previously-im-not.html)\n\nI don't know why, but I may have for the first time really understood how OmniFocus' repeating event functionality works. Amazing how much complexity they managed to cram into this feature. I can actually express all my recurring tasks in my task manager. _But:_ It almost certainly means that I'm stuck with OmniFocus, because no other app can do this.\n\n[Forward](https://blog.martin-haehnel.de/2023/07/16/there-is-a.html)\n",
 				"date_published": "2023-03-16T18:51:03+03:00",
-				"url": "https://blog.martin-haehnel.de/2023/03/16/i-dont-know.html"
+				"url": "https://blog.martin-haehnel.de/2023/03/16/i-dont-know.html",
+				"tags": ["Task Management"]
 			},
 			{
 				"id": "http://matti.micro.blog/2023/03/16/having-learned-about.html",
@@ -1754,8 +1834,8 @@
 			{
 				"id": "http://matti.micro.blog/2023/03/15/previously-im-not.html",
 				
-				"content_html": "<p><a href=\"https://blog.martin-haehnel.de/2023/01/28/previously-short-followup.html\">Previously.</a></p>\n<p>(I&rsquo;m not using teuxdeux anymore. And after a short liaison with Todoist, I&rsquo;m back with OmniFocus.)</p>\n<p>Reading <a href=\"https://inside.omnifocus.com/blog/interleaved-forecast\">the old scripture on the forecast perspective</a> makes it clear to me, that this was intended to be used as a way to tell how due dates and events on a calendar interact.</p>\n<p>It&rsquo;s true you can also show deferred tasks and use a forecast tag to surface tasks without a due date in this perspective, but that is just secondary functionality. And it shows.</p>\n",
-				"content_text": "[Previously.](https://blog.martin-haehnel.de/2023/01/28/previously-short-followup.html)\n\n(I'm not using teuxdeux anymore. And after a short liaison with Todoist, I'm back with OmniFocus.)\n\nReading [the old scripture on the forecast perspective](https://inside.omnifocus.com/blog/interleaved-forecast) makes it clear to me, that this was intended to be used as a way to tell how due dates and events on a calendar interact.\n\nIt's true you can also show deferred tasks and use a forecast tag to surface tasks without a due date in this perspective, but that is just secondary functionality. And it shows.\n",
+				"content_html": "<p><a href=\"https://blog.martin-haehnel.de/2023/01/28/previously-short-followup.html\">Previously.</a></p>\n<p>(I&rsquo;m not using teuxdeux anymore. And after a short liaison with Todoist, I&rsquo;m back with OmniFocus.)</p>\n<p>Reading <a href=\"https://inside.omnifocus.com/blog/interleaved-forecast\">the old scripture on the forecast perspective</a> makes it clear to me, that this was intended to be used as a way to tell how due dates and events on a calendar interact.</p>\n<p>It&rsquo;s true you can also show deferred tasks and use a forecast tag to surface tasks without a due date in this perspective, but that is just secondary functionality. And it shows.</p>\n<p><a href=\"https://blog.martin-haehnel.de/2023/03/16/i-dont-know.html\">Forward.</a></p>\n",
+				"content_text": "[Previously.](https://blog.martin-haehnel.de/2023/01/28/previously-short-followup.html)\n\n(I'm not using teuxdeux anymore. And after a short liaison with Todoist, I'm back with OmniFocus.)\n\nReading [the old scripture on the forecast perspective](https://inside.omnifocus.com/blog/interleaved-forecast) makes it clear to me, that this was intended to be used as a way to tell how due dates and events on a calendar interact.\n\nIt's true you can also show deferred tasks and use a forecast tag to surface tasks without a due date in this perspective, but that is just secondary functionality. And it shows.\n\n[Forward.](https://blog.martin-haehnel.de/2023/03/16/i-dont-know.html)\n",
 				"date_published": "2023-03-15T12:04:57+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/03/15/previously-im-not.html",
 				"tags": ["Task Management"]
