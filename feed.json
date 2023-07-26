@@ -7,6 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/07/26/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 623 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 623 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/429411ffbb044a368a257b6fac78f8fe.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-07-26T23:10:27+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/26/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/26/in-other-news.html",
+				
+				"content_html": "<p>In other news: I solved my first real hard and urgent ticket at my new job and am proud as f about it!</p>\n",
+				"content_text": "In other news: I solved my first real hard and urgent ticket at my new job and am proud as f about it!\n",
+				"date_published": "2023-07-26T14:10:35+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/26/in-other-news.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/26/car-front-window.html",
+				
+				"content_html": "<p>Car front window got a crack while my partner was calling me to tell me that there was a dangerous situation before, unrelated to this accident. She didn&rsquo;t get hurt, but we both got scared, of course.</p>\n",
+				"content_text": "Car front window got a crack while my partner was calling me to tell me that there was a dangerous situation before, unrelated to this accident. She didn't get hurt, but we both got scared, of course.\n",
+				"date_published": "2023-07-26T14:09:02+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/26/car-front-window.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/25/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 622 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 622 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/520b38b8cd734f298e78cbd4ddfb21a5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-07-25T20:25:10+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/25/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/24/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 621 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 621 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/809e90c6c2e54c609572d4e42e988f4e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-07-24T20:37:23+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/24/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/23/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 620 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 620 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/99f772e1d02a4bbeb969e18dfabadb3d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-07-23T20:24:22+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/23/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/07/22/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 619 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 619 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2023/38b77624bf014dbb952f09842698b335.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-07-22T23:32:11+03:00",
+				"url": "https://blog.martin-haehnel.de/2023/07/22/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/07/21/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 618 🐶</p>\n<!-- raw HTML omitted -->\n",
