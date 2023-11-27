@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/11/27/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 744 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 744 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/c52b07f4d0fd4562be419fa80abe0a93.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-11-27T08:03:33+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/11/27/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/11/25/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 743 🐶</p>\n<!-- raw HTML omitted -->\n",
