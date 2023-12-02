@@ -7,6 +7,86 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2023/12/02/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 750 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 750 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/9be7591309ad4bccbed3e9da78816a11.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-12-02T21:26:12+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/12/02/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/12/01/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 749 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 749 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/665d69e92bd94908aadae2a96c12d9df.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-12-01T20:49:31+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/12/01/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/12/01/via-app-defaults.html",
+				
+				"content_html": "<p>Via <a href=\"https://defaults.rknight.me\">App Defaults</a>.</p>\n<p>Here are mine:</p>\n<ul>\n<li>Mail Client: <a href=\"https://mimestream.com/\">Mimestream</a></li>\n<li>Notes: <a href=\"https://obsidian.md/\">Obsidian</a></li>\n<li>To-Do: <a href=\"https://www.omnigroup.com/omnifocus\">OmniFocus</a></li>\n<li>Photo Shooting: Apple&rsquo;s camera app</li>\n<li>Photo Management: Google Photos (and Apple Photos)</li>\n<li>Calendar: <a href=\"https://flexibits.com/fantastical\">Fantastical</a></li>\n<li>Cloud File Storage: Apple iCloud, Dropbox</li>\n<li>RSS: <a href=\"https://readwise.io/read\">Readwise Reader</a> &ldquo;Feed&rdquo; feature</li>\n<li>Contacts: Apple Contacts (although I&rsquo;m trying out <a href=\"https://flexibits.com/cardhop\">Cardhop</a> atm, I just don&rsquo;t have a lot of use cases)</li>\n<li>Browser: Safari for private, Chrome for work</li>\n<li>Chat: Whatsapp, iMessage, GChat (for work)</li>\n<li>Read It Later: Readwise Reader</li>\n<li>Word Processing: GDocs</li>\n<li>Spreadsheets: GSheets</li>\n<li>Presentations: <a href=\"https://www.deckset.com/\">Deckset</a></li>\n<li>Shopping Lists: OmniFocus</li>\n<li>Meal Planning: <a href=\"https://www.paprikaapp.com/\">Paprika</a></li>\n<li>Budgeting and Personal Finance: Nordea (my bank) App</li>\n<li>News: Readwise Reader, <a href=\"https://tapbots.com/ivory/\">Ivory</a>/Mastodon (via <a href=\"https://home.omg.lol/\">omg.lol</a>) and Instagram (yeah…)</li>\n<li>Music: Apple Music</li>\n<li>Podcasts: <a href=\"https://overcast.fm/\">Overcast</a></li>\n<li>Password Management: <a href=\"https://1password.com/\">1Password</a></li>\n<li>Code Editor: VSCode and (<a href=\"https://blog.martin-haehnel.de/2023/07/10/phpstorms-keybinding-system.html\">ugh</a>) PHPStorm</li>\n</ul>\n",
+				"content_text": "Via [App Defaults](https://defaults.rknight.me).\n\nHere are mine:\n\n- Mail Client: [Mimestream](https://mimestream.com/)\n- Notes: [Obsidian](https://obsidian.md/)\n- To-Do: [OmniFocus](https://www.omnigroup.com/omnifocus)\n- Photo Shooting: Apple's camera app\n- Photo Management: Google Photos (and Apple Photos)\n- Calendar: [Fantastical](https://flexibits.com/fantastical)\n- Cloud File Storage: Apple iCloud, Dropbox\n- RSS: [Readwise Reader](https://readwise.io/read) \"Feed\" feature\n- Contacts: Apple Contacts (although I'm trying out [Cardhop](https://flexibits.com/cardhop) atm, I just don't have a lot of use cases)\n- Browser: Safari for private, Chrome for work\n- Chat: Whatsapp, iMessage, GChat (for work)\n- Read It Later: Readwise Reader\n- Word Processing: GDocs\n- Spreadsheets: GSheets\n- Presentations: [Deckset](https://www.deckset.com/)\n- Shopping Lists: OmniFocus\n- Meal Planning: [Paprika](https://www.paprikaapp.com/)\n- Budgeting and Personal Finance: Nordea (my bank) App\n- News: Readwise Reader, [Ivory](https://tapbots.com/ivory/)/Mastodon (via [omg.lol](https://home.omg.lol/)) and Instagram (yeah…)\n- Music: Apple Music\n- Podcasts: [Overcast](https://overcast.fm/)\n- Password Management: [1Password](https://1password.com/)\n- Code Editor: VSCode and ([ugh](https://blog.martin-haehnel.de/2023/07/10/phpstorms-keybinding-system.html)) PHPStorm\n",
+				"date_published": "2023-12-01T13:31:50+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/12/01/via-app-defaults.html",
+				"tags": ["Quick Note"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/11/30/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 748 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 748 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/2f8169f2380945cf83e9936b610462ba.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-11-30T21:39:47+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/11/30/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/11/29/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 747 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 747 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/76a0311fabea43b2a41801f370dd875a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-11-29T20:35:02+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/11/29/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/11/28/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 746 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 746 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/da4df5430bd246f2b7b65587cbe6cfa9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-11-28T23:45:53+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/11/28/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/11/28/an-opinion-is.html",
+				
+				"content_html": "<p>An opinion is not an explanation of said opinion. Nor is trying to find an explanation for a thing already an opinion. Explanations are not a threat. You are allowed to disagree with them. You are allowed to try to find an explanation and still disagree with the status quo. Wanting to understand what&rsquo;s going on doesn&rsquo;t make you an enemy.</p>\n",
+				"content_text": "An opinion is not an explanation of said opinion. Nor is trying to find an explanation for a thing already an opinion. Explanations are not a threat. You are allowed to disagree with them. You are allowed to try to find an explanation and still disagree with the status quo. Wanting to understand what's going on doesn't make you an enemy.\n",
+				"date_published": "2023-11-28T10:10:27+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/11/28/an-opinion-is.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2023/11/27/234046.html",
+				
+				"content_html": "<p>DailyDogo 745 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 745 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2023/294e6ae97b4041b887cd17c0b0846212.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2023-11-27T23:40:46+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/11/27/234046.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2023/11/27/i-bought-an.html",
+				
+				"content_html": "<p>I bought a(n outliner app called) <a href=\"https://www.hogbaysoftware.com/bike/\">Bike</a> this week and am eager to test it out.</p>\n",
+				"content_text": "I bought a(n outliner app called) [Bike](https://www.hogbaysoftware.com/bike/) this week and am eager to test it out.\n",
+				"date_published": "2023-11-27T17:59:36+02:00",
+				"url": "https://blog.martin-haehnel.de/2023/11/27/i-bought-an.html",
+				"tags": ["Quick Note"]
+			},
+			{
 				"id": "http://matti.micro.blog/2023/11/27/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 744 🐶</p>\n<!-- raw HTML omitted -->\n",
