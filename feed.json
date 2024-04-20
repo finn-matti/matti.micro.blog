@@ -7,6 +7,391 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2024/04/20/ill-continue-my.html",
+				
+				"content_html": "<p>I&rsquo;ll continue my work on mb-sync. It&rsquo;s always a little hard to know how much time I have - so I might need to do something else soon, but I&rsquo;ll at least start. #buildinpublic #mbsync</p>\n",
+				"content_text": "I'll continue my work on mb-sync. It's always a little hard to know how much time I have - so I might need to do something else soon, but I'll at least start. #buildinpublic #mbsync\n",
+				"date_published": "2024-04-20T10:22:59+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/20/ill-continue-my.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/18/222825.html",
+				
+				"content_html": "<p>DailyDogo 879 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 879 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/48f2c90026784522b577bd06a2c24c70.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2024-04-18T22:28:25+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/18/222825.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/18/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 878 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 878 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/446f07ed1bd54c67894596661da7acc4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2024-04-18T10:17:46+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/18/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/16/the-metrics-that.html",
+				
+				"content_html": "<p>The metrics that people in charge at my work care about the most seem(!; to me) to be not reached. It&rsquo;s true, I can be kind of slow but what I do is mostly thought through. It just takes time. Sometimes too much, I guess.</p>\n<p>Amazing, how quickly confidence wanes under pressure. Tomorrow&rsquo;s another day.</p>\n",
+				"content_text": "The metrics that people in charge at my work care about the most seem(!; to me) to be not reached. It's true, I can be kind of slow but what I do is mostly thought through. It just takes time. Sometimes too much, I guess.\n\nAmazing, how quickly confidence wanes under pressure. Tomorrow's another day.\n",
+				"date_published": "2024-04-16T23:11:39+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/16/the-metrics-that.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/16/wanting-to-do.html",
+				
+				"content_html": "<p>Wanting to do a good job and wanting to do a quality job aren&rsquo;t always congruent.</p>\n",
+				"content_text": "Wanting to do a good job and wanting to do a quality job aren't always congruent.\n",
+				"date_published": "2024-04-16T23:10:09+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/16/wanting-to-do.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/16/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 877 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 877 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/b1f3e3f8044b4be6821f1a78ce7b027f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2024-04-16T22:52:40+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/16/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/15/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 876 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 876 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/04efc44a18ff4c9ab186dbe325fa4b13.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2024-04-15T20:16:51+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/15/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/15/okay-fixed-the.html",
+				
+				"content_html": "<p>Okay fixed the theme next/previous links: <code>{{ $cleanContentNext := .NextPage.Content | plainify }} {{ if gt (len $cleanContentNext) 20 }} {{ printf &quot;%.20s&quot; $cleanContentNext }} {{ else }} {{ $cleanContentNext }} {{ end }} {{ end }}</code> And the other problem seems to have been a category filter not having run through. There is no pagination, it just shows all the posts on one page. Which is fine for now.</p>\n<ul>\n<li><a href=\"https://blog.martin-haehnel.de/2024/04/15/my-theme-switch.html\">Previously</a></li>\n</ul>\n",
+				"content_text": "Okay fixed the theme next/previous links: ``` {{ $cleanContentNext := .NextPage.Content | plainify }} {{ if gt (len $cleanContentNext) 20 }} {{ printf \"%.20s\" $cleanContentNext }} {{ else }} {{ $cleanContentNext }} {{ end }} {{ end }} ``` And the other problem seems to have been a category filter not having run through. There is no pagination, it just shows all the posts on one page. Which is fine for now.\n\n- [Previously](https://blog.martin-haehnel.de/2024/04/15/my-theme-switch.html)\n",
+				"date_published": "2024-04-15T14:16:23+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/15/okay-fixed-the.html",
+				"tags": ["Blog"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/15/my-theme-switch.html",
+				
+				"content_html": "<p>My theme switch has lead to a couple of problems that I have to solve it seems in time I don&rsquo;t have. 1. posts without a title lead to links without one in the single post view <!-- raw HTML omitted --> 2. for some reason the categories view is not paged and you can&rsquo;t view posts in a category past the 11th post. Why? <!-- raw HTML omitted --> Great. Great stuff.</p>\n<ul>\n<li><a href=\"https://blog.martin-haehnel.de/2024/04/07/took-the-plunge.html\">Previously</a></li>\n<li><a href=\"https://blog.martin-haehnel.de/2024/04/15/okay-fixed-the.html\">Forward</a></li>\n</ul>\n",
+				"content_text": "My theme switch has lead to a couple of problems that I have to solve it seems in time I don't have. 1. posts without a title lead to links without one in the single post view <img src=\"uploads/2024/screenshot-2024-04-15-at-09.03.24.png\" alt=\"An annotated screenshot ilustrating the invisible links problem\" title=\"Screenshot 2024-04-15 at 09.03.24.png\" border=\"0\" width=\"598\" height=\"269\" /> 2. for some reason the categories view is not paged and you can't view posts in a category past the 11th post. Why? <img src=\"uploads/2024/category-pagination.png\" alt=\"An annotated screenshot ilustrating the missing pagination in categories problem\" title=\"category-pagination.png\" border=\"0\" width=\"599\" height=\"366\" /> Great. Great stuff.\n\n- [Previously](https://blog.martin-haehnel.de/2024/04/07/took-the-plunge.html)\n- [Forward](https://blog.martin-haehnel.de/2024/04/15/okay-fixed-the.html)\n",
+				"date_published": "2024-04-15T09:27:27+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/15/my-theme-switch.html",
+				"tags": ["Blog"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/14/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 875 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 875 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/fe2c0e1acb494fa7917918ecd0ad9a64.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2024-04-14T23:22:27+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/14/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/14/buildinpublic-zknstuff-the.html",
+				
+				"content_html": "<p>#buildinpublic #zknstuff The library is closing soon and I&rsquo;m spent mentally for the moment. Time to take the rest of the Sunday off!</p>\n",
+				"content_text": "#buildinpublic #zknstuff The library is closing soon and I'm spent mentally for the moment. Time to take the rest of the Sunday off!\n",
+				"date_published": "2024-04-14T16:35:35+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/14/buildinpublic-zknstuff-the.html",
+				"tags": ["BuildInPublic","ZKN Stuff"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/14/163436.html",
+				
+				"content_html": "<p>#buildinpublic #zknstuff I did it. Around 200 notes have been reviewed, filed away, linked to and from, some of them tagged, renamed, deleted (very few). Most of them were how-to notes, some were ideas, some were project journals, some just held some information like an address, a measurement, etc.</p>\n",
+				"content_text": "#buildinpublic #zknstuff I did it. Around 200 notes have been reviewed, filed away, linked to and from, some of them tagged, renamed, deleted (very few). Most of them were how-to notes, some were ideas, some were project journals, some just held some information like an address, a measurement, etc.\n",
+				"date_published": "2024-04-14T16:34:36+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/14/163436.html",
+				"tags": ["BuildInPublic","ZKN Stuff"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/14/154708.html",
+				
+				"content_html": "<p>#buildinpublic #zknstuff Still 66 files to go. An observation: I need to do focussed reviews, that is, reviews that only tackle part of the system, more often. That I can review files in this way is actually very helpful to make those notes I took time to write more useful and discoverable.</p>\n",
+				"content_text": "#buildinpublic #zknstuff Still 66 files to go. An observation: I need to do focussed reviews, that is, reviews that only tackle part of the system, more often. That I can review files in this way is actually very helpful to make those notes I took time to write more useful and discoverable.\n",
+				"date_published": "2024-04-14T15:47:08+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/14/154708.html",
+				"tags": ["BuildInPublic","ZKN Stuff"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/14/buildinpublic-zknstuff-still.html",
+				
+				"content_html": "<p>#buildinpublic #zknstuff Still 136 Files to review in my Inbox and I might not do anything else after this, actually, since this is going to take a moment still. But I&rsquo;m very happy that the simple note review plugin works now as expected.</p>\n",
+				"content_text": "#buildinpublic #zknstuff Still 136 Files to review in my Inbox and I might not do anything else after this, actually, since this is going to take a moment still. But I'm very happy that the simple note review plugin works now as expected.\n",
+				"date_published": "2024-04-14T13:48:36+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/14/buildinpublic-zknstuff-still.html",
+				"tags": ["BuildInPublic","ZKN Stuff"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/14/buildinpublic-zknstuff-i.html",
+				
+				"content_html": "<p>#buildinpublic #zknstuff I think that either simple note review or the underlying dataview plugin got a fix, because it now actually works as expected?! I&rsquo;m reviewing, moving and lightly editing the notes in my Inbox folder and try to think a little how to review my readwise highlights next.</p>\n",
+				"content_text": "#buildinpublic #zknstuff I think that either simple note review or the underlying dataview plugin got a fix, because it now actually works as expected?! I'm reviewing, moving and lightly editing the notes in my Inbox folder and try to think a little how to review my readwise highlights next.\n",
+				"date_published": "2024-04-14T12:57:40+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/14/buildinpublic-zknstuff-i.html",
+				"tags": ["BuildInPublic","ZKN Stuff"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/14/buildinpublic-zknstuff-even.html",
+				
+				"content_html": "<p>#buildinpublic #zknstuff Even though I had abandoned the simple note review plugin since it didn&rsquo;t work very well and the spaced repetition plugin seemed more stable I have now reverted to the former. Main reason: Having different review queues, since having just one giant queue didn&rsquo;t cut it.</p>\n",
+				"content_text": "#buildinpublic #zknstuff Even though I had abandoned the simple note review plugin since it didn't work very well and the spaced repetition plugin seemed more stable I have now reverted to the former. Main reason: Having different review queues, since having just one giant queue didn't cut it.\n",
+				"date_published": "2024-04-14T12:35:30+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/14/buildinpublic-zknstuff-even.html",
+				"tags": ["BuildInPublic","ZKN Stuff"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/14/buildinpublic-zknstuff-im.html",
+				
+				"content_html": "<p>#buildinpublic #zknstuff I&rsquo;m trying to figure out how to use these library Sundays the best at the moment and my idea was to use the <a href=\"https://github.com/st3v3nmw/obsidian-spaced-repetition\">spaced repetition plugin</a> for it. I have done that a handful of weeks now but with so many notes it is kind of unsatisfying. So let&rsquo;s think about the review process a little, cleaning up what is there and maybe finding a new way to do things.</p>\n",
+				"content_text": "#buildinpublic #zknstuff I'm trying to figure out how to use these library Sundays the best at the moment and my idea was to use the [spaced repetition plugin](https://github.com/st3v3nmw/obsidian-spaced-repetition) for it. I have done that a handful of weeks now but with so many notes it is kind of unsatisfying. So let's think about the review process a little, cleaning up what is there and maybe finding a new way to do things.\n",
+				"date_published": "2024-04-14T12:17:56+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/14/buildinpublic-zknstuff-im.html",
+				"tags": ["BuildInPublic","ZKN Stuff"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/14/today-im-spending.html",
+				
+				"content_html": "<p>Today I&rsquo;m spending time in the library working on my notes. I thought I&rsquo;d try to do a #buildinpublic kind of thing, since it was fun the last couple of days to post about what I&rsquo;m doing as regards to #mbsync. so I&rsquo;m going to try this here, too. Hashtags will be #buildinpublic and #zknstuff.</p>\n",
+				"content_text": "Today I'm spending time in the library working on my notes. I thought I'd try to do a #buildinpublic kind of thing, since it was fun the last couple of days to post about what I'm doing as regards to #mbsync. so I'm going to try this here, too. Hashtags will be #buildinpublic and #zknstuff.\n",
+				"date_published": "2024-04-14T12:10:42+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/14/today-im-spending.html",
+				"tags": ["BuildInPublic","mb-sync","ZKN Stuff"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/14/buildinpublic-mbsync-thats.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync That&rsquo;s it for today. Lots of little things done. Learned some stuff and realized a lot of things about how to structure the sync state. This&rsquo;ll be the most important part of the app, so it&rsquo;s alright if it takes some time and some attempts to get right.</p>\n",
+				"content_text": "#buildinpublic #mbsync That's it for today. Lots of little things done. Learned some stuff and realized a lot of things about how to structure the sync state. This'll be the most important part of the app, so it's alright if it takes some time and some attempts to get right.\n",
+				"date_published": "2024-04-14T00:31:45+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/14/buildinpublic-mbsync-thats.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/buildinpublic-mbsync-alright.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync Alright. The test for a post that is unchanged does the thing and I already created a similar test for a newly created post. However I don&rsquo;t like how the sync status is saved in the db. Or rather how different kinds of logic are reduced to only the sync state. We need to differentiate between the state of the sync itself (pending/synchronized/error) and what we sync (creation/update/deletion). At least I think it&rsquo;d be nice to be explicit about it. Makes it more testable. So we need two fields in the db on every post:</p>\n<ul>\n<li>sync_status: pending, synchronized, error, none</li>\n<li>sync_intention: create, update, delete, none</li>\n</ul>\n",
+				"content_text": "#buildinpublic #mbsync Alright. The test for a post that is unchanged does the thing and I already created a similar test for a newly created post. However I don't like how the sync status is saved in the db. Or rather how different kinds of logic are reduced to only the sync state. We need to differentiate between the state of the sync itself (pending/synchronized/error) and what we sync (creation/update/deletion). At least I think it'd be nice to be explicit about it. Makes it more testable. So we need two fields in the db on every post:\n\n- sync_status: pending, synchronized, error, none\n- sync_intention: create, update, delete, none\n",
+				"date_published": "2024-04-13T23:42:14+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/buildinpublic-mbsync-alright.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/buildinpublic-mbsync-so.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync So. Me the last few hours:</p>\n<blockquote>\n<p>I&rsquo;m not distracted, I&rsquo;m on a side quest.\n— <a href=\"https://beige.party/@RickiTarr/112264314660393539\">https://beige.party/@RickiTarr/112264314660393539</a></p>\n</blockquote>\n<p>Where was I? Oh yes. Refactoring/Writing a test for the <code>markForSync</code> method. I have the starting point for the test, which creates a post using a factory and writes that same data to disk. Now we need to run the post through our method and see that the posts <code>sync_status</code> is not marked for creation/update/deletion.</p>\n",
+				"content_text": "#buildinpublic #mbsync So. Me the last few hours:\n\n>I'm not distracted, I'm on a side quest.\n— https://beige.party/@RickiTarr/112264314660393539\n\nWhere was I? Oh yes. Refactoring/Writing a test for the `markForSync` method. I have the starting point for the test, which creates a post using a factory and writes that same data to disk. Now we need to run the post through our method and see that the posts `sync_status` is not marked for creation/update/deletion.\n",
+				"date_published": "2024-04-13T22:04:41+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/buildinpublic-mbsync-so.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/201946.html",
+				
+				"content_html": "<p>DailyDogo 874 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 874 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/5cc7c6f46d174eff84ead445b1f6a185.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2024-04-13T20:19:46+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/201946.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/buildinpublic-mbsync-ugh.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync Ugh. And even more problems. I use the laravel validated dto package, because I like working with DTOs and getting validation &ldquo;for free&rdquo; is nice. However:</p>\n<p>If a post doesn&rsquo;t have a category the mb api returns an empty array. Fine. I can validate this as <code>'categories' =&gt; ['present', 'array'],</code>, but interestingly the DTOs saves this internally as null. And guess what? categories in not nullable anymore when I try to save a post with empty categories to the db. Hmpf.</p>\n",
+				"content_text": "#buildinpublic #mbsync Ugh. And even more problems. I use the laravel validated dto package, because I like working with DTOs and getting validation \"for free\" is nice. However:\n\nIf a post doesn't have a category the mb api returns an empty array. Fine. I can validate this as `'categories' => ['present', 'array'],`, but interestingly the DTOs saves this internally as null. And guess what? categories in not nullable anymore when I try to save a post with empty categories to the db. Hmpf.\n",
+				"date_published": "2024-04-13T18:04:36+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/buildinpublic-mbsync-ugh.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/buildinpublic-mbsync-discoverd.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync Discoverd another problem: I was allowing the categories field (json in the db) in my Post model to be null. Turns out if you do that you can&rsquo;t <a href=\"https://laracasts.com/discuss/channels/laravel/cast-to-array-not-working\">cast that json to array</a> through eloquent. So I changed that in my migrations, but this means that the assumption you can write a post to the db with categories being null doesn&rsquo;t hold anymore. So more yak shaving…</p>\n",
+				"content_text": "#buildinpublic #mbsync Discoverd another problem: I was allowing the categories field (json in the db) in my Post model to be null. Turns out if you do that you can't [cast that json to array](https://laracasts.com/discuss/channels/laravel/cast-to-array-not-working) through eloquent. So I changed that in my migrations, but this means that the assumption you can write a post to the db with categories being null doesn't hold anymore. So more yak shaving…\n",
+				"date_published": "2024-04-13T15:43:22+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/buildinpublic-mbsync-discoverd.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/buildinpublic-mbsync-im.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync I&rsquo;m much more familiar with codeception and my brain is kinda mushy so figuring out how to do things in PHPUnit took its time. However, I refactored that <code>storePost</code> method now and have a test (which I wrote first or at least started to write first) to make sure it does what I want it to do. Now back to <code>testMarkForSync</code>.</p>\n",
+				"content_text": "#buildinpublic #mbsync I'm much more familiar with codeception and my brain is kinda mushy so figuring out how to do things in PHPUnit took its time. However, I refactored that `storePost` method now and have a test (which I wrote first or at least started to write first) to make sure it does what I want it to do. Now back to `testMarkForSync`.\n",
+				"date_published": "2024-04-13T14:41:02+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/buildinpublic-mbsync-im.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/buildinpublic-mbsync-after.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync Af\u0010ter a late combined breakfast/lunch back at it. Still writing the testcase for storePost. I had to think about how to structure tests that rely on test data or rather needs a directory to write to. I generally like to mirror the structure of the app in my tests, so that I can find the things I need easily. I have now introduced a testData directory where I can write to/from the filesystem. It looks like this:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#buildinpublic #mbsync Af\u0010ter a late combined breakfast/lunch back at it. Still writing the testcase for storePost. I had to think about how to structure tests that rely on test data or rather needs a directory to write to. I generally like to mirror the structure of the app in my tests, so that I can find the things I need easily. I have now introduced a testData directory where I can write to/from the filesystem. It looks like this:\n\n\n\n<img src=\"uploads/2024/f642602c89.png\" width=\"600\" height=\"290\" alt=\"\">\n",
+				"date_published": "2024-04-13T13:45:01+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/buildinpublic-mbsync-after.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/120113.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync Well, that worked. We just had to add:</p>\n<pre tabindex=\"0\"><code>public function posts(): \\Illuminate\\Database\\Eloquent\\Relations\\HasMany\n    {\n        return $this-&gt;hasMany(Post::class);\n    }\n</code></pre><p>to the Blog model.</p>\n<p>Now we can do the following in our test:</p>\n<pre tabindex=\"0\"><code>$blog = Blog::factory()-&gt;has(Post::factory()-&gt;count(1))-&gt;create();\n$post = $blog-&gt;posts-&gt;first();\n</code></pre><p>That post now has some fake data as defined in my PostFactory.</p>\n<p>Time to write this to disk. We could use <code>PostFilePersistorService::storePost</code>. This method makes a couple of assumptions about where to write data and I would like it to just write where I want it to. So I will refactor the path generation logic out of <code>storePost</code>. In the future it should be handed in via a parameter. This is a big change but we&rsquo;re the only developer and in the &ldquo;break lots of things&rdquo; phase, so I feel this is fine.</p>\n<p>There is only one problem: We again have no test! So what I&rsquo;ll do is make the other test pass, add a TODO to it and create a test for storePost. First things first.</p>\n",
+				"content_text": "#buildinpublic #mbsync Well, that worked. We just had to add:\n\n```\npublic function posts(): \\Illuminate\\Database\\Eloquent\\Relations\\HasMany\n    {\n        return $this->hasMany(Post::class);\n    }\n```\n\nto the Blog model.\n\nNow we can do the following in our test:\n\n```\n$blog = Blog::factory()->has(Post::factory()->count(1))->create();\n$post = $blog->posts->first();\n```\n\nThat post now has some fake data as defined in my PostFactory.\n\nTime to write this to disk. We could use `PostFilePersistorService::storePost`. This method makes a couple of assumptions about where to write data and I would like it to just write where I want it to. So I will refactor the path generation logic out of `storePost`. In the future it should be handed in via a parameter. This is a big change but we're the only developer and in the \"break lots of things\" phase, so I feel this is fine.\n\nThere is only one problem: We again have no test! So what I'll do is make the other test pass, add a TODO to it and create a test for storePost. First things first.\n",
+				"date_published": "2024-04-13T12:01:13+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/120113.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/114426.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync Well, it seems that my models are incomplete. I am missing a relationship between a blog and its posts. This is needed so that my factory can create some posts to test with.</p>\n",
+				"content_text": "#buildinpublic #mbsync Well, it seems that my models are incomplete. I am missing a relationship between a blog and its posts. This is needed so that my factory can create some posts to test with.\n",
+				"date_published": "2024-04-13T11:44:26+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/114426.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/buildinpublic-mbsync-no.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync No tests, alright. What do we want to test here? If we call <code>markForSync()</code> a changed post, a deleted post, a new post and an unchanged post should all be detected correctly. So let&rsquo;s start with the simple case that a post in  the db and in the filesystem are the same.</p>\n",
+				"content_text": "#buildinpublic #mbsync No tests, alright. What do we want to test here? If we call `markForSync()` a changed post, a deleted post, a new post and an unchanged post should all be detected correctly. So let's start with the simple case that a post in  the db and in the filesystem are the same.\n",
+				"date_published": "2024-04-13T11:36:14+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/buildinpublic-mbsync-no.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/buildinpublic-mbsync-continuing.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync Continuing from yesterday. I will rewrite the markForSync method so it iterates over the posts in the db instead of the files to be able to detect deleted files as well. Just have to check if there are any tests to work with, or if I have to add them first.</p>\n",
+				"content_text": "#buildinpublic #mbsync Continuing from yesterday. I will rewrite the markForSync method so it iterates over the posts in the db instead of the files to be able to detect deleted files as well. Just have to check if there are any tests to work with, or if I have to add them first.\n",
+				"date_published": "2024-04-13T11:31:19+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/buildinpublic-mbsync-continuing.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/buildinpublic-mbsync-well.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync Well. Looks like I will not continue today…</p>\n",
+				"content_text": "#buildinpublic #mbsync Well. Looks like I will not continue today… \n",
+				"date_published": "2024-04-13T01:41:15+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/buildinpublic-mbsync-well.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/13/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 873 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 873 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/f4f64b15e7fc40f0bc8c1bd5af6cfd3d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2024-04-13T00:52:17+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/13/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/12/buildinpublic-mbsync-will.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync Will continue but we have stuff to do in the city.</p>\n",
+				"content_text": "#buildinpublic #mbsync Will continue but we have stuff to do in the city.\n",
+				"date_published": "2024-04-12T16:36:16+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/12/buildinpublic-mbsync-will.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/12/buildinpublic-mbsync-it.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync It seems that I have a column in the posts table called sync_status that is <code>enum('pending','synced','deleted')</code> so it seems to me I need to set this to deleted if the file is missing, which implies that instead of iterating over the blog post files and marking the posts in the db I need to iterate over the blogposts in the db since otherwise I miss the deleted files. Does this make sense?</p>\n<ul>\n<li>Files:\n<ul>\n<li>1</li>\n<li>2</li>\n<li>3</li>\n</ul>\n</li>\n<li>Posts in DB\n<ul>\n<li>1</li>\n<li>2</li>\n<li>3</li>\n</ul>\n</li>\n</ul>\n<p>I was checking the files against the db to find new and updated posts, but I&rsquo;m now going to check the db against the files instead. I should still be able to find new/updated posts, but also posts that are missing from the filesystem.</p>\n",
+				"content_text": "#buildinpublic #mbsync It seems that I have a column in the posts table called sync_status that is `enum('pending','synced','deleted')` so it seems to me I need to set this to deleted if the file is missing, which implies that instead of iterating over the blog post files and marking the posts in the db I need to iterate over the blogposts in the db since otherwise I miss the deleted files. Does this make sense?\n\n- Files:\n  - 1\n  - 2\n  - 3\n- Posts in DB\n  - 1\n  - 2\n  - 3\n\nI was checking the files against the db to find new and updated posts, but I'm now going to check the db against the files instead. I should still be able to find new/updated posts, but also posts that are missing from the filesystem.\n",
+				"date_published": "2024-04-12T16:35:37+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/12/buildinpublic-mbsync-it.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/12/buildinpublic-mbsync-alright.html",
+				
+				"content_html": "<p>#buildinpublic #mbsync Alright found something todo: <code>// TODO: mark post as deleted</code></p>\n<p>The way this app works is by downloading posts and keeping a hash in the database and also saving them to the filesystem. There is a rudimentary implementation for new and updated posts, but files that are deleted from the filesystem are not marked as deleted in the db. The db is what gets synced with mb though. So we need a field on the post that marks it as deleted, so that when we sync the next time the post can be deleted from mb.</p>\n",
+				"content_text": "#buildinpublic #mbsync Alright found something todo: `// TODO: mark post as deleted`\n\nThe way this app works is by downloading posts and keeping a hash in the database and also saving them to the filesystem. There is a rudimentary implementation for new and updated posts, but files that are deleted from the filesystem are not marked as deleted in the db. The db is what gets synced with mb though. So we need a field on the post that marks it as deleted, so that when we sync the next time the post can be deleted from mb.\n",
+				"date_published": "2024-04-12T16:17:32+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/12/buildinpublic-mbsync-alright.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/12/one-thing-that.html",
+				
+				"content_html": "<p>One thing that always happens with this one: Don&rsquo;t know what the next step is. Learning goals are for now:</p>\n<ul>\n<li>phpstorm</li>\n<li>laravel</li>\n<li>tdd</li>\n</ul>\n<p>So I use herd and dbngin for the local dev env and use phpstorm as the ide and realize that I have uncomitted stuff. Let&rsquo;s see if the tests pass.</p>\n<p>#buildinpublic #mbsync</p>\n",
+				"content_text": "One thing that always happens with this one: Don't know what the next step is. Learning goals are for now:\n\n- phpstorm\n- laravel\n- tdd\n\nSo I use herd and dbngin for the local dev env and use phpstorm as the ide and realize that I have uncomitted stuff. Let's see if the tests pass.\n\n#buildinpublic #mbsync\n",
+				"date_published": "2024-04-12T15:57:43+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/12/one-thing-that.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/12/inspired-by-vincent.html",
+				
+				"content_html": "<p>Inspired by <a href=\"https://micro.blog/vincent\">@vincent</a> I am going to #buildinpublic. I have a nice little learning project that is supposed to be like <a href=\"https://blot.im\">blot</a> but for micro.blog. I&rsquo;m calling it mb-sync and I&rsquo;m going to use #mbsync to refer to it.</p>\n",
+				"content_text": "Inspired by [@vincent](https://micro.blog/vincent) I am going to #buildinpublic. I have a nice little learning project that is supposed to be like [blot](https://blot.im) but for micro.blog. I'm calling it mb-sync and I'm going to use #mbsync to refer to it.\n",
+				"date_published": "2024-04-12T15:51:26+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/12/inspired-by-vincent.html",
+				"tags": ["BuildInPublic","mb-sync"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/11/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 872 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 872 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/ec48de7863054f86a869b390816c4088.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2024-04-11T22:05:24+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/11/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/11/days-of-duolingo.html",
+				
+				"content_html": "<p>1000 Days of Duolingo. I am little proud. I do only one lesson per day at the moment, so progress is slow. And working for a German company also doesn&rsquo;t help in becoming a Finnish speaker quicker. But it&rsquo;s a process. As long as I keep going, I&rsquo;ll improve.</p>\n<!-- raw HTML omitted -->\n<ul>\n<li><a href=\"https://blog.martin-haehnel.de/2023/01/06/previously-this-last.html\">Previously</a></li>\n</ul>\n",
+				"content_text": "1000 Days of Duolingo. I am little proud. I do only one lesson per day at the moment, so progress is slow. And working for a German company also doesn't help in becoming a Finnish speaker quicker. But it's a process. As long as I keep going, I'll improve.\n\n<img src=\"uploads/2024/screenshot-2024-04-11-at-09.47.54.png\" alt=\"A screenshot of the duolingo web app showing off the 1000 day streak \" title=\"Screenshot 2024-04-11 at 09.47.54.png\" border=\"0\" width=\"507\" height=\"600\" />\n\n- [Previously](https://blog.martin-haehnel.de/2023/01/06/previously-this-last.html)\n",
+				"date_published": "2024-04-11T10:20:35+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/11/days-of-duolingo.html",
+				"tags": ["Quick Note"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/10/looking-forward-to.html",
+				
+				"content_html": "<p>Looking forward to <a href=\"https://echofeed.app/\">EchhoFeed</a> being available. Because then I will be aböe to crosspost from Mastodon to my blog (instead of the other way around). Which means I should be able to blog a little more without it being an ordeal.</p>\n",
+				"content_text": "Looking forward to [EchhoFeed](https://echofeed.app/) being available. Because then I will be aböe to crosspost from Mastodon to my blog (instead of the other way around). Which means I should be able to blog a little more without it being an ordeal. \n",
+				"date_published": "2024-04-10T23:19:29+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/10/looking-forward-to.html",
+				"tags": ["Quick Note"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/10/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 871 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 871 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/325a76021a3642bdb650f56dcae7ca39.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2024-04-10T23:03:47+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/10/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/09/nice-little-evening.html",
+				
+				"content_html": "<p>Nice little evening walk before sleep with the dog just now. About 20 mins longer than usual. I could get used to this. But the dog is usually so lazy at this time.</p>\n",
+				"content_text": "Nice little evening walk before sleep with the dog just now. About 20 mins longer than usual. I could get used to this. But the dog is usually so lazy at this time.  \n",
+				"date_published": "2024-04-09T23:38:01+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/09/nice-little-evening.html",
+				"tags": ["Quick Note"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/04/09/215928.html",
+				
+				"content_html": "<p>DailyDogo 870 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 870 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/3d2feced16414ce494efb66b74d5b347.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2024-04-09T21:59:28+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/04/09/215928.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2024/04/09/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 869 🐶</p>\n<!-- raw HTML omitted -->\n",
@@ -45,8 +430,8 @@
 			{
 				"id": "http://matti.micro.blog/2024/04/07/took-the-plunge.html",
 				
-				"content_html": "<p>Took the plunge today and changed my theme for the first time since establishing my blog on micro.blog. I&rsquo;m very apprehensive changing themes and other things that I consider default behavior. Because this either means maintenance for me or maintenance for somebody else. I&rsquo;m not a very visual person especially when I have to create things. I want to write and I want it to look okay, but I&rsquo;m not sweating it if the blog looks antiquated or whatever. However, a blog needs some form of a (design) theme and so I have generally opted for whatever the default is. The default is going to be maintained no matter what so it&rsquo;s a pretty safe bet.</p>\n<p>One thing that irks me a lot about micro.blog&rsquo;s default theme: How invisible the categories are! They are only visible on the archive page, not in the list of posts and not on the single post page either. I find this very impractical, because you can&rsquo;t browse other posts in the same category. Another thing is that the default theme doesn&rsquo;t do proper pagination. The homepage just includes 20 or so posts and that&rsquo;s it. You have to go to the archive page to see more posts, but there they are only visible in a truncated fashion. Long story short: I changed the theme! This one is called <a href=\"https://github.com/microdotblog/theme-minos\">Minos</a> and shows the categories above every post and has pagination.</p>\n<p>For posterity&rsquo;s sake, here are some more or less random screenshots from the blog before changing themes:</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Took the plunge today and changed my theme for the first time since establishing my blog on micro.blog. I'm very apprehensive changing themes and other things that I consider default behavior. Because this either means maintenance for me or maintenance for somebody else. I'm not a very visual person especially when I have to create things. I want to write and I want it to look okay, but I'm not sweating it if the blog looks antiquated or whatever. However, a blog needs some form of a (design) theme and so I have generally opted for whatever the default is. The default is going to be maintained no matter what so it's a pretty safe bet.\n\nOne thing that irks me a lot about micro.blog's default theme: How invisible the categories are! They are only visible on the archive page, not in the list of posts and not on the single post page either. I find this very impractical, because you can't browse other posts in the same category. Another thing is that the default theme doesn't do proper pagination. The homepage just includes 20 or so posts and that's it. You have to go to the archive page to see more posts, but there they are only visible in a truncated fashion. Long story short: I changed the theme! This one is called [Minos](https://github.com/microdotblog/theme-minos) and shows the categories above every post and has pagination.\n\nFor posterity's sake, here are some more or less random screenshots from the blog before changing themes:\n\n<img src=\"uploads/2024/screenshot-2024-04-07-at-12.17.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.17.png\" border=\"0\" width=\"599\" height=\"381\" />\n\n<img src=\"uploads/2024/f71800238e.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.17.png\" border=\"0\" width=\"599\" height=\"381\" />\n\n<img src=\"uploads/2024/screenshot-2024-04-07-at-12.18.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.18.png\" border=\"0\" width=\"599\" height=\"381\" />\n\n<img src=\"uploads/2024/96b771b3d3.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.18.png\" border=\"0\" width=\"599\" height=\"381\" />\n\n<img src=\"uploads/2024/596e0dfb26.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.18.png\" border=\"0\" width=\"599\" height=\"381\" />\n\n<img src=\"uploads/2024/22a2175997.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.18.png\" border=\"0\" width=\"599\" height=\"381\" />\n\n<img src=\"uploads/2024/screenshot-2024-04-07-at-12.26.11.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.26.11.png\" border=\"0\" width=\"599\" height=\"381\" />\n",
+				"content_html": "<p>Took the plunge today and changed my theme for the first time since establishing my blog on micro.blog. I&rsquo;m very apprehensive changing themes and other things that I consider default behavior. Because this either means maintenance for me or maintenance for somebody else. I&rsquo;m not a very visual person especially when I have to create things. I want to write and I want it to look okay, but I&rsquo;m not sweating it if the blog looks antiquated or whatever. However, a blog needs some form of a (design) theme and so I have generally opted for whatever the default is. The default is going to be maintained no matter what so it&rsquo;s a pretty safe bet. One thing that irks me a lot about micro.blog&rsquo;s default theme: How invisible the categories are! They are only visible on the archive page, not in the list of posts and not on the single post page either. I find this very impractical, because you can&rsquo;t browse other posts in the same category. Another thing is that the default theme doesn&rsquo;t do proper pagination. The homepage just includes 20 or so posts and that&rsquo;s it. You have to go to the archive page to see more posts, but there they are only visible in a truncated fashion. Long story short: I changed the theme! This one is called <a href=\"https://github.com/microdotblog/theme-minos\">Minos</a> and shows the categories above every post and has pagination. For posterity&rsquo;s sake, here are some more or less random screenshots from the blog before changing themes: <!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --> <!-- raw HTML omitted --></p>\n<ul>\n<li><a href=\"https://blog.martin-haehnel.de/2024/04/15/my-theme-switch.html\">Forward</a></li>\n</ul>\n",
+				"content_text": "Took the plunge today and changed my theme for the first time since establishing my blog on micro.blog. I'm very apprehensive changing themes and other things that I consider default behavior. Because this either means maintenance for me or maintenance for somebody else. I'm not a very visual person especially when I have to create things. I want to write and I want it to look okay, but I'm not sweating it if the blog looks antiquated or whatever. However, a blog needs some form of a (design) theme and so I have generally opted for whatever the default is. The default is going to be maintained no matter what so it's a pretty safe bet. One thing that irks me a lot about micro.blog's default theme: How invisible the categories are! They are only visible on the archive page, not in the list of posts and not on the single post page either. I find this very impractical, because you can't browse other posts in the same category. Another thing is that the default theme doesn't do proper pagination. The homepage just includes 20 or so posts and that's it. You have to go to the archive page to see more posts, but there they are only visible in a truncated fashion. Long story short: I changed the theme! This one is called [Minos](https://github.com/microdotblog/theme-minos) and shows the categories above every post and has pagination. For posterity's sake, here are some more or less random screenshots from the blog before changing themes: <img src=\"uploads/2024/screenshot-2024-04-07-at-12.17.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.17.png\" border=\"0\" width=\"599\" height=\"381\" /> <img src=\"uploads/2024/f71800238e.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.17.png\" border=\"0\" width=\"599\" height=\"381\" /> <img src=\"uploads/2024/screenshot-2024-04-07-at-12.18.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.18.png\" border=\"0\" width=\"599\" height=\"381\" /> <img src=\"uploads/2024/96b771b3d3.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.18.png\" border=\"0\" width=\"599\" height=\"381\" /> <img src=\"uploads/2024/596e0dfb26.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.18.png\" border=\"0\" width=\"599\" height=\"381\" /> <img src=\"uploads/2024/22a2175997.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.18.png\" border=\"0\" width=\"599\" height=\"381\" /> <img src=\"uploads/2024/screenshot-2024-04-07-at-12.26.11.png\" alt=\"A screenshot showing my blog using the old default theme\" title=\"Screenshot 2024-04-07 at 12.26.11.png\" border=\"0\" width=\"599\" height=\"381\" />\n\n- [Forward](https://blog.martin-haehnel.de/2024/04/15/my-theme-switch.html)\n",
 				"date_published": "2024-04-07T12:42:38+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/04/07/took-the-plunge.html",
 				"tags": ["Blog"]
@@ -5234,8 +5619,8 @@
 			{
 				"id": "http://matti.micro.blog/2023/01/06/previously-this-last.html",
 				
-				"content_html": "<p>This last year was not a great year. I wouldn&rsquo;t say it was as bad as 2021. But it was a challenging year. 2022 was a year of increasing uncertainty. There was (and is) war happening very close by (or at least that&rsquo;s how it feels). There is the economic down turn, which touches everything and everyone around me.</p>\n<p>I look back and see a year that was defined by trying to get a grip, finally (for the umpteenth time). I was successful for a while, but almost nothing I tried to do stuck throughout the year (and beyond): I did not become a <a href=\"https://blog.martin-haehnel.de/2022/05/29/taking-a-break.html\">microcaster</a>, an <a href=\"https://blog.martin-haehnel.de/categories/the-early-riser/\">early riser</a>, a <a href=\"https://blog.martin-haehnel.de/notes-on-notes/\">newsletter writer</a>, for example. Notable exceptions: Duolingo (500+ days streak) and my <a href=\"https://blog.martin-haehnel.de/categories/dailydogo/\">DailyDogo</a> series of posts here on the blog. I started a side project that I will claim is still ongoing, even though I have not invested any time into it since mid December.</p>\n<p>Now, not all projects are meant to be continuous, or even meant to succeed. I know that and it&rsquo;s fine. I do appreciate the insight gained from projects more than their outcomes. Nonetheless it is gnawing at me that I do not have a lot to show in terms of progress regarding my own ideas. I feel like I ought to be capable enough to make things (bring side projects to a &ldquo;version 1&rdquo; state, continuously publish side projects that are ongoing, like newsletters), change or add habits, transform my surroundings in a positive manner, etc. I feel like I should be able to succeed sometimes, at least.</p>\n<p>Let me say it again: Despite what I just wrote, I do appreciate that I have not stood still and it would be wrong to claim that nothing good came out of me trying hard in whatever it may have been. I just feel like that I would like to be able to show <em>something</em> for the effort, something tangible.</p>\n<p>Take my note taking system for example: For literal decades (only 2, but that still warrants the plural) I have honed and refined my skill to take notes, to think in notes and therefore am able to think many interesting thoughts beyond what a single &ldquo;thought session&rdquo; may come up with. I feel like this makes me good at my job. It actually makes me good at <em>life</em> I&rsquo;ll claim, because my reflections are more mature and I do know myself better than without. The question is though: If I&rsquo;m so great, where are the results of me being good? I&rsquo;m a middling programmer - I do recognize that I started my career later than others and I know that I have not reached my ceiling and am far from it: I even made steps forward to becoming more proficient. But still. I&rsquo;m an okay writer (or was) - not in English, mind you - but where are the publications? I&rsquo;m a pretty good thinker - but where are my contributions to a field, any field, that I have had academic training in (history, sociology, anthropology of science and technology and computer science)?</p>\n<p>It seems to me that I&rsquo;m caught in a stage of continuously drafting grand visions of my future if I look back through the many years of yearly reviews I have done. I&rsquo;m pretty sick of it. In 2022 I already made a change towards not changing my plans, but instead refining them. I count this as my biggest professional success. I made my peace with having a career in software development (now about 5 years in) and am trying to learn more about software architecture (only slightly successful, but nonetheless).</p>\n<!-- raw HTML omitted -->\n<p>In my private life, our dog has been a great source of happiness. At the same time having a dog is challenging. My family lives about 2000 km away. My partner&rsquo;s family lives about 800 km away. So visits to either part of the family became much, much harder to organize and carry out. The same is true for vacations. Daily life with a dog is great, but it&rsquo;s not a neutral thing either: A dog warrants attention, love, decision making and so many different things. Your life will change and it will revolve around the dog a lot. This is maybe not surprising intellectually, but experientially it feels still much different than what it may have looked like beforehand. I do not regret having a dog, as hard as it was raising or quite simply dealing with her this year sometimes, but I won&rsquo;t say that everything was fine and easy going all the time either. Still, I love her like a crazy dog dad loves his fur child.</p>\n<!-- raw HTML omitted -->\n<p>We got engaged this year. We are now seven years together. I take this as a great sign that we are truly there for each other - through thick and thin. It was not an easy year. Lots of emotional support was needed. I&rsquo;m happy to say that I was able to give it, when I could. As an introvert - yep, that&rsquo;s true even when it comes to my partner - it wasn&rsquo;t always an easy thing to do, but I can look at myself in the mirror and honestly say that I tried hard in this regard. And I won&rsquo;t only complain, either: The vast vast VAST majority of our time together has been fun and something to look forward to. I love sharing my life with my favorite person and love having lots of memorable moments together.</p>\n<p>I have become a little rounder last year. Maybe two or three kilos - or is it five? A little grayer, too. I&rsquo;m 36 now. I feel like I&rsquo;m fine with my age and my looks. &ldquo;Not having anything to show for the effort&rdquo;-itis (see above) is surely a sign of getting older, I think and I do recognize that I&rsquo;m not super young anymore, but getting older is not worrying me. That&rsquo;s good. I think.</p>\n<p>So what will I remember from 2022? Our engagement for sure. How I got sick of grand plans maybe? That 2022 was economically a terrible year and I&rsquo;m happy that we were not too hard hit? Maybe that I tried hard on many occasions, despite any track record or tangible results?</p>\n<p>Maybe I will remember this year as a kind of beacon, like from a light house: On the one hand I had some insights that will surely inform my decision making next year. On the other hand, I came close at times to run aground in the shoals of actual lived adulthood. I have to be careful, but I also want to take heart: I&rsquo;m looking as ever hopeful into the future. Maybe I&rsquo;m able to not only claim a realistic approach next year but actually live one also.</p>\n<ul>\n<li><a href=\"https://blog.martin-haehnel.de/2022/01/01/year-of-strain.html\">Previously</a></li>\n<li><a href=\"https://blog.martin-haehnel.de/2024/01/04/this-year-had.html\">Forward</a></li>\n</ul>\n",
-				"content_text": "This last year was not a great year. I wouldn't say it was as bad as 2021. But it was a challenging year. 2022 was a year of increasing uncertainty. There was (and is) war happening very close by (or at least that's how it feels). There is the economic down turn, which touches everything and everyone around me.\n\nI look back and see a year that was defined by trying to get a grip, finally (for the umpteenth time). I was successful for a while, but almost nothing I tried to do stuck throughout the year (and beyond): I did not become a [microcaster](https://blog.martin-haehnel.de/2022/05/29/taking-a-break.html), an [early riser](https://blog.martin-haehnel.de/categories/the-early-riser/), a [newsletter writer](https://blog.martin-haehnel.de/notes-on-notes/), for example. Notable exceptions: Duolingo (500+ days streak) and my [DailyDogo](https://blog.martin-haehnel.de/categories/dailydogo/) series of posts here on the blog. I started a side project that I will claim is still ongoing, even though I have not invested any time into it since mid December.\n\nNow, not all projects are meant to be continuous, or even meant to succeed. I know that and it's fine. I do appreciate the insight gained from projects more than their outcomes. Nonetheless it is gnawing at me that I do not have a lot to show in terms of progress regarding my own ideas. I feel like I ought to be capable enough to make things (bring side projects to a \"version 1\" state, continuously publish side projects that are ongoing, like newsletters), change or add habits, transform my surroundings in a positive manner, etc. I feel like I should be able to succeed sometimes, at least.\n\nLet me say it again: Despite what I just wrote, I do appreciate that I have not stood still and it would be wrong to claim that nothing good came out of me trying hard in whatever it may have been. I just feel like that I would like to be able to show *something* for the effort, something tangible.\n\nTake my note taking system for example: For literal decades (only 2, but that still warrants the plural) I have honed and refined my skill to take notes, to think in notes and therefore am able to think many interesting thoughts beyond what a single \"thought session\" may come up with. I feel like this makes me good at my job. It actually makes me good at *life* I'll claim, because my reflections are more mature and I do know myself better than without. The question is though: If I'm so great, where are the results of me being good? I'm a middling programmer - I do recognize that I started my career later than others and I know that I have not reached my ceiling and am far from it: I even made steps forward to becoming more proficient. But still. I'm an okay writer (or was) - not in English, mind you - but where are the publications? I'm a pretty good thinker - but where are my contributions to a field, any field, that I have had academic training in (history, sociology, anthropology of science and technology and computer science)?\n\nIt seems to me that I'm caught in a stage of continuously drafting grand visions of my future if I look back through the many years of yearly reviews I have done. I'm pretty sick of it. In 2022 I already made a change towards not changing my plans, but instead refining them. I count this as my biggest professional success. I made my peace with having a career in software development (now about 5 years in) and am trying to learn more about software architecture (only slightly successful, but nonetheless).\n\n\n<img src=\"uploads/2023/1a3f81d223.jpg\" alt=\"IMG 7608\" title=\"IMG_7608.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n\nIn my private life, our dog has been a great source of happiness. At the same time having a dog is challenging. My family lives about 2000 km away. My partner's family lives about 800 km away. So visits to either part of the family became much, much harder to organize and carry out. The same is true for vacations. Daily life with a dog is great, but it's not a neutral thing either: A dog warrants attention, love, decision making and so many different things. Your life will change and it will revolve around the dog a lot. This is maybe not surprising intellectually, but experientially it feels still much different than what it may have looked like beforehand. I do not regret having a dog, as hard as it was raising or quite simply dealing with her this year sometimes, but I won't say that everything was fine and easy going all the time either. Still, I love her like a crazy dog dad loves his fur child.\n\n\n<img src=\"uploads/2023/0fd5211ec6.jpg\" alt=\"IMG 7282\" title=\"IMG_7282.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n\nWe got engaged this year. We are now seven years together. I take this as a great sign that we are truly there for each other - through thick and thin. It was not an easy year. Lots of emotional support was needed. I'm happy to say that I was able to give it, when I could. As an introvert - yep, that's true even when it comes to my partner - it wasn't always an easy thing to do, but I can look at myself in the mirror and honestly say that I tried hard in this regard. And I won't only complain, either: The vast vast VAST majority of our time together has been fun and something to look forward to. I love sharing my life with my favorite person and love having lots of memorable moments together.\n\nI have become a little rounder last year. Maybe two or three kilos - or is it five? A little grayer, too. I'm 36 now. I feel like I'm fine with my age and my looks. \"Not having anything to show for the effort\"-itis (see above) is surely a sign of getting older, I think and I do recognize that I'm not super young anymore, but getting older is not worrying me. That's good. I think.\n\nSo what will I remember from 2022? Our engagement for sure. How I got sick of grand plans maybe? That 2022 was economically a terrible year and I'm happy that we were not too hard hit? Maybe that I tried hard on many occasions, despite any track record or tangible results?\n\nMaybe I will remember this year as a kind of beacon, like from a light house: On the one hand I had some insights that will surely inform my decision making next year. On the other hand, I came close at times to run aground in the shoals of actual lived adulthood. I have to be careful, but I also want to take heart: I'm looking as ever hopeful into the future. Maybe I'm able to not only claim a realistic approach next year but actually live one also.\n\n- [Previously](https://blog.martin-haehnel.de/2022/01/01/year-of-strain.html)\n- [Forward](https://blog.martin-haehnel.de/2024/01/04/this-year-had.html)\n",
+				"content_html": "<p>This last year was not a great year. I wouldn&rsquo;t say it was as bad as 2021. But it was a challenging year. 2022 was a year of increasing uncertainty. There was (and is) war happening very close by (or at least that&rsquo;s how it feels). There is the economic down turn, which touches everything and everyone around me.</p>\n<p>I look back and see a year that was defined by trying to get a grip, finally (for the umpteenth time). I was successful for a while, but almost nothing I tried to do stuck throughout the year (and beyond): I did not become a <a href=\"https://blog.martin-haehnel.de/2022/05/29/taking-a-break.html\">microcaster</a>, an <a href=\"https://blog.martin-haehnel.de/categories/the-early-riser/\">early riser</a>, a <a href=\"https://blog.martin-haehnel.de/notes-on-notes/\">newsletter writer</a>, for example. Notable exceptions: Duolingo (500+ days streak) and my <a href=\"https://blog.martin-haehnel.de/categories/dailydogo/\">DailyDogo</a> series of posts here on the blog. I started a side project that I will claim is still ongoing, even though I have not invested any time into it since mid December.</p>\n<p>Now, not all projects are meant to be continuous, or even meant to succeed. I know that and it&rsquo;s fine. I do appreciate the insight gained from projects more than their outcomes. Nonetheless it is gnawing at me that I do not have a lot to show in terms of progress regarding my own ideas. I feel like I ought to be capable enough to make things (bring side projects to a &ldquo;version 1&rdquo; state, continuously publish side projects that are ongoing, like newsletters), change or add habits, transform my surroundings in a positive manner, etc. I feel like I should be able to succeed sometimes, at least.</p>\n<p>Let me say it again: Despite what I just wrote, I do appreciate that I have not stood still and it would be wrong to claim that nothing good came out of me trying hard in whatever it may have been. I just feel like that I would like to be able to show <em>something</em> for the effort, something tangible.</p>\n<p>Take my note taking system for example: For literal decades (only 2, but that still warrants the plural) I have honed and refined my skill to take notes, to think in notes and therefore am able to think many interesting thoughts beyond what a single &ldquo;thought session&rdquo; may come up with. I feel like this makes me good at my job. It actually makes me good at <em>life</em> I&rsquo;ll claim, because my reflections are more mature and I do know myself better than without. The question is though: If I&rsquo;m so great, where are the results of me being good? I&rsquo;m a middling programmer - I do recognize that I started my career later than others and I know that I have not reached my ceiling and am far from it: I even made steps forward to becoming more proficient. But still. I&rsquo;m an okay writer (or was) - not in English, mind you - but where are the publications? I&rsquo;m a pretty good thinker - but where are my contributions to a field, any field, that I have had academic training in (history, sociology, anthropology of science and technology and computer science)?</p>\n<p>It seems to me that I&rsquo;m caught in a stage of continuously drafting grand visions of my future if I look back through the many years of yearly reviews I have done. I&rsquo;m pretty sick of it. In 2022 I already made a change towards not changing my plans, but instead refining them. I count this as my biggest professional success. I made my peace with having a career in software development (now about 5 years in) and am trying to learn more about software architecture (only slightly successful, but nonetheless).</p>\n<!-- raw HTML omitted -->\n<p>In my private life, our dog has been a great source of happiness. At the same time having a dog is challenging. My family lives about 2000 km away. My partner&rsquo;s family lives about 800 km away. So visits to either part of the family became much, much harder to organize and carry out. The same is true for vacations. Daily life with a dog is great, but it&rsquo;s not a neutral thing either: A dog warrants attention, love, decision making and so many different things. Your life will change and it will revolve around the dog a lot. This is maybe not surprising intellectually, but experientially it feels still much different than what it may have looked like beforehand. I do not regret having a dog, as hard as it was raising or quite simply dealing with her this year sometimes, but I won&rsquo;t say that everything was fine and easy going all the time either. Still, I love her like a crazy dog dad loves his fur child.</p>\n<!-- raw HTML omitted -->\n<p>We got engaged this year. We are now seven years together. I take this as a great sign that we are truly there for each other - through thick and thin. It was not an easy year. Lots of emotional support was needed. I&rsquo;m happy to say that I was able to give it, when I could. As an introvert - yep, that&rsquo;s true even when it comes to my partner - it wasn&rsquo;t always an easy thing to do, but I can look at myself in the mirror and honestly say that I tried hard in this regard. And I won&rsquo;t only complain, either: The vast vast VAST majority of our time together has been fun and something to look forward to. I love sharing my life with my favorite person and love having lots of memorable moments together.</p>\n<p>I have become a little rounder last year. Maybe two or three kilos - or is it five? A little grayer, too. I&rsquo;m 36 now. I feel like I&rsquo;m fine with my age and my looks. &ldquo;Not having anything to show for the effort&rdquo;-itis (see above) is surely a sign of getting older, I think and I do recognize that I&rsquo;m not super young anymore, but getting older is not worrying me. That&rsquo;s good. I think.</p>\n<p>So what will I remember from 2022? Our engagement for sure. How I got sick of grand plans maybe? That 2022 was economically a terrible year and I&rsquo;m happy that we were not too hard hit? Maybe that I tried hard on many occasions, despite any track record or tangible results?</p>\n<p>Maybe I will remember this year as a kind of beacon, like from a light house: On the one hand I had some insights that will surely inform my decision making next year. On the other hand, I came close at times to run aground in the shoals of actual lived adulthood. I have to be careful, but I also want to take heart: I&rsquo;m looking as ever hopeful into the future. Maybe I&rsquo;m able to not only claim a realistic approach next year but actually live one also.</p>\n<ul>\n<li>Yearly Reviews\n<ul>\n<li><a href=\"https://blog.martin-haehnel.de/2022/01/01/year-of-strain.html\">Previously</a></li>\n<li><a href=\"https://blog.martin-haehnel.de/2024/01/04/this-year-had.html\">Forward</a></li>\n</ul>\n</li>\n<li>Duolingo\n<ul>\n<li><a href=\"https://blog.martin-haehnel.de/2021/12/13/cool.html\">Previously</a></li>\n<li><a href=\"https://blog.martin-haehnel.de/2024/04/11/days-of-duolingo.html\">Forward</a></li>\n</ul>\n</li>\n</ul>\n",
+				"content_text": "This last year was not a great year. I wouldn't say it was as bad as 2021. But it was a challenging year. 2022 was a year of increasing uncertainty. There was (and is) war happening very close by (or at least that's how it feels). There is the economic down turn, which touches everything and everyone around me.\n\nI look back and see a year that was defined by trying to get a grip, finally (for the umpteenth time). I was successful for a while, but almost nothing I tried to do stuck throughout the year (and beyond): I did not become a [microcaster](https://blog.martin-haehnel.de/2022/05/29/taking-a-break.html), an [early riser](https://blog.martin-haehnel.de/categories/the-early-riser/), a [newsletter writer](https://blog.martin-haehnel.de/notes-on-notes/), for example. Notable exceptions: Duolingo (500+ days streak) and my [DailyDogo](https://blog.martin-haehnel.de/categories/dailydogo/) series of posts here on the blog. I started a side project that I will claim is still ongoing, even though I have not invested any time into it since mid December.\n\nNow, not all projects are meant to be continuous, or even meant to succeed. I know that and it's fine. I do appreciate the insight gained from projects more than their outcomes. Nonetheless it is gnawing at me that I do not have a lot to show in terms of progress regarding my own ideas. I feel like I ought to be capable enough to make things (bring side projects to a \"version 1\" state, continuously publish side projects that are ongoing, like newsletters), change or add habits, transform my surroundings in a positive manner, etc. I feel like I should be able to succeed sometimes, at least.\n\nLet me say it again: Despite what I just wrote, I do appreciate that I have not stood still and it would be wrong to claim that nothing good came out of me trying hard in whatever it may have been. I just feel like that I would like to be able to show *something* for the effort, something tangible.\n\nTake my note taking system for example: For literal decades (only 2, but that still warrants the plural) I have honed and refined my skill to take notes, to think in notes and therefore am able to think many interesting thoughts beyond what a single \"thought session\" may come up with. I feel like this makes me good at my job. It actually makes me good at *life* I'll claim, because my reflections are more mature and I do know myself better than without. The question is though: If I'm so great, where are the results of me being good? I'm a middling programmer - I do recognize that I started my career later than others and I know that I have not reached my ceiling and am far from it: I even made steps forward to becoming more proficient. But still. I'm an okay writer (or was) - not in English, mind you - but where are the publications? I'm a pretty good thinker - but where are my contributions to a field, any field, that I have had academic training in (history, sociology, anthropology of science and technology and computer science)?\n\nIt seems to me that I'm caught in a stage of continuously drafting grand visions of my future if I look back through the many years of yearly reviews I have done. I'm pretty sick of it. In 2022 I already made a change towards not changing my plans, but instead refining them. I count this as my biggest professional success. I made my peace with having a career in software development (now about 5 years in) and am trying to learn more about software architecture (only slightly successful, but nonetheless).\n\n\n<img src=\"uploads/2023/1a3f81d223.jpg\" alt=\"IMG 7608\" title=\"IMG_7608.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n\nIn my private life, our dog has been a great source of happiness. At the same time having a dog is challenging. My family lives about 2000 km away. My partner's family lives about 800 km away. So visits to either part of the family became much, much harder to organize and carry out. The same is true for vacations. Daily life with a dog is great, but it's not a neutral thing either: A dog warrants attention, love, decision making and so many different things. Your life will change and it will revolve around the dog a lot. This is maybe not surprising intellectually, but experientially it feels still much different than what it may have looked like beforehand. I do not regret having a dog, as hard as it was raising or quite simply dealing with her this year sometimes, but I won't say that everything was fine and easy going all the time either. Still, I love her like a crazy dog dad loves his fur child.\n\n\n<img src=\"uploads/2023/0fd5211ec6.jpg\" alt=\"IMG 7282\" title=\"IMG_7282.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n\nWe got engaged this year. We are now seven years together. I take this as a great sign that we are truly there for each other - through thick and thin. It was not an easy year. Lots of emotional support was needed. I'm happy to say that I was able to give it, when I could. As an introvert - yep, that's true even when it comes to my partner - it wasn't always an easy thing to do, but I can look at myself in the mirror and honestly say that I tried hard in this regard. And I won't only complain, either: The vast vast VAST majority of our time together has been fun and something to look forward to. I love sharing my life with my favorite person and love having lots of memorable moments together.\n\nI have become a little rounder last year. Maybe two or three kilos - or is it five? A little grayer, too. I'm 36 now. I feel like I'm fine with my age and my looks. \"Not having anything to show for the effort\"-itis (see above) is surely a sign of getting older, I think and I do recognize that I'm not super young anymore, but getting older is not worrying me. That's good. I think.\n\nSo what will I remember from 2022? Our engagement for sure. How I got sick of grand plans maybe? That 2022 was economically a terrible year and I'm happy that we were not too hard hit? Maybe that I tried hard on many occasions, despite any track record or tangible results?\n\nMaybe I will remember this year as a kind of beacon, like from a light house: On the one hand I had some insights that will surely inform my decision making next year. On the other hand, I came close at times to run aground in the shoals of actual lived adulthood. I have to be careful, but I also want to take heart: I'm looking as ever hopeful into the future. Maybe I'm able to not only claim a realistic approach next year but actually live one also.\n\n- Yearly Reviews\n  - [Previously](https://blog.martin-haehnel.de/2022/01/01/year-of-strain.html)\n  - [Forward](https://blog.martin-haehnel.de/2024/01/04/this-year-had.html)\n- Duolingo\n  - [Previously](https://blog.martin-haehnel.de/2021/12/13/cool.html)\n  - [Forward](https://blog.martin-haehnel.de/2024/04/11/days-of-duolingo.html)\n",
 				"date_published": "2023-01-06T23:45:44+03:00",
 				"url": "https://blog.martin-haehnel.de/2023/01/06/previously-this-last.html",
 				"tags": ["Notes on Notes","Year in Review"]
@@ -11138,8 +11523,8 @@
 			{
 				"id": "http://matti.micro.blog/2021/12/13/cool.html",
 				
-				"content_html": "<p>Cool.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cool. \n\n<img src=\"uploads/2021/9934becae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Cool.</p>\n<!-- raw HTML omitted -->\n<ul>\n<li><a href=\"https://blog.martin-haehnel.de/2023/01/06/previously-this-last.html\">Forward</a></li>\n</ul>\n",
+				"content_text": "Cool. \n\n<img src=\"uploads/2021/9934becae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n- [Forward](https://blog.martin-haehnel.de/2023/01/06/previously-this-last.html)\n",
 				"date_published": "2021-12-13T16:25:04+03:00",
 				"url": "https://blog.martin-haehnel.de/2021/12/13/cool.html"
 			},
