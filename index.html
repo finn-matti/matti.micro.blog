@@ -25,6 +25,182 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://blog.martin-haehnel.de/2024/04/25/dailydogo.html" class="u-url"><time class="dt-published" datetime="2024-04-25 23:00:53 &#43;0300">Apr 25, 2024</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 885 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/04/24/dailydogo.html" class="u-url"><time class="dt-published" datetime="2024-04-24 22:22:58 &#43;0300">Apr 24, 2024</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 884 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/04/23/dailydogo.html" class="u-url"><time class="dt-published" datetime="2024-04-23 22:20:40 &#43;0300">Apr 23, 2024</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 883 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/04/22/221618.html" class="u-url"><time class="dt-published" datetime="2024-04-22 22:16:18 &#43;0300">Apr 22, 2024</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 882 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/04/22/dailydogo.html" class="u-url"><time class="dt-published" datetime="2024-04-22 13:41:23 &#43;0300">Apr 22, 2024</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 881 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/04/21/dailydogo.html" class="u-url"><time class="dt-published" datetime="2024-04-21 01:03:01 &#43;0300">Apr 21, 2024</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 880 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/04/20/after-a-lot.html" class="u-url"><time class="dt-published" datetime="2024-04-20 21:21:35 &#43;0300">Apr 20, 2024</time></a>
+
+		<div class="e-content">
+			 <p>After a lot of other stuff I&rsquo;m back at it. TIL that php ENUMS are kind of hard to do assertions on in PHPUnit. <code>assertSame</code> and <code>assertEquals</code> both don&rsquo;t work.</p>
+<p>What I can do though is this:</p>
+<pre tabindex="0"><code>$this-&gt;assertSame(SyncStatus::Pending-&gt;value, $syncStatusAfter-&gt;value);
+</code></pre><p>#buildinpublic #mbsync</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/04/20/after-many-hours.html" class="u-url"><time class="dt-published" datetime="2024-04-20 19:12:10 &#43;0300">Apr 20, 2024</time></a>
+
+		<div class="e-content">
+			 <p>After many hours of familystuff, I&rsquo;m back trying to see why one of the tests is still failing, now that my sidequest about the seeder is complete. #buildinpublic #mbsync</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/04/20/just-noticed-i.html" class="u-url"><time class="dt-published" datetime="2024-04-20 13:36:40 &#43;0300">Apr 20, 2024</time></a>
+
+		<div class="e-content">
+			 <p>[Just noticed I never sent this…]</p>
+<p>#buildinpublic #mbsync</p>
+<p>Alright, so the seeder works and I can skip registering all the time when resetting the db.  😅</p>
+<p>Instead I only need to run:</p>
+<pre tabindex="0"><code>artisan migrate:fresh
+</code></pre><p>and then:</p>
+<pre tabindex="0"><code>artisan db:seed
+</code></pre><p>And I&rsquo;m good to go!</p>
+<p>The code needed some trial and error to get right, but looks basically like this:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-php" data-lang="php"><span style="color:#f92672">&lt;?</span><span style="color:#a6e22e">php</span>
+
+<span style="color:#66d9ef">namespace</span> <span style="color:#a6e22e">Database\Seeders</span>;
+
+<span style="color:#66d9ef">use</span> <span style="color:#a6e22e">App\Models\Blog</span>;
+<span style="color:#66d9ef">use</span> <span style="color:#a6e22e">App\Models\User</span>;
+<span style="color:#66d9ef">use</span> <span style="color:#a6e22e">Illuminate\Database\Seeder</span>;
+<span style="color:#66d9ef">use</span> <span style="color:#a6e22e">Illuminate\Support\Facades\Config</span>;
+<span style="color:#66d9ef">use</span> <span style="color:#a6e22e">Illuminate\Support\Facades\Hash</span>;
+
+<span style="color:#66d9ef">class</span> <span style="color:#a6e22e">AddAdminUserSeeder</span> <span style="color:#66d9ef">extends</span> <span style="color:#a6e22e">Seeder</span>
+{
+    <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">function</span> <span style="color:#a6e22e">run</span>()<span style="color:#f92672">:</span> <span style="color:#a6e22e">void</span>
+    {
+        $user <span style="color:#f92672">=</span> <span style="color:#a6e22e">User</span><span style="color:#f92672">::</span><span style="color:#a6e22e">create</span>([
+		<span style="color:#75715e">//...
+</span><span style="color:#75715e"></span>        ]);
+        $user<span style="color:#f92672">-&gt;</span><span style="color:#a6e22e">save</span>();
+        $blogs <span style="color:#f92672">=</span> [
+		<span style="color:#75715e">//...
+</span><span style="color:#75715e"></span>        ];
+        $user<span style="color:#f92672">-&gt;</span><span style="color:#a6e22e">blogs</span>()<span style="color:#f92672">-&gt;</span><span style="color:#a6e22e">saveMany</span>($blogs);
+        $user<span style="color:#f92672">-&gt;</span><span style="color:#a6e22e">selected_blog_id</span> <span style="color:#f92672">=</span> $blogs[<span style="color:#ae81ff">0</span>]<span style="color:#f92672">-&gt;</span><span style="color:#a6e22e">id</span>;
+        $user<span style="color:#f92672">-&gt;</span><span style="color:#a6e22e">save</span>();
+    }
+}
+
+</code></pre></div>
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/04/20/its-just-really.html" class="u-url"><time class="dt-published" datetime="2024-04-20 11:47:16 &#43;0300">Apr 20, 2024</time></a>
+
+		<div class="e-content">
+			 <p>It&rsquo;s just really cool to me how powerful laravel&rsquo;s db abstractions are. I may not know yet how to express my needs and then try to do it old-school directly in sql at first, but that it&rsquo;s possible to express my needs and I can otherwise just focus on the code is so cool. #buildinpublic #mbsync</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/04/20/im-working-on.html" class="u-url"><time class="dt-published" datetime="2024-04-20 11:23:09 &#43;0300">Apr 20, 2024</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;m working on a little side quest atm. I&rsquo;m creating a database seeder that automatically adds a user to the db so that I can reset the db quicker. It&rsquo;s pretty easy with laravel and I love the distinction between migrations (schema changes) and seeders (data additions) #buildinpublic #mbsync</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/04/20/at-the-moment.html" class="u-url"><time class="dt-published" datetime="2024-04-20 10:25:45 &#43;0300">Apr 20, 2024</time></a>
+
+		<div class="e-content">
+			 <p>At the moment I&rsquo;m working on implementing the minimalistic sync engine - even calling it that gives it too much credit. One test is failing, it seems that the sync status is not marked as pending when we mark a post for sync. #buildinpublic #mbsync</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://blog.martin-haehnel.de/2024/04/20/ill-continue-my.html" class="u-url"><time class="dt-published" datetime="2024-04-20 10:22:59 &#43;0300">Apr 20, 2024</time></a>
 
 		<div class="e-content">
