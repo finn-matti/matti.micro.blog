@@ -7,10 +7,73 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2024/06/19/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 939 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 939 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/2d87c4e8085943e080d1323b64d13087.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-06-19T23:13:09+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/19/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/06/18/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 938 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 938 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/9cc6628e4428489a8a036435ebb75582.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-06-18T23:07:32+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/18/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/06/17/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 937 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 937 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/ed8fb708173f407f93ff2f80dba6597d.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-06-17T21:01:29+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/17/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/06/16/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 936 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 936 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/dc5f8e6aab7246adb3161d0f821bf90c.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-06-16T23:30:17+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/16/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/06/15/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 935 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 935 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/4467e226c820480bacf383c2dff206d4.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-06-15T23:19:54+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/15/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/06/15/daystooffload-just-deliver.html",
+				"title": "#100DaysToOffload Just Deliver",
+				"content_html": "<p>I had a hard day at work. It was hard, because I ended a streak of about three days, in which I was unable to work productively and today was the day in which I finally had to &ldquo;show my work&rdquo;. And then nobody saw my work. But now it&rsquo;s lying there, out in the open, awaiting feedback. And I have to go into the weekend with a feeling of dread.</p>\n<p>I&rsquo;m a programmer by trade and a slow, but hard-working, explorative kind of person in general. I love to find out how things work, how they maybe could work better and how to make a system such that it can communicate well with the people maintaining it. Which means that I&rsquo;d rather spend weeks reworking a legacy system, improving its workings and reorganizing and tidying up its architecture than implementing new features. So I like to do the work that is most often appreciated by other programmers - on a good day (most often people will not really notice &hellip; until they do). Keeping a system in good working order. Like a well oiled machine. Notice that end users or features are not necessarily part of that. It&rsquo;s not like features are uninteresting or unimportant to me, but the <em>how</em> and the <em>why</em> matter to me a whole lot more. Especially the how.</p>\n<p>However. Because I get payed for features or bug fixes on features and not for refactoring, removing technical debt or thinking about software architecture, I am not the best programmer for the kinds of tasks my company offers, sometimes, I&rsquo;m afraid. It sucks to admit, but I am pretty slow, when just measured on delivered features compared to many others. The main reason is that I am unable, maybe also unwilling, to &ldquo;just deliver&rdquo;.</p>\n<p>I assume that being able to &ldquo;just deliver&rdquo; - meaning without refactorings (e.g. to make especially gnarly code comprehensible for me and future programmers) or enhancements of the project&rsquo;s setup (e.g. to configure an autoload feature as I needed to do today) - is the result of either not seeing the problems (e.g. maybe not being as experienced, yet) or being experienced enough to not care about the problems anymore (e.g. maybe by having had to navigate some portion of legacy code so often, that they just know where to look without the need to make the code more comprehensible).</p>\n<p>But I see it everywhere at my work: The people who are good enough to be hired permanently (which I was, too, somehow …) all seem to possess something I don&rsquo;t. I hesitate to call it more experience or talent. Which is not to say that I am perfect. I do readily admit that I totally have blind spots. And even where I feel confident, I know that I could still learn a lot more. And I also admit that my values are sometimes at odds with what is the bread and butter of my job: just deliver features. On time. Without too much back and forth, in acceptable quality (but nothing more, since nobody is able or willing to pay for it).</p>\n<p>So what is it then that makes my colleagues better at this? I think it is a willingness to not care as much. That&rsquo;s the &ldquo;just&rdquo; part of the &ldquo;just deliver&rdquo; motto. I don&rsquo;t mean that derogatory, even though it sounds like it at first. If you are able to not care about technical purity you may be able to deliver faster. You may be able to overlook a less than ideal implementation to have a working version earlier - which can be a good thing.</p>\n<p>Apart from being less concerned about technical quality, I think there is a certain soberness in most of my colleagues. No matter how difficult some code may be to read or how tight a ticket&rsquo;s allowed time budget may be, they seem to be able to not need to reinvent how to do things all the time - like I seem to. They can keep their powder dry. They do not need to go over the top, whereas I seem to go over the top by the drop of a hat. <em>Maybe</em> a reason for this is differences in personality type, sure. But I think that it might also be a difference in <em>approach</em>, which is much more interesting, because I might learn to incorporate that approach.</p>\n<p>I think the soberness comes from having somehow learned to respect lines in the sand. Like today (Friday), when I had to hand in part of a feature and a whole lot of refactoring and general enhancements of a new (to me) project that I was introduced to on Wednesday. Another programmer would have not done that. They would have been able to not even seriously contemplate the possibility to do what I did. They would have done a more minimal job, probably cursed a lot, probably complained a lot, but they wouldn&rsquo;t have spent the better part of three working days delivering two thirds of a feature that was supposed to take around two hours. All the while having to come up with justifications to do so.</p>\n<p>So yeah. Other people don&rsquo;t do that. As much. I&rsquo;m sure this is a spectrum rather than just extreme me vs. moderate everyone else. That I&rsquo;m so dismayed by this, is that I might also be considered too old to not have yet learned this already (I&rsquo;m 37, with more than 5 years of work experience). In one word: I might be too expensive, if I don&rsquo;t learn to bend a lot more. And quick. That&rsquo;s enough to make me feel bad. Since it&rsquo;s the weekend without any feedback coming my way until Monday, the bad feeling is mixed with anxiety.</p>\n<p>I can&rsquo;t really tell how bad it is this time. With the recent worsening of the IT job market and the general worsening state of the economy, I&rsquo;m extremely unsure of what to expect if this problem continues of worsens over the next 6 month, let&rsquo;s say. I feel like wasting almost three days after having been repeatedly told since I have been part of the company to pick up the pace (not in so many words, but basically that), be more pragmatic and trying to make smarter choices about which way to take to deliver solutions, I feel pretty gloomy to be honest. I feel defeated by my personality in some ways. I don&rsquo;t know how long this can go well.</p>\n<p>I hope that I will catch myself in time, next time. And for the things that have already been done: I hope I find a way to navigate the probably coming, somewhat difficult discussions ahead. That includes discussions around basically ignoring what I was supposed to do for the last few days and booking my hours in sometimes questionable (if technically justifiable) ways.</p>\n<p>One silver lining: There is a chance that the extra work is welcomed after all. I might still be gently scolded, but in some ways taking the time to come up with a better solution and thinking long-term is almost always a positive, of course. So here&rsquo;s to hoping that the people paying me think so, too. Fingers crossed.</p>\n",
+				"content_text": "I had a hard day at work. It was hard, because I ended a streak of about three days, in which I was unable to work productively and today was the day in which I finally had to \"show my work\". And then nobody saw my work. But now it's lying there, out in the open, awaiting feedback. And I have to go into the weekend with a feeling of dread.\n\nI'm a programmer by trade and a slow, but hard-working, explorative kind of person in general. I love to find out how things work, how they maybe could work better and how to make a system such that it can communicate well with the people maintaining it. Which means that I'd rather spend weeks reworking a legacy system, improving its workings and reorganizing and tidying up its architecture than implementing new features. So I like to do the work that is most often appreciated by other programmers - on a good day (most often people will not really notice ... until they do). Keeping a system in good working order. Like a well oiled machine. Notice that end users or features are not necessarily part of that. It's not like features are uninteresting or unimportant to me, but the _how_ and the _why_ matter to me a whole lot more. Especially the how.\n\nHowever. Because I get payed for features or bug fixes on features and not for refactoring, removing technical debt or thinking about software architecture, I am not the best programmer for the kinds of tasks my company offers, sometimes, I'm afraid. It sucks to admit, but I am pretty slow, when just measured on delivered features compared to many others. The main reason is that I am unable, maybe also unwilling, to \"just deliver\".\n\nI assume that being able to \"just deliver\" - meaning without refactorings (e.g. to make especially gnarly code comprehensible for me and future programmers) or enhancements of the project's setup (e.g. to configure an autoload feature as I needed to do today) - is the result of either not seeing the problems (e.g. maybe not being as experienced, yet) or being experienced enough to not care about the problems anymore (e.g. maybe by having had to navigate some portion of legacy code so often, that they just know where to look without the need to make the code more comprehensible).\n\nBut I see it everywhere at my work: The people who are good enough to be hired permanently (which I was, too, somehow …) all seem to possess something I don't. I hesitate to call it more experience or talent. Which is not to say that I am perfect. I do readily admit that I totally have blind spots. And even where I feel confident, I know that I could still learn a lot more. And I also admit that my values are sometimes at odds with what is the bread and butter of my job: just deliver features. On time. Without too much back and forth, in acceptable quality (but nothing more, since nobody is able or willing to pay for it).\n\nSo what is it then that makes my colleagues better at this? I think it is a willingness to not care as much. That's the \"just\" part of the \"just deliver\" motto. I don't mean that derogatory, even though it sounds like it at first. If you are able to not care about technical purity you may be able to deliver faster. You may be able to overlook a less than ideal implementation to have a working version earlier - which can be a good thing.\n\nApart from being less concerned about technical quality, I think there is a certain soberness in most of my colleagues. No matter how difficult some code may be to read or how tight a ticket's allowed time budget may be, they seem to be able to not need to reinvent how to do things all the time - like I seem to. They can keep their powder dry. They do not need to go over the top, whereas I seem to go over the top by the drop of a hat. _Maybe_ a reason for this is differences in personality type, sure. But I think that it might also be a difference in _approach_, which is much more interesting, because I might learn to incorporate that approach.\n\nI think the soberness comes from having somehow learned to respect lines in the sand. Like today (Friday), when I had to hand in part of a feature and a whole lot of refactoring and general enhancements of a new (to me) project that I was introduced to on Wednesday. Another programmer would have not done that. They would have been able to not even seriously contemplate the possibility to do what I did. They would have done a more minimal job, probably cursed a lot, probably complained a lot, but they wouldn't have spent the better part of three working days delivering two thirds of a feature that was supposed to take around two hours. All the while having to come up with justifications to do so.\n\nSo yeah. Other people don't do that. As much. I'm sure this is a spectrum rather than just extreme me vs. moderate everyone else. That I'm so dismayed by this, is that I might also be considered too old to not have yet learned this already (I'm 37, with more than 5 years of work experience). In one word: I might be too expensive, if I don't learn to bend a lot more. And quick. That's enough to make me feel bad. Since it's the weekend without any feedback coming my way until Monday, the bad feeling is mixed with anxiety.\n\nI can't really tell how bad it is this time. With the recent worsening of the IT job market and the general worsening state of the economy, I'm extremely unsure of what to expect if this problem continues of worsens over the next 6 month, let's say. I feel like wasting almost three days after having been repeatedly told since I have been part of the company to pick up the pace (not in so many words, but basically that), be more pragmatic and trying to make smarter choices about which way to take to deliver solutions, I feel pretty gloomy to be honest. I feel defeated by my personality in some ways. I don't know how long this can go well.\n\nI hope that I will catch myself in time, next time. And for the things that have already been done: I hope I find a way to navigate the probably coming, somewhat difficult discussions ahead. That includes discussions around basically ignoring what I was supposed to do for the last few days and booking my hours in sometimes questionable (if technically justifiable) ways.\n\nOne silver lining: There is a chance that the extra work is welcomed after all. I might still be gently scolded, but in some ways taking the time to come up with a better solution and thinking long-term is almost always a positive, of course. So here's to hoping that the people paying me think so, too. Fingers crossed.\n",
+				"date_published": "2024-06-15T03:02:44+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/15/daystooffload-just-deliver.html",
+				"tags": ["100DaysToOffload"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/06/14/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 934 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 934 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/7a0a70dd01de4f18b5065bf6419b2842.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-06-14T23:02:17+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/14/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2024/06/13/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 933 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 933 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/661b0f3d73c74cc38dacfebf49dc2b98.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 933 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/661b0f3d73c74cc38dacfebf49dc2b98.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-06-13T23:10:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/06/13/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +82,7 @@
 				"id": "http://matti.micro.blog/2024/06/12/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 932 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 932 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/9de4338e2d9f4736a7e1e023bde117ad.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 932 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/9de4338e2d9f4736a7e1e023bde117ad.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-06-12T23:33:07+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/06/12/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +91,7 @@
 				"id": "http://matti.micro.blog/2024/06/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 931 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 931 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/ab4f9ccae94441a6b3efd0e33c9781c1.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 931 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/ab4f9ccae94441a6b3efd0e33c9781c1.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-06-11T21:02:15+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/06/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -37,7 +100,7 @@
 				"id": "http://matti.micro.blog/2024/06/10/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 930 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 930 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/545e6c215b414da0b773b1615e0dde68.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 930 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/545e6c215b414da0b773b1615e0dde68.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-06-10T20:16:59+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/06/10/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -46,7 +109,7 @@
 				"id": "http://matti.micro.blog/2024/06/09/211104.html",
 				
 				"content_html": "<p>DailyDogo 929 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 929 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/95ab5ede88254db2aacb01d217c668bc.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 929 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/95ab5ede88254db2aacb01d217c668bc.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-06-09T21:11:04+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/06/09/211104.html",
 				"tags": ["DailyDogo"]
