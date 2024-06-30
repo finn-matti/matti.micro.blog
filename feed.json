@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2024/06/30/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 951 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 951 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/71cad5ed558a4a098aa11f13a0320d80.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-06-30T22:38:13+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/30/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/06/29/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 950 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 950 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/8f3fc1487626473ab3d9701b04165840.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-06-29T20:14:51+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/29/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/06/28/230808.html",
+				
+				"content_html": "<p>DailyDogo 949 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 949 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/a30b413700a444bab6f55211477955ba.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-06-28T23:08:08+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/28/230808.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/06/28/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 948 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 948 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/70c90666509e4034a539e44a9bf9d08d.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-06-28T16:22:21+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/28/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/06/27/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 947 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 947 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/794aef59dc614a75927356fa4ea2acfe.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-06-27T00:05:47+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/27/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/06/25/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 946 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 946 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/c8abce593da94e1db2ebf442776cb275.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-06-25T21:12:46+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/06/25/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2024/06/24/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 945 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 945 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/d74f2d5f575b413bb9fe455688d90555.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 945 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/d74f2d5f575b413bb9fe455688d90555.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-06-24T22:22:30+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/06/24/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +73,7 @@
 				"id": "http://matti.micro.blog/2024/06/23/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 944 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 944 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/0ff66a84f1ad42b291917edf03b6642c.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 944 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/0ff66a84f1ad42b291917edf03b6642c.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-06-23T20:47:57+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/06/23/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -102,7 +156,8 @@
 				"content_html": "<p>Stressful week at work. <a href=\"https://blog.martin-haehnel.de/2024/06/15/daystooffload-just-deliver.html\">I wrote an emotional post last Friday</a> about some of my worries. Finally some relief today. I too have still to learn and will make mistakes. And learning is not a linear process. But knowing that my employer hass my back made me realize how much of my worries were not real.</p>\n",
 				"content_text": "Stressful week at work. [I wrote an emotional post last Friday](https://blog.martin-haehnel.de/2024/06/15/daystooffload-just-deliver.html) about some of my worries. Finally some relief today. I too have still to learn and will make mistakes. And learning is not a linear process. But knowing that my employer hass my back made me realize how much of my worries were not real.\n",
 				"date_published": "2024-06-20T00:18:57+03:00",
-				"url": "https://blog.martin-haehnel.de/2024/06/20/stressful-week-at.html"
+				"url": "https://blog.martin-haehnel.de/2024/06/20/stressful-week-at.html",
+				"tags": ["Dev Notes"]
 			},
 			{
 				"id": "http://matti.micro.blog/2024/06/19/dailydogo.html",
@@ -156,7 +211,7 @@
 				"content_text": "I had a hard day at work. It was hard, because I ended a streak of about three days, in which I was unable to work productively and today was the day in which I finally had to \"show my work\". And then nobody saw my work. But now it's lying there, out in the open, awaiting feedback. And I have to go into the weekend with a feeling of dread.\n\nI'm a programmer by trade and a slow, but hard-working, explorative kind of person in general. I love to find out how things work, how they maybe could work better and how to make a system such that it can communicate well with the people maintaining it. Which means that I'd rather spend weeks reworking a legacy system, improving its workings and reorganizing and tidying up its architecture than implementing new features. So I like to do the work that is most often appreciated by other programmers - on a good day (most often people will not really notice ... until they do). Keeping a system in good working order. Like a well oiled machine. Notice that end users or features are not necessarily part of that. It's not like features are uninteresting or unimportant to me, but the _how_ and the _why_ matter to me a whole lot more. Especially the how.\n\nHowever. Because I get payed for features or bug fixes on features and not for refactoring, removing technical debt or thinking about software architecture, I am not the best programmer for the kinds of tasks my company offers, sometimes, I'm afraid. It sucks to admit, but I am pretty slow, when just measured on delivered features compared to many others. The main reason is that I am unable, maybe also unwilling, to \"just deliver\".\n\nI assume that being able to \"just deliver\" - meaning without refactorings (e.g. to make especially gnarly code comprehensible for me and future programmers) or enhancements of the project's setup (e.g. to configure an autoload feature as I needed to do today) - is the result of either not seeing the problems (e.g. maybe not being as experienced, yet) or being experienced enough to not care about the problems anymore (e.g. maybe by having had to navigate some portion of legacy code so often, that they just know where to look without the need to make the code more comprehensible).\n\nBut I see it everywhere at my work: The people who are good enough to be hired permanently (which I was, too, somehow …) all seem to possess something I don't. I hesitate to call it more experience or talent. Which is not to say that I am perfect. I do readily admit that I totally have blind spots. And even where I feel confident, I know that I could still learn a lot more. And I also admit that my values are sometimes at odds with what is the bread and butter of my job: just deliver features. On time. Without too much back and forth, in acceptable quality (but nothing more, since nobody is able or willing to pay for it).\n\nSo what is it then that makes my colleagues better at this? I think it is a willingness to not care as much. That's the \"just\" part of the \"just deliver\" motto. I don't mean that derogatory, even though it sounds like it at first. If you are able to not care about technical purity you may be able to deliver faster. You may be able to overlook a less than ideal implementation to have a working version earlier - which can be a good thing.\n\nApart from being less concerned about technical quality, I think there is a certain soberness in most of my colleagues. No matter how difficult some code may be to read or how tight a ticket's allowed time budget may be, they seem to be able to not need to reinvent how to do things all the time - like I seem to. They can keep their powder dry. They do not need to go over the top, whereas I seem to go over the top by the drop of a hat. _Maybe_ a reason for this is differences in personality type, sure. But I think that it might also be a difference in _approach_, which is much more interesting, because I might learn to incorporate that approach.\n\nI think the soberness comes from having somehow learned to respect lines in the sand. Like today (Friday), when I had to hand in part of a feature and a whole lot of refactoring and general enhancements of a new (to me) project that I was introduced to on Wednesday. Another programmer would have not done that. They would have been able to not even seriously contemplate the possibility to do what I did. They would have done a more minimal job, probably cursed a lot, probably complained a lot, but they wouldn't have spent the better part of three working days delivering two thirds of a feature that was supposed to take around two hours. All the while having to come up with justifications to do so.\n\nSo yeah. Other people don't do that. As much. I'm sure this is a spectrum rather than just extreme me vs. moderate everyone else. That I'm so dismayed by this, is that I might also be considered too old to not have yet learned this already (I'm 37, with more than 5 years of work experience). In one word: I might be too expensive, if I don't learn to bend a lot more. And quick. That's enough to make me feel bad. Since it's the weekend without any feedback coming my way until Monday, the bad feeling is mixed with anxiety.\n\nI can't really tell how bad it is this time. With the recent worsening of the IT job market and the general worsening state of the economy, I'm extremely unsure of what to expect if this problem continues of worsens over the next 6 month, let's say. I feel like wasting almost three days after having been repeatedly told since I have been part of the company to pick up the pace (not in so many words, but basically that), be more pragmatic and trying to make smarter choices about which way to take to deliver solutions, I feel pretty gloomy to be honest. I feel defeated by my personality in some ways. I don't know how long this can go well.\n\nI hope that I will catch myself in time, next time. And for the things that have already been done: I hope I find a way to navigate the probably coming, somewhat difficult discussions ahead. That includes discussions around basically ignoring what I was supposed to do for the last few days and booking my hours in sometimes questionable (if technically justifiable) ways.\n\nOne silver lining: There is a chance that the extra work is welcomed after all. I might still be gently scolded, but in some ways taking the time to come up with a better solution and thinking long-term is almost always a positive, of course. So here's to hoping that the people paying me think so, too. Fingers crossed.\n",
 				"date_published": "2024-06-15T03:02:44+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/06/15/daystooffload-just-deliver.html",
-				"tags": ["100DaysToOffload"]
+				"tags": ["Dev Notes","100DaysToOffload"]
 			},
 			{
 				"id": "http://matti.micro.blog/2024/06/14/dailydogo.html",
@@ -314,8 +369,8 @@
 			{
 				"id": "http://matti.micro.blog/2024/06/02/daystooffload-overview.html",
 				"title": "#100DaysToOffload - Overview",
-				"content_html": "<ul>\n<li>Last updated: 2024-06-09 - 14:13</li>\n</ul>\n<p>Similar to <a href=\"https://blog.martin-haehnel.de/2024/05/11/weblogpomo-overview.html\">my overview for the WeblogPoMo</a>, here&rsquo;s one for #100DaysToOffload. I won&rsquo;t be adding all 365 days here, yet, but will add dates as I see fit.</p>\n<ul>\n<li>2024-06-01 - <a href=\"https://blog.martin-haehnel.de/2024/06/01/daystooffload-manifesto-limiting.html\">#100DaysToOffload Manifesto: Limiting Projects To Not Be Limited By Them</a></li>\n<li>2024-06-02 - #100DaysToOffload - Overview (this post)</li>\n<li>2024-06-03</li>\n<li>2024-06-04</li>\n<li>2024-06-05 - <a href=\"https://blog.martin-haehnel.de/2024/06/05/daystooffload-review-cal.html\">#100DaysToOffload - Review: Cal Newport&rsquo;s &ldquo;Slow Productivity&rdquo;</a></li>\n<li>2024-06-06 - <a href=\"https://blog.martin-haehnel.de/2024/06/06/daystooffload-just-say.html\">#100DaysToOffload Just Say The Thing</a></li>\n<li>2024-06-07</li>\n<li>2024-06-08</li>\n<li>2024-06-09 - <a href=\"https://blog.martin-haehnel.de/2024/06/09/daystooffload-end-of.html\">#100DaysToOffload End of the myth of rational public discourse - The example of climate change</a></li>\n<li>2024-06-10</li>\n<li>2024-06-11</li>\n<li>2024-06-12</li>\n<li>2024-06-13</li>\n<li>2024-06-14</li>\n<li>2024-06-15 - <a href=\"https://blog.martin-haehnel.de/2024/06/15/daystooffload-just-deliver.html\">#100DaysToOffload Just Deliver</a></li>\n<li>2024-06-16</li>\n<li>2024-06-17</li>\n<li>2024-06-18</li>\n<li>2024-06-19</li>\n<li>2024-06-20</li>\n<li>2024-06-21</li>\n<li>2024-06-22 - <a href=\"https://blog.martin-haehnel.de/2024/06/22/quality-and-efficiency.html\">#100daysToOffload Quality And Efficiency</a></li>\n<li>2024-06-23\n<ul>\n<li><a href=\"https://blog.martin-haehnel.de/2024/06/23/how-i-have.html\">#100DaysToOffload Categorizing Code Changes</a></li>\n<li><a href=\"https://blog.martin-haehnel.de/2024/06/23/daystooffload-difference-between.html\">#100DaysToOffload Difference Between Productivity And Efficiency</a></li>\n</ul>\n</li>\n</ul>\n",
-				"content_text": "- Last updated: 2024-06-09 - 14:13\n\nSimilar to [my overview for the WeblogPoMo](https://blog.martin-haehnel.de/2024/05/11/weblogpomo-overview.html), here's one for #100DaysToOffload. I won't be adding all 365 days here, yet, but will add dates as I see fit.\n\n- 2024-06-01 - [#100DaysToOffload Manifesto: Limiting Projects To Not Be Limited By Them](https://blog.martin-haehnel.de/2024/06/01/daystooffload-manifesto-limiting.html)\n- 2024-06-02 - #100DaysToOffload - Overview (this post)\n- 2024-06-03\n- 2024-06-04\n- 2024-06-05 - [#100DaysToOffload - Review: Cal Newport's \"Slow Productivity\"](https://blog.martin-haehnel.de/2024/06/05/daystooffload-review-cal.html)\n- 2024-06-06 - [#100DaysToOffload Just Say The Thing](https://blog.martin-haehnel.de/2024/06/06/daystooffload-just-say.html)\n- 2024-06-07\n- 2024-06-08\n- 2024-06-09 - [#100DaysToOffload End of the myth of rational public discourse - The example of climate change](https://blog.martin-haehnel.de/2024/06/09/daystooffload-end-of.html)\n- 2024-06-10\n- 2024-06-11\n- 2024-06-12\n- 2024-06-13\n- 2024-06-14\n- 2024-06-15 - [#100DaysToOffload Just Deliver](https://blog.martin-haehnel.de/2024/06/15/daystooffload-just-deliver.html)\n- 2024-06-16\n- 2024-06-17\n- 2024-06-18\n- 2024-06-19\n- 2024-06-20\n- 2024-06-21\n- 2024-06-22 - [#100daysToOffload Quality And Efficiency](https://blog.martin-haehnel.de/2024/06/22/quality-and-efficiency.html)\n- 2024-06-23\n\t- [#100DaysToOffload Categorizing Code Changes](https://blog.martin-haehnel.de/2024/06/23/how-i-have.html)\n\t- [#100DaysToOffload Difference Between Productivity And Efficiency](https://blog.martin-haehnel.de/2024/06/23/daystooffload-difference-between.html)\n",
+				"content_html": "<ul>\n<li>Last updated: 2024-06-09 - 14:13</li>\n</ul>\n<p>Similar to <a href=\"https://blog.martin-haehnel.de/2024/05/11/weblogpomo-overview.html\">my overview for the WeblogPoMo</a>, here&rsquo;s one for #100DaysToOffload. I won&rsquo;t be adding all 365 days here, yet, but will add dates as I see fit.</p>\n<ul>\n<li>2024-06-01 - <a href=\"https://blog.martin-haehnel.de/2024/06/01/daystooffload-manifesto-limiting.html\">#100DaysToOffload Manifesto: Limiting Projects To Not Be Limited By Them</a></li>\n<li>2024-06-02 - #100DaysToOffload - Overview (this post)</li>\n<li>2024-06-03</li>\n<li>2024-06-04</li>\n<li>2024-06-05 - <a href=\"https://blog.martin-haehnel.de/2024/06/05/daystooffload-review-cal.html\">#100DaysToOffload - Review: Cal Newport&rsquo;s &ldquo;Slow Productivity&rdquo;</a></li>\n<li>2024-06-06 - <a href=\"https://blog.martin-haehnel.de/2024/06/06/daystooffload-just-say.html\">#100DaysToOffload Just Say The Thing</a></li>\n<li>2024-06-07</li>\n<li>2024-06-08</li>\n<li>2024-06-09 - <a href=\"https://blog.martin-haehnel.de/2024/06/09/daystooffload-end-of.html\">#100DaysToOffload End of the myth of rational public discourse - The example of climate change</a></li>\n<li>2024-06-10</li>\n<li>2024-06-11</li>\n<li>2024-06-12</li>\n<li>2024-06-13</li>\n<li>2024-06-14</li>\n<li>2024-06-15 - <a href=\"https://blog.martin-haehnel.de/2024/06/15/daystooffload-just-deliver.html\">#100DaysToOffload Just Deliver</a></li>\n<li>2024-06-16</li>\n<li>2024-06-17</li>\n<li>2024-06-18</li>\n<li>2024-06-19</li>\n<li>2024-06-20</li>\n<li>2024-06-21</li>\n<li>2024-06-22 - <a href=\"https://blog.martin-haehnel.de/2024/06/22/quality-and-efficiency.html\">#100daysToOffload Quality And Efficiency</a></li>\n<li>2024-06-23\n<ul>\n<li><a href=\"https://blog.martin-haehnel.de/2024/06/23/how-i-have.html\">#100DaysToOffload Categorizing Code Changes</a></li>\n<li><a href=\"https://blog.martin-haehnel.de/2024/06/23/daystooffload-hub-efficient.html\">#100DaysToOffload Hub &ldquo;Efficient Programming&rdquo;</a></li>\n<li><a href=\"https://blog.martin-haehnel.de/2024/06/23/daystooffload-difference-between.html\">#100DaysToOffload Difference Between Productivity And Efficiency</a></li>\n</ul>\n</li>\n<li>2024-06-24</li>\n<li>2024-06-25</li>\n</ul>\n",
+				"content_text": "- Last updated: 2024-06-09 - 14:13\n\nSimilar to [my overview for the WeblogPoMo](https://blog.martin-haehnel.de/2024/05/11/weblogpomo-overview.html), here's one for #100DaysToOffload. I won't be adding all 365 days here, yet, but will add dates as I see fit.\n\n- 2024-06-01 - [#100DaysToOffload Manifesto: Limiting Projects To Not Be Limited By Them](https://blog.martin-haehnel.de/2024/06/01/daystooffload-manifesto-limiting.html)\n- 2024-06-02 - #100DaysToOffload - Overview (this post)\n- 2024-06-03\n- 2024-06-04\n- 2024-06-05 - [#100DaysToOffload - Review: Cal Newport's \"Slow Productivity\"](https://blog.martin-haehnel.de/2024/06/05/daystooffload-review-cal.html)\n- 2024-06-06 - [#100DaysToOffload Just Say The Thing](https://blog.martin-haehnel.de/2024/06/06/daystooffload-just-say.html)\n- 2024-06-07\n- 2024-06-08\n- 2024-06-09 - [#100DaysToOffload End of the myth of rational public discourse - The example of climate change](https://blog.martin-haehnel.de/2024/06/09/daystooffload-end-of.html)\n- 2024-06-10\n- 2024-06-11\n- 2024-06-12\n- 2024-06-13\n- 2024-06-14\n- 2024-06-15 - [#100DaysToOffload Just Deliver](https://blog.martin-haehnel.de/2024/06/15/daystooffload-just-deliver.html)\n- 2024-06-16\n- 2024-06-17\n- 2024-06-18\n- 2024-06-19\n- 2024-06-20\n- 2024-06-21\n- 2024-06-22 - [#100daysToOffload Quality And Efficiency](https://blog.martin-haehnel.de/2024/06/22/quality-and-efficiency.html)\n- 2024-06-23\n\t- [#100DaysToOffload Categorizing Code Changes](https://blog.martin-haehnel.de/2024/06/23/how-i-have.html)\n\t- [#100DaysToOffload Hub \"Efficient Programming\"](https://blog.martin-haehnel.de/2024/06/23/daystooffload-hub-efficient.html)\n\t- [#100DaysToOffload Difference Between Productivity And Efficiency](https://blog.martin-haehnel.de/2024/06/23/daystooffload-difference-between.html)\n- 2024-06-24\n- 2024-06-25\n",
 				"date_published": "2024-06-02T02:29:26+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/06/02/daystooffload-overview.html",
 				"tags": ["100DaysToOffload"]
