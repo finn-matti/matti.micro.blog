@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2024/07/22/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 973 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 973 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/ca2bfb87ce5f42b4a15c57de08f23dbb.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-07-22T22:01:26+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/07/22/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/07/21/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 972 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 972 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/9830564cfddb466d8e253526dabb0c00.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-07-21T20:15:48+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/07/21/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/07/20/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 971 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 971 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/7eba527f5ed44c168684960b61056b0c.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-07-20T22:57:48+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/07/20/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/07/19/225945.html",
+				
+				"content_html": "<p>DailyDogo 970 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 970 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/fa79d63542b24858be031f07824703fc.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-07-19T22:59:45+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/07/19/225945.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/07/19/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 969 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 969 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/2936594f4d644ba9ac17bae3ffe527d5.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-07-19T00:00:58+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/07/19/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/07/18/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 968 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 968 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/9e24c676d1f045519b40d52390b7696b.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-07-18T00:26:50+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/07/18/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2024/07/16/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 967 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 967 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/69174294562b417f81a1db663822bc23.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 967 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/69174294562b417f81a1db663822bc23.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-07-16T23:24:30+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/07/16/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +73,7 @@
 				"id": "http://matti.micro.blog/2024/07/15/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 966 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 966 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/bb357fe7549043eab5e731988350bf9e.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 966 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/bb357fe7549043eab5e731988350bf9e.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-07-15T20:10:42+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/07/15/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +82,7 @@
 				"id": "http://matti.micro.blog/2024/07/14/232833.html",
 				
 				"content_html": "<p>DailyDogo 965 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 965 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/3f0dc349fdaa4eed964677d04f2ac812.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 965 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/3f0dc349fdaa4eed964677d04f2ac812.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-07-14T23:28:33+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/07/14/232833.html",
 				"tags": ["DailyDogo"]
@@ -37,7 +91,7 @@
 				"id": "http://matti.micro.blog/2024/07/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 964 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 964 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/450cded46c754f0d8a36f4347a3346aa.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 964 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/450cded46c754f0d8a36f4347a3346aa.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-07-14T18:38:56+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/07/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -46,7 +100,7 @@
 				"id": "http://matti.micro.blog/2024/07/13/daystooffload-i-thrive.html",
 				"title": "#100DaysToOffload I thrive in a low-tech environment",
 				"content_html": "<p>A vacation is a great chance to step back and reevaluate my current situation, maybe try a few new things and also maybe just refill the batteries. I&rsquo;m still in the middle of the three weeks summer vacation so any reflections are probably not yet solidified enough, but I anyways wanted to put these few little insights here, because the summer vacation part itself is kind of over - the last of my three weeks will be spent visiting my brother and mom.</p>\n<p>The main thing that I have realized:</p>\n<p><strong>I actually do enjoy a low technology environment and it makes me do the right or interesting thing more often.</strong></p>\n<p>The right or more interesting thing is reading, writing or being attentive in the here and now and enjoying my surroundings more, being more available to my partner or the dog. Part of that is not wearing headphones and listening to podcasts all the time.</p>\n<p>While we were staying in a hut without electricity I managed to finished one book, read half of another and wrote a bunch in my handwritten journal. At the same time I took immense pleasure from the surroundings: we were staying in a national park on an island that could only be reached by boat. Listening to podcasts or watching youtube would have only taken away from the experience. I conserved my phone&rsquo;s battery so much however, that I could listen to a podcast while falling asleep, which made listening to the podcast so much more valuable as well, since it was not a resource that I could access all the time or that was so plentiful as to be exhausting.</p>\n<!-- raw HTML omitted -->\n<p>Writing in a little notebook by hand has been great, too. I was able to add some stickers and my intention to write did not get redirected to consume social media or whatever when looking at my phone.</p>\n<p>Living (and not only working) at my own natural pace is really the key to my happiness. I will have to see how to integrate this with the demands of my job. I have noticed, though, that I am looking more frequently for more efficient ways to do things.</p>\n<p>Example: I am emptying the dishwasher now by taking the dishes out in a way that batches them according to where they go (plates get taken out together, cups and glasses etc.) instead of emptying them according to the drawers in the dishwasher. This old way was less effective, because it meant closing and opening the same doors and pulling and pushing the same drawers over and over again. Now I just do that once and I can empty the dishwasher with less effort.</p>\n",
-				"content_text": "A vacation is a great chance to step back and reevaluate my current situation, maybe try a few new things and also maybe just refill the batteries. I'm still in the middle of the three weeks summer vacation so any reflections are probably not yet solidified enough, but I anyways wanted to put these few little insights here, because the summer vacation part itself is kind of over - the last of my three weeks will be spent visiting my brother and mom.\n\nThe main thing that I have realized:\n\n**I actually do enjoy a low technology environment and it makes me do the right or interesting thing more often.**\n\nThe right or more interesting thing is reading, writing or being attentive in the here and now and enjoying my surroundings more, being more available to my partner or the dog. Part of that is not wearing headphones and listening to podcasts all the time.\n\nWhile we were staying in a hut without electricity I managed to finished one book, read half of another and wrote a bunch in my handwritten journal. At the same time I took immense pleasure from the surroundings: we were staying in a national park on an island that could only be reached by boat. Listening to podcasts or watching youtube would have only taken away from the experience. I conserved my phone's battery so much however, that I could listen to a podcast while falling asleep, which made listening to the podcast so much more valuable as well, since it was not a resource that I could access all the time or that was so plentiful as to be exhausting.\n\n<img src=\"uploads/2024/img-3757.jpeg\" alt=\"A photo of table inside a cabin, on which are laying a few items: a base cap, an empty soda bottle (club mate), an ebook reader and a notebook with a strap holding it closed and a pen tucked inside it\" title=\"IMG_3757.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n\nWriting in a little notebook by hand has been great, too. I was able to add some stickers and my intention to write did not get redirected to consume social media or whatever when looking at my phone.\n\nLiving (and not only working) at my own natural pace is really the key to my happiness. I will have to see how to integrate this with the demands of my job. I have noticed, though, that I am looking more frequently for more efficient ways to do things.\n\nExample: I am emptying the dishwasher now by taking the dishes out in a way that batches them according to where they go (plates get taken out together, cups and glasses etc.) instead of emptying them according to the drawers in the dishwasher. This old way was less effective, because it meant closing and opening the same doors and pulling and pushing the same drawers over and over again. Now I just do that once and I can empty the dishwasher with less effort.\n",
+				"content_text": "A vacation is a great chance to step back and reevaluate my current situation, maybe try a few new things and also maybe just refill the batteries. I'm still in the middle of the three weeks summer vacation so any reflections are probably not yet solidified enough, but I anyways wanted to put these few little insights here, because the summer vacation part itself is kind of over - the last of my three weeks will be spent visiting my brother and mom.\n\nThe main thing that I have realized:\n\n**I actually do enjoy a low technology environment and it makes me do the right or interesting thing more often.**\n\nThe right or more interesting thing is reading, writing or being attentive in the here and now and enjoying my surroundings more, being more available to my partner or the dog. Part of that is not wearing headphones and listening to podcasts all the time.\n\nWhile we were staying in a hut without electricity I managed to finished one book, read half of another and wrote a bunch in my handwritten journal. At the same time I took immense pleasure from the surroundings: we were staying in a national park on an island that could only be reached by boat. Listening to podcasts or watching youtube would have only taken away from the experience. I conserved my phone's battery so much however, that I could listen to a podcast while falling asleep, which made listening to the podcast so much more valuable as well, since it was not a resource that I could access all the time or that was so plentiful as to be exhausting.\n\n<img src=\"https://cdn.uploads.micro.blog/44388/2024/img-3757.jpeg\" alt=\"A photo of table inside a cabin, on which are laying a few items: a base cap, an empty soda bottle (club mate), an ebook reader and a notebook with a strap holding it closed and a pen tucked inside it\" title=\"IMG_3757.jpeg\" border=\"0\" width=\"450\" height=\"600\" />\n\nWriting in a little notebook by hand has been great, too. I was able to add some stickers and my intention to write did not get redirected to consume social media or whatever when looking at my phone.\n\nLiving (and not only working) at my own natural pace is really the key to my happiness. I will have to see how to integrate this with the demands of my job. I have noticed, though, that I am looking more frequently for more efficient ways to do things.\n\nExample: I am emptying the dishwasher now by taking the dishes out in a way that batches them according to where they go (plates get taken out together, cups and glasses etc.) instead of emptying them according to the drawers in the dishwasher. This old way was less effective, because it meant closing and opening the same doors and pulling and pushing the same drawers over and over again. Now I just do that once and I can empty the dishwasher with less effort.\n",
 				"date_published": "2024-07-13T18:32:30+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/07/13/daystooffload-i-thrive.html",
 				"tags": ["100DaysToOffload"]
