@@ -7,10 +7,73 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2024/08/19/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1001 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1001 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/06f605a9895540c89ff6ba53a799d335.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-08-19T22:04:43+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/08/19/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/08/18/that-th-pic.html",
+				
+				"content_html": "<p>That <a href=\"https://blog.martin-haehnel.de/2024/08/18/222309.html\">1000th pic</a> in my &ldquo;Daily Dogo&rdquo; series marks by sheer coincidence also the third year that Napu is on this planet.</p>\n<p>She has not been with us from day zero, of course, that day will come in October. Also, I according to wolfram alpha, I have dropped 23 days somewhere along the way:</p>\n<!-- raw HTML omitted -->\n<p>I guess I don&rsquo;t mind it that much and I&rsquo;m not going to fix it either. Especially in the beginning when doing things manually every day or when traveling and having to repair the streak things got at times untidy. But whatever.</p>\n<p>Not all pics are great, but I am immensely proud to have stuck to publishing these for all this time.</p>\n<p>A big thank you to anybody who liked these posts on Mastodon or MB!</p>\n<p><strong>And even bigger thank you to my partner E. who provided a good amount of the best pictures when I didn&rsquo;t have any good photos (or sometimes any at all) of our shared little chaos agent.</strong></p>\n<p>If you&rsquo;re curious how the process works: I use shortcuts and an app called <a href=\"https://apps.apple.com/us/app/humboldt/id1592768206\">Humboldt</a> by <a href=\"https://vincode.io/2021/11/01/shortcuts-for-microblog.html\">Maurice Parker</a> (<a href=\"https://micro.blog/vincode\">@vincode</a> on MB) to publish these posts semi-automatically.</p>\n<p>Here are some screenshots:</p>\n<!-- raw HTML omitted -->\n<p>This one is built out of two other shortcuts:</p>\n<!-- raw HTML omitted -->\n<p>This one converts and then uploads an image of my photos app to MB.</p>\n<!-- raw HTML omitted -->\n<p>This one looks at the rss feed of the daily dogo category and does some string manipulation to get the next number for the daily dogo.</p>\n<p>So there you have it. Not very fancy. Not doing alt texts for these pains me at times, but I am pretty sure that I probably would have stopped the project when I had a tough time otherwise. It really is thanks to the shortcut that I managed to keep this up for so long.</p>\n",
+				"content_text": "That [1000th pic](https://blog.martin-haehnel.de/2024/08/18/222309.html) in my \"Daily Dogo\" series marks by sheer coincidence also the third year that Napu is on this planet.\n\nShe has not been with us from day zero, of course, that day will come in October. Also, I according to wolfram alpha, I have dropped 23 days somewhere along the way:\n\n<img src=\"uploads/2024/cleanshot-2024-08-18-at-22.52.002x.png\" alt=\"A screenshot from Wolfram Alpha showing that it&#39;s been 1023 days from 2021-10-30 to 2024-08-18 amongst other things.\" title=\"CleanShot 2024-08-18 at 22.52.00@2x.png\" border=\"0\" width=\"599\" height=\"396\" />\n\nI guess I don't mind it that much and I'm not going to fix it either. Especially in the beginning when doing things manually every day or when traveling and having to repair the streak things got at times untidy. But whatever.\n\nNot all pics are great, but I am immensely proud to have stuck to publishing these for all this time.\n\nA big thank you to anybody who liked these posts on Mastodon or MB!\n\n**And even bigger thank you to my partner E. who provided a good amount of the best pictures when I didn't have any good photos (or sometimes any at all) of our shared little chaos agent.**\n\nIf you're curious how the process works: I use shortcuts and an app called [Humboldt](https://apps.apple.com/us/app/humboldt/id1592768206) by [Maurice Parker](https://vincode.io/2021/11/01/shortcuts-for-microblog.html) ([@vincode](https://micro.blog/vincode) on MB) to publish these posts semi-automatically.\n\nHere are some screenshots:\n\n<img src=\"uploads/2024/cleanshot-2024-08-18-at-22.36.202x.png\" alt=\"A screenshot of my main DailyDogo Apple Shortcut\" title=\"CleanShot 2024-08-18 at 22.36.20@2x.png\" border=\"0\" width=\"599\" height=\"421\" />\n\nThis one is built out of two other shortcuts:\n\n<img src=\"uploads/2024/cleanshot-2024-08-18-at-22.37.072x.png\" alt=\"A screenshot of my DailyDogo Image Apple Shortcut\" title=\"CleanShot 2024-08-18 at 22.37.07@2x.png\" border=\"0\" width=\"599\" height=\"421\" />\n\nThis one converts and then uploads an image of my photos app to MB.\n\n<img src=\"uploads/2024/cleanshot-2024-08-18-at-22.37.392x.png\" alt=\"A screenshot of my DailyDogo Suggestion Apple Shortcut\" title=\"CleanShot 2024-08-18 at 22.37.39@2x.png\" border=\"0\" width=\"599\" height=\"421\" />\n\nThis one looks at the rss feed of the daily dogo category and does some string manipulation to get the next number for the daily dogo.\n\nSo there you have it. Not very fancy. Not doing alt texts for these pains me at times, but I am pretty sure that I probably would have stopped the project when I had a tough time otherwise. It really is thanks to the shortcut that I managed to keep this up for so long.\n",
+				"date_published": "2024-08-18T23:09:58+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/08/18/that-th-pic.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/08/18/222309.html",
+				
+				"content_html": "<p>DailyDogo 1000 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1000 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/c88b3771131b49798d6e84ba3f95be0c.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-08-18T22:23:09+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/08/18/222309.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/08/18/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 999 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 999 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/9892b00e5cba45eebf4b47704bf366cc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2024-08-18T11:38:31+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/08/18/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/08/16/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 998 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 998 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/1c965499969f43e493a3019538e46dc5.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-08-16T21:03:53+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/08/16/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/08/15/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 997 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 997 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/ea0bb315d6bc40b28af7e9637e9452ca.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-08-15T21:28:54+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/08/15/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/08/14/220311.html",
+				
+				"content_html": "<p>DailyDogo 996 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 996 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/80240acd906648728efe6e5f8bc57315.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-08-14T22:03:11+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/08/14/220311.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2024/08/14/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 995 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 995 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/9ef0f083b5e948e4996dd7b985323742.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 995 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/9ef0f083b5e948e4996dd7b985323742.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-08-14T22:02:49+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/08/14/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +82,7 @@
 				"id": "http://matti.micro.blog/2024/08/12/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 994 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 994 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/253e753666604eed8015aa68f6f3c124.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 994 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/253e753666604eed8015aa68f6f3c124.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-08-12T22:53:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/08/12/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +91,7 @@
 				"id": "http://matti.micro.blog/2024/08/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 993 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 993 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/f3d931fbed8c49d0afb881f0f8385574.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 993 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/f3d931fbed8c49d0afb881f0f8385574.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-08-11T21:16:09+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/08/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -45,7 +108,7 @@
 				"id": "http://matti.micro.blog/2024/08/10/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 992 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 992 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/55e41675a7a94b4f916e8d686703c858.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 992 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/55e41675a7a94b4f916e8d686703c858.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-08-10T23:14:39+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/08/10/dailydogo.html",
 				"tags": ["DailyDogo"]
