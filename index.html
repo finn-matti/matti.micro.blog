@@ -25,6 +25,93 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://blog.martin-haehnel.de/2024/09/10/dailydogo.html" class="u-url"><time class="dt-published" datetime="2024-09-10 23:05:35 &#43;0300">Sep 10, 2024</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 1022 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/09/09/dailydogo.html" class="u-url"><time class="dt-published" datetime="2024-09-09 20:31:53 &#43;0300">Sep 9, 2024</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 1021 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://blog.martin-haehnel.de/2024/09/09/a-limitation-of.html">A Limitation Of Laravel&#39;s Seeders - And Why It is There</a></h1>
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/09/09/a-limitation-of.html" class="u-url"><time class="dt-published" datetime="2024-09-09 18:23:23 &#43;0300">Sep 9, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Laravel has pretty cool tools to work with databases and fill them with seeded data. This is useful in many contexts, but mostly if you want to test things.</p>
+<p><a href="https://laravel.com/docs/11.x/seeding">Seeders</a> are cool, because they can make use of model <a href="https://laravel.com/docs/11.x/eloquent-factories">factories</a> - or factories for short - to create some test data the conforms to what we consider valid data.</p>
+<p>However, the combination of seeders and model factories has a limitation and that is, that seeders are not meant to know of each others' results. So if you have three tables - users, blogs, posts for example -  that have some kind of relationship to each other <em>and</em> would like to have individual seeders for those tables, then you can&rsquo;t use factories in those seeders without some extra work currently.</p>
+<p>Note that factories do not have this limitation. You can use <code>recycle</code> on a model factory and use the resulting model in a subsequent factory call. This even works with indirect relationships, like a post that belongs to a blog and a blog also belonging to a user (and therefore the post belonging to a user). This short youtube video explains what I&rsquo;m talking about:</p>
+<!-- raw HTML omitted -->
+<p>So that&rsquo;s pretty cool and all but if you want dedicated seeders for different parts of your database you&rsquo;re still out of luck. Why would you want different seeders? Because you may want to separate the generation of seed data by entity. Sure, you could create a user which in turn also creates a blog with a handful of posts in it, but maybe you&rsquo;d rather create a user, a blog and some posts and bind them to each other afterwards.</p>
+<p>Separating the seeding procedure in this way will help you later, too, you might think, because if I ask you where posts are seeded, the answer could be &ldquo;in the PostSeeder, duh&rdquo;, if we could use that convention.</p>
+<p>We would need to make it possible to receive the results of a seeder, but there is a problem: A seeder is supposed to create more than one row - or at least it should be possible work that way. So in other words: If we want to create a handful of posts per blog and we create one or two of those per user and we also create three test users (let&rsquo;s say), how are we supposed to relate all of these disparate entities to each other even if we could take the results from one seeder with us to the next? How do we disambiguate the instances of the created entities? Which one of our 2 blogs should be connected to the 10 posts? Should it be five and five? Two and eight? How do we communicate that?</p>
+<p>We would need to explicitly set specific entities created by the factory in the other seeder on the factory in the current, but it will become confusing rather quickly, because factories might also have states - like a user who is deactivated and so forth. And as I said, if we create more than one, how do we pick an entity?</p>
+<p>Since it&rsquo;s not easily possible to tell the next seeder what the previous seeder has created, having lots of seeders - e.g. one for each table - doesn&rsquo;t make sense. We have to take the route, where we handle creating related but different entities in the same seeder.</p>
+<p>Another practical problem comes from the fact that a database seeder doesn&rsquo;t return its creates models, only the seeder classes it itself called. In order to still go the route of keep entities in their own seeders, we would need to enhance the basic database seeder classes Laravel provides. So from that perspective it seems that the framework itself doesn&rsquo;t intend you to separate the creation of different entities using factories out into different seeders.</p>
+<p>P.S.: It is kind of weird then, that when you create a model that you are also given the option to create a database seeder:</p>
+<!-- raw HTML omitted -->
+<p>This seems to suggest that maybe there is an intent to create seeders for every model (or entity), but as I tried to show, this is not practical and the seeder classes themselves do not really follow that logic and do not afford you the functionality to communicate between different seeders out of the box.</p>
+<p>P.P.S.: What you can do is communicate through the database, I guess. Meaning that if you create entities in one seeder - using a factory (or not) - you can of course read those rows from the database and relate different entities to each other by retrieving them from the database. But you&rsquo;ll lose the elegance of expressing these relationships through the ORM and the recycle method.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/09/08/dailydogo.html" class="u-url"><time class="dt-published" datetime="2024-09-08 23:11:34 &#43;0300">Sep 8, 2024</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 1020 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/09/07/dailydogo.html" class="u-url"><time class="dt-published" datetime="2024-09-07 23:44:14 &#43;0300">Sep 7, 2024</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 1019 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.martin-haehnel.de/2024/09/06/dailydogo.html" class="u-url"><time class="dt-published" datetime="2024-09-06 23:30:13 &#43;0300">Sep 6, 2024</time></a>
+
+		<div class="e-content">
+			 <p>DailyDogo 1018 🐶</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://blog.martin-haehnel.de/2024/09/05/dailydogo.html" class="u-url"><time class="dt-published" datetime="2024-09-05 22:42:48 &#43;0300">Sep 5, 2024</time></a>
 
 		<div class="e-content">
@@ -16511,7 +16598,7 @@ $str <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Hello
 		<a href="https://blog.martin-haehnel.de/2022/03/22/days-of-meditation.html" class="u-url"><time class="dt-published" datetime="2022-03-22 12:37:50 &#43;0300">Mar 22, 2022</time></a>
 
 		<div class="e-content">
-			 <p><img src="https://cdn.uploads.micro.blog/44388/2022/120b860a05.png" alt=""></p>
+			 <p><img src="https://blog.martin-haehnel.de/uploads/2022/120b860a05.png" alt=""></p>
 <p>Not my longest meditation streak (I did 365 days in 2017), but nonetheless I&rsquo;m very happy with the result. Got back into meditation, as I tend to do after some months, in the last quarter of the year - when things got hard and being more aware of things, people, mind and self was needed. Becoming an early riser has really solidified my practice, too.</p>
 <p>Not every day is an amazing day of tranquil calm. The dog barks, I get interrupted, I nod off, I can&rsquo;t sit still. Does meditation even change anything? Do things get better through it? And at the same time it satisfies a part of my self that longs for exploring spiritual ideas. I am not religious. But I sometimes think I would like to be, in a sense.</p>
 <p>The biggest fascination in that regard is the feeling of absence of anything greater. That might sound sad. And indeed I cried about it once or twice in the past when I could feel this absence while having a particularly intense meditation session. But those tears were tears of insight. And that great absence I felt was freeing and in a way maybe that spiritual connection I was longing for. This must sound crazy. But the absence just made it more obvious, clear, that we - the beings and things in contrast to that absence - are indeed all there is.</p>
@@ -17105,7 +17192,7 @@ Now making results file results.txt
 Now making symbolic links. creating 
 Making 1406 links.
 </code></pre><p>This can be run on regular intervals (once an hour or so) to deduplicate your backups. I use <a href="https://www.keyboardmaestro.com">Keyboard Maestro</a> for this:</p>
-<p><img src="https://cdn.uploads.micro.blog/44388/2022/a3023456cb.png" alt=""></p>
+<p><img src="https://blog.martin-haehnel.de/uploads/2022/a3023456cb.png" alt=""></p>
 
 		</div>
 	  </div>
@@ -17577,7 +17664,7 @@ Making 1406 links.
 
 		<div class="e-content">
 			 <p>Currently my highlighting and annotation setup looks like this:</p>
-<p><img src="https://cdn.uploads.micro.blog/44388/2022/906ec19bd9.png" alt=""></p>
+<p><img src="https://blog.martin-haehnel.de/uploads/2022/906ec19bd9.png" alt=""></p>
 <ul>
 <li>Ebooks: Kindle - Even though Amazon as a company is not without its problems, their ebook reader just works and highlighting and annotating for ebooks works with Readwise flawlessly and without friction.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></li>
 <li>RSS and misc. articles: <a href="Reeder">Reeder</a> and <a href="https://www.instapaper.com/premium">Instapaper Premium</a> - I recently tried out <a href="https://feedbin.com">Feedbin</a> and <a href="https://www.inoreader.com">Inoreader</a>, but the most versatile &ldquo;read an article on the web and annotate it&rdquo; setup is this: Send articles from your feed reader (and anywhere else) to Instapaper and annotate them there.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></li>
@@ -18471,9 +18558,9 @@ Making 1406 links.
 		<a href="https://blog.martin-haehnel.de/2022/01/19/080216.html" class="u-url"><time class="dt-published" datetime="2022-01-19 09:02:29 &#43;0300">Jan 19, 2022</time></a>
 
 		<div class="e-content">
-			 <p><img src="https://cdn.uploads.micro.blog/44388/2022/3dfd0e9fcd.png" alt=""></p>
+			 <p><img src="https://blog.martin-haehnel.de/uploads/2022/3dfd0e9fcd.png" alt=""></p>
 <p><a href="https://daytum.com">Daytum</a> is a simple web app to track all the little things in your life. Think of it as an app that lets you create counters that can be named, categorized and - if you are a plus member - specified by using attributes. Finally they can be displayed in a variety of ways. An example: I track my dog&rsquo;s pees and poops in Daytum. The items are called pees and poops respectively. The category for both of them is dog in this case. And each have an entry attribute - to be filled - every time you add an entry, called: where, which has two options (inside and outside). Here is a couple of example displays for the last day:</p>
-<p><img src="https://cdn.uploads.micro.blog/44388/2022/cc40f5b35e.png" alt=""></p>
+<p><img src="https://blog.martin-haehnel.de/uploads/2022/cc40f5b35e.png" alt=""></p>
 <p>The plus membership is dirt cheap: Only USD18 a year. The best thing is that Daytum also has a full-featured iPhone app, which makes entering new data super easy.</p>
 
 		</div>
@@ -18513,7 +18600,7 @@ Making 1406 links.
 		<a href="https://blog.martin-haehnel.de/2022/01/18/good-apps-albums.html" class="u-url"><time class="dt-published" datetime="2022-01-18 08:53:53 &#43;0300">Jan 18, 2022</time></a>
 
 		<div class="e-content">
-			 <p><img src="https://cdn.uploads.micro.blog/44388/2022/bf0d28741b.jpg" alt=""></p>
+			 <p><img src="https://blog.martin-haehnel.de/uploads/2022/bf0d28741b.jpg" alt=""></p>
 <p><a href="https://www.albumstheapp.com">Albums</a> is a music app for iOS that will use your Apple Music library and is focused on playing full albums. Why is this great? Apart from being a joy to use, listening to full albums instead of just a song from this album and then that album, contextualizes the experience of the song. A bigger &ldquo;unit of music&rdquo; means less choices to make (either for me or an AI): And having to make less choices is a good thing for me.</p>
 <p>Albums has many interesting features like an upcoming release feed and tools to rediscover albums you haven&rsquo;t listened to in a while. The app either requires a subscription or a one-time unlock which cost here around 25€. Instabuy for me.</p>
 
@@ -18852,7 +18939,7 @@ Making 1406 links.
 
 		<div class="e-content">
 			 <p>If you are one of <a href="https://www.manton.org/2022/01/07/moving-to-new.html">the brave people</a> that uses Hugo Version 0.91 and wants to take advantage of Hugo&rsquo;s <a href="https://gohugo.io/content-management/syntax-highlighting/">native syntax highlighting</a> capabilities on a light theme (like the default theme in this example), you might be surprised:</p>
-<p><img src="https://cdn.uploads.micro.blog/44388/2022/f32609ded9.png" alt=""></p>
+<p><img src="https://blog.martin-haehnel.de/uploads/2022/f32609ded9.png" alt=""></p>
 <p>As you can see… you can&rsquo;t really see much.</p>
 <p>Thankfully this can be changed, by changing the configuration for syntax highlighting. But in order to do that you have to know the following:</p>
 <!-- raw HTML omitted -->
@@ -20306,7 +20393,7 @@ Making 1406 links.
 			 <p>I have a bad case of puppy fever. It&rsquo;s true. For years it has been this way. After moving to Finland in September 2019 and starting this brand new remote job, I thought now&rsquo;s the time. But: No happy news, yet.</p>
 <p>I have to tell myself that it takes time, that you need patience and that you have to try every opportunity that presents itself. It doesn&rsquo;t help that my Finnish is not yet strong enough to write an application email, or even make a call to a breeder with a new litter. My girlfriend tries to help and pitches in from time to time, but it&rsquo;s a stressful and anxiety inducing thing, like writing a job application. That&rsquo;s why I took over, writing emails in English.</p>
 <p>One thing that limits our chances of getting a dog is that the breed of dog we can both agree on is a Corgi. My partner had them as a child growing up (familiarity is important to her) and I read that their intelligence, activity level and size, the general healthiness of the breed and the degree of difficulty to train them - all are within acceptable parameters. But corgis (Pembrokes and to a lesser extent Cardigans) are trendy at the moment. As are smaller dogs in general. The Corona pandemic made this even more pronounced and I can&rsquo;t blame people. If people can&rsquo;t leave their homes for a long time it becomes more likely for them to focus on improving their immediate surroundings, their environment. I could see that this reevaluation might lead to wanting things to stay different: More people wanting pets is a probable result, I think.</p>
-<p><img src="https://cdn.uploads.micro.blog/44388/2021/c47b1f38f7.jpg" alt=""></p>
+<p><img src="https://blog.martin-haehnel.de/uploads/2021/c47b1f38f7.jpg" alt=""></p>
 <p>Having a pet is a nice thing, I imagine. I grew up with a Labrador Retriever called Lucy. Notice that I said &ldquo;grew up with&rdquo;, not &ldquo;had&rdquo;. Not because I want to underline that Lucy was a family member (she totally was), but because it was not <em>my</em> dog. It was my dad&rsquo;s dog. I can&rsquo;t fault him, but it always hurt me a little. The way he told stories about his dog. The way he took his dog with him after the divorce. I got it and I get it. But this observation made me think &ldquo;I wanna have a dog, too!&rdquo;</p>
 <p>Many years passed where having a dog would have been impractical, irresponsible or outright impossible. I buried the idea for almost a decade. If I referred to this wish of mine I said &ldquo;When I&rsquo;m 30 I&rsquo;m gonna get a dog&rdquo;. Getting closer to the end of my time at university, around 27, the wish resurfaced. Unclear where I was going to live and with what I was going to make my money, this little itch came back. I want a dog. And not just since yesterday. Now I&rsquo;m 35. I feel like it&rsquo;s time.</p>
 
