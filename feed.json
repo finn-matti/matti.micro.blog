@@ -7,10 +7,111 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2024/10/29/another-thing-related.html",
+				
+				"content_html": "<p>Another thing related to what I said about <a href=\"https://blog.martin-haehnel.de/2024/10/25/as-soon-as.html\">loosing interest as soon as something has taken VC money</a>: If the pricing is not immediately obvious I also loose all interest. I&rsquo;m rarely going to hunt for prices. If I do, I am more often than not disappointed. Case in point:</p>\n<p><a href=\"https://godspeedapp.com\">godspeedapp.com</a> I had to email them to learn about their one-time purchase option. And to nobody&rsquo;s surprise it was too expensive (I think it was like 200$ for two years of updates?).</p>\n",
+				"content_text": "Another thing related to what I said about [loosing interest as soon as something has taken VC money](https://blog.martin-haehnel.de/2024/10/25/as-soon-as.html): If the pricing is not immediately obvious I also loose all interest. I'm rarely going to hunt for prices. If I do, I am more often than not disappointed. Case in point:\n\n[godspeedapp.com](https://godspeedapp.com) I had to email them to learn about their one-time purchase option. And to nobody's surprise it was too expensive (I think it was like 200$ for two years of updates?).\n",
+				"date_published": "2024-10-29T11:37:34+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/10/29/another-thing-related.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2024/10/28/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1070 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1070 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/0b7968547b3b4834af5c42b733b9db6f.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-10-28T21:07:24+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/10/28/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/10/28/not-gonna-lie.html",
+				
+				"content_html": "<p>Not gonna lie: In comparison to #node and #php the package and version management of python is pretty janky.</p>\n<p>pipenv/pyenv makes it bearable, but it&rsquo;s still kind of a mess.</p>\n<p>P.S: PHP&rsquo;s version management is bad, too. <a href=\"https://github.com/phpbrew/phpbrew\">PHPBrew</a> is the best option. But since I use <a href=\"https://herd.laravel.com/\">Herd</a>/use a Container, it doesn&rsquo;t matter as much. <a href=\"https://getcomposer.org/\">Composer</a> is great though.</p>\n<p>P.P.S: You can get lost in the weeds with JS/TS package management, but just using npm or (my fav) <a href=\"https://pnpm.js.org/\">pnpm</a> and <a href=\"https://github.com/nvm-sh/nvm\">nvm</a> for version management is rock solid.</p>\n",
+				"content_text": "Not gonna lie: In comparison to #node and #php the package and version management of python is pretty janky.\n\npipenv/pyenv makes it bearable, but it's still kind of a mess.\n\nP.S: PHP's version management is bad, too. [PHPBrew](https://github.com/phpbrew/phpbrew) is the best option. But since I use [Herd](https://herd.laravel.com/)/use a Container, it doesn't matter as much. [Composer](https://getcomposer.org/) is great though.\n\nP.P.S: You can get lost in the weeds with JS/TS package management, but just using npm or (my fav) [pnpm](https://pnpm.js.org/) and [nvm](https://github.com/nvm-sh/nvm) for version management is rock solid.\n",
+				"date_published": "2024-10-28T12:18:07+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/10/28/not-gonna-lie.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2024/10/27/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1069 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1069 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/33126b5e502f46a791fc36e209941e60.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-10-27T22:45:21+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/10/27/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/10/26/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1068 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1068 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/d43e7099146540d6a7b2a8e542bbe136.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-10-26T21:39:32+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/10/26/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/10/25/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1067 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1067 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/3bdf570344c444d38b01822e5b30f794.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-10-25T21:50:56+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/10/25/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/10/25/didnt-play-factorio.html",
+				
+				"content_html": "<p>Didn&rsquo;t play #factorio in a while, it seems.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Didn't play #factorio in a while, it seems.\n\n<img src=\"https://cdn.uploads.micro.blog/44388/2024/cleanshot-2024-10-25-at-20.25.252x.png\" alt=\"CleanShot 2024-10-25 at 20.25.25@2x.\" width=\"568\" height=\"144\" />\n",
+				"date_published": "2024-10-25T20:26:02+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/10/25/didnt-play-factorio.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2024/10/25/one-thing-i.html",
+				
+				"content_html": "<p>One thing I have learned about BIG displays (I have a 42,5&quot; one from LG): I like it about 60% of the time, but I don&rsquo;t need it. Some of the time it is overwhelming and the upper 25% are not really used. I have display some widgets there, sometimes a window, but most often only the widgets.</p>\n",
+				"content_text": "One thing I have learned about BIG displays (I have a 42,5\" one from LG): I like it about 60% of the time, but I don't need it. Some of the time it is overwhelming and the upper 25% are not really used. I have display some widgets there, sometimes a window, but most often only the widgets.\n",
+				"date_published": "2024-10-25T13:50:11+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/10/25/one-thing-i.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2024/10/25/cant-wait-to.html",
+				
+				"content_html": "<p>Can&rsquo;t wait to play the new Factorio DLC as soon as my work day is over!</p>\n",
+				"content_text": "Can't wait to play the new Factorio DLC as soon as my work day is over!\n",
+				"date_published": "2024-10-25T13:26:29+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/10/25/cant-wait-to.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2024/10/25/as-soon-as.html",
+				
+				"content_html": "<p>As soon as I learn that something has taken VC money, I immediately loose all interest in whatever app/service it is. I might use it as long as it is free, but I would never build my digital life around such a product. Lessons learned.</p>\n",
+				"content_text": "As soon as I learn that something has taken VC money, I immediately loose all interest in whatever app/service it is. I might use it as long as it is free, but I would never build my digital life around such a product. Lessons learned.\n",
+				"date_published": "2024-10-25T12:38:29+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/10/25/as-soon-as.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2024/10/24/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1066 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1066 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/69279473a0a440ceb96f14c0d05becdf.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-10-24T21:44:25+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/10/24/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/10/23/a-streameryoutuber-i.html",
+				
+				"content_html": "<p>A streamer/Youtuber I watch for cozy vibes made a video about a very upsetting topic that leads almost directly to very upsetting further comments and posts by other people about the same topic. And I can&rsquo;t stop clicking around and hate-consuming that crap. It isn&rsquo;t even that they are wrong necessarily, but I really didn&rsquo;t want to be so upset at the end of the day&hellip; (This post is an attempt to make it stop)</p>\n",
+				"content_text": "A streamer/Youtuber I watch for cozy vibes made a video about a very upsetting topic that leads almost directly to very upsetting further comments and posts by other people about the same topic. And I can't stop clicking around and hate-consuming that crap. It isn't even that they are wrong necessarily, but I really didn't want to be so upset at the end of the day... (This post is an attempt to make it stop)\n",
+				"date_published": "2024-10-23T23:25:01+03:00",
+				"url": "https://blog.martin-haehnel.de/2024/10/23/a-streameryoutuber-i.html"
+			},
+			{
 				"id": "http://matti.micro.blog/2024/10/23/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1065 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1065 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/6a5294a099b64205bbf9926c3f33bc10.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1065 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/6a5294a099b64205bbf9926c3f33bc10.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-10-23T22:00:47+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/10/23/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +120,7 @@
 				"id": "http://matti.micro.blog/2024/10/22/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1064 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1064 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/9f38f7633ffc4f47b881851c5bd4d6f7.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1064 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/9f38f7633ffc4f47b881851c5bd4d6f7.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-10-22T20:10:35+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/10/22/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -36,7 +137,7 @@
 				"id": "http://matti.micro.blog/2024/10/21/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1063 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1063 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/9036f014df9b4aa585ba9eec54098e41.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1063 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/9036f014df9b4aa585ba9eec54098e41.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-10-21T23:00:55+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/10/21/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -61,7 +162,7 @@
 				"id": "http://matti.micro.blog/2024/10/20/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1062 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1062 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/f4c2324e3642482f871d93b8c1dd96eb.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1062 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/f4c2324e3642482f871d93b8c1dd96eb.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-10-20T20:16:05+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/10/20/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -70,7 +171,7 @@
 				"id": "http://matti.micro.blog/2024/10/19/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1061 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1061 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/1d2e89fbc4174a7daf613e6ae7dcf967.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1061 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/1d2e89fbc4174a7daf613e6ae7dcf967.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-10-19T20:03:01+03:00",
 				"url": "https://blog.martin-haehnel.de/2024/10/19/dailydogo.html",
 				"tags": ["DailyDogo"]
