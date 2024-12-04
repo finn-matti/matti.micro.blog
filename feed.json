@@ -7,10 +7,88 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2024/12/04/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1106 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1106 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/d001f0c4de1d4d4b9c8ad55700b61e02.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-12-04T22:48:14+02:00",
+				"url": "https://blog.martin-haehnel.de/2024/12/04/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/12/04/kc-davis-how.html",
+				"title": "KC Davis: How to do laundry when you're depressed",
+				"content_html": "<p>Mastodon (<a href=\"https://hachyderm.io/@skinnylatte/113592514717552602\">Adrianna Tan</a>) made me aware of this today:</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/M1O_MjMRkPg\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n\n<p>I cried watching this. mental health and compassion is so important. If you&rsquo;re not the one struggling today, maybe a loved one is. Transpose this, so you&rsquo;re compassionate towards others in this case.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<p><a href=\"https://www.strugglecare.com\">KC Davis also has a Website.</a></p>\n<p>P.S.: The usual disclaimer about Ted talks applies: They are meant to make you emotional and the ideas shared may be less unique, less mind blowing, etc. than they seem at first. But that doesn&rsquo;t make this simple reminder and its particular spin on care tasks less important (IMHO). But take this in with an awareness of its framing.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>If you can! I know that this can also be hard. Here&rsquo;s the thing: Caring for others is also a care task. So similar wisdom applies: Make it work for you by being kind to yourself, also.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "Mastodon ([Adrianna Tan](https://hachyderm.io/@skinnylatte/113592514717552602)) made me aware of this today:\n\n{{< youtube M1O_MjMRkPg >}}\n\nI cried watching this. mental health and compassion is so important. If you're not the one struggling today, maybe a loved one is. Transpose this, so you're compassionate towards others in this case.[^1]\n\n[^1]: If you can! I know that this can also be hard. Here's the thing: Caring for others is also a care task. So similar wisdom applies: Make it work for you by being kind to yourself, also.\n\n[KC Davis also has a Website.](https://www.strugglecare.com)\n\nP.S.: The usual disclaimer about Ted talks applies: They are meant to make you emotional and the ideas shared may be less unique, less mind blowing, etc. than they seem at first. But that doesn't make this simple reminder and its particular spin on care tasks less important (IMHO). But take this in with an awareness of its framing.\n",
+				"date_published": "2024-12-04T09:52:20+02:00",
+				"url": "https://blog.martin-haehnel.de/2024/12/04/kc-davis-how.html",
+				"tags": ["Mental Health"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/12/03/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1105 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1105 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/c7a942a92743499180fa4218bc6b38f0.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-12-03T23:13:22+02:00",
+				"url": "https://blog.martin-haehnel.de/2024/12/03/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/12/03/i-do-not.html",
+				
+				"content_html": "<p>I do not hate my live at all. It&rsquo;s a pretty good live. As with all lives there are ups and downs, of course, but all in all: pretty good. But. The amount of shit I have to do and don&rsquo;t want to is astounding.</p>\n",
+				"content_text": "I do not hate my live at all. It's a pretty good live. As with all lives there are ups and downs, of course, but all in all: pretty good. But. The amount of shit I have to do and don't want to is astounding.\n",
+				"date_published": "2024-12-03T12:01:04+02:00",
+				"url": "https://blog.martin-haehnel.de/2024/12/03/i-do-not.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2024/12/02/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1104 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1104 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/d80c03446dc146159b1c7796bbed2c6f.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-12-02T23:14:01+02:00",
+				"url": "https://blog.martin-haehnel.de/2024/12/02/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/12/02/well-that-was.html",
+				
+				"content_html": "<p>Well, that was fun. #papersinsystems</p>\n",
+				"content_text": "Well, that was fun. #papersinsystems \n",
+				"date_published": "2024-12-02T21:36:03+02:00",
+				"url": "https://blog.martin-haehnel.de/2024/12/02/well-that-was.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2024/12/02/last-week-was.html",
+				
+				"content_html": "<p>Last week was somehow very unproductive at work. I guess free time was somewhat more exhausting than usual. We had a guest over and cooking and cleanup took me much longer than usual. So I slept less, which in turn meant I couldn&rsquo;t concentrate, which meant I had to work longer, which meant cooking and clean-up took longer&hellip; rinse and repeat.</p>\n<p>Although I slept badly on the weekend, too, I seem to have more brains so far.</p>\n",
+				"content_text": "Last week was somehow very unproductive at work. I guess free time was somewhat more exhausting than usual. We had a guest over and cooking and cleanup took me much longer than usual. So I slept less, which in turn meant I couldn't concentrate, which meant I had to work longer, which meant cooking and clean-up took longer... rinse and repeat.\n\nAlthough I slept badly on the weekend, too, I seem to have more brains so far.\n",
+				"date_published": "2024-12-02T15:49:39+02:00",
+				"url": "https://blog.martin-haehnel.de/2024/12/02/last-week-was.html"
+			},
+			{
+				"id": "http://matti.micro.blog/2024/12/01/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1103 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1103 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/5f329a271c794339936f9fbded6717e1.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-12-01T20:46:49+02:00",
+				"url": "https://blog.martin-haehnel.de/2024/12/01/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2024/11/30/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1102 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1102 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/348284c4c93a49f5b9d9623de3383f70.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2024-11-30T22:31:23+02:00",
+				"url": "https://blog.martin-haehnel.de/2024/11/30/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2024/11/29/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1101 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1101 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/6fccd39506174699aae64b8668adfe76.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1101 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/6fccd39506174699aae64b8668adfe76.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-11-29T19:40:20+02:00",
 				"url": "https://blog.martin-haehnel.de/2024/11/29/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +97,7 @@
 				"id": "http://matti.micro.blog/2024/11/28/235421.html",
 				
 				"content_html": "<p>DailyDogo 1100 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1100 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/5e1f6a80265a45ca9a55ad31b2b4ec7b.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1100 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/5e1f6a80265a45ca9a55ad31b2b4ec7b.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-11-28T23:54:21+02:00",
 				"url": "https://blog.martin-haehnel.de/2024/11/28/235421.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +106,7 @@
 				"id": "http://matti.micro.blog/2024/11/28/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1099 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1099 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/6084c055f2254b14a4cf18acdf7a7da2.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1099 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/6084c055f2254b14a4cf18acdf7a7da2.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-11-28T23:54:00+02:00",
 				"url": "https://blog.martin-haehnel.de/2024/11/28/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -37,7 +115,7 @@
 				"id": "http://matti.micro.blog/2024/11/26/205911.html",
 				
 				"content_html": "<p>DailyDogo 1098 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1098 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/76ba6581c8634e6a9aaddeb413af452d.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1098 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/76ba6581c8634e6a9aaddeb413af452d.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-11-26T20:59:11+02:00",
 				"url": "https://blog.martin-haehnel.de/2024/11/26/205911.html",
 				"tags": ["DailyDogo"]
@@ -46,7 +124,7 @@
 				"id": "http://matti.micro.blog/2024/11/26/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1097 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1097 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2024/e538f3fcf3a045479fa0f7a410d2cc79.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1097 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2024/e538f3fcf3a045479fa0f7a410d2cc79.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2024-11-26T10:25:13+02:00",
 				"url": "https://blog.martin-haehnel.de/2024/11/26/dailydogo.html",
 				"tags": ["DailyDogo"]
