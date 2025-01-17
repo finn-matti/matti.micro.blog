@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://matti.micro.blog/2025/01/16/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1148 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1148 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2025/501bb88942eb423a89002720f61cf62d.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2025-01-16T21:44:02+02:00",
+				"url": "https://blog.martin-haehnel.de/2025/01/16/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2025/01/15/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1147 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1147 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2025/5c6b0c39f6444ce08ac6e58a1c429002.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2025-01-15T20:24:33+02:00",
+				"url": "https://blog.martin-haehnel.de/2025/01/15/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2025/01/14/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1146 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1146 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2025/d921afc5bdac4a6db1e949130bf88005.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2025-01-14T22:11:24+02:00",
+				"url": "https://blog.martin-haehnel.de/2025/01/14/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2025/01/13/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1145 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1145 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2025/f8930f34cd584db1b8d62cfbb9816598.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2025-01-13T22:18:18+02:00",
+				"url": "https://blog.martin-haehnel.de/2025/01/13/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
+				"id": "http://matti.micro.blog/2025/01/12/dailydogo.html",
+				
+				"content_html": "<p>DailyDogo 1144 🐶</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "DailyDogo 1144 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2025/31ff342bbe8b4e7891eb5319ec532831.jpg\" width=\"600\" alt=\"\" />\n",
+				"date_published": "2025-01-12T21:01:32+02:00",
+				"url": "https://blog.martin-haehnel.de/2025/01/12/dailydogo.html",
+				"tags": ["DailyDogo"]
+			},
+			{
 				"id": "http://matti.micro.blog/2025/01/11/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1143 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1143 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2025/53ddb97bbd2344edb1f5cf9a785c6d48.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1143 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2025/53ddb97bbd2344edb1f5cf9a785c6d48.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2025-01-11T23:21:56+02:00",
 				"url": "https://blog.martin-haehnel.de/2025/01/11/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -19,7 +64,7 @@
 				"id": "http://matti.micro.blog/2025/01/10/220011.html",
 				
 				"content_html": "<p>DailyDogo 1142 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1142 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2025/ccde15a558c849099b828449394967e4.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1142 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2025/ccde15a558c849099b828449394967e4.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2025-01-10T22:00:11+02:00",
 				"url": "https://blog.martin-haehnel.de/2025/01/10/220011.html",
 				"tags": ["DailyDogo"]
@@ -28,7 +73,7 @@
 				"id": "http://matti.micro.blog/2025/01/10/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1141 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1141 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2025/9c56816cae2f4fb98a3cf73ae53fe21f.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1141 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2025/9c56816cae2f4fb98a3cf73ae53fe21f.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2025-01-10T08:14:08+02:00",
 				"url": "https://blog.martin-haehnel.de/2025/01/10/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -37,7 +82,7 @@
 				"id": "http://matti.micro.blog/2025/01/08/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1140 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1140 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2025/a586131c07c84b63bbfce286cc0a4450.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1140 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2025/a586131c07c84b63bbfce286cc0a4450.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2025-01-08T21:31:53+02:00",
 				"url": "https://blog.martin-haehnel.de/2025/01/08/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -46,7 +91,7 @@
 				"id": "http://matti.micro.blog/2025/01/07/dailydogo.html",
 				
 				"content_html": "<p>DailyDogo 1139 🐶</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "DailyDogo 1139 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://blog.martin-haehnel.de/uploads/2025/e12ec7b1f15543a6ac418c509ebb174a.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "DailyDogo 1139 🐶\n\n<img src=\"https://micro.blog/photos/600x/https://cdn.uploads.micro.blog/44388/2025/e12ec7b1f15543a6ac418c509ebb174a.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2025-01-07T22:01:30+02:00",
 				"url": "https://blog.martin-haehnel.de/2025/01/07/dailydogo.html",
 				"tags": ["DailyDogo"]
@@ -3660,8 +3705,8 @@
 			{
 				"id": "http://matti.micro.blog/2024/04/07/digital-garden.html",
 				"title": "Digital Garden",
-				"content_html": "<h2 id=\"changelog\">Changelog</h2>\n<ul>\n<li>2024-04-07 - introduced changelog, added Maggie Appleton&rsquo;s garden as inspiration, introduced historical notes</li>\n<li>2024-05-20 - Added paragraph about my grandparent&rsquo;s garden</li>\n<li>2024-11-02 - removed mention of the <a href=\"https://micropublish.blog\">Micro.publish-Plugin</a> since I don&rsquo;t use it anymore</li>\n</ul>\n<h2 id=\"note\">Note</h2>\n<p>These notes are different from other blog posts in the sense that they aren&rsquo;t staying the same over time, but reflect my current thinking. All of the notes that fall under the umbrella of the digital garden will be part of the DigitalGarden <a href=\"https://blog.martin-haehnel.de/categories/digitalgarden/\">category</a> and <a href=\"https://blog.martin-haehnel.de/garden/\">page</a>.</p>\n<p>My Grandparents have beautiful garden that in my mind is as beautiful as it gets: A small refuge outside out the city of Berlin where they spend many weekends and whole summers when they retired. So much love went into this place. And at the same time it&rsquo;s a relaxing oasis. A comforting place a place that connects coziness with nature.</p>\n<p>How does this connect to the notion of a digitial garden?</p>\n<h3 id=\"historical-notes\">Historical notes</h3>\n<ul>\n<li><a href=\"https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/\">According to this</a> Mark Bernstein - which I know of from <a href=\"http://www.eastgate.com/Tinderbox/\">Tinderbox</a>, a Mac app, for a creating networked notes, long before Obsidian et. al. - <a href=\"http://www.eastgate.com/garden/Enter.html\">came up with the term in 1998</a>.</li>\n</ul>\n<p>My main point of inspiration is <a href=\"https://maggieappleton.com/garden\">Maggie Appleton&rsquo;s Digital Garden.</a></p>\n",
-				"content_text": "\n\n## Changelog\n\n - 2024-04-07 - introduced changelog, added Maggie Appleton's garden as inspiration, introduced historical notes\n - 2024-05-20 - Added paragraph about my grandparent's garden\n - 2024-11-02 - removed mention of the [Micro.publish-Plugin](https://micropublish.blog) since I don't use it anymore\n\n## Note\n\nThese notes are different from other blog posts in the sense that they aren't staying the same over time, but reflect my current thinking. All of the notes that fall under the umbrella of the digital garden will be part of the DigitalGarden [category](https://blog.martin-haehnel.de/categories/digitalgarden/) and [page](https://blog.martin-haehnel.de/garden/).\n\nMy Grandparents have beautiful garden that in my mind is as beautiful as it gets: A small refuge outside out the city of Berlin where they spend many weekends and whole summers when they retired. So much love went into this place. And at the same time it's a relaxing oasis. A comforting place a place that connects coziness with nature.\n\nHow does this connect to the notion of a digitial garden?\n\n### Historical notes\n\n- [According to this](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) Mark Bernstein - which I know of from [Tinderbox](http://www.eastgate.com/Tinderbox/), a Mac app, for a creating networked notes, long before Obsidian et. al. - [came up with the term in 1998](http://www.eastgate.com/garden/Enter.html).\n\nMy main point of inspiration is [Maggie Appleton's Digital Garden.](https://maggieappleton.com/garden)\n",
+				"content_html": "<h2 id=\"changelog\">Changelog</h2>\n<ul>\n<li>2024-04-07 - introduced changelog, added Maggie Appleton&rsquo;s garden as inspiration, introduced historical notes</li>\n<li>2024-05-20 - Added paragraph about my grandparent&rsquo;s garden</li>\n<li>2024-11-02 - removed mention of the <a href=\"https://micropublish.blog\">Micro.publish-Plugin</a> since I don&rsquo;t use it anymore</li>\n<li>2025-01-17 - fixed a typo and added a paragraph about blogs and digital gardens and apps and digital gardens</li>\n</ul>\n<h2 id=\"note\">Note</h2>\n<p>These notes are different from other blog posts in the sense that they aren&rsquo;t staying the same over time, but reflect my current thinking. All of the notes that fall under the umbrella of the digital garden will be part of the DigitalGarden <a href=\"https://blog.martin-haehnel.de/categories/digitalgarden/\">category</a> and <a href=\"https://blog.martin-haehnel.de/garden/\">page</a>.</p>\n<p>My Grandparents have beautiful garden that in my mind is as beautiful as it gets: A small refuge outside out the city of Berlin where they spend many weekends and whole summers when they retired. So much love went into this place. And at the same time it&rsquo;s a relaxing oasis. A comforting place a place that connects coziness with nature.</p>\n<p>How does this connect to the notion of a digital garden?</p>\n<h3 id=\"apps-and-digital-gardens\">Apps And Digital Gardens</h3>\n<p>A digital garden is similar to an app in that it is limited - not necessarily to a use case, but to a point view. It is also similar in the sense that its parts get hopefully better with every released version. Parts may be rewritten, others may be removed. So creating a digital garden is a little like creating a piece of software. Which is why a changelog makes sense.</p>\n<h3 id=\"blog-and-digital-gardens\">Blog And Digital Gardens</h3>\n<blockquote>\n<h4 id=\"the-problem-with-blogs\">The problem with blogs</h4>\n<p>A blog structure places the highest emphasis on ‘what’s new’… but what’s new has had the least scrutiny and little authority. It also creates a pressure to publish something—anything—whether you have anything worth saying or not. It prioritises novelty over quality.</p>\n<p>Every new post on a blog implicitly devalues other content on the blog, the same way today’s newspaper makes yesterday’s irrelevant. This is what’s new. That stuff is old.</p>\n<h4 id=\"the-benefits-of-gardens\">The benefits of gardens</h4>\n<p>With digital gardens, every new piece of content in the network has the potential to add depth and context to every other part. The whole becomes greater than the sum of its parts.</p>\n<p>By placing emphasis on ‘what’s updated’, digital gardens value more battle-hardened content that’s earned it’s authority through innumerable updates and iterations.\n— <a href=\"https://armstrong.is/miscellaneous/digital-gardening\">Digital Gardening</a></p>\n</blockquote>\n<p>As with &ldquo;blikis&rdquo; before(?), digital gardens and blogs are not necessarily opposites. I think having chronologically ordered posts AND evergreen and ever evolving notes at the same time can make sense. It is a very attractive way of publishing online, I think. Why not just have both? You could even have two feeds: One for the recently published posts and another for recently updated notes.</p>\n<h3 id=\"historical-notes\">Historical notes</h3>\n<ul>\n<li><a href=\"https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/\">According to this</a> Mark Bernstein - which I know of from <a href=\"http://www.eastgate.com/Tinderbox/\">Tinderbox</a>, a Mac app, for a creating networked notes, long before Obsidian et. al. - <a href=\"http://www.eastgate.com/garden/Enter.html\">came up with the term in 1998</a>.</li>\n</ul>\n<p>My main point of inspiration is <a href=\"https://maggieappleton.com/garden\">Maggie Appleton&rsquo;s Digital Garden.</a></p>\n",
+				"content_text": "## Changelog\n\n - 2024-04-07 - introduced changelog, added Maggie Appleton's garden as inspiration, introduced historical notes\n - 2024-05-20 - Added paragraph about my grandparent's garden\n - 2024-11-02 - removed mention of the [Micro.publish-Plugin](https://micropublish.blog) since I don't use it anymore\n-  2025-01-17 - fixed a typo and added a paragraph about blogs and digital gardens and apps and digital gardens\n\n## Note\n\nThese notes are different from other blog posts in the sense that they aren't staying the same over time, but reflect my current thinking. All of the notes that fall under the umbrella of the digital garden will be part of the DigitalGarden [category](https://blog.martin-haehnel.de/categories/digitalgarden/) and [page](https://blog.martin-haehnel.de/garden/).\n\nMy Grandparents have beautiful garden that in my mind is as beautiful as it gets: A small refuge outside out the city of Berlin where they spend many weekends and whole summers when they retired. So much love went into this place. And at the same time it's a relaxing oasis. A comforting place a place that connects coziness with nature.\n\nHow does this connect to the notion of a digital garden?\n\n### Apps And Digital Gardens\n\nA digital garden is similar to an app in that it is limited - not necessarily to a use case, but to a point view. It is also similar in the sense that its parts get hopefully better with every released version. Parts may be rewritten, others may be removed. So creating a digital garden is a little like creating a piece of software. Which is why a changelog makes sense.\n\n### Blog And Digital Gardens\n\n>#### The problem with blogs\n>A blog structure places the highest emphasis on ‘what’s new’… but what’s new has had the least scrutiny and little authority. It also creates a pressure to publish something—anything—whether you have anything worth saying or not. It prioritises novelty over quality.\n>\n>Every new post on a blog implicitly devalues other content on the blog, the same way today’s newspaper makes yesterday’s irrelevant. This is what’s new. That stuff is old.\n>\n>#### The benefits of gardens\n>With digital gardens, every new piece of content in the network has the potential to add depth and context to every other part. The whole becomes greater than the sum of its parts.\n>\n>By placing emphasis on ‘what’s updated’, digital gardens value more battle-hardened content that’s earned it’s authority through innumerable updates and iterations.\n— [Digital Gardening](https://armstrong.is/miscellaneous/digital-gardening)\n\nAs with \"blikis\" before(?), digital gardens and blogs are not necessarily opposites. I think having chronologically ordered posts AND evergreen and ever evolving notes at the same time can make sense. It is a very attractive way of publishing online, I think. Why not just have both? You could even have two feeds: One for the recently published posts and another for recently updated notes.\n\n### Historical notes\n\n- [According to this](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) Mark Bernstein - which I know of from [Tinderbox](http://www.eastgate.com/Tinderbox/), a Mac app, for a creating networked notes, long before Obsidian et. al. - [came up with the term in 1998](http://www.eastgate.com/garden/Enter.html).\n\nMy main point of inspiration is [Maggie Appleton's Digital Garden.](https://maggieappleton.com/garden)\n",
 				"date_published": "2024-04-07T11:07:55+02:00",
 				"url": "https://blog.martin-haehnel.de/2024/04/07/digital-garden.html",
 				"tags": ["DigitalGarden"]
